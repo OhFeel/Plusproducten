@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unfished Gerookte zalm 100g",
+  "brand": "Unfished",
+  "price": "4.25",
+  "base_unit_price": "42.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/930104_M/9aff6a48b015213cb525616be7c6e3a0/930104.png",
+  "ingredients": "ingrediënten:, water, 5,5% gemodificeerd maïszetmeel, trehalose*, rijstmeel, verdikkingsmiddelen (carrageen, konjacgom, johannesbroodpitmeel), 1% rijsteiwit, zout, smaken, bevat gistextract, kleurstof: rode paprika-extract, voedingskleurstoffen (rode pepersapconcentraat, bietensapconcentraat, fenegriek extract), lijnzaadolie, citrusvezels, zuurteregelaar (kaliumchloride), brandewijnazijn, beukenhout gerookt, *trehalose is een bron van glucose.\nkan sporen van gluten, soja, selderij, mosterd en noten bevatten.",
+  "allergens": "Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "227.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "55.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:10:20"
+}

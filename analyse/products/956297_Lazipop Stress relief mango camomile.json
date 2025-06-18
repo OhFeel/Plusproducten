@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lazipop Stress relief mango camomile",
+  "brand": "Lazipop",
+  "price": "1.69",
+  "base_unit_price": "6.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/956297_M/534d2b331cedc6aded6cdce156a62d89/956297.png",
+  "ingredients": "licht bruisend water, agavesiroop, natuurlijke kamillesmaak (0,45%), lazipop-mix (cichoreiwortelinuline, magnesiumbisglycinaat, groene thee-extract (40% l-theanine), vitamine b1/2/5/6/7/12), natuurlijke mangosmaak (0,13%), appelzuur, citroenzuur.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "37.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "8.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:21:19"
+}

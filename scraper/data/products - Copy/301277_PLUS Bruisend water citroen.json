@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Bruisend water citroen",
+  "brand": "PLUS",
+  "price": "0.59",
+  "base_unit_price": "1.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/301277_M/0ac21f8f91f0b48d736388bf6497010e/301277.png",
+  "ingredients": "Ingrediënten :koolzuurhoudend natuurlijk mineraalwater, natuurlijk citroenaroma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "0.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "0.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:05:40"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "BIO+ Houdbare volle melk 3x200ml",
+  "brand": "BIO+",
+  "price": "1.45",
+  "base_unit_price": "2.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/535446_M/d7b1d2a8109e4f38a0ae2351427b16a0/535446.png",
+  "ingredients": "Ingrediënten :volle MELK*.\n*van biologische oorsprong.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "269.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "64.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:30:58"
+}

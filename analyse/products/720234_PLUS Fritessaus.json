@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Fritessaus",
+  "brand": "PLUS",
+  "price": "1.85",
+  "base_unit_price": "1.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/720234_M/2a24d27814d49f230d399cda62954c28/720234.png",
+  "ingredients": "Ingrediënten :water, 25% raapolie, suiker, natuurazijn, maïszetmeel, MOSTERD (water, MOSTERDZAAD, natuurazijn, kurkuma), VRIJE-UITLOOPKIPPENEI*, VRIJE-UITLOOPKIPPENEI-EIGEEL*, zout, gemodificeerd maïszetmeel, verdikkingsmiddel: E412, voedingszuur: E270, aroma, conserveermiddel: E202, antioxidant: E385, kleurstof: carotenen.\n\n*= Beter Leven keurmerk 2 sterren",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1217.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "294.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "16.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.635",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.654",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:30:04"
+}

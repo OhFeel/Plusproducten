@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "PLUS Vieux pane 50+",
+  "brand": "PLUS",
+  "price": "5.8",
+  "base_unit_price": "28.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/693452_M/1c9b511839e3df2edf72420ea1be5f5c/693452.png",
+  "ingredients": "Ingrediënten :Gepasteuriseerde MELK, MELKFERMENTEN, zout, vegetarisch stremsel.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1282.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "309.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:54"
+}

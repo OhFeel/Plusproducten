@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Qizini Sub kip Shoarma",
+  "brand": "Qizini",
+  "price": "3.49",
+  "base_unit_price": "20.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/460511_M/c1c9657b77bce72fde74d4825e86e7d1/460511.png",
+  "ingredients": "INGREDIËNTEN: 57% witte tarwe baguette (TARWEBLOEM, water, zonnebloemolie, WEIPOEDER, gist, ROGGEZUURDEEG, TARWEMOUTBLOEM, gejodeerd zout [zout, kaliumjodide], suiker, raapzaadolie, antioxidant: ascorbinezuur), 29% gegaard en in kebab stijl gekruid kippendijvlees (89% kippendijvlees, water, maiszetmeel, brandewijnazijn, specerijen, dextrose, zout, witte wijnazijn, antioxidant: ascorbinezuur), 11% sla dressing (raapzaadolie, water, EIGEEL, suiker, maiszetmeel, brandewijnazijn, mosterd [water, MOSTERDZAAD, brandewijnazijn, zout, suiker, specerijen], zout, verdikkingsmiddel: guarpitmeel, specerijen), 3% tomaat kruidenspread (water, raapzaadolie, 14,7% tomatenpuree, suiker, brandewijnazijn, EIGEEL, specerijen, maiszetmeel, zout, gemodificeerd maiszetmeel, 1,3% basilicum, 0,9% oregano, verdikkingsmiddel: xanthaangom), natuurazijn, knoflookpoeder, zout, conserveermiddel: kaliumsorbaat, conserveermiddel: natriumbenzoaat.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Ei, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1097.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "261.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:02:51"
+}

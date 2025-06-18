@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Brain Blasterz Ice Blasterz tub",
+  "brand": "Brain Blasterz",
+  "price": "1.99",
+  "base_unit_price": "41.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/585728_M/ad5e24f2e2e4e9d70f1000e6a4a4ea49/585728.png",
+  "ingredients": "suiker, glucosestroop, zuurteregelaar (e330), menthol, aroma's, stabilisator (e414).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1671.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "393.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "98.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:18"
+}

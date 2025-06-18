@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hertog Citroentaart meringue",
+  "brand": "Hertog",
+  "price": "1.69",
+  "base_unit_price": "8.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/652162_M/87f0b4ffe788682fb1b4fff13dc151fa/652162.png",
+  "ingredients": "Ingrediënten: Water, suiker, ROOM, gerehydrateerde magere MELK, citroensap op basis van geconcentreerd sap (5%), kokosolie, LACTOSE en MELKEIWITTEN, glucose-fructosestroop, gepasteuriseerde halfvolle MELK, voedingsvezel, maltodextrine, dextrose, TARWEBLOEM, emulgator (mono- en diglyceriden van vetzuren), BOTER, zuurteregelaar (citroenzuur), TARWEZETMEEL, stabilisatoren (guargom, johannesbroodpitmeel, gemodificeerd zetmeel), kleurstoffen (karamel, caroteen), aroma's, plantenextract (appel), cacaoboter, EI-EIWIT, zout. Kan soja, noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "741.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "177.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:18"
+}

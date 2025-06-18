@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Ambachtelijke Keuken Aardappelsalade met spekjes",
+  "brand": "Ambachtelijke Keuken",
+  "price": "3.29",
+  "base_unit_price": "4.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/767197_M/3c338c1b9f772de72eec5c7094e98104/767197.png",
+  "ingredients": "Ingrediënten: aardappel (49%), water, plantaardige oliën (raapolie, zonnebloemolie), varkensspek (8%) (gekookt en gerookt varkensvlees*, water, zout,aardappelzetmeel, dextrose, rookaroma, conserveermiddel (natriumnitriet)), suiker, azijn, vrije uitloopEI-eigeel, gedroogde ui, maïszetmeel, zout, gemodificeerd maïszetmeel, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), verdikkingsmiddelen (xanthaangom, guarpitmeel), voedingszuur (melkzuur), gistextract, kruiden, limoensapconcentraat, maltodextrine, specerijen (MOSTERD), natuurlijk aroma, rundvleesextract, ui, pastinaak, gekarameliseerde suiker, aardappelzetmeel, groentenextract. *Beter Leven Keurmerk 1 ster. •Kan pinda en walnoten bevatten.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "803.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "193.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:43"
+}

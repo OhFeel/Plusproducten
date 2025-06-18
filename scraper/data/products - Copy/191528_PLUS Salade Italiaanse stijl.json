@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Salade Italiaanse stijl",
+  "brand": "PLUS",
+  "price": "3.85",
+  "base_unit_price": "16.04",
+  "image_url": "",
+  "ingredients": "Ingrediënten :36% slamix (rode eikenbladsla, groene eikenbladsla, rucola), 21% basilicumdressing (water, raapzaadolie, suiker, natuurazijn, zout, maïszetmeel, spinaziepoeder, verdikkingsmiddel: xanthaangom, specerijen (knoflookpoeder, witte peper, kurkuma), 0,1% basilicum), 17% komkommer, 10% paprika, 8% mix van croutons, zonnebloempitten, pompoenpitten en gedroogde tomatenvlokken (30% croutons (TARWEBLOEM, zonnebloemolie, dextrose, TARWEGLUTEN, gist, zout, GERSTEMOUTEXTRACT), 30% zonnebloempitten, 25% gedroogde tomaat, 15% pompoenpitten), 8% kaas (gepasteuriseerde MELK, zout, zuursel, microbieel stremsel).\n\nKan PINDA, AMANDEL, HAZELNOOT, WALNOOT, CASHEWNOOT, PECANNOOT, PARANOOT, PISTACHENOOT, MACADAMIANOOT en SESAMZAAD bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "519.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "125.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.682",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.208",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.84",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.426",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.371",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.729",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.556",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.792",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.555",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.222",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.058",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:15:10"
+}

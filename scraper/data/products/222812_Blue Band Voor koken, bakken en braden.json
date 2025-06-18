@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Blue Band Voor koken, bakken en braden",
+  "brand": "Blue Band",
+  "price": "1.99",
+  "base_unit_price": "7.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/222812_M/d4b4290e48a2090d384d7c28f43a9d5d/222812.png",
+  "ingredients": "Ingrediënten: plantaardige oliën 79% (palm, koolzaad, zonnebloem in wisselende hoeveelheid), water, zout, 1,5%, emulgatoren (SOJALECITHINE; mono- en diglyceriden van vetzuren), bereiding van tuinbonen, voedingszuur (citroenzuur), aroma, vitamines A en D.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2933.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "701.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "800.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "10.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:27:15"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Plato Food Ovenbroodje Kip Shoarma",
+  "brand": "Plato Food",
+  "price": "3.79",
+  "base_unit_price": "22.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/455421_M/f423f2b3e34e859d267b1e7e80f0be24/455421.png",
+  "ingredients": "50% TARWEbroodje (TARWEbloem, water, gist, zout, TARWEGLUTEN, TARWEmoutbloem, meelverbeteraar: E300), 50% kipshoarma (45% kippenvleees, water, raapolie, kruiden en specerijen (paprikapoeder, uienpoeder, chilipeper, kurkuma, fenegriek, dille, komijn, koriander, nootmuskaat, kruidnagel, gember, karwijzaad, pimet, venkelzaad, lavasblad, peper, foelie), gemodificeerd aardappelzetmeel, suiker, paneermeel (TARWEbloem, zout, gist), gemodificeerd maiszetmeel, zonnebloemolie, dextrose, azijn, zout, conserveermiddelen: E261/E202/E211, gekarameliseerde suiker, citroensap, zeezout, gehydrolyseerd eiwit (SOJA, mais, koolzaad), knoflook, ui, verdikkingsmiddel: xanthaangom/guarpitmeel, stabilisator E450, voedingszuur: citroenzuur, antioxidant: E300/E385, aroma, natuurlijk aroma, wortelextract)",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1045.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "249.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:01:34"
+}

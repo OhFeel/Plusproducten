@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Biofood Lijnzaad biologisch",
+  "brand": "Biofood",
+  "price": "5.29",
+  "base_unit_price": "5.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/520930_M/4a80953732bfb7a8b4b58bb258096278/520930.png",
+  "ingredients": "Lijnzaad**. Kan NOTEN, GLUTEN en SESAM bevatten. **Van gecontroleerde biologische teelt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2235.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "534.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "27.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:26:54"
+}

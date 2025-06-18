@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Witlof",
+  "brand": "PLUS",
+  "price": "1.45",
+  "base_unit_price": "2.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/113948_M/4d5657c55750b093465d2bc3b052c656/113948.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:44"
+}

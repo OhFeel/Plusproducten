@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "GIJS Brabantse Metworst",
+  "brand": "GIJS",
+  "price": "3.49",
+  "base_unit_price": "17.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952210_M/6dfc14dc12d83a12f8d50c291fdb17be/952210.png",
+  "ingredients": "Ingrediënten: varkensvlees* (96%), zout (conserveermiddel: E250), specerijen, dextrose, glucosesiroop, gehydrolyseerd planteneiwit (maïseiwit/raapzaadeiwit), antioxidant: E300, conserveermiddel: E252, rode bietenpoeder en rook. *=Beter Leven keurmerk 1 ster",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1111.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "265.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:19:47"
+}

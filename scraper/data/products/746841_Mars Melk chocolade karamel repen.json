@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mars Melk chocolade karamel repen",
+  "brand": "Mars",
+  "price": "1.43",
+  "base_unit_price": "10.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/746841_M/578ae46971ceee9f41c31c7cd8a123f0/746841.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, volle MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, magere MELKPOEDER, LACTOSE, weipermeaat (van MELK), magere cacao, GERSTEMOUTEXTRACT, botervet (van MELK), emulgator (SOJALECITHINE), zout, KIPPENEI-EIWITPOEDER, palmvet, zetmeel. (Kan bevatten: HAZELNOOT, PINDA).",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1890.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "450.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:25"
+}

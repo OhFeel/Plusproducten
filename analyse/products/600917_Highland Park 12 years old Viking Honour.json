@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Highland Park 12 years old Viking Honour",
+  "brand": "Highland Park",
+  "price": "48.99",
+  "base_unit_price": "69.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/600917_M/8596e08d24a252d438c223c9de088972/600917.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "916.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "221.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:00:04"
+}

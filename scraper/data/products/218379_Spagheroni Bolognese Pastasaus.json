@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Spagheroni Bolognese Pastasaus",
+  "brand": "Spagheroni",
+  "price": "2.59",
+  "base_unit_price": "4.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/218379_M/2b11cdfe1ffc77ab797f4f670654b0cb/218379.png",
+  "ingredients": "Ingrediënten: Tomaten (150 g per 100 g product), groenten 10% (uien, wortelen), gehakt 10% (rund), glucose-fructosestroop, water, suiker, gemodificeerd maïszetmeel, zout, voedingszuur (melkzuur), kruiden, aroma, witte peper, kruidenextract (bevat SELDERIJ).",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "323.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.96",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:24:42"
+}

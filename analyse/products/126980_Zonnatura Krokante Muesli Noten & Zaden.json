@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Krokante Muesli Noten & Zaden",
+  "brand": "Zonnatura",
+  "price": "3.95",
+  "base_unit_price": "10.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/126980_M/57a1a4c7644d5f5fe3abb89ee5479b97/126980.png",
+  "ingredients": "Ingrediënten: volkoren HAVERvlokken* [GLUTEN] 49%, zonnebloempitten* 8%, volkoren GERSTvlokken*, HAVERbloem* 8%, zonnebloemolie* (zonnebloemolie*, antioxidant: tocoferolrijk extract), dadelsiroop*, gepofte rijst* (rijstmeel*), stabilisator: acaciavezelpoeder*, lijnzaad* 3%, geroosterde kokosvlokken* 3%, geroosterde HAZELNOTEN* 3%, AMANDELEN* [NOTEN] 2%, kaneel*. *Ingrediënt van biologische teelt.",
+  "allergens": "Glutenbevattende granen, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1960.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "469.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:49:45"
+}

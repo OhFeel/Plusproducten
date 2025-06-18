@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Patat&frites kruiden",
+  "brand": "Silvo",
+  "price": "2.79",
+  "base_unit_price": "33.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/595418_M/3e4d77accc9e84f109d402355738e683/595418.png",
+  "ingredients": "Ingrediënten: Zout 77%, specerijen 16,2% (Spaanse peper 4,2%, ui 3,5%, zwarte peper, paprika, knoflook, SELDERIJzaad 0,3%, nootmuskaat, korianderzaden, komijn), TARWEzemel, gistextract, kleurstof: paprika-extract, Totale gehalte aan specerijen: 16,2%.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "241.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "58.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "73.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:28"
+}

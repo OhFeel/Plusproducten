@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mora Loempia Kip & Ham",
+  "brand": "Mora",
+  "price": "1.49",
+  "base_unit_price": "8.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/258196_M/541dc1774afeae64acd2dbfb4dc3d297/258196.png",
+  "ingredients": "Ingrediënten: Groenten 37% (taugé, witte kool, prei, wortel, ui, paprika, knoflook), TARWEbloem, water, gekookte ham 6% (varkensvlees 70%, water, zetmeel, glucosestroop, zout, stabilisator: E451, antioxidant: E301, conserveermiddel: E250), gekookt kippenvlees 6%, plantaardige oliën (palm, raapzaad, zonnebloem), scharrelkippenEI-eiwit, zetmeel, zout, natuurlijk aroma, TARWEvezel, specerijen, sambal (rode pepers, zout), kippeneiwit, verdikkingsmiddel: E464, kaliumchloride, glucosestroop, dextrose, plantaardige vezels, suiker, maltodextrine, voedingszuur: citroenzuur, gist. E-nummers zijn door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "563.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "134.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:44:41"
+}

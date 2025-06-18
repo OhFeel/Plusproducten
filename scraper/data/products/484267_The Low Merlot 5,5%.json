@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "The Low Merlot 5,5%",
+  "brand": "The Low",
+  "price": "4.99",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/484267_M/3782c57fa7f6ad353611b732c8b6a6d2/484267.png",
+  "ingredients": "Bevat Sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "5.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:12:24"
+}

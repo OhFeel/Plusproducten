@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Minder suikers truffels cacao",
+  "brand": "Damhert",
+  "price": "4.39",
+  "base_unit_price": "36.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/454666_M/47951112c484e9696a137b59514d2331/454666.png",
+  "ingredients": "maltitol, plantaardig vetten (kokosnoot, palmpit**, palm**), ontvette cacaopoeder, WEIpoeder (MELK), cacaopoeder (3,0%), emulgator (lecithine (SOJA)). ** Van duurzame teelt. Kan NOTEN en GLUTEN bevatten.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2018.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "488.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "41.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:01:27"
+}

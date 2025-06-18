@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Ciabatta Tussendoorcracker Rozemarijn",
+  "brand": "Bolletje",
+  "price": "2.59",
+  "base_unit_price": "13.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/673659_M/977a47f13f26cfbd4ef8dbcb9591e978/673659.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, raapolie, plantaardige vezels (oligofructose), suiker, gist, 1,8% rozemarijn, 1,6% extra vergine olijfolie, mineraalzout (kalium), zout, maltodextrine, TARWEMOUTMEEL. Kan andere glutenbevattende granen, eieren, melk, noten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1874.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "445.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:57"
+}

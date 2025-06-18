@@ -1,0 +1,103 @@
+{
+  "sku": "",
+  "name": "Biologisch PLUS Kaas pompoen broodjes",
+  "brand": "Biologisch PLUS",
+  "price": "2.69",
+  "base_unit_price": "0.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/541047_M/cb6f4d34580d991943e7e64dcd0a3faf/541047.png",
+  "ingredients": "Ingrediënten :50% TARWEBLOEM*, water, 12% pompoenpitten*, 6% maisgriesmeel*, 4,2% kaas* (MELK*, zout, zuursel, dierlijk stremsel), zonnebloempitten*, TARWEGLUTEN*, volkorenspeltmeel (TARWE)*, zout, gist, GERSTEMOUTMEEL*, kurkuma*.\n*= Van biologische oorsprong.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1292.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "307.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "41.27",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.416",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:32:03"
+}

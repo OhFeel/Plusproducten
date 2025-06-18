@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Zaanse Curry-ketchup",
+  "brand": "Zaanse",
+  "price": "1.19",
+  "base_unit_price": "7.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/646923_M/e290c4f759072396768f5213b82c07db/646923.png",
+  "ingredients": "Ingrediënten: tomaten, suiker, gemodificeerd maïszetmeel, natuurazijn, gembersiroop, zout, kruiden en specerijen, ketjap (invertsuikerstroop, water, melasse, zout, SOJAbonen, TARWEkorrel, kleurstof (E150c), verdikkingsmiddel (E412), conserveermiddel (E202), aroma’s (SELDERIJ), voedingszuur (citroenzuur), conserveermiddel (kaliumsorbaat), antioxidant (ascorbinezuur) E = door E.U. goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "513.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "121.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:11:33"
+}

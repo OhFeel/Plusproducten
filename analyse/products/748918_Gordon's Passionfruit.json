@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Gordon's Passionfruit",
+  "brand": "Gordon's",
+  "price": "20.59",
+  "base_unit_price": "29.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/748918_M/632dc15b6e709b95319bcf4a2a2c90f2/748918.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "928.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "222.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "37.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:46"
+}

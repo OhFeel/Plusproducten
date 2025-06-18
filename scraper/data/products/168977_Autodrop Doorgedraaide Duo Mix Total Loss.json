@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Autodrop Doorgedraaide Duo Mix Total Loss",
+  "brand": "Autodrop",
+  "price": "2.99",
+  "base_unit_price": "10.68",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/168977_M/02ba70eb806433d416ae221ea21ba848/168977.png",
+  "ingredients": "glucose-fructosestroop, suiker, gemodificeerd zetmeel, varkensgelatine, dextrose, voedingszuren (citroenzuur, appelzuur, melkzuur, azijnzuur), melasse, appelsap uit concentraat, zoethoutwortelextract, kleurstoffen (karamel, curcumine), natuurlijke aroma's, natuurlijk citroenaroma, glansmiddel (carnaubawas), concentraten (zoete aardappel , saffloer, wortel, spirulina, radijs , appel, zwarte bes), salmiakzout , antioxidant (ascorbinezuur).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1416.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:05:28"
+}

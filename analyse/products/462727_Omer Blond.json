@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Omer Blond",
+  "brand": "Omer",
+  "price": "2.28",
+  "base_unit_price": "6.91",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/462727_M/b012598a8339932957f0026de104d191/462727.png",
+  "ingredients": "Bevat GERSTemout",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "8",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:03:33"
+}

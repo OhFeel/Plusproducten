@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mona Duopudding griesmeel-rode bessensaus",
+  "brand": "Mona",
+  "price": "1.99",
+  "base_unit_price": "6.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/335050_M/a0b49dbdcf2070c67dc7fbcf42fb55b0/335050.png",
+  "ingredients": "Ingrediënten: Volle MELK, vloeibare MELKbestanddelen, suiker, 14,3% rode bessensap, 5,2% TARWEgriesmeel, (glucose-)fructosestroop, gemodificeerd ma­ïszetmeel, verdikkingsmiddel: xanthaangom, zout, aroma, kleurend plantenextract (wortel), kleurstof: E160b(ii), zuurteregelaar: natriumcitraat",
+  "allergens": "Tarwe, Khorasantarwe en khorasantarweproducten (gluten bevattend gr, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "501.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "119.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:15:49"
+}

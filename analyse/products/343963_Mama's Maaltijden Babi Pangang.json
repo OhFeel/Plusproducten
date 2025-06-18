@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Mama's Maaltijden Babi Pangang",
+  "brand": "Mama's Maaltijden",
+  "price": "6.29",
+  "base_unit_price": "15.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/343963_M/7f3f18b101e95dc385b94b3492c8ea13/343963.png",
+  "ingredients": "gekookte rijst 26% (water, rijst), water, varkensreepjes 15% (varkensvlees, ketjap (melasse, water,gehydrolyseerd plantaardig eiwit (SOJA, maïs), zout, sojasaus (water, SOJAbonen, TARWE, zout),natuurazijn), raapolie, water, bruine basterdsuiker, MELKeiwit, zout, dextrose, gedroogdeglucosestroop, vloeibare specerijenextracten, natuurlijk rookaroma, antioxidanten: natriumascorbaat,natriumcitraten, conserveermiddel: natriumacetaten, stabilisator: carrageen, emulgator:xanthaangom), groentemix 13% (prei, wortelen, rode paprika, ui), SOJAbonen 9%, suiker,tomatenconcentraat, gemodificeerd zetmeel , sojasaus (water, SOJAbonen, zout, alcoholazijn),plantaardige oliën (zonnebloem, koolzaad, in wisselende verhoudingen), sjalotten, bouillon(maltodextrine, zetmeel, groentepoeders (prei, wortelen, uien), plantaardige olie(koolzaad/zonnebloem), zout, gistextract, groente-extracten (SELDERIJ, uien, tomaten, wortelen),knoflook, kruiden en specerijen (bevat SELDERIJ)), knoflook, gember, azijn, rode chili, zout, bereidingop basis van limoensapconcentraat (water, limoensapconcentraat, citroenpulp, voedingszuur:citroenzuur, limoen extract), SESAMolie geroosterd, specerijen.",
+  "allergens": "Glutenbevattende granen, Soja, Melk, Selderij, Sesamzaad, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "622.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "148.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:25"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Venz Rimboe tijgervlokken melk vanille",
+  "brand": "Venz",
+  "price": "3.49",
+  "base_unit_price": "17.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/837917_M/9c61ab936aa49bda580abc2147ebc054/837917.png",
+  "ingredients": "Ingrediënten: Tijgervlokken: suiker, geheel gehard palmpitvet, magere cacaopoeder*, cacaoboter*, dextrose, magere MELKPOEDER, TARWEZETMEEL, LACTOSE, gefractioneerd MELKVET (harde fractie), KARNEMELKPOEDER, emulgator (SOJALECITHINE), aroma (bevat MELK), kleurstof (paprika-extract)., Funnies: suiker, cacaoboter*, magere MELKPOEDER, WEIPOEDER, emulgator (SOJALECITHINE), aroma, kleurstoffen (E141, E160c), wortelextract., *Rainforest Alliance gecertificeerd.ra.org",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1920.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "455.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "75.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:44"
+}

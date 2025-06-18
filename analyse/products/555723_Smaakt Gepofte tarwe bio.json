@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Gepofte tarwe bio",
+  "brand": "Smaakt",
+  "price": "1.75",
+  "base_unit_price": "11.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/555723_M/14ecc350459e8511564aad119852696a/555723.png",
+  "ingredients": "Ingrediënten: Gepofte TARWE*, *=biologisch\nKan sporen bevatten van andere glutenbevattende granen, pinda's, soja, melk, noten, selderij, sesamzaad",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1537.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "363.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:38:22"
+}

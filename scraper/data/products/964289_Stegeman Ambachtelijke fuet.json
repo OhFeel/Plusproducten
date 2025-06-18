@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Ambachtelijke fuet",
+  "brand": "Stegeman",
+  "price": "3.79",
+  "base_unit_price": "29.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/964289_M/ce520e5ba7eb11b3114c655ce87ad746/964289.png",
+  "ingredients": "Ingrediënten: Varkensvlees*, zout, KAASpoeder (MELK), specerijen, rietsuiker, dextrose, glucosestroop, aroma, varkenseiwit, antioxidant (E301), conserveermiddel (E250), eetbaar omhulsel: rundercollageen. \n*= Beter Leven keurmerk 1 ster.\nGemaakt in een fabriek waar walnoten verwerkt worden.\n100 g product bereid uit 170 g varkensvlees.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2064.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "498.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:06"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Soep in zak Pittige Erwtensoep",
+  "brand": "Unox",
+  "price": "4.59",
+  "base_unit_price": "8.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482026_M/88c322213c7e82fa1055d75079ea837d/482026.png",
+  "ingredients": "Ingrediënten: Water, groenten 36% (erwten 25%, wortel 4,2%, prei 4,2%, ui), rookworstplakjes 5,3% (varkensvlees¹ 4,5%, water, zetmeel, zout, rookaroma, stabilisatoren (E450, E451, E250), rundercollageen, voedingszuur E330, specerij-extracten, peper, antioxidant E301), aardappel, katenspek 3,2% (varkensvlees¹ 2,9%, zout, stabilisatoren (E450, E451, E250), rookaroma, antioxidant E301), rookworstblokjes 1,6% (varkensvlees¹ 1,2%, separatorvlees¹ 0,17%, varkensvet, zout, varkenscollageen, stabilisatoren (E450, E451, E250), dextrose, suiker, aroma, houtrook), raapzaadolie, sambal 0,5% (rode peper 0,3%, water, zout, azijn, gemodificeerd zetmeel), gemodificeerd maïszetmeel, gistextract (bevat GERST), gejodeerd zout, specerijen (paprika, SELDERIJZAAD, cayennepeper), kruiden (SELDERIJBLAD, laurierblad), zout, knoflookpuree, aroma, witte wijnextract, balsamicoazijnpoeder (wijnazijn, druivenmost). Kan TARWE, ROGGE, HAVER, EI, SOJA, MELK en MOSTERD bevatten. ¹Beter Leven keurmerk 1 ster.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "317.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.68",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:19"
+}

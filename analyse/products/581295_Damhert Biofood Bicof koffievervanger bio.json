@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Biofood Bicof koffievervanger bio",
+  "brand": "Damhert Biofood",
+  "price": "3.99",
+  "base_unit_price": "39.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581295_M/bd4478727480f46730baf54c326137c2/581295.png",
+  "ingredients": "TARWE*, gemoute gerst*, gerst*, vijgen*, eikels*. *Van gecontroleerde biologische teelt.  ",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1507.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "359.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "81.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:24"
+}

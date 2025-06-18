@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Crodino Biondo 6x17.5cl",
+  "brand": "Crodino",
+  "price": "10.39",
+  "base_unit_price": "9.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/130020_M/6ddbc853b71b254e287cecb9483377c6/130020.png",
+  "ingredients": "water, suiker, aroma's, koolzuur, voedingszuur: citronenzuur, zout, kleurstoffen: e150b, e110 (kan de activiteit of oplettendheid van kinderen nadelig beïnvloeden)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "255.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "61.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:50:31"
+}

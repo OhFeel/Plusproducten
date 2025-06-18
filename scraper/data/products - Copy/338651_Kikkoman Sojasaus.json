@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kikkoman Sojasaus",
+  "brand": "Kikkoman",
+  "price": "3.85",
+  "base_unit_price": "25.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/338651_M/6cac5d19c3d30f0b0f85ff64ba939e32/338651.png",
+  "ingredients": "Ingrediënten: water, SOJAbonen, TARWE, zout",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "325.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "77.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "16.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:16:42"
+}

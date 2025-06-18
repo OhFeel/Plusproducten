@@ -1,0 +1,55 @@
+{
+  "sku": "",
+  "name": "Chipsi rijstsnack Brong Brong",
+  "brand": "Chipsi",
+  "price": "3.19",
+  "base_unit_price": "31.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/567551_M/f100267f62dbbe7c00b105237650c2c9/567551.png",
+  "ingredients": "rijst, plantaardige olie en zout. allergenen informatie: kan sporen van noten en pinda bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1580.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "380.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:37"
+}

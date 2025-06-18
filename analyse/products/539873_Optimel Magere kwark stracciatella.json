@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Optimel Magere kwark stracciatella",
+  "brand": "Optimel",
+  "price": "2.59",
+  "base_unit_price": "5.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/539873_M/0489833efaebd6b356d1fdc7a823703c/539873.png",
+  "ingredients": "Ingrediënten: Magere KWARK, 28% magere YOGHURT, 0,3% cacaofantasiestukjes (cacaoboter^1, cacaopoeder^1, magere cacaopoeder^1), gemodificeerd maïszetmeel, aroma, water, citroensap, zoetstof: sucralose, ^1Rainforest Alliance gecertificeerd. Lees meer op www.ra.org",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "222.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "200.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.38",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:31:45"
+}

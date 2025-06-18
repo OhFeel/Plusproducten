@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Coolbest Fruitdrink pineapple",
+  "brand": "Coolbest",
+  "price": "2.29",
+  "base_unit_price": "2.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/943860_M/e554be7a2f646db6c2ec50c7fa66663d/943860.png",
+  "ingredients": "Ingrediënten: Vruchtensap uit concentraat 65% (appel 49%, ananas 15%, citroen), water, vloeibare MELKbestanddelen (MELKpermeaat) 10%, ROOM <lt/>0,1%, stabilisator (pectine), natuurlijk aroma, zoetstof (steviolglycosiden uit stevia)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "130.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "31.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.012",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:14:38"
+}

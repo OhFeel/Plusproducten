@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Pannetje van PLUS Pizza Funghi Warm",
+  "brand": "Pannetje van PLUS",
+  "price": "7.49",
+  "base_unit_price": "7.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/568638_M/5ef6246da4406b17bd5834f44b72747a/568638.png",
+  "ingredients": "Pizzabodem met tomatenpassata (TARWEBLOEM, water, tomatenpassata, pomace olijfolie, zout, gist, meelverbeteraar: E300, zuurteregelaar: citroenzuur), mozzarella (gepasteuriseerde MELK, aardappelzetmeel, zout, zuursel, stremsel), champignons, mascarpone (gepasteuriseerde room (MELK), zuurteregelaar: citroenzuur), oesterzwammen, truffeltapenade (champignons, water, olijfolie, zonnebloemolie, zomertruffel, zout, aroma's, Grana Padano kaas (MELK, zout, stremsel, conserveringsmiddel: E1105 (EI)), peterselie, eekhoorntjesbrood, knoflook, citroensap, maiszetmeel, zwarte peper), tijm.Vegetarisch? Nee.Veganistisch? Nee.",
+  "allergens": "Tarwe, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "965.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "231.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:44:08"
+}

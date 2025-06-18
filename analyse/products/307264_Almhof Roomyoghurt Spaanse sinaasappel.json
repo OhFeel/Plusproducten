@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof Roomyoghurt Spaanse sinaasappel",
+  "brand": "Almhof",
+  "price": "1.39",
+  "base_unit_price": "9.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/307264_M/aa5eb9497757dec3b452269bde486614/307264.png",
+  "ingredients": "Ingredienten:\nROOMYOGHURT, suiker, 6,3% sinaasappels, maïszetmeel, citroensapconcentraat, plantenconcentraat (wortel), natuurlijk sinaasappel aroma.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "578.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "138.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:07:26"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 6M16 Rode Bietenstamppot",
+  "brand": "Olvarit",
+  "price": "1.49",
+  "base_unit_price": "7.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/544586_M/dfc7ab81332573e051e52f3d397e3c17/544586.png",
+  "ingredients": "ingrediënten : water, 28% groenten (14% rode biet, 11% wortel, 3% ui), 11% kikkererwten, 10% zoete aardappel, 3,5% volkoren speltmeel (TARWE), koolzaadolie, geconcentreerd citroensap, knoflook.",
+  "allergens": "Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "236.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "56.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:33:08"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kips Kips Kipfrietjes",
+  "brand": "Kips",
+  "price": "3.29",
+  "base_unit_price": "20.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/316056_M/6d6f7d9355c620f08b8b3e3633111433/316056.png",
+  "ingredients": "Ingrediënten: kippenvlees 77%, kippenseparatorvlees 19%, raapzaadolie, voedingszuren: (citroenzuur, E326, E262), suiker, MOSTERDMEEL, dextrose, zout, specerijen, gistextract, natuurlijk aroma, conserveermiddel (gebufferde azijn), stabilisatoren (E451, E450).",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "784.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "187.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:09:27"
+}

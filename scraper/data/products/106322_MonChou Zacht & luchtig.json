@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "MonChou Zacht & luchtig",
+  "brand": "MonChou",
+  "price": "2.99",
+  "base_unit_price": "14.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/106322_M/54f0d4ddce949d4b00b4c7114a19eb35/106322.png",
+  "ingredients": "Ingrediënten: ROOM, magere MELK, MELKeiwit, gemodificeerd zetmeel (mais), zuursel, emulgator: E472b, gelatine, stremsel, verdikkingsmiddel: E410",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1062.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "257.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:12"
+}

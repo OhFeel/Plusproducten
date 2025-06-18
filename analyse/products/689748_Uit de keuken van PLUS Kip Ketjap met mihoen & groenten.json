@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Kip Ketjap met mihoen & groenten",
+  "brand": "Uit de keuken van",
+  "price": "5.99",
+  "base_unit_price": "13.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/689748_M/362617c729ef5054b45aeb8ab4df70de/689748.png",
+  "ingredients": "Mihoen met groenten (gekookte rijstnoedels (water, rijstvermicelli (rijst, water)), prei, wortel, ui, spitskool, raapzaadolie, rijstazijn, water, azijn, SESAMOLIE, knoflook, zout, witte peper, groenten bouillonpoeder (groenten (ui, knoflook, tomaat, wortel, pastinaak, prei), specerijen (foelie, venkelzaad, fenegriek, witte peper, SELDERIJZAAD, rode peper, kurkuma), kruiden (tijm, peterselie, SELDERIJBLAD))), kip ketjap (gegaarde kipdijfiletreepjes (kipdijfilet, natuurlijk aroma, aardappelzetmeel, zout, dextrose, azijn, rozemarijnextract), saus (water, suiker, suikerstroop, gemodificeerd aardappelzetmeel, natuurazijn, gekarameliseerde suiker, zout, specerijen, natuurlijk aroma, conserveermiddel: E202), peterselie), gestoomde groenten (groene groenten (broccoli, sperziebonen, courgette, rode ui), citroendressing (water, raapzaadolie, 18% citroensap, suiker, azijn, gemodificeerd maïszetmeel, zout, zwarte peper, verdikkingsmiddel: xanthaangom, kleurstof: carotenen, antioxidant: E385), rode ui, zeezout).",
+  "allergens": "Selderij, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "483.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "115.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:05"
+}

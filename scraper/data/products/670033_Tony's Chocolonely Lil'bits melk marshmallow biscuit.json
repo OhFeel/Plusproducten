@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely Lil'bits melk marshmallow biscuit",
+  "brand": "Tony's Chocolonely",
+  "price": "4.09",
+  "base_unit_price": "27.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/670033_M/db4a1b8c677feaef15aab68710ef92f9/670033.png",
+  "ingredients": "Ingrediënten: 76% melkchocolade (suiker, volle MELKpoeder, cacaoboter, cacaomassa, emulgator (SOJAlecithines)), 15% biscuit (volkoren TARWEmeel, TARWEbloem, zonnebloemolie, suiker, honing, zout), 8% marshmallow (suiker, glucose-fructose stroop, maïszetmeel, dextrose, tapiocazetmeel, geleermiddel (carrageen), gehydrolyseerd rijsteiwit), glansmiddel (arabische gom).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2155.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "514.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:20"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Blue Band Finesse 31% slagroom",
+  "brand": "Blue Band",
+  "price": "1.69",
+  "base_unit_price": "6.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/584616_M/798ba2a5366d518b5cc416c5266430de/584616.png",
+  "ingredients": "linzeneiwitpreparaat (water, 1,1% linzeneiwit), kokosvet, koolzaadolie, suiker, gemodificeerd maïszetmeel, emulgatoren (zonnebloemlecithine, suikeresters van vetzuren, mono- en diglyceriden van vetzuren), stabilisatoren (guargom, johannesbroodpitmeel), natuurlijke aroma's, zout, kleurstof (bètacaroteen).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1198.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "291.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.76",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:04"
+}

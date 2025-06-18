@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Klaverland Belegen komijn 48+ plakken",
+  "brand": "PLUS Klaverland",
+  "price": "4.06",
+  "base_unit_price": "21.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/798069_M/6913384bafe16ce7eb93b4b722fbfff0/798069.png",
+  "ingredients": "Ingrediënten :brie (gepasteuriseerde KOEMELK, room (MELK), zout, witschimmelcultuur, zuursel, microbieel stremsel), 14% verse roomkaas (gepasteuriseerde KOEMELK, room (MELK), water, aardappelzetmeel, gemodificeerd aardappelzetmeel, magere MELKPOEDER, zout, verdikkingsmiddel: E410/E412, conserveermiddel: E202, voedingszuur: E330, zuursel, microbieel stremsel), 1,1% zongedroogde tomaten, water, olijfolie, peterselie, 0,1% basilicum, conserveermiddel: E202/E270, zonnebloemolie, zout.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1460.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "353.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "21.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.17",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.63",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.34",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.444",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "1.29",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:11"
+}

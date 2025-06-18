@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Frambozen kroon",
+  "brand": "PLUS",
+  "price": "0.89",
+  "base_unit_price": "0.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/575743_M/abaccd8806061f16af16e13d6bc76b09/575743.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, plantaardige margarine (palmolie, koolzaadolie, water, kokosolie, zout emulgator (mono- en diglyceriden van vetzuren), zuurteregelaar (citroenzuur), natuurlijk aroma), water, suiker,  8% framboos, EIGEEL**, gist, stabilisatoren (natriumalginaat, pectinen, agar), glansmiddel (isomalt), gemodificeerd aardappelzetmeel, volle MELKPOEDER, emulgator (mono- en diglyceriden van vetzuren veresterd met mono-en diacetylwijnsteenzuur), zout dextrose, zuurteregelaar (calciumlactaat), AMANDELMEEL, meelverbeteraar (ascorbinezuur, amylase (uit TARWE), xylanase (uit TARWE)). ** vrije uitloop. Kan sporen bevatten van hazelnoten en pecannoten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1473.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "352.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:50"
+}

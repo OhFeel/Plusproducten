@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Volkoren noedels",
+  "brand": "Conimex",
+  "price": "3.45",
+  "base_unit_price": "13.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/377347_M/2001d2ab1bb4e0815536e4adf505049e/377347.png",
+  "ingredients": "Ingrediënten: Volkoren TARWEMEEL 60%, verrijkte tarwebloem 39% (TARWEBLOEM, vitamine (B1, B3), ijzer, calcium), zout, verstevigingsmiddelen (E501i, E500i). Kan EI bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "564.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "135.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:30:14"
+}

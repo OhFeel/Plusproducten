@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Speltmuesli extra bio",
+  "brand": "Smaakt",
+  "price": "4.39",
+  "base_unit_price": "9.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/690905_M/12535e1446becb822634b0420e89344a/690905.png",
+  "ingredients": "Ingrediënten: Spelt(TARWE)vlokken* 48%, zonnebloempitten*, gezoete en geroosterde spelt(TARWE)vlokken* 11% (spelt[TARWE]* 96%, rijststroop* 4%), pompoenpitten*, rozijnen* 6% (rozijnen* 99,5%, zonnebloemolie*), gedroogde bananenstukjes* 3% (banaan* 98%, bananenpoeder* 2%), HAZELNOTEN* 3%, PECANNOTEN* 3%, gedroogde abrikozenstukjes* 2,4% (abrikozen* 95%, rijstbloem*), *=biologisch\nKan sporen bevatten van andere glutenbevattende granen, pinda's (aardnoten), soja, andere noten, sesamzaad, lupine.",
+  "allergens": "Tarwe, Glutenbevattende granen, Noten, hazelnoten, pecannoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1824.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "436.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:17"
+}

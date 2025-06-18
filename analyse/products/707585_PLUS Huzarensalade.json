@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Huzarensalade",
+  "brand": "PLUS",
+  "price": "2.09",
+  "base_unit_price": "3.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/707585_M/2f78aee9c67624b5ed37bd2c9b3b9a1c/707585.png",
+  "ingredients": "Ingrediënten :58% aardappel, water, raapzaadolie, 6% wortel, 4% rundvleesproduct (60% gekookt rundvlees*, water, aardappelzetmeel, maïszetmeel, zout, gedroogde glucosestroop, gedroogde ui, conserveermiddel: E451/E250, kaliumchloride, aardappelvezel, rundereiwit, verdikkingsmiddel: E407, antioxidant: E301/E300, stabilisator: E500, suiker, gistextract, dextrose), 4% doperwten, suiker, 2% augurk, azijn, 1% zilverui, zout, VRIJE-UITLOOPKIPPENEI-EIGEEL, maïszetmeel, gemodificeerd maïszetmeel, voedingszuur: E270, uienpoeder, MOSTERDZAAD, maltodextrine, aardappelzetmeel, conserveermiddel: E202/E211/E223, peterselie, verdikkingsmiddel: E415/E412, gemalen zwarte peper, geconcentreerd limoensap, rozemarijn, natuurlijk aroma, gedroogde prei, gedroogde ui, gemalen SELDERIJZAAD, korianderzaad.\n\nKan PINDA en WALNOOT bevatten.\n\n* = Beter Leven keurmerk 2 sterren",
+  "allergens": "Ei, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "614.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "147.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.94",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.404",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:31"
+}

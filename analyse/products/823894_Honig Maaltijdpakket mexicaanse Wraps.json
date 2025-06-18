@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Maaltijdpakket mexicaanse Wraps",
+  "brand": "Honig",
+  "price": "4.29",
+  "base_unit_price": "9.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/823894_M/606c8c74c026f8a4fb32d7760daa0c4d/823894.png",
+  "ingredients": "Ingrediënten: Wraps: TARWEBLOEM, water, zonnebloemolie, stabilisatoren (E422, E412), emulgator (E471), zuurteregelaar (appelzuur), conserveermiddelen (E281, E202), rijsmiddel (E500), zout. Kan SOJA en MOSTARD bevatten. Mexicaanse kruidenmix: Specerijen (paprikapoeder, komijnzaad, chilipoeder), tomaat, zout, suiker, maltodextrine, ui, zetmeel, knoflook, gehydrolyseerd SOJA-eiwit, TARWEBLOEM, kleurstof (paprika-extract), antiklontermiddel (E551), tijm, voedingszuur (citroenzuur), smaakversterker (E621), zonnebloemolie, gerookte maltodextrine. Tomatensausmix: Gemodificeerd zetmeel, tomaat 28%, suiker, maltodextrine, zout, gehydrolyseerd SOJA-eiwit, ui, smaakversterker (E621, E635), aroma's (bevatten SELDERIJ), voedingszuur (citroenzuur), specerijen (korianderzaad, kurkuma, peper, komijnzaad, fenegriek, kardemom, chilipoeder), kleurstof (paprika-extract), knoflook, antiklontermiddel (E551), zonnebloemolie, natuurlijk ui-aroma, natuurlijk groente-aroma (bevat SELDERIJ). Extra Kruidenmix: Glucosestroop, tomaat, specerijen (paprikapoeder, peper, chilipoeder), kruiden (bieslook, peterselie), antiklontermiddel (E551), voedingszuur (citroenzuur), kleurstof (paprika-extract), zonnebloemolie, natuurlijk korianderzaadaroma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1343.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "319.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:52:26"
+}

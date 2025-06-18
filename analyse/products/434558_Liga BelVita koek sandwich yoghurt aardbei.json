@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Liga BelVita koek sandwich yoghurt aardbei",
+  "brand": "Liga",
+  "price": "3.49",
+  "base_unit_price": "13.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/434558_M/745b3c7d29ecab7cf858c4f22c32e24a/434558.png",
+  "ingredients": "Ingrediënten: Granen 55,2 %, [TARWEBLOEM 27,7 %, volkorengranen 27,5 % (HAVERVLOKKEN 11,7 %, VOLKORENTARWEMEEL 11,2 %, VOLKORENGERSTEMEEL 2,8 %, VOLKORENROGGEMEEL 0,9 %, volkorenspeltmeel (TARWE) 0,9 %)], suiker, plantaardige oliën (koolzaad, palm, kokos in wisselende verhoudingen), glucose-fructosestroop, aardbeienpuree 4,7 %, bevochtigingsmiddel (glycerol), TARWEZETMEEL, magere YOGHURTPOEDER 1,4 %, glucosestroop, mineralen (calciumcarbonaat, magnesiumcarbonaat, elementair ijzer), rijsmiddelen (natriumcarbonaten, difosfaten, ammoniumcarbonaten), emulgatoren (SOJALECITHINEN, zonnebloemlecithinen), zuurteregelaars (citroenzuur, natriumcitraten, appelzuur, calciumcitraten), geconcentreerde braambessenpuree 0,2 %, aroma's, zout, geleermiddel (pectinen), magere MELKPOEDER, geconcentreerde aardbeienpuree 0,05 %.KAN EI EN NOTEN BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1869.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "444.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "294.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "4.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "138.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:52:52"
+}

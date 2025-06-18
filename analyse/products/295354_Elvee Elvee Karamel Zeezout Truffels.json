@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Elvee Karamel Zeezout Truffels",
+  "brand": "Elvee",
+  "price": "4.99",
+  "base_unit_price": "38.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/295354_M/0190c8e925db163e347d6032e05970b0/295354.png",
+  "ingredients": "Ingrediënten: melkchocolade (40%) [suiker, cacaoboter, volle MELKPOEDER, cacaomassa, emulgator (E322 (SOJA)), natuurlijk vanille aroma], plantaardige vetten (kokos, palmpit, palm, shea), suiker vetvrije cacaopoeder, weipoeder (MELK), lactose (MELK), karamelstukjes (1,6%) [suiker], aroma, zeezout (0,3%), emulgator (E322 (SOJA)), Kan AMANDELEN, HAZELNOTEN, PISTACHENOTEN, PECANNOTEN, TARWE en GERST bevatten.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2378.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "571.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:07"
+}

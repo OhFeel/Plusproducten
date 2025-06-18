@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Notenreep cranberry almond",
+  "brand": "BioToday",
+  "price": "2.89",
+  "base_unit_price": "38.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/510676_M/5d2bad1b65011e5f89af9c33dab786a4/510676.png",
+  "ingredients": "Ingrediënten: PINDA'S (AARDNOTEN)* 21%, AMANDELEN* 19%, rijstcrispies* (rijstmeel*), agavesiroop*, gedroogde en gezoete cranberry's* 14% (cranberry's* 60%, appelsapconcentraat*, zonnebloemolie*), rijstsiroop*, rozijnen* (rozijnen*, zonnebloemolie*), *=biologisch\nKan sporen bevatten van soja, melk, andere noten, sesamzaad.",
+  "allergens": "Aardnoten (pinda's), Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2010.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "480.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:23:19"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Trolli Sour strawberries",
+  "brand": "Trolli",
+  "price": "1.59",
+  "base_unit_price": "9.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/244495_M/565617b914669ef59b6515131a80c8e0/244495.png",
+  "ingredients": "suiker; glucosestroop; gemodificeerd zetmeel; voedingszuren: citroenzuur, appelzuur; aroma; zuurteregelaar: natriummalaat; kleurende levensmiddelen (zwarte aalbessen, wortel); kleurstof: curcumine, briljantblauw fcf.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1471.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "346.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "85.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:39:40"
+}

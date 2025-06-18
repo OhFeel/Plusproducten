@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "A. Vogel Herbamare natriumarm",
+  "brand": "A. Vogel",
+  "price": "3.49",
+  "base_unit_price": "27.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/237915_M/245a77534d67b1cbffa7a33bfe749507/237915.png",
+  "ingredients": "Ingrediënten: 97% dieetzout, 3,2% groenten en kruiden (prei*, ui*, paprika*, maggiplant*, mierikswortel*, tijm*, rozemarijn*, basilicum*, marjolein*, peterselie*, SELDERIJ*, citroen*, spinazie*, knoflook*) en kelp. Bevat 97,3% kaliumchloride. *afkomstig van gecontroleerde biologische teelten.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "30.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "8.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:34:03"
+}

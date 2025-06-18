@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Pittige kip salade",
+  "brand": "PLUS",
+  "price": "2.59",
+  "base_unit_price": "14.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/289058_M/f9ba75d8fe9a6912ca5fb428323856bb/289058.png",
+  "ingredients": "Ingrediënten :33% gekookt kippenvlees (96% kippenvlees*, aardappelzetmeel, zout), raapzaadolie, water, suiker, geconcentreerde tomatenpuree, VRIJE-UITLOOPKIPPENEI-EIGEEL, azijn, 1,4% rode peper, zout, 1,1% zoete peper, maïszetmeel, melasse, aardappelzetmeel, specerijen, MOSTERDZAAD, gemodificeerd maïszetmeel, tomatenpuree, verdikkingsmiddel: E412/E415, ui, conserveermiddel: E202/E211, zonnebloemolie, koolzaadolie, rijstmeel, voedingszuur: E260/E330, stabilisator: E410, kleurstof: paprika-extract, dextrose, geleermiddel: E407a, TARWEMEEL, TARWEZETMEEL, palmolie.\n* = Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1421.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "17.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:45"
+}

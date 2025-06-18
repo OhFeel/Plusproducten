@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Gevulde paprikasaus",
+  "brand": "Remia",
+  "price": "2.29",
+  "base_unit_price": "4.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/722111_M/19b01bee2865ba516a70ffe2cf76fa8f/722111.png",
+  "ingredients": "Ingrediënten: groenten 64% (ui, augurk, paprika), tomatenpuree, glucose-fructosestroop, azijn, gemodificeerd zetmeel (mais en aardappel), zout, specerijen, ui concentraat, aroma, conserveermiddel: kaliumsorbaat, zoetstoffen: acesulfaam-K en aspartaam**.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "323.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:30:33"
+}

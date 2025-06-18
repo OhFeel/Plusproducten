@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lotus Biscoff met belgische chocolade",
+  "brand": "Lotus",
+  "price": "2.39",
+  "base_unit_price": "18.11",
+  "image_url": "",
+  "ingredients": "Ingrediënten: TARWEbloem, suiker, chocolade 22%, (suiker, cacaomassa, cacaoboter, magere MELKpoeder, MELKvet, emulgatoren (lecithinen (SOJA), E476)), plantaardige oliën (palm*, raap), kandijstroop, rijsmiddel (natriumwaterstofcarbonaat), SOJAbloem, zout, kaneel. *Palmolie van duurzame en gecertificeerde plantages.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2082.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "497.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "39.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:38:48"
+}

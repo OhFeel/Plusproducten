@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Tiger Energydrink",
+  "brand": "Tiger",
+  "price": "1.19",
+  "base_unit_price": "4.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952461_M/ce4f70955fc68e1167a2f0952c4b88d6/952461.png",
+  "ingredients": "Ingrediënten: water, suiker (D) en/of glucose-fructosestroop, (G), zuurteregelaars (citroenzuur, natriumcitraat), koolzuur, taurine (0,4%), aroma, cafeïne, inostol(0,02%), kleurstoffen (E101, E150d), vitamines (niacine, pantotheenzuur, B6, B12).  D,G - D,G -afhankelijk van gebruikte ingrediënten: zie opdruk onderkant blik.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "197.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "46.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "7.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "1.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "2.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:00"
+}

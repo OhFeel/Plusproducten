@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Sensations",
+  "brand": "Milka",
+  "price": "3.39",
+  "base_unit_price": "16.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/296344_M/697f26da03dcfb414bc3528050a4b52c/296344.png",
+  "ingredients": "Ingrediënten: suiker, TARWEBLOEM, palmolie, MELKVET, koolzaadolie, cacaomassa, volle MELKPOEDER, cacaoboter, TARWEZETMEEL, lactose (van MELK), gemodificeerd zetmeel, rijsmiddelen (ammoniumcarbonaten,  natriumcarbonaten,  difosfaten), weipoeder (van MELK), magere cacaopoeder, emulgator (SOJALECITHINEN), zout, aroma's (bevat MELK), magere MELKPOEDER, kleurstof (carotenen), SOJAVEZELPOEDER.KAN BEVATTEN: EI.",
+  "allergens": "Tarwe, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2149.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "514.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.89",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:35"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Filet americain peper",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "19.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/137169_M/6f77ff2eec4563de311804e7496befd3/137169.png",
+  "ingredients": "Ingrediënten :66% Rundvlees, water, raapzaadolie, 1,7% zwarte peper, voedingszuur: E260/E262/E326/E330, SCHARRELKIPPENEI-EIGEEL, tomatenpuree, zout, extract van paprika, suiker, specerijen (o.a. MOSTERDZAAD), glucosestroop, azijn, gehydrolyseerde plantaardige eiwitten (raapzaad, koolzaad), zetmeel (rijst, aardappel), aroma's (MOSTERD), gedroogde groenten (champignon, pastinaak), dextrose, stabilisator: E331, gemodificeerd maïszetmeel, verdikkingsmiddel: xanthaangom/guarpitmeel, gistextract, MELKEIWITTEN, conserveermiddel: E202, tomatenpoeder, antioxidant: E300, specerijextracten (SELDERIJ, chilipeper).",
+  "allergens": "Ei, Melk, Selderij, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1227.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "296.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.475",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.59",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:52:51"
+}

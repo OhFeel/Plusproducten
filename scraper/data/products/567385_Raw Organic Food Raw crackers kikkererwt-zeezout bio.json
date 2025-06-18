@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Raw Organic Food Raw crackers kikkererwt-zeezout bio",
+  "brand": "Raw Organic Food",
+  "price": "5.39",
+  "base_unit_price": "43.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/567385_M/2e8c3c641ae43d57d0301507da1d2744/567385.png",
+  "ingredients": "Ingrediënten: Water, lijnzaad*, kikkererwtenmeel* 15%, zonnebloempitten*, SESAMZAAD*, rijstvlokken*, zout, acerolapoeder*, zeewier* 0,4% (nori* 0,2%, dulse* 0,2%), cayennepeper*, *=biologisch\nKan sporen bevatten van: schaaldieren, vis, soja, noten, weekdieren.",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1217.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "293.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:31"
+}

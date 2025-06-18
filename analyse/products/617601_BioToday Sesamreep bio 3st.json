@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Sesamreep bio 3st",
+  "brand": "BioToday",
+  "price": "2.89",
+  "base_unit_price": "38.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/617601_M/f97e01c87ac8a6072f84b619f827c447/617601.png",
+  "ingredients": "Ingrediënten: SESAMZAAD* 62%, rijstsiroop*, *=biologisch\nKan sporen bevatten van: pinda's (aardnoten), noten.",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2308.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "555.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:18"
+}

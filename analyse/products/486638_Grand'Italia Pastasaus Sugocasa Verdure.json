@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Pastasaus Sugocasa Verdure",
+  "brand": "Grand'Italia",
+  "price": "3.99",
+  "base_unit_price": "5.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/486638_M/87ff346879d351c4a116e7e7acb2deb3/486638.png",
+  "ingredients": "Ingrediënten: Ingrediënten:, Tomaat (69%), tomatenconcentraat (12%), rode en gele gegrilde paprika's (10%), gegrilde courgette (5%), wortel, zout, basilicum, geconcentreerd citroensap",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "138.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "33.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:13:27"
+}

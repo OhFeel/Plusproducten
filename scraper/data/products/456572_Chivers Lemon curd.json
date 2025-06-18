@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Chivers Lemon curd",
+  "brand": "Chivers",
+  "price": "2.89",
+  "base_unit_price": "9.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/456572_M/757982330332a82188ec503cf8ad3adb/456572.png",
+  "ingredients": "Ingrediënten: suiker, water, palmolie, citroensap uit concentraat (3%) maïsmeel, EIPOEDER, voedingszuren (citroenzuur, azijnzuur), geleermiddel (pectine), zuurteregelaar (natriumcitraat), citroenolie (0,16%),  kleurstof (carotenen), antioxidant (ascorbinezuur).",
+  "allergens": "Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1356.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "321.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "57.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:01:57"
+}

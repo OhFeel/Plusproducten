@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Kaasplateau Royaal & Mild",
+  "brand": "PLUS",
+  "price": "7.5",
+  "base_unit_price": "19.74",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/511841_M/99d2e98a6af8b684518cb493689256e6/511841.png",
+  "ingredients": "Ingrediënten :Saint Paulin, kaas 45+: gepasteuriseerde MELK, zout, zuursel, vegetarisch stremsel, conserveermiddel: E235, kleurstof: E160b(ii).\n\nCamembert, witschimmelkaas 45+: gepasteuriseerde MELK, zout, zuursel, witschimmelcultuur, vegetarisch stremsel.\n\nFourme d'Ambert (BOB), blauwschimmelkaas 50+: gepasteuriseerde MELK, zout, dierlijk stremsel, zuursel, Penicilium Roqueforti.\n\nEmmentaler, kaas 45+: gepasteuriseerde MELK, zout, vegetarisch stremsel, zuursel.\n\nKletzenbrood: water, 15% vijgen, 11% rozijnen, 11% abrikozen, TARWEBLOEM, ROGGEBLOEM, VOLKORENTARWEMEEL, 8% pruimen, 2% HAZELNOTEN, 2% WALNOTEN, ROGGEZUURDESEM, SPELTBLOEM (TARWE), rijstebloem, suiker, specerijen, voorverstijfselde TARWEBLOEM, gejodeerd zout, geroosterd TARWEMOUTMEEL, GERSTEMOUTEXTRACT, gist, plantaardige oliën (zonnebloem, koolzaad), conserveermiddel: E220 (SULFIET), E202, E262, enzymen (TARWE), meelverbeteraar: E300.\n\nVijgendip: 55% vijgen, suiker, citroensap, kaneel.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Noten, Zwaveldioxide en sulfieten, Lactose, hazelnoten, walnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1292.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "310.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.16",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.464",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:23:33"
+}

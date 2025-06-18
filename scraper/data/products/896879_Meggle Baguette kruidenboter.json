@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Meggle Baguette kruidenboter",
+  "brand": "Meggle",
+  "price": "1.59",
+  "base_unit_price": "9.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/896879_M/de50f56a379ec5022e03d7272e0f965e/896879.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, KRUIDENBOTER (BOTERBEREIDING) 20% (BOTER, uien, peterselie, knoflook, zout, kruiden, specerijen, zetmeel, citroensapconcentraat, knoflookextract), ROGGEBLOEM, TARWEGRIESMEEL, TARWEMOUTMEEL, TARWEGLUTEN, zout, gist, natuurlijk aroma. Dit product kan sporen van sesamzaad bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1266.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "302.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:18"
+}

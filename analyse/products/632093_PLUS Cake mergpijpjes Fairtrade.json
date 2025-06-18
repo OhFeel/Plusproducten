@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Cake mergpijpjes Fairtrade",
+  "brand": "PLUS",
+  "price": "1.72",
+  "base_unit_price": "8.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/632093_M/9132a849f44e126f17f4ca208add15a2/632093.png",
+  "ingredients": "Ingrediënten :suiker, plantaardige oliën (palm, raap, zonnebloem, shea, kokos), glucose-fructosestroop, SCHARRELKIPPENEI, TARWEBLOEM, SOJABONEN, TARWEZETMEEL, 2% magere cacaopoeder, dextrose, abrikozenpitten, stabilisator: E422/E420/E1103, SOJABLOEM, lactose (MELK), emulgator: E492/E322 (SOJA)/E472b/E477/E471/E475, rijsmiddel: E450/E500/E336, zout, verdikkingsmiddel: E415, magere MELKPOEDER, aroma's, conserveermiddel: E202.\n\nKan HAZELNOOT bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1922.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "459.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.084",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "54.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:09:03"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Appelsientje Fruitdrink Mango",
+  "brand": "Appelsientje",
+  "price": "1.99",
+  "base_unit_price": "1.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/625679_M/83a0d1b85011a42ea98b44ce9c671517/625679.png",
+  "ingredients": "Ingrediënten: Vruchtensap uit concentraat (appel 38%, mango 14%), water, vloeibare MELKbestanddelen (MELKpermeaat) 10%, ROOM <lt/>0,1%, stabilisator (pectine), natuurlijk aroma, zoetstof (steviolglycosiden uit stevia)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "114.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "27.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.012",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:22"
+}

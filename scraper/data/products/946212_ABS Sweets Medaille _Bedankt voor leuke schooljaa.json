@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "ABS Sweets Medaille \"Bedankt voor leuke schooljaa",
+  "brand": "ABS Sweets",
+  "price": "1.99",
+  "base_unit_price": "39.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946212_M/dc955f53fb9b3701f23f381c7cf6591a/946212.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter¹, volle MELKpoeder, cacaomassa¹, weipoeder (MELK), watervrij MELKvet, emulgator: lecithinen (SOJA), natuurlijk vanillearoma. Kan noten en granen (gluten) bevatten. Melkchocolade: ten minste 27% cacaobestanddelen. ¹ Rainforest Alliance Certified. Find out more at ra.org",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2189.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "524.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "59.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:17"
+}

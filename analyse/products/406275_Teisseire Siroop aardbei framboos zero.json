@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Teisseire Siroop aardbei framboos zero",
+  "brand": "Teisseire",
+  "price": "4.25",
+  "base_unit_price": "7.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/406275_M/d2a5352fcff605a4901e8d6b360ad086/406275.png",
+  "ingredients": "Ingrediënten: Water, vruchtensap uit concentraat 15,5% (aardbei 7%, zwarte bes 5,5%, framboos 3%), vulstof: polydextrose, voedingszuur: citroenzuur, natuurlijke aardbei-aroma's met andere natuurlijke aroma's, verdikkingsmiddel: xanthaangom, zoetstoffen: sucralose, steviolglycosiden uit Stevia, conserveermiddel: kaliumsorbaat",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "53.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "13.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:41:23"
+}

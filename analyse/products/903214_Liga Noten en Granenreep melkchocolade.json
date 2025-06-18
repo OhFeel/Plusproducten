@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Liga Noten en Granenreep melkchocolade",
+  "brand": "Liga",
+  "price": "2.99",
+  "base_unit_price": "18.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/903214_M/e74defd37551e9de8678f16c998fe0eb/903214.png",
+  "ingredients": "Ingrediënten: Meel 35,8 % [VOLKORENTARWE 17 %, TARWE 16 %, VOLKORENGERST 1,4 %, spelt (TARWE) 1,4 %], suiker, plantaardige oliën (koolzaad, zonnebloem, katoenzaad), bevochtigingsmiddel (glycerol), gemodificeerd zetmeel, rozijnen 5,5 %, chocoladestukjes 5 % [cacaomassa, suiker, dextrose, emulgator (SOJALECITHINEN)], cichoreiwortelvezels, isomaltulose***, gebroken boekweitkorrels 3,5 %, HAZELNOOTSTUKJES 3 %, HAVERVLOKKEN 1,6 %, emulgatoren (SOJALECITHINEN, lecithinen), maïszetmeel, mineraal (magnesiumcarbonaat), aroma's, rijsmiddel (natriumcarbonaten), zout, magere MELKPOEDER, honing, verdikkingsmiddel (xanthaangom).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1655.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "395.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "146.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:28"
+}

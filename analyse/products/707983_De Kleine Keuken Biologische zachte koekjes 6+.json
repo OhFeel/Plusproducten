@@ -1,0 +1,103 @@
+{
+  "sku": "",
+  "name": "De Kleine Keuken Biologische zachte koekjes 6+",
+  "brand": "De Kleine Keuken",
+  "price": "3.19",
+  "base_unit_price": "26.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/707983_M/841a6679170a4b45805bf0be07b2380c/707983.png",
+  "ingredients": "Ingrediënten: Volkoren TARWEmeel* 40%, geconcentreerd appelsap* 30%, rijstmeel*, zonnebloemolie*, cacaoboter*, inuline (agave)*, magere MELKpoeder*, rijsmiddel (natriumwaterstofcarbonaat), calciumcarbonaat, vitamine B1, *van biologische oorsprong. Kan sporen bevatten van soja, eieren, mosterd en noten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1466.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "351.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.53",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "250.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "1.9",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.77",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "0.9",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koper",
+      "value": "0.2",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:47"
+}

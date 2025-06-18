@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Magic Time Jalapeno popcorn",
+  "brand": "Magic Time",
+  "price": "3.59",
+  "base_unit_price": "14.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949143_M/c69e157c34d9cc5f13a63a1910e27f2e/949143.png",
+  "ingredients": "Ingrediënten: popcorn, palmolie, natuurlijke aroma's: (emulgator: Arabische gom (E414), MOSTERD), mais maltodextrine, medium triglyceriden, zonnebloemolie, zout, kleurstoffen: paprika (E160c), annatto (E160b(i)), chelator: citroenzuur (E330). Kan MELK bevatten.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "587.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "140.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.87",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:05"
+}

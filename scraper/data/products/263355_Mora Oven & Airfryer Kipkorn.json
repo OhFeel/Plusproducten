@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer Kipkorn",
+  "brand": "Mora",
+  "price": "4.74",
+  "base_unit_price": "15.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/263355_M/4821202fdd438ba083693d2b6c2c6ed1/263355.png",
+  "ingredients": "Ingrediënten: kippenvlees (kipfilet) 35%, water, plantaardige oliën (palm, raap), paneermeel (TARWEbloem, water, gist, zout), cornflakes (maïs, GERSTEmoutextract, zout, suiker), SOJA-eiwit, kippenvet, doorhaalmiddel (glucosestroop, witte basterdsuiker (suiker, invertsuikerstroop), TARWEbloem, dextrose, stabilisator: E466, zout, TARWE-eiwit, bruine basterdsuiker (suiker, invertsuikerstroop, karamel)), natuurlijk aroma (bevat SELDERIJ, GERST), kippencollageen, zout, TARWEbloem, weipoeder (MELK), SOJA-eiwit concentraat, emulgatoren: E451 en E452, specerijen, kruiden, ui. Kan sporen van EI bevatten. \"E\"-nummers zijn door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1199.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "288.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:45:45"
+}

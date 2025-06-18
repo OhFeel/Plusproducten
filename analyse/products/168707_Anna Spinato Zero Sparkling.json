@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Anna Spinato Zero Sparkling",
+  "brand": "Anna Spinato",
+  "price": "8.49",
+  "base_unit_price": "11.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/168707_M/764238cf33d6b96206f4bae37fb8dc5a/168707.png",
+  "ingredients": "Ingredients: Grape Must, Water, Natural Aromas. Preservatives: E242, SULPHITES. Containes SULPHITES.",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "109.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "26.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0125",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:05:20"
+}

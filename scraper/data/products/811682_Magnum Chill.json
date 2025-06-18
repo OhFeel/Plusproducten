@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum Chill",
+  "brand": "Magnum",
+  "price": "4.39",
+  "base_unit_price": "1.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/811682_M/c554dd5ab2b53c35a53b5b247ed2e3b4/811682.png",
+  "ingredients": "water, suiker, cacaoboter¹, cacaomassa¹, glucosestroop, bosbessenpuree (5%), kokosolie, bosbessensap van geconcentreerd sap (2,5%), fructose, glucose-fructosestroop, rijstebloem, tapiocabloem, spirulinaconcentraat, raapzaadolie, erwteneiwit, emulgator (lecithines), magere cacaopoeder¹, aroma's, stabilisatoren (johannesbroodpitmeel, guargom, carrageen), zout, rijsmiddel (e500), geconcentreerd appelsap, geconcentreerd wortelsap, zuurteregelaar (citroenzuur). kan amandel, hazelnoot, melk, haver, rogge, soja en tarwe bevatten. ¹rainforestalliance gecertificeerd. ra.org.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1274.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "305.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:35"
+}

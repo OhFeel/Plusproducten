@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Kipnuggetbroodje",
+  "brand": "PLUS",
+  "price": "1.29",
+  "base_unit_price": "1.29",
+  "image_url": "",
+  "ingredients": "32% Kipnuggets (66% kippenvlees, water, TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem), maisbloem, aardappelzetmeel, TARWEGRIESMEEL, dextrine, rijstebloem, specerijen (uipoeder, knoflookpoeder), zeezout, zout, TARWEGLUTEN, kleurstof: E170, rijsmiddel: E500/E450), TARWEBLOEM, 15% zoetzure saus (water, abrikozenpuree, glucose- fructosestroop, suiker, natuurazijn, gemodificeerd maïszetmeel, citroensap, raapzaadolie, gemberpuree (suiker, gember), zout, voedingszuur: citroenzuur, verdikkingsmiddel: xanthaangom, uipoeder, kleurstof: karamel, zoetstof: E955, aroma, conserveermiddel: E202), water, palmolie, SCHARRELEI, magere MELKPOEDER, gist, raapzaadolie, gejodeerd zout, suiker, SCHARRELKIPPENEI-EIGEEL, TARWEGLUTEN, emulgator: E471/E472e, dextrose, zout, veldbonenmeel, voedingszuur: citroenzuur, meelverbeteraar: E300.\n\n.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1089.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "260.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.97",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:35"
+}

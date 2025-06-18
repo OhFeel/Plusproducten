@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Teriyaki",
+  "brand": "Knorr",
+  "price": "4.45",
+  "base_unit_price": "14.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/296407_M/cb3770d8ce556c963bddc4572772edd4/296407.png",
+  "ingredients": "Ingrediënten: Ingrediënten rijstmix: Rijst¹ 98,4%, wortel¹ 1,6%. Kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten. Ingrediënten sausmix: Zetmeel, suiker, knoflookpoeder¹ 8%, zout, aroma, sojasauspoeder (sojasaus (SOJABOON, TARWE), zout, maltodextrine), prei¹ 2,5%, gember, geconcentreerd citroensap (citroensap, maltodextrine), ananaspoeder, wortel¹ 2%, ui¹ 1,9%, kleurstof E150c, rode paprika¹ 1,1%, gistextract, GARNALENPOEDER, SESAMOLIE, koriander, plantaardige olie (maïs, zonnebloem), mineraalzout (kalium), rode wijnextract, cayennepeper, geconcentreerd uiensap¹ 0,2%, palmvet, peterseliewortel¹. Kan weekdieren, ei, vis, melk, selderij, mosterd bevatten. Ingrediënten specerijenmix: Sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), suiker, gember, koriander, zout, paprikapoeder¹, gistextract, kleurstof E150c, palmvet, maltodextrine, cayennepeper, citroensap, tamarindepoeder, mineraalzout (kalium), aroma, geconcentreerd groentesap¹ 0,2% (KNOLSELDERIJ, wortel, prei, ui), rookaroma, specerijen (anijs, steranijs, kaneel, venkelzaad, peper, kruidnagel). Kan ei, melk, mosterd bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij, Sesamzaad, Zeegarnaal en producten op basis van zeegarnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1519.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "365.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:54"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Calvé Snacksaus mosterd",
+  "brand": "Calvé",
+  "price": "3.35",
+  "base_unit_price": "7.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/694419_M/c9fb3820bb0a27c4acb85ac58817aa87/694419.png",
+  "ingredients": "Ingrediënten: Water, mosterd 24% (water, MOSTERDZAAD, azijn, zout, natuurlijk aroma, specerijen), raapzaadolie, azijn, suiker, gemodificeerd maïszetmeel, EIGEEL (scharrel), zout, mineraalzout (kalium), verdikkingsmiddel E415, aroma, kleurstof E160a.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "171.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "41.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:24:06"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS BBQ Pangaspiesen",
+  "brand": "PLUS",
+  "price": "4.49",
+  "base_unit_price": "16.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/753143_M/c6f97d60acae0b44aba8ab51eb988b25/753143.png",
+  "ingredients": "90% pangasius (85,5%** pangasius meerval* (VIS), water, zout, voedingszuur: natriumcitraten), 10% marinade plantaardige oliën (raapzaad, zonnebloem), zout, groenten (ui, knoflook, paprika), specerijen (peper, paprika, chilipeper, venkelzaad, kaneel, vanille), baob vruchtvlees, suiker, natuurlijke aroma's, kruiden (bonenkruid, oregano, basilicum), aroma's, rooibosthee, paprikaconcentraat, kurkuma-extract). **op eindproduct. *Pangasius spp., gekweekt in Vietnam",
+  "allergens": "Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "619.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "148.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.05",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.55",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.83",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.76",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:37:45"
+}

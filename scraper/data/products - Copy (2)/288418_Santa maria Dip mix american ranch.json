@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Santa maria Dip mix american ranch",
+  "brand": "Santa maria",
+  "price": "0.99",
+  "base_unit_price": "70.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/288418_M/40f579f772f2f545f61feaeee8ccaee5/288418.png",
+  "ingredients": "Ingrediënten: Ui, zout, kruiden (9%)(peterselie, basilicum, oregano), knoflook (8%), zwarte peper, suiker, citroensappoeder, antiklontermiddel (siliciumdioxide).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1137.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "269.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "18.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:07"
+}

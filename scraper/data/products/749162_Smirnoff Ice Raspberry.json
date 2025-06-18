@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Smirnoff Ice Raspberry",
+  "brand": "Smirnoff",
+  "price": "2.29",
+  "base_unit_price": "9.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749162_M/f53b81c5afc2750a476ac85b2f2cb1e7/749162.png",
+  "ingredients": "Ingrediënten: Smirnoff N.21 Premium-wodka met frambozensmaak en kleurstoffen",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "272.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "65.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:36:02"
+}

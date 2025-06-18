@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Campina Botergoud ongezouten roomboter",
+  "brand": "Campina",
+  "price": "6.99",
+  "base_unit_price": "17.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/914000_M/6868eb403092ef780d2a854cb6843d02/914000.png",
+  "ingredients": "Ingrediënten: Bevat 82% melkvet.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3060.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "744.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "82.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "800.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "1.2",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "1.9",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:14"
+}

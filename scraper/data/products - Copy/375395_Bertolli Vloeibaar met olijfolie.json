@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Bertolli Vloeibaar met olijfolie",
+  "brand": "Bertolli",
+  "price": "3.69",
+  "base_unit_price": "7.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375395_M/27426accb0a573508f6655599274be14/375395.png",
+  "ingredients": "Ingrediënten: Plantaardige oliën 78% (raapzaad, olijf 6% (bestaande uit geraffineerde olijfolie en olijfolie van de eerste persing), zonnebloem, geheel geharde raapzaad, lijnzaad), water, kaliumchloride, emulgatoren (zonnebloemlecithine, SOJALECITHINE), voedingszuur (citroenzuur), natuurlijk aroma, kleurstof (caroteen), vitamine A en D.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2555.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "622.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "722.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "6.6",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:03"
+}

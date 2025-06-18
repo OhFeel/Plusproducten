@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Candyman Frisse watermeloen",
+  "brand": "Candyman",
+  "price": "1.89",
+  "base_unit_price": "10.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/936130_M/70302719c8bf7d2326bca081ceee20a9/936130.png",
+  "ingredients": "glucosestroop, suiker, water, rundergelatine, bevochtigingsmiddel (sorbitolen), voedingszuren (citroenzuur, appelzuur, melkzuur), geleermiddel (pectine), aroma's, zuurteregelaars (natriumlactaat, natriummalaat), concentraten (wortel, zwarte bes, saffloer), kleurstof (e133,). geproduceerd in een fabriek waar ook melkbestanddelen verwerkt worden.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1387.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "326.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:58"
+}

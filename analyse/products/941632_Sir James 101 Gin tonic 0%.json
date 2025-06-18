@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Sir James 101 Gin tonic 0%",
+  "brand": "Sir James 101",
+  "price": "1.89",
+  "base_unit_price": "7.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/941632_M/acd22ef2781ad23177c624d0997a4b82/941632.png",
+  "ingredients": "water, glucose-fructose-siroop, koolstofdioxide, zuurteregelaar: citroenzuur, natuurlijk jeneverbes- limoen aroma met andere natuurlijke aroma's, antioxidant: ascorbinezuur, aroma: natuurlijke kinine",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "160.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "38.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:13:22"
+}

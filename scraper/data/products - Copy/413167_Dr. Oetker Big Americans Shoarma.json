@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Big Americans Shoarma",
+  "brand": "Dr. Oetker",
+  "price": "4.99",
+  "base_unit_price": "12.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/413167_M/76b736ee4a6ce5c8ff4a250636f85534/413167.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 10% gekookt en gekruid varkensvlees (varkensvlees, water, zout, specerijen), 10% MOZZARELLA KAAS, 9,1% gezeefde tomaten, 4,5% tomatenconcentraat, 2,9% RICOTTA KAAS, raapzaadolie, bakkersgist, ROOM, suiker, zout, knoflook, GERSTEMOUTEXTRACT, emulgator (mono- en diglyceriden van vetzuren veresterd met mono- en diacetylwijnsteenzuur), verdikkingsmiddel (guarpitmeel), zuurteregelaar  (calciumfosfaten), specerijen, lavas. Kan bevatten: (SOJA, MOSTERD).",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "966.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "230.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:43:42"
+}

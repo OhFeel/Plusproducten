@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Encona Extra hot pepper sauce",
+  "brand": "Encona",
+  "price": "1.79",
+  "base_unit_price": "11.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/439904_M/448e5e13b7f6e6347f30806a6d9a7bf7/439904.png",
+  "ingredients": "Ingrediënten: puree van hete chilipepers (55%) (chilipepers (89%) (Habañero pepers, Scotch Bonnet pepers, Bhut Jolokia pepers), zout, voedingszuur (azijnzuur)), water, uienpoeder, Bird's Eye pepers, knoflookpoeder, MOSTERDpoeder, gemodificeerd zetmeel (E1414), stabilisator (xanthaangom), conserveermiddel (kaliumsorbaat). Puree van hete chilipepers afkomstig van buiten het vk.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "104.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "25.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:16"
+}

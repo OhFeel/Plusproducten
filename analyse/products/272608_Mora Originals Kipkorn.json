@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Originals Kipkorn",
+  "brand": "Mora",
+  "price": "3.89",
+  "base_unit_price": "12.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/272608_M/4ce0717c83d05fb77c75611feeae6f8a/272608.png",
+  "ingredients": "Ingrediënten: kippenseparatorvlees, bloem (bevat TARWE, SOJA, ROGGE), kippencollageen, plantaardige oliën (palm, raapzaad), water, maïs, kippenvlees 7%, zout, SOJA-eiwit, emulgatoren: E451, E450 en E452, suiker, moutextract (bevat GERST), zetmeel (bevat TARWE), natuurlijk aroma, specerijen, gist, rijsmiddel: E500, kruiden, TARWEgluten, antioxidant: E300, MELKeiwit, WIE-eiwitconcentraat (bevat MELK). Kan sporen van EI bevatten.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1447.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "348.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:50:00"
+}

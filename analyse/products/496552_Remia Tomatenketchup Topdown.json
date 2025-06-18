@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Tomatenketchup Topdown",
+  "brand": "Remia",
+  "price": "2.49",
+  "base_unit_price": "4.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/496552_M/7c6f663b2a661d3d369fc29c486db48c/496552.png",
+  "ingredients": "Ingrediënten: tomatenpuree (140 g verse tomaten per 100 g saus), natuurazijn, suiker, maiszetmeel, zeezout, specerijen, knoflook, zoetstof: steviolglycosiden uit Stevia.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "355.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "84.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:16:51"
+}

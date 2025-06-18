@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Pepermunten",
+  "brand": "Elvee",
+  "price": "2.59",
+  "base_unit_price": "12.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/808084_M/840a874c4ce5350fcd83b924455a8b47/808084.png",
+  "ingredients": "suiker, glucosestroop, antiklontermiddel (e470b), gemodificeerd aardappelzetmeel, natuurlijk mint aroma met andere natuurlijke aroma's, pepermuntolie.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1598.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "376.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "94.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "92.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:48:38"
+}

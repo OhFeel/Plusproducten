@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Cheetos Goals",
+  "brand": "Cheetos",
+  "price": "1.99",
+  "base_unit_price": "19.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780545_M/deeab1c2acec177d92aeb17d3814b0b2/780545.png",
+  "ingredients": "Ingrediënten: maïsmeel (73%), koolzaadolie, kaassmaak [LACTOSE (van MELK), weipoeder (van MELK), aroma's (bevat kaaspoeder (MELK)), gerookt zout, kaliumchloride, zout, smaakversterkers (mononatriumglutamaat, dinatriuminosinaat, dinatriumguanylaat), kleurstof (paprika extract)], suiker, zout, groente concentraat (wortel, radijs). Kan soja bevatten.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2156.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "516.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:00"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Gebrouwen door vrouw Gin Weizen",
+  "brand": "Gebrouwen door vrouw",
+  "price": "2.99",
+  "base_unit_price": "9.06",
+  "image_url": "",
+  "ingredients": "Ingrediënten: water, GERSTE-, TARWE- en SPELTmout, hop, gist, sinaasappelschil, jeneverbes, korianderzaad",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "231.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "55.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:54"
+}

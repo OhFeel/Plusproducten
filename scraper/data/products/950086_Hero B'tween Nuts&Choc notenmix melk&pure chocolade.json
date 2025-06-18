@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Hero B'tween Nuts&Choc notenmix melk&pure chocolade",
+  "brand": "Hero B'tween",
+  "price": "3.45",
+  "base_unit_price": "35.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/950086_M/86940d8a5dde89f14a913e2f58b0090a/950086.png",
+  "ingredients": "Ingrediënten: geroosterde PINDA's 33%, pure chocolade met zoetstoffen 15% (zoetstof (maltitol), cacaomassa**, cacaoboter**, emulgator (SOJAlecithine), natuurlijk vanille aroma), oligofructosestroop, geroosterde AMANDELEN 10%, zoetstof (maltitolstroop), volkoren HAVERvlokken, geroosterde HAZELNOTEN 5%, MELKchocolade met zoetstoffen 4% (zoetstof (maltitol), cacaoboter**, volle MELKpoeder, cacaomassa**, emulgator (lecithinen), natuurlijk vanille aroma), geroosterde SOJAbonen (SOJAbonen, zeezout), bevochtigingsmiddel (glycerol), HAZELNOOTpasta 1%, zonnebloemolie, zeezout, cacaopoeder met verlaagd vetgehalte**, emulgator (SOJAlecithine). Kan andere NOTEN bevatten.",
+  "allergens": "Haver en haverproducten (gluten, Aardnoten (pinda's), Soja, Melk, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2034.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "492.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:38"
+}

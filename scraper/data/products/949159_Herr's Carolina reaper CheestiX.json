@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Herr's Carolina reaper CheestiX",
+  "brand": "Herr's",
+  "price": "5.49",
+  "base_unit_price": "24.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949159_M/231522bdd1c9e32e0faaa4bb63b7f014/949159.png",
+  "ingredients": "Ingrediënten: Maismeel*, maïsolie, kaasmelange [wei (MELK), zonnebloemolie, maltodextrine, Cheddarkaas (MELK, melkbestanddelen, zout, enzymen), zout, zuurteregelaars: E339; E330; E270, boter (MELK, zout), kleurstof: paprika-extract, natuurlijke aroma’s, enzymen], kruiden (maïsmaltodextrine, zout, specerijen, knoflookpoeder, uienpoeder, suiker, paprikapoeder, verdikkingsmiddel: E414, glucosestroop bestanddelen, natuurlijke aroma’s, voedingszuur: E330, Carolina Reaper chilipoeder, natuurlijke rookaroma, wei eiwitconcentraat (MELK).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2091.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "500.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.88",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:08"
+}

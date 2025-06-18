@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "GIJS Ontbijtkoek gember",
+  "brand": "GIJS",
+  "price": "2.49",
+  "base_unit_price": "6.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/319057_M/5d50188bb5fa2936da62fd8326024007/319057.png",
+  "ingredients": "Ingrediënten: glucose-fructosestroop, ROGGEbloem, geconfijte gember 15.4% (gember 7.4%, rietsuiker, water), water, kandijsuiker, rijsmiddel (E500, E450), specerijen, ROGGEmoutmeel, TARWEzetmeel. Dit product kan sporen van noten bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1248.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "298.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.58",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:10:26"
+}

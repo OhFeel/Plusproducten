@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Villa Puccini Pinot Grigio Blush Rosé",
+  "brand": "Villa Puccini",
+  "price": "31.74",
+  "base_unit_price": "7.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/809563_M/cb0bed9c12c1ef896ae0b1cda4cf115f/809563.png",
+  "ingredients": "Bevat sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "293.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:01"
+}

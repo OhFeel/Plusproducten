@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Boursin Plantaardig Knoflook & kruiden",
+  "brand": "Boursin",
+  "price": "3.49",
+  "base_unit_price": "23.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/572640_M/8d5e4877ea6d7560054fb17879b4ebe0/572640.png",
+  "ingredients": "Ingrediënten: Water, kokosolie (22%), aardappelzetmeel, inuline, zonnebloemolie, knoflook en kruiden (1,7%), zout, aardappeleiwit, witte peper, conserveermiddel (kaliumsorbaat), verdikkingsmiddel (xanthaangom), natuurlijke aroma\nKan sporen van MELK bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "272.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:07"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix nasi goreng",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "53.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/891068_M/d7c4420413d7d28ecaa3d819aad4236c/891068.png",
+  "ingredients": "Ingrediënten: Specerijen 27.7% (paprika, korianderzaad 5%, knoflookpoeder, komijn, gember 2%, zwarte peper, kurkuma), zout 25%, aroma (bevat gerst, tarwe), smaakversterker: mononatriumglutamaat, dextrose, rode paprika, zuur: citroenzuur, antiklontermiddel: siliciumdioxide, kleurstof: paprika-extract. Totale gehalte aan specerijen: 27.7%",
+  "allergens": "Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1028.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "246.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "33.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:36"
+}

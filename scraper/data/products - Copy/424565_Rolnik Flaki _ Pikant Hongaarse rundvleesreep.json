@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Rolnik Flaki / Pikant Hongaarse rundvleesreep",
+  "brand": "Rolnik",
+  "price": "3.79",
+  "base_unit_price": "7.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/424565_M/57995954cad1847f13a5bb0b9f5d25ba/424565.png",
+  "ingredients": "Ingrediënten: water, gekookte rundervoormagen 29,7%, gekookte rundermagen 3,3%, kruiden- en aromamix (zout, specerijen, gedroogde groenten, aroma, suiker, glucose), TARWEmeel, tomatenconcentraat, plantaardige koolzaadolie, gemodificeerd maïszetmeel. Het product kan SELDERIJ, SOJA, MOSTERD, MELK en EIEREN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "312.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:47:17"
+}

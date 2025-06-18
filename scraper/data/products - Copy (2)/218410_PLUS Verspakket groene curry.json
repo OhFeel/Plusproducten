@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket groene curry",
+  "brand": "PLUS",
+  "price": "5.89",
+  "base_unit_price": "5.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/218410_M/71cb8fe3cd2a21d3e5abee03499aa749/218410.png",
+  "ingredients": "Ingrediënten :courgette, 18% kokosmelk (kokosnootextract, water, stabilisator: E415, verdikkingsmiddel: E412, emulgator: E407), tomaat, 13% groene currypasta (water, kokoscrème, zonnebloemolie, zout, gemberpuree (gember, water, zout, voedingszuur: E330, conserveermiddel: E202, stabilisator: E412/E415), specerijen (korianderzaad, sereh, kurkuma, komijn, zwarte peper, karwijzaad, witte peper, gember, laos, kardemom, chilipeper, paprikapoeder, fenegriek, jalapeñopeper, piment, nootmuskaat, venkelzaad), kruiden (korianderblad, lavasblad), gebakken uienpuree (ui, zonnebloemolie, zout, water, citroensap, citroenvezel), gemodificeerd maïszetmeel, knoflookpuree (knoflook, water, zout), tomatenpoeder, spinaziepoeder, limoensapconcentraat, stabilisator: E415, natuurlijk aroma, kurkuma-extract, conserveermiddel: E202/E211), ui, wortel, komkommer, puntpaprika, rode peper.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "467.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "111.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.999",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.991",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.046",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.843",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.44",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.774",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "10.666",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.886",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.468",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.536",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.214",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:24:47"
+}

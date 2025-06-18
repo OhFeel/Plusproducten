@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Kip Tajine met groenten",
+  "brand": "Uit de keuken van",
+  "price": "6.29",
+  "base_unit_price": "13.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946680_M/2899af68fe39abda59af3ca3d4f0689e/946680.png",
+  "ingredients": "Ingrediënten :24% Tomatenblokjes (tomaat, tomatensap, voedingszuur: citroenzuur), 23% gekookte bulgur (water, bulgur (TARWE)), 13% kippenvlees*, 8% wortel, 6% ui, water, 5% paprika, 5% courgette, 3,3% doperwten, raapzaadolie, conserveermiddel: gebufferde azijn, peterselie, zout, knoflookpuree, gember, gemodificeerd maiszetmeel, groentebouillonpoeder (gedroogde groenten (ui, knoflook, tomaat, wortel, pastinaak, prei), specerijen (o.a. SELDERIJZAAD), kruiden (o.a. SELDERIJBLAD)), specerijen, suiker, zoethoutwortelpoeder, olijfolie, azijn.\n* = Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "467.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "111.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:42"
+}

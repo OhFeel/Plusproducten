@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nissin Demae Ramen Miso",
+  "brand": "Nissin",
+  "price": "1.19",
+  "base_unit_price": "12.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/916873_M/e9e6445c12e3ca7806b581e9de18250f/916873.png",
+  "ingredients": "Ingrediënten: Noedels 90,8% [TARWEMEEL, palmolie, zout, meelverbeteraars (natriumcarbonaat, trifosfaten), stabilisator (kaliumcarbonaat), verdikkingsmiddel (guarpitmeel), antioxidant (tocoferolrijk extract)], Kruidenpoeder 9,2% [zout, suiker, smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), glucosestroop, misopoeder (SOJABONEN, rijst, zout) 7,6% in kruidenpoeder, specerijen, verdikkingsmiddel (guarpitmeel), uienpoeder, aroma's (bevat TARWE, SOJA, SESAM), kleurstoffen (ammoniakkaramel, paprika-extract), sojasauspoeder (SOJABONEN, TARWE, zout, maltodextrine), antiklontermiddel (siliciumdioxide), gistextract, gehydrolyseerd maïseiwit, zuurteregelaar (barnsteenzuur)]. Kan sporen bevatten van SELDERIJ, SCHAALDIEREN, VIS, MELK, WEEKDIEREN en MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "378.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.97",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:56"
+}

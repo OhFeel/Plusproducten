@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verkade Shuttels paprika-kaas",
+  "brand": "Verkade",
+  "price": "1.77",
+  "base_unit_price": "11.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/743560_M/0fab79e3035af46c156eef64d6bdebbd/743560.png",
+  "ingredients": "Ingrediënten: TARWEbloem, plantaardige oliën (kokos, palm, zonnebloem), KAAS 10% [EMMENTAL 9% (conserveermiddel (E251), zuurteregelaar (calciumchloride)), KAASpoeder 1%], suiker, aroma's (MELK), rijsmiddelen (ammonium- en natriumcarbonaten, dinatriumdifosfaat), zout, LACTOSE, gedroogde tomaat, dextrose, kruiden & specerijen, kleurstof (bietenrood), paprika extract (eq. paprika 2%)\n\nKan sporen bevatten van sesamzaad, ei en soja.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2062.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "492.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:30"
+}

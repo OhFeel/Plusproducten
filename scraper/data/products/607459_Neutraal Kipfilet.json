@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Neutraal Kipfilet",
+  "brand": "Neutraal",
+  "price": "2.79",
+  "base_unit_price": "18.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/607459_M/79cf03208abdb131d502e081ecf131bd/607459.png",
+  "ingredients": "kippenvlees (72%), water, voedingszuur (e326, e330), zout, aardappelzetmeel, dextrose, conserveermiddel (e267, e250), verdikkingsmiddel(e407), stabilisator (e451, e450), natuurlijk aroma, specerijenepecerijenextract, zonnebloemolie, antioxidant (e316)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "596.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:40"
+}

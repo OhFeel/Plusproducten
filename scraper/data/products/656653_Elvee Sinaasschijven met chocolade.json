@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Sinaasschijven met chocolade",
+  "brand": "Elvee",
+  "price": "3.49",
+  "base_unit_price": "20.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/656653_M/58e3610d1c60e8141e6eba7fdc1fad1e/656653.png",
+  "ingredients": "Ingrediënten: suiker, water, glucosestroop, pure chocolade [cacaomassa, suiker, cacaoboter, emulgator (SOJALECITHINE), natuurlijk vanille-aroma], geleermiddel (E406), zuurteregelaar (citroenzuur), 1% sinaasappelconcentraat, aroma’s, kleurstoffen (carotenen, E120), KIPPENEI-EIWIT. Gemaakt in een bedrijf waar ook melk verwerkt wordt.",
+  "allergens": "Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1204.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "284.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:18"
+}

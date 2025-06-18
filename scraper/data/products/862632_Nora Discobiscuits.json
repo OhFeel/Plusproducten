@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nora Discobiscuits",
+  "brand": "Nora",
+  "price": "2.19",
+  "base_unit_price": "0.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/862632_M/e230ae0697655379628373d485abfa59/862632.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, suiker, glucosefructosestroop, plantaardige vetten (palm, sal, shea, mango), cacaomassa, VOLLEMELKPOEDER, weipoeder (bevat MELK), cacaoboter, bevochtigingsmiddel: glycerol; raapzaadolie, emulgator: SOJALECITHINE; rijsmiddelen: natriumcarbonaat, kaliumtartraat, ammoniumwaterstofcarbonaat; invertsuiker, zout, rijstzetmeel, natuurlijk aroma, kleurende vruchten- en plantenconcentraten (druif, saffloer, zwart bes, spirulina, bietenrood, citroen, radijs), GERSTEMOUTEXTRACT, glansmiddelen: bijenwas, carnaubawas, arabische gom; verdikkingsmiddel: carrageen. KAN SPOREN BEVATTEN VAN NOTEN, PINDA'S en EI.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1897.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "453.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.34",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:57:28"
+}

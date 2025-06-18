@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Biofood Lijnzaadmix sesam chia",
+  "brand": "Biofood",
+  "price": "2.59",
+  "base_unit_price": "10.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/938907_M/652eb43264b871862a836c239c037f5f/938907.png",
+  "ingredients": "gebroken lijnzaad** (70%), SESAMzaad** (20%), chia** (10%). Kan NOTEN en GLUTEN bevatten. **Van gecontroleerde biologische teelt. ",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "512.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "27.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:50"
+}

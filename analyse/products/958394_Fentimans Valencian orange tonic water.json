@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fentimans Valencian orange tonic water",
+  "brand": "Fentimans",
+  "price": "3.99",
+  "base_unit_price": "5.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/958394_M/5e6d0ab28e2d2771c490f096a85b2a48/958394.png",
+  "ingredients": "koolzuurhoudend water, suiker, natuurlijke smaakstoffen (waaronder valenciaanse sinaasappelsextrct), citroenzuur, natuurlijke kleurstoffen (appel en hibiscus concentraat), natuurlijke zoetstof: steviolglycosiden uit stevia, kinine, gefermenteerde plantenextracten: (jeneveres, limoenblaadjes, citroengras), citroen-thijm infusie",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "92.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "22.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:21:42"
+}

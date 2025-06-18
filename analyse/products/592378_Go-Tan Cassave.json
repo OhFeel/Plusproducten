@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Cassave",
+  "brand": "Go-Tan",
+  "price": "1.39",
+  "base_unit_price": "19.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/592378_M/c96f3f5355c64984d08fa937ddd853be/592378.png",
+  "ingredients": "44% cassavewortel, zonnebloemolie, tapiocazetmeel, suiker, 4% prei, kruiden en specerijen (1,5% chili, 0,7% laos, 0,02% peper), zout. kan sporen van glutenbevattende granen (tarwe), soja, selderij, sesam en schaaldieren bevatten.",
+  "allergens": "Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2025.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "484.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:55:10"
+}

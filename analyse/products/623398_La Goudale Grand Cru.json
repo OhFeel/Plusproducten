@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "La Goudale Grand Cru",
+  "brand": "La Goudale",
+  "price": "2.39",
+  "base_unit_price": "7.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/623398_M/3fde94f6cae9e3b366ae938e64fc4ac1/623398.png",
+  "ingredients": "Ingrediënten: Bevat tarwe en GERSTEMOUT",
+  "allergens": "Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1040.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "248.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "7.9",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:02"
+}

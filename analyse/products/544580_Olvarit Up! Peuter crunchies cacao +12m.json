@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Olvarit Up! Peuter crunchies cacao +12m",
+  "brand": "Olvarit",
+  "price": "1.99",
+  "base_unit_price": "28.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/544580_M/26c4e55aa52a6a9fc7d8a835a86b846b/544580.png",
+  "ingredients": "ingrediënten : 30% maisbloem, 28% volkoren tarwebloem, 28% volkoren gierstmeel, 11% suiker, 3% cacaopoeder, vitamine b1. kan sporen bevatten van: melk, noten (hazelnoot en amandel), soja, mosterd en lupine.",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1616.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "382.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "75.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.6",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:33:06"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Oma's Soep Tomatensoep met verse basilicum",
+  "brand": "Oma's Soep",
+  "price": "3.99",
+  "base_unit_price": "7.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/184109_M/59b094c3638c1ea06e2df29bac7064a2/184109.png",
+  "ingredients": "groentebouillon (water, zout, maïszetmeel, uienpoeder, wortel, knoflookpoeder, gemalen lavas, peterselie, foelie, kurkuma, witte peper en zonnebloemolie), tomaat (tomaat en tomatenpuree) (39%), tomatenpuree (9%), wortel, zonnebloemolie, basilicum (1%), maizena, ui, knoflook, zout, zwarte peper, xanthagom, oregano, laurier en lavas.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "163.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "39.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.79",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.96",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:11:50"
+}

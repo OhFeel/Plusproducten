@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Marqués de Cáceres Sauvignon Blanc DO",
+  "brand": "Marqués de Cáceres",
+  "price": "8.99",
+  "base_unit_price": "11.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436329_M/1616370447ec9e39133c7e3935e26d4b/436329.png",
+  "ingredients": "Contains SULPHITES",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "330.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "14.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:27"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Teisseire Siroop iced tea peach zero",
+  "brand": "Teisseire",
+  "price": "4.24",
+  "base_unit_price": "7.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/235590_M/bfed33d927df20e29a7e2290705e5e18/235590.png",
+  "ingredients": "Ingrediënten: Water, perziksap uit concentraat 10%, vulstof: polydextrose, kleurstof: karamel, voedingszuur: citroenzuur, aroma's, thee-extract, verdikkingsmiddel: xanthaangom, zoetstoffen: sucralose, acesulfaam -K, conserveermiddel: kaliumsorbaat",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "80.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "19.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:33:35"
+}

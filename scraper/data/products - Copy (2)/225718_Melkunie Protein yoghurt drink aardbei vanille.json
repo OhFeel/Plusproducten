@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Melkunie Protein yoghurt drink aardbei vanille",
+  "brand": "Melkunie",
+  "price": "1.99",
+  "base_unit_price": "6.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/225718_M/5c33636db4d0fc9b0277a3042574d955/225718.png",
+  "ingredients": "Ingrediënten: magere MELK, 3% aardbeisap, suiker, 2% aardbei, maïszetmeel, verdikkingsmiddel: pectine, citroensapconcentraat, wortelconcentraat, vanille-extract, lactase, natuurlijk aroma, melkfermenten (MELK)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "279.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "66.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:28:51"
+}

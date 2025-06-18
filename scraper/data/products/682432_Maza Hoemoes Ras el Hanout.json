@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maza Hoemoes Ras el Hanout",
+  "brand": "Maza",
+  "price": "2.49",
+  "base_unit_price": "12.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/682432_M/3168be81005a773de7f8f9c55fdd7fe7/682432.png",
+  "ingredients": "Ingrediënten: 49% Kikkererwten, raapolie, 15% SESAMpasta (SESAMzaad, zout), water, harissa (Spaanse pepers, koriander, kruiden), zout, honing, knoflook, voedingszuur: citroenzuur, anijs, laurier, paprikapoeder, karwijzaad, peper, conserveermiddelen: kaliumsorbaat, kaneel, kruidnagel.  Kan sporen van NOTEN en PINDA’S bevatten",
+  "allergens": "Koriander, Sesamzaad, Peulvruchten muv groene bonen/erwten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1318.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "319.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:31"
+}

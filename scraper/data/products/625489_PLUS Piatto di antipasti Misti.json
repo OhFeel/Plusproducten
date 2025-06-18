@@ -1,0 +1,103 @@
+{
+  "sku": "",
+  "name": "PLUS Piatto di antipasti Misti",
+  "brand": "PLUS",
+  "price": "3.99",
+  "base_unit_price": "39.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/625489_M/b6f2beb45c1da9fa7cd0595b52b8dd75/625489.png",
+  "ingredients": "ingrediënten :salami napoli: 96% varkensvlees*, zout, natuurlijke aroma’s, dextrose, sacharose, zwarte peper, rookaroma, antioxidant: e301, conserveermiddel: e250/e252.\ncoppa: 96% varkensvlees**, zout, dextrose, specerijen, antioxidant: e301, conserveermiddel: e250/e252. \ncured ham: 95% varkensvlees**, zout, conserveermiddel: e252. \n*land van oorsprong: italië.\n**land van oorsprong: eu.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1334.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "321.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "1.72",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:18"
+}

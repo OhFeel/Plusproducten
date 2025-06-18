@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Liga Muesli Reep Krenten",
+  "brand": "Liga",
+  "price": "2.09",
+  "base_unit_price": "14.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639183_M/fe6faa410b5d2e430cd719b4d5255a6b/639183.png",
+  "ingredients": "Ingrediënten: HAVERVLOKKEN 22 %, suiker, glucosestroop, krenten, stabilisator (sorbitolen), palmolie, invertsuikerstroop, VOLKORENTARWEMEEL 5,5 %, rijstbloem 5 %, cacaoboter, honing, cacaomassa, magere MELKPOEDER, TARWEZEMELEN, weipoeder (van MELK), bevochtigingsmiddel (glycerol), MELKVET, emulgatoren (SOJALECITHINEN,  E471,  E476), zout, sheavet, GERSTEMOUTEXTRACT, melasse, aroma.  KAN BEVATTEN: PINDA EN NOTEN.",
+  "allergens": "Tarwe, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1752.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "417.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:12"
+}

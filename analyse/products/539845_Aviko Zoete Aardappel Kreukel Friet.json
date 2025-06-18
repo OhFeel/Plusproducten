@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Aviko Zoete Aardappel Kreukel Friet",
+  "brand": "Aviko",
+  "price": "3.99",
+  "base_unit_price": "8.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/539845_M/b69c98750feae4ef7db22020e0341c31/539845.png",
+  "ingredients": "zoete aardappelen (herkomst niet-e.u), gemodificeerd aardappelzetmeel, zonnebloemolie, rijstebloem, zout, dextrin, rijsmiddel (e500, e450), maltodextrine, verdikkingsmiddel (e415), kurkuma, kleurstof: paprika-extract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "628.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "150.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:31:33"
+}

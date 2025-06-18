@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Aviko Hollandse Friet Supercrunch",
+  "brand": "Aviko",
+  "price": "2.85",
+  "base_unit_price": "3.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/877493_M/e126452ee4d270b392239e9eda399878/877493.png",
+  "ingredients": "aardappelen (herkomst eu), zonnebloemolie, gemodificeerd aardappelzetmeel, rijstebloem, zout, dextrine, rijsmiddel (e450, e500), maltodextrine, verdikkingsmiddel (e415).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "654.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "156.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:58:45"
+}

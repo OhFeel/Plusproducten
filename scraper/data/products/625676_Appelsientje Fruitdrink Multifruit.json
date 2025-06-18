@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Appelsientje Fruitdrink Multifruit",
+  "brand": "Appelsientje",
+  "price": "1.99",
+  "base_unit_price": "1.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/625676_M/b4db63eae49166072fc00fcef1777fce/625676.png",
+  "ingredients": "Ingrediënten: Vruchtensap uit concentraat (appel 49%, ananas 7,0%, abrikoos 3,0%, sinaasappel 2,9%, passievrucht 2,5%, mango 2,1%), water, vloeibare MELKbestanddelen (MELKpermeaat) 10%, ROOM , stabilisator (pectine), natuurlijk aroma, zoetstof (steviolglycosiden uit stevia)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "137.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "33.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.013",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:20"
+}

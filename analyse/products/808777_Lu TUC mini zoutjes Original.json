@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu TUC mini zoutjes Original",
+  "brand": "Lu",
+  "price": "1.79",
+  "base_unit_price": "17.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/808777_M/98e9abf98e05620dc63dc7d6cf4436f1/808777.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, palmolie, glucosestroop, GERSTEMOUTEXTRACT, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, EIEREN, aroma, meelverbeteraar (NATRIUMDISULFIET). KAN BEVATTEN: SOJA, MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2021.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "482.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:48:44"
+}

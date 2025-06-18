@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Groentecrackers Spinazie",
+  "brand": "Bolletje",
+  "price": "2.99",
+  "base_unit_price": "14.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/916636_M/ffd2d7406186f37b515e8dd9ee48d049/916636.png",
+  "ingredients": "Ingrediënten: 50% groenten (57% rode kidneybonen, 43% spinaziepuree), volkoren TARWEMEEL, TARWEGLUTEN, lijnzaad, raapolie, geroosterd SESAMZAAD, zout, gist, 0,1% gemalen komijnzaad. Kan andere glutenbevattende granen, eieren, melk en noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1931.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "461.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.99",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:48"
+}

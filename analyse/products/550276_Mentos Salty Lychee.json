@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mentos Salty Lychee",
+  "brand": "Mentos",
+  "price": "1.29",
+  "base_unit_price": "3.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/550276_M/82f999101aaa8c8778642a81101ad8cc/550276.png",
+  "ingredients": "Ingrediënten: water, 7% kokosgelei (80% kokos, suiker, water, zuurteregelaar: citroenzuur), suiker, 1% lycheesap uit lycheeconcentraat, zuurteregelaars: citroenzuur, trinatriumcitraat; bevochtigingsmiddel: glycerol; stabilisator: arabische gom; kokosolie, emulgator: E473; aroma's, zout, zoetstof: sucralose.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "68.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "16.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.045",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:35:36"
+}

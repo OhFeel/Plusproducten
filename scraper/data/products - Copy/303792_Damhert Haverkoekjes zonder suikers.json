@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Damhert Haverkoekjes zonder suikers",
+  "brand": "Damhert",
+  "price": "3.49",
+  "base_unit_price": "21.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/303792_M/fd5899d34ab597df7018d945cd7e7acd/303792.png",
+  "ingredients": "HAVERvlokken (27,8%), plantaardige vetten (palm, shea, kokos), zoetstof (26,1%) (maltitol), TARWEbloem, water, HAVERvezels (5,2%), plantaardige olie (raapzaad), rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, emulgator (mono-en diglyceriden van vetzuren), natuurlijke aroma's, antioxidant (citroenzuur), meelbehandelingsmiddel (ascorbinezuur). Kan EI, MElK (inclusief LACTOSE) en NOTEN bevatten. ",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2025.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "488.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "23.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:30"
+}

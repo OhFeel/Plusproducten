@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Taksi Exotisch fruit geen suiker 10-pack",
+  "brand": "Taksi",
+  "price": "2.99",
+  "base_unit_price": "1.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/245706_M/63e4df1ad785bd543d233c2e74a6774c/245706.png",
+  "ingredients": "Ingrediënten: Water, vloeibare MELKbestanddelen (MELKpermeaat) 40%, vruchtensap uit concentraat 6% (appel, perzik 0,8%, mango 0,3%, passievrucht 0,3%), ROOM (met een vetgehalte van 35%) <lt/>0,1%, stabilisator (pectine), voedingszuur (citroenzuur), kleurstof (bètacaroteen), zoetstof (sucralose), vitamine C",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "47.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "11.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "12.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:40:26"
+}

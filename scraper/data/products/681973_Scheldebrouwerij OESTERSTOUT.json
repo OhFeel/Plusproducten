@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Scheldebrouwerij OESTERSTOUT",
+  "brand": "Scheldebrouwerij",
+  "price": "3.19",
+  "base_unit_price": "9.67",
+  "image_url": "",
+  "ingredients": "Ingrediënten: water, (geroosterde) GERSTEMOUT, karamel, suiker, zeekraal, hop en gist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "352.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "84.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "8.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:05"
+}

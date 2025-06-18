@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Engelse drop",
+  "brand": "Elvee",
+  "price": "2.99",
+  "base_unit_price": "7.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/421813_M/c12db989b1b6f1a2ffe1ae7830f07908/421813.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, TARWEbloem, rietsuikermelasse, kokos, water, gelatine (varken), TARWEzetmeel, zoethoutwortelextract, cacaopoeder, natuurlijke aroma’s, emulgator (E471), kleurend levensmiddel (saffloerconcentraat), kleurstoffen (paprika-extract, bietenrood), plantaardige olie (kokos), glansmiddel (bijenwas). Dit product wordt gemaakt in een bedrijf waar ook andere allergenen worden verwerkt.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1598.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "378.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "81.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "64.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:46:39"
+}

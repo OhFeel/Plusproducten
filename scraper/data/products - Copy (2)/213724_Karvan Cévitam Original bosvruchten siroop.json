@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Karvan Cévitam Original bosvruchten siroop",
+  "brand": "Karvan Cévitam",
+  "price": "3.99",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/213724_M/60d73f899e659b7f5b6a3c2c417be66d/213724.png",
+  "ingredients": "Ingrediënten: Sap uit vruchtensapconcentraat 75% (appel, bosvruchten 12,3% (aardbei 6,7%, vlierbes 1,9%, braam 1,4%, framboos 1,3%, zwarte bes 1%)), suiker, voedingszuur (citroenzuur), natuurlijke aroma's, vitamine C, zwarte wortelconcentraat, appelextract, conserveermiddelen (kaliumsorbaat, natriumbenzoaat).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "967.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "231.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "60.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:04"
+}

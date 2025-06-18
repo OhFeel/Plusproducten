@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Wokgarnalen rauw knoflook",
+  "brand": "PLUS",
+  "price": "4.45",
+  "base_unit_price": "29.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/367901_M/7493e531466cf54fccfced97deaf0550/367901.png",
+  "ingredients": "Ingrediënten :85% Witpootgarnalen (SCHAALDIEREN)*, 15% knoflookmarinade (raapzaadolie, azijn, 11% knoflookpuree, natuurlijke aroma's, zout, zuurteregelaar: citroenzuur, bieslook, paprika, dilletoppen, peterselie, antioxidant: E223 (SULFIET)).\n\n*witpootgarnaal (Litopenaeus vannamei), gekweekt in Ecuador, Mexico, India, Guatemala, Nicaragua, Honduras, Indonesië, Venezuela en/of Vietnam. (zie inprint op het label)",
+  "allergens": "Schaaldieren, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "712.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "171.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.37",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.87",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.56",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.624",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:25:32"
+}

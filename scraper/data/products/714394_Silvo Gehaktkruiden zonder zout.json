@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Gehaktkruiden zonder zout",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "80.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/714394_M/2cd7d1c4f749c8103617b240d2992123/714394.png",
+  "ingredients": "Ingrediënten: Specerijen 63% (gedroogde ui 25%, gedroogde knoflook 16%, korianderzaad, komijn 5%, zwarte peper 5%, nootmuskaat, SELDERIJzaad), groene en rode paprika, kruiden 13% (peterselie 4%, bonenkruid, korianderblad, oregano, laurier), glucosestroop, gedroogde citroenschil, voedingszuur: citroenzuur, Totale gehalte aan specerijen en kruiden: 76%.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1370.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "326.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:08"
+}

@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Croma Bakken en braden vloeibaar",
+  "brand": "Croma",
+  "price": "4.59",
+  "base_unit_price": "6.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/453552_M/6500c4c17e1cc01aa9f83bdc3e5a1571/453552.png",
+  "ingredients": "Ingrediënten: Plantaardige oliën (koolzaad, zonnebloem, volledig geharde koolzaad), zout (1,1%) , droge MELKBESTANDDELEN, emulgator (SOJALECITHINE) , smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, natriuminosinaat), natuurlijke aroma's, vitamine A en D",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3189.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "765.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.49",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "705.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "6.3",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:01:15"
+}

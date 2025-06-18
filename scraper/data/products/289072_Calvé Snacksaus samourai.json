@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Calvé Snacksaus samourai",
+  "brand": "Calvé",
+  "price": "2.99",
+  "base_unit_price": "11.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/289072_M/4d6c74c3621ccc84336f7f8dfd9f92f9/289072.png",
+  "ingredients": "Ingrediënten: Water, raapzaadolie, azijn, gemodificeerd maïszetmeel, suiker, sambal oelek 3% (rode chilipeper, water, zout, azijn, gemodificeerd zetmeel), EIGEEL (scharrel), tomatenpuree, mosterd 1,5% (water, MOSTERDZAAD, azijn, zout, aroma, specerijen), zout, rode paprika, knoflook, gistextract, rode chilipeper 0,2%, paprika-extract.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "170.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "41.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:47"
+}

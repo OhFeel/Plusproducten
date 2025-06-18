@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade XXL Choco wafel hazelnootcrème",
+  "brand": "Verkade",
+  "price": "4.29",
+  "base_unit_price": "20.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/161272_M/a9d4c33d25c8966aac6a0d55e2393f1a/161272.png",
+  "ingredients": "Ingrediënten: Suiker, volle MELKpoeder, palmolie, TARWEbloem, cacaomassa, cacaoboter, HAZELNOOTpuree (5%), magere cacaopoeder, pure chocolade (1,4%), gemodificeerd maïszetmeel, emulgatoren (ammoniumfosfatiden, SOJAlecithinen, E476), zout, aroma's, enzym (bevat TARWE), EIwitpoeder\n\nKan pinda en andere noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2218.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "531.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "46.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:10"
+}

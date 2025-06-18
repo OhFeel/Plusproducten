@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BeKind Notenrepen glutenvrij karamel amandel",
+  "brand": "BeKind",
+  "price": "3.39",
+  "base_unit_price": "1.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/818572_M/56287fce3802b5df84495a8a4d77dc23/818572.png",
+  "ingredients": "Ingrediënten: AMANDELEN, coating met karamelsmaak (cichoreiwortelvezel, palmpitolie, suiker, volle MELKPOEDER, MAGEREMELKPOEDER, gealkaliseerde cacao, emulgator (zonnebloemlecithine), zeezout, natuurlijk aroma), cichoreiwortelvezel, honing, glucosestroop, rijst krispies (rijstemeel), zeezout, emulgator (SOJALECITHINE). (Kan bevatten: PINDA'S en andere NOTEN).",
+  "allergens": "Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2211.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "534.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.72",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:18"
+}

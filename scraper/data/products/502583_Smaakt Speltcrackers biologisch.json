@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Speltcrackers biologisch",
+  "brand": "Smaakt",
+  "price": "4.29",
+  "base_unit_price": "21.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/502583_M/d0bd3c3211bb3eb987b6aa6ee754ae1e/502583.png",
+  "ingredients": "Ingrediënten: Spelt(TARWE)bloem* 26%, volkoren spelt(TARWE)meel* 21%, water, zonnebloempitten*, SESAMzaad*, margarine* (ongehard palm- en kokosvet, zonnebloemolie, water, antioxidant: citroenzuur, emulgator: zonnebloemlecithine)*, lijnzaad*, HAVERvlokken*, zout, gist, *=biologisch\n\nKan sporen bevatten van andere glutenbevattende granen, ei, soja, melk, noten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1752.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "419.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:20:42"
+}

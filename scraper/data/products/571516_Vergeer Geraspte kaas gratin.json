@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vergeer Geraspte kaas gratin",
+  "brand": "Vergeer",
+  "price": "2.79",
+  "base_unit_price": "18.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/571516_M/d822275af24d469dff8e735f1e6ff4ab/571516.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde KOEMELK, aardappelzetmeel, zout, zuursel (bevat MELK), dierlijk stremsel, kleurstoffen (annatto norbixine/ carotenen), conserveermiddel (natriumnitraat)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1607.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "382.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.24",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:45:44"
+}

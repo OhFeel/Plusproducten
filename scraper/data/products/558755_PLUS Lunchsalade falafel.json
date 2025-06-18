@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Lunchsalade falafel",
+  "brand": "PLUS",
+  "price": "3.99",
+  "base_unit_price": "13.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/558755_M/6f811777bf551e369884c457d4732991/558755.png",
+  "ingredients": "Ingrediënten :52% mix van groenten, couscous, kikkererwt en vinaigrette (61% groenten (53% tomaat, 32% gele peen, 15% rode ui), 19% gekookte volkoren couscous (48% volkoren durum TARWEGRIESMEEL, water, extra vergine olijfolie, kurkuma, aroma, gistextract, maltodextrine, gedroogde groenten (ui, tomaat),  zonnebloemolie, lavaswortelextract, lavasblad, conserveermiddel: gebufferde azijn, zout), 14% gekookte kikkererwten (water, 46% kikkererwten, voedingszuur: citroenzuur), 6% munt-citroen-vinaigrette (water, raapzaadolie, azijn, kruiden (peterselie, munt), suiker, honing, geconcentreerd citroensap, zout, gemodificeerd zetmeel (maïs, aardappel), stabilisator: E415, sinaasappel, kurkuma), 20% spinazie, 15% hummus (57% kikkererwten (94% kikkererwten, water, zout, antioxidant: E300), zonnebloemolie, SESAMPASTA, water, komijn, knoflookpuree (knoflook, water, voedingszuur: citroenzuur, zout), zout, voedingszuur: citroenzuur/melkzuur, conserveermiddel: E202, citroensap (citroensap, conserveermiddel: E224, 14% falafel (55% gerehydrateerde kikkererwten, raapzaadolie, ui, paneermeel (TARWEBLOEM, TARWEZEMELEN, zout, gist, water), peterselie, specerijen (koriander, komijn, kurkuma, knoflook, chili), zout, rijsmiddel: E500, TARWEGLUTEN).",
+  "allergens": "Tarwe, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "637.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "153.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.727",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.912",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.89",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.777",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.409",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.492",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "9.77",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.68",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.337",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.425",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.157",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:39:33"
+}

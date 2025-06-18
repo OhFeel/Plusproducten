@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Sierra Tequila Silver",
+  "brand": "Sierra",
+  "price": "21.99",
+  "base_unit_price": "31.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/850911_M/13d0642b7448ad050f78af1b7bf3eb4f/850911.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "870.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "210.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "38",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:56:21"
+}

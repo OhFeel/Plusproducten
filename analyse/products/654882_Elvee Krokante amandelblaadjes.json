@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Krokante amandelblaadjes",
+  "brand": "Elvee",
+  "price": "4.39",
+  "base_unit_price": "29.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654882_M/b5d03905329474cc2795dda1caca3e24/654882.png",
+  "ingredients": "Ingrediënten: suiker, volle MELKPOEDER, cacaoboter, cacaomassa, 9% AMANDELEN, kleurstof (paprika-extract), emulgator (SOJALECITHINE), natuurlijk vanille-aroma. Gemaakt in een bedrijf waar ook andere noten en gluten bevattende granen worden verwerkt.",
+  "allergens": "Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2267.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "542.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:59"
+}

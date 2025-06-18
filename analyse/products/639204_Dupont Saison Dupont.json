@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Dupont Saison Dupont",
+  "brand": "Dupont",
+  "price": "2.25",
+  "base_unit_price": "6.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639204_M/168dedb56fcaa62e6866ff6a8f1829d8/639204.png",
+  "ingredients": "Ingrediënten: water, GERSTEmout, suiker, hop, gist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "6.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:14"
+}

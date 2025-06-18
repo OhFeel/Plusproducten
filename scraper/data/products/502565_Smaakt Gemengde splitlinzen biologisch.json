@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Gemengde splitlinzen biologisch",
+  "brand": "Smaakt",
+  "price": "2.29",
+  "base_unit_price": "5.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/502565_M/9fdb8d318a19dd4ec00a743235c21014/502565.png",
+  "ingredients": "rode splitlinzen 59,9%*, gele splitlinzen* 39,9%*, zonnebloemolie, *=biologisch_x000d_\n_x000d_\nkan sporen bevatten van glutenbevattende granen, pinda's, noten, sesamzaad._x000d_",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1570.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "370.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:20:31"
+}

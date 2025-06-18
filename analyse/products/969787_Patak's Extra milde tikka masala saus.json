@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's Extra milde tikka masala saus",
+  "brand": "Patak's",
+  "price": "3.49",
+  "base_unit_price": "7.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/969787_M/9d902c7e27da97e53660e975dce15d2a/969787.png",
+  "ingredients": "INGREDIËNTEN: Water, tomaat (15%), yoghurt (MELK) (5%), geconcentreerde tomatenpuree (4%), raapzaadolie, room (MELK) (3%), gemodificeerd maïszetmeel, gemalen specerijen (2%) [specerijen, komijn, koriander], gedroogde ui, suiker, knoflookpuree, gemberpuree, zout, voedingszuur (melkzuur), paprika-extract, komijnzaad, gedroogde korianderblad. ALLERGIE ADVIES: voor allergenen, zie VETGEDRUKTE ingrediënten. Kan sporen van pinda's en noten bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "334.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "80.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:10"
+}

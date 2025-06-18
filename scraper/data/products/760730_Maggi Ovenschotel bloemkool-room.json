@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Ovenschotel bloemkool-room",
+  "brand": "Maggi",
+  "price": "1.79",
+  "base_unit_price": "31.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/760730_M/f93a907e4d878f3515191a19bf2d9148/760730.png",
+  "ingredients": "Ingrediënten: zetmeel, aardappelen, gejodeerd zout, uien, gistextract, kruiden en specerijen (peterselie, knoflook, dragon, lavas, nootmuskaat, kurkuma), zonnebloemolie, aroma's (GLUTEN) Bevat mogelijk: MELK, EI, SOJA, SELDERIJ, MOSTERD.",
+  "allergens": "Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1270.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "300.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "17.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:31"
+}

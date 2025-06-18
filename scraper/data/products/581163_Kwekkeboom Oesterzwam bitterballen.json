@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kwekkeboom Oesterzwam bitterballen",
+  "brand": "Kwekkeboom",
+  "price": "4.99",
+  "base_unit_price": "19.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581163_M/bdc9d2819d4da58abc21565009518dc9/581163.png",
+  "ingredients": "Ingrediënten: bloem (TARWE, SOJA), water, plantaardige oliën (raapzaad, palm, zonnebloem),6% oesterzwam, groenten (ui, sjalot, knoflook, wortel), 3% paddenstoelenmix (oesterzwam, shiitake, bundelzwam, eekhoorntjesbrood, in wisselende verhouding), zout, natuurlijk aroma, gebakken ui, zetmeel (aardappel, maïs, TARWE), suiker, gistextract, gepofte knoflook, kleurstoffen (karamel, radijs rood concentraat, E160b(ii), E150d), kruiden en specerijen (peterselie, 0.1% tijm, peper), GERSTemoutextract, geleermiddelen (carrageen, konjacgum), paddenstoel concentraat, 0.1% zwarte knoflook, dextrose, verdikkingsmiddelen (guargom, xanthangum, E461, E466), SOJAbonen, natuurazijn, rijsmiddel (E500(ii)), antioxidant (ascorbinezuur, rozemarijnextract), gehydrolyseerdplantaardig eiwit (SOJA), voedingszuur (E270), conserveermiddel (E202), TARWE. E = Door de EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1038.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "259.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:02"
+}

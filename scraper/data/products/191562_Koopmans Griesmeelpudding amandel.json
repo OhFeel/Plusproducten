@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Koopmans Griesmeelpudding amandel",
+  "brand": "Koopmans",
+  "price": "1.25",
+  "base_unit_price": "14.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/191562_M/3ff5aefc236138504591951e6c2019ac/191562.png",
+  "ingredients": "Ingrediënten: 56% zachte TARWEGRIES, suiker, 1,6% gehakte AMANDELEN, zout, aroma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "399.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "94.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:15:17"
+}

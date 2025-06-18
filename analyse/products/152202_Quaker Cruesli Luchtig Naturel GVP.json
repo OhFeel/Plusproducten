@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Quaker Cruesli Luchtig Naturel GVP",
+  "brand": "Quaker",
+  "price": "5.99",
+  "base_unit_price": "7.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/152202_M/b56003d8cfaac4171b334ede9158012a/152202.png",
+  "ingredients": "Ingrediënten: volkoren HAVERMOUT (46%), zonnebloemolie, suiker, glucosesiroop, maïs (6%), rijstebloem (5,1%), volkoren TARWEMEEL (4,7%), oligofructose, zout, honing, melasse, GERSTEMOUT, natuurlijk vanille aroma en andere natuurlijke aroma's (TARWE). Kan melk, soja en verschillende soorten noten bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1919.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "457.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.45",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "192.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "89.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:37"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Holie's Granola Chocolate Crunch",
+  "brand": "Holie's",
+  "price": "3.99",
+  "base_unit_price": "11.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/707537_M/c3e4feab46276d10ec0c8ef1f3b90a6d/707537.png",
+  "ingredients": "Ingrediënten: VOLKOREN HAVERVLOKKEN 24%, VOLKOREN GERSTVLOKKEN 24%, VOLKOREN SPELTVLOKKEN 24%, Cichoreiwortelvezel 11%, Moerbei 6%, Cacaomassa 5%, Cacaopoeder 2%, HAZELNOTEN 2%, AMANDELEN 2%. Kan sporen van pinda's en soja bevatten.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1399.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "16.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:30"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "PLUS Boomstammetjes 2 stuks",
+  "brand": "PLUS",
+  "price": "2.35",
+  "base_unit_price": "11.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/837319_M/4df45051ef7333fb4137387df1a04c3d/837319.png",
+  "ingredients": "67% varkensvlees*, paneermeel (TARWEBLOEM, zout, ROGGE, water, gist, extract van paprika, kleurstof: E160b(i)), water, 4% kaas (MELK, zout, zuursel, microbieel stremsel), 4% gekookte ham (72% varkensvlees*, water, varkenseiwit, aardappelzetmeel, zout, dextrose, rookaroma), bamboevezel, groentepoeder (ui, paprika, knoflook), bloem (TARWE, maïs), zout, gistextract, zetmeel (TARWE, aardappel, rijst, maïs), kruiden (peterselie, rozemarijn), dextrose, rijstzemelen, specerijen (foelie, nootmuskaat, witte peper), aroma (bevat MELK), voedingszuur: E326.* = Beter Leven keurmerk 1 ster.Dit product kan sporen van EI, MOSTERD, SELDERIJ en SOJA bevatten. E = door eu goedgekeurde hulpstoffen",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1080.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "259.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.36",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.544",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:22"
+}

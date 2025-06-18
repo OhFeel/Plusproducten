@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "WeCare Crispbread knackebrod",
+  "brand": "WeCare",
+  "price": "3.59",
+  "base_unit_price": "35.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/911633_M/105e379e4a907dba7089b4b47f4948fd/911633.png",
+  "ingredients": "Ingrediënten: TARWEbloem 46%, SOJAmeel 41%, TARWE-eiwitten, palmvet, AMANDELpoeder, zout, emulgator: lecithinen (SOJA), rijsmiddelen: natriumwaterstofcarbonaat en kaliumcarbonaten\n\nKan sporen van melk bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1730.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "412.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:56"
+}

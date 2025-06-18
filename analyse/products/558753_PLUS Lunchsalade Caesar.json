@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Lunchsalade Caesar",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "19.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/558753_M/8cf6232879825358b85b3afbe32cf18e/558753.png",
+  "ingredients": "Ingrediënten :50% slamix (ijsbergsla, romaine sla), 16% gekookt EI (99% gekookt SCHARRELEI, voedingszuur: E260/E270/E330/E331, zout), 14% gegaarde kipfilet (92% kipfilet, water, zout, maïszetmeel, dextrose, conserveermiddel: gebufferde azijn), 8% caesardressing (water, plantaardige oliën (koolzaad, zonnebloem), olijfpulpolie, maïszetmeel, VRIJE-UITLOOPKIPPENEI-EIGEELPOEDER, natuurazijn, geraspte kaas (MELK, aardappelzetmeel, zout, microbieel stremsel, zuursel (MELK)), MOSTERD (MOSTERDZAAD, water, natuurazijn, zout, kurkuma, natuurlijk kruidenaroma), suiker, ANSJOVISPUREE (ANSJOVIS, zonnebloemolie, zout), zeezout, geconcentreerd citroensap, specerijen (knoflook, zwarte peper), tijm, verdikkingsmiddel: E415, gistextract, natuurlijke aroma's, extra vergine olijfolie), 6% Italiaanse kaas (gethermiseerde MELK, zout, microbieel stremsel), 6% knoflook-kruiden croutons (croutons (TARWEBLOEM, zonnebloemolie, dextrose, TARWEGLUTEN, gist, weipoeder (MELK), GERSTEMOUTEXTRACT, antioxidant: E300, zout), zonnebloemolie, knoflookgranulaat, kruiden (oregano, basilicum, majoraan, tijm, rozemarijn, peterselie), zout).\n\nDit product kan sporen van NOTEN en SESAM bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Vis, Melk, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "518.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.698",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.308",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.048",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.159",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.819",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.958",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.861",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.916",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.457",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.583",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.233",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.125",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:39:32"
+}

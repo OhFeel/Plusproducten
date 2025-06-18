@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Lichte crackers spelt",
+  "brand": "Bolletje",
+  "price": "2.39",
+  "base_unit_price": "12.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/404979_M/42ea6325761973bbdd7724121230290c/404979.png",
+  "ingredients": "Ingrediënten: speltbloem (TARWE), plantaardige vezels (oligofructose), raapolie, geroosterd SESAMZAAD, GERSTEMOUTEXTRACT, speltzemelen (TARWE), geroosterde speltkiemen (TARWE), zout, gist. Kan andere glutenbevattende granen bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1767.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "420.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:48"
+}

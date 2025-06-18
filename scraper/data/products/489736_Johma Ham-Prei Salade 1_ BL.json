@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Ham-Prei Salade 1* BL",
+  "brand": "Johma",
+  "price": "2.99",
+  "base_unit_price": "17.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/489736_M/6574f756ef9f36d92ddb63793f30a652/489736.png",
+  "ingredients": "Ingrediënten: koolzaadolie, 22% gekookte EIEREN Beter Leven 2 sterren, 15% gekookte ham (varkensvlees Beter Leven 1 ster, water, zetmeel, zout, vezels [aardappel, bamboe], stabilisatoren [difosfaten, trifosfaten, verwerkt Eucheuma-wier], specerijen, antioxidanten [extract van rozemarijn, natriumascorbaat, natriumerythorbaat], suiker, gehydrolyseerde plantaardige eiwitten [koolzaad, maïs], aroma, gistextract, dextrose, zonnebloemolie, ui-extract, gedroogd glucosestroop, gedroogde ui, varkenseiwit), 10% prei, water, suiker, natuurazijn, gepasteuriseerd EIGEEL, zout, peterselie, specerijen (MOSTERD), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), verdikkingsmiddelen (guarpitmeel, xanthaangom), gemodificeerd zetmeel, maltodextrine, voedingszuren (citroenzuur, melkzuur), natuurlijke aroma's, uipoeder, knoflookpoeder.\nKan sporen bevatten van gluten, melk, noten, pinda’s, sesamzaad, schaaldieren, selderij, soja en vis.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1577.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "382.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "37.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:14:35"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Liga 6+ Babybiscuits 2e stap",
+  "brand": "Liga",
+  "price": "2.15",
+  "base_unit_price": "12.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/773527_M/93fe793c383e5dd956a2e30e18804801/773527.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM 72 %, suiker, koolzaadolie, glucosestroop, glucose-fructosestroop, rijsmiddelen (ammoniumcarbonaten,  natriumcarbonaten), zuurteregelaar (citroenzuur), emulgator (SOJALECITHINEN), aroma, vitamine B1.KAN BEVATTEN: EI, MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1659.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "393.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "75.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.5",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:46"
+}

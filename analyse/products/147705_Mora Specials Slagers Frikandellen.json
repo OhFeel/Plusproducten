@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Specials Slagers Frikandellen",
+  "brand": "Mora",
+  "price": "3.55",
+  "base_unit_price": "11.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/147705_M/2f5d9ffad5b5167740a95b1e6b8ebf8d/147705.png",
+  "ingredients": "Ingrediënten: kippenseparatorvlees, varkensspek, water, rundvlees, bloem (bevat TARWE), zout, ui 1%, specerijen (o.a. <lt/>1% nootmuskaat), glucosestroop, maltodextrine, gistextract, gist, antioxidant: ascorbinezuur, natuurlijkearoma's, voedingszuur: citroenzuur, specerij-extracten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1043.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "251.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:56:15"
+}

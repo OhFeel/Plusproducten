@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mona Chipolatapudding met tropisch fruit",
+  "brand": "Mona",
+  "price": "2.49",
+  "base_unit_price": "5.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/448730_M/05df41090232b1b264c9ffd3bd88e61b/448730.png",
+  "ingredients": "Ingrediënten: MELK, vruchten (7,7% sinaasappel, 4,8% ananas, 2,2% rozijnen, 1,9% papaja), ROOM, suiker, glucose(-fructose)stroop, MELKeiwit, gemodificeerd maïszetmeel, palmolie, rundergelatine, maltodextrine, verdikkingsmiddel: E407, emulgatoren: E471 en E472a, aroma, stabilisator: E339",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "692.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "165.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:59:17"
+}

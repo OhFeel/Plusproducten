@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Warsteiner Bier",
+  "brand": "Warsteiner",
+  "price": "6.49",
+  "base_unit_price": "3.28",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/268524_M/f5ed188650ca03c76e8d444019f6b9ff/268524.png",
+  "ingredients": "Ingrediënten: brouwwater, GERSTEMOUT, hop, hop extract",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "175.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "42.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4.8",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:48:19"
+}

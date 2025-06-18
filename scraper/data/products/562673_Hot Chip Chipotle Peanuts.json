@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hot Chip Chipotle Peanuts",
+  "brand": "Hot Chip",
+  "price": "2.19",
+  "base_unit_price": "31.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/562673_M/18a87f023b1accead17cad836bcbd21a/562673.png",
+  "ingredients": "Ingrediënten: 75% PINDA'S,13% TARWEbloem, 6% aardappelzetmeel, 3% katjang pedis kruiden (kruiden (chili, paprika poeder), chipotle chili, bird's eye chilli, TARWEbloem, kleurstof (paprika-extract), zout, antioxidant (E306), natuurlijk aroma), zonnebloemolie, knoflookpoeder, zout, suiker, stabilisator (E500).",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's)",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2400.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "579.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "43.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:41:16"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Chio POM-BÄR Original",
+  "brand": "Chio",
+  "price": "1.79",
+  "base_unit_price": "19.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/922066_M/8880514bca38c688a79c7164220f0b6c/922066.png",
+  "ingredients": "INGREDIËNTEN: Aardappelpoeder (32%), zonnebloemolie, maïszetmeel, aardappelzetmeel, maïsdextrine, suiker, gejodeerd zout, emulgator (mono- en diglyceriden van vetzuren), zout, gistextract, paprikapoeder.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2138.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "511.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:10"
+}

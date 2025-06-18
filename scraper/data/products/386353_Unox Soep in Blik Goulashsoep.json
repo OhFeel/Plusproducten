@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Soep in Blik Goulashsoep",
+  "brand": "Unox",
+  "price": "4.39",
+  "base_unit_price": "5.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/386353_M/b76693b23de7737ea91b040e1eda4657/386353.png",
+  "ingredients": "Ingrediënten: Water, groenten¹ 33% (tomaat¹ 23%, paprika, ui 2,7%), rundvlees² 4,4%, aardappel, gemodificeerd zetmeel, TARWEBLOEM, pastaschelpjes 1,4% (harde TARWEGRIES, EI-EIWIT), raapzaadolie, suiker, zout, gistextract (bevat GERST), aroma (bevat MELK), specerijen (koriander, karwijzaad, komijn), fructose, knoflook, maltodextrine, witte wijnextract, balsamicoazijn (wijnazijn, druivenmost). Kan selderij, mosterd, soja, gluten bevatten. ¹op duurzame wijze geteeld. ²Beter Leven keurmerk 2 sterren",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "203.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "48.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:34:35"
+}

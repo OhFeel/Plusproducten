@@ -1,0 +1,121 @@
+{
+  "sku": "",
+  "name": "Becel Omega 3+",
+  "brand": "Becel",
+  "price": "4.19",
+  "base_unit_price": "8.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/214459_M/458d41c44606bffb049970324f879d3a/214459.png",
+  "ingredients": "Ingrediënten: Water, plantaardige oliën 35% (zonnebloem (20%), lijnzaad (5,5%), maïs (3,9%), palm, volledig geharde palm, koolzaad (0,6%)), gemodificeerd zetmeel, VISOLIE (2,8%), emulgatoren (mono-en diglyceriden van vetzuren, zonnebloemlecithine), conserveermiddel (kaliumsorbaat), voedingszuur (citroenzuur), antioxidant (E306, E385), natuurlijk aroma, vitamine A en D",
+  "allergens": "Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1431.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "341.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "800.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "12.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Omega 3 vetzuren",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eicosapentaeenzuur",
+      "value": "0.74",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Docosahexaeenzuur",
+      "value": "0.74",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Omega 6 vetzuren",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:18"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Maoam MaoMixx",
+  "brand": "Maoam",
+  "price": "3.59",
+  "base_unit_price": "11.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/180505_M/705258611078d83fd946bf66e7ef97d3/180505.png",
+  "ingredients": "Ingredienten: Suiker; glucosestroop; palmvet; bevochtigingsmiddel: sorbitolstroop; voedingszuur: citroenzuur; gelatine; aroma; vruchten- en plantenconcentraten: saffloer, rammenas, wortel, framboos, aardbei, spirulina, zwarte bes, appel, citroen; karamelstroop; zonnebloemolie; zoethoutextract; glansmiddel: bijenwas wit en geel; antiklontermiddel: talk; bruine suikerstroop.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1726.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "409.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "84.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:09:51"
+}

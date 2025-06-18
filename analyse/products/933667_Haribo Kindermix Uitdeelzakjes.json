@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Kindermix Uitdeelzakjes",
+  "brand": "Haribo",
+  "price": "4.35",
+  "base_unit_price": "11.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/933667_M/813259e899b5957a4ea356246c54d5a7/933667.png",
+  "ingredients": "Ingrediënten: Glucosestroop; suiker; zetmeel; bruine suikerstroop; dextrose; gelatine; zoethoutextract (3 % in het dropaandeel); voedingszuur: citroenzuur; aroma; kookzout; vruchten- en plantenconcentraten: spirulina, saffloer, rammenas, zoete aardappel, wortel, zwarte bes, hibiscus, appel, sinaasappel, vlierbes, citroen, aronia, druif; karamelstroop; glansmiddelen: bijenwas wit en geel, carnaubawas; vlierbesextract; kleurstof: indigotine. Kan sporen bevatten van MELK, TARWE.",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1439.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "339.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:24"
+}

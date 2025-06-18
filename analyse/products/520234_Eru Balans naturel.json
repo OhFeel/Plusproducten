@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Eru Balans naturel",
+  "brand": "Eru",
+  "price": "2.99",
+  "base_unit_price": "14.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/520234_M/dde26f3536a8ce87bf8040b98f000745/520234.png",
+  "ingredients": "Ingrediënten: kaas (MELK), water, magere yoghurt (MELK), magere MELKpoeder, MELKeiwitten, smeltzouten (E452, E451, E339)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "525.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "125.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "580.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "750.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:26:15"
+}

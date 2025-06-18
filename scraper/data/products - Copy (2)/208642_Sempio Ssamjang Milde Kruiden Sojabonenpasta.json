@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Sempio Ssamjang Milde Kruiden Sojabonenpasta",
+  "brand": "Sempio",
+  "price": "2.69",
+  "base_unit_price": "10.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/208642_M/d1199b678fbaf03e29049452ee06b322/208642.png",
+  "ingredients": "Ingrediënten: Water, TARWEpoeder, maïssiroop, SOJAbonen 14%, zout, rode peperkruiden 5% (rode peperpoeder, water, zout, knoflookpoeder, uienpoeder), TARWE, alcohol, bruine suiker, knoflook, TARWE-extract, geroosterde SESAM, knoflookolie, koji-starter, gemberkruiden.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "796.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "189.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:21:15"
+}

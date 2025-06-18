@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Active O2 Apple kiwi",
+  "brand": "Active O2",
+  "price": "1.39",
+  "base_unit_price": "2.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/402728_M/dafb1f6d2f26c8285e4d787271de8aa9/402728.png",
+  "ingredients": "natuurlijk mineraalwater, fructosestroop, zuurteregelaar: citroenzuur, zoetstoffen: cyclamaat, saccharine, acesulfaam-k; aroma, zuurstof (0,003%).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "66.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "16.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:17"
+}

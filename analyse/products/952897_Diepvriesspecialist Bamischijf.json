@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Diepvriesspecialist Bamischijf",
+  "brand": "Diepvriesspecialist",
+  "price": "3.59",
+  "base_unit_price": "7.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952897_M/4c2c7d15f67386f99292ebbff3983ed2/952897.png",
+  "ingredients": "Ingrediënten: water, TARWEbloem, durumTARWEgries, melasse, zout, plantaardige oliën\n(palm, raapzaad), prei, specerijen, glucosestroop, suiker, gist, gelatine, dextrose, smaakversterker: E621, kleurstoffen: E160b(i)/E160b(ii), uipoeder, knoflookpoeder, gehydrolyseerd SOJA-eiwit, azijn, verdikkingsmiddelen: E461/E466, basterdsuiker, SOJAboon, bruine basterdsuiker, salmiakzout, TARWE, voedingszuur: azijnzuur, SELDERIJzaad, conserveermiddel: E202. Kan sporen bevatten van andere glutenbevattende granen (ROGGE), MOSTERD en LUPINE.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "653.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "156.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:27"
+}

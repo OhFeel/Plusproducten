@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Geska Zwitserse strooikaas",
+  "brand": "Geska",
+  "price": "2.99",
+  "base_unit_price": "33.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/951173_M/ee74e039fa01edf8968da5f79742c23a/951173.png",
+  "ingredients": "Ingrediënten: Magere kaas (MELK) (95,3%), zout (Natriumchloride, 4,5%), Alpenkruiden (Trigonella melilotus-caerulaea 0,2%). Vetgehalte in droge stof 0,7%.\nAllergie informatie: bevat melk, lactose vrij",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1185.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "279.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "63.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:19:16"
+}

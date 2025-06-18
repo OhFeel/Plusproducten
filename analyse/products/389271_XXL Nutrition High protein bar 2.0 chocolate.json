@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "XXL Nutrition High protein bar 2.0 chocolate",
+  "brand": "XXL Nutrition",
+  "price": "2.49",
+  "base_unit_price": "49.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/389271_M/8a2732a1ac7df73b9757700ff0159db8/389271.png",
+  "ingredients": "MELKeiwitten, collageenhydrolysaat, 17% MELKchocolade met zoetstof(zoetstof (maltitol), cacaoboter, volle MELKpoeder, cacaomassa, emulgator (lecithinen (SOJA)), natuurlijk vanillearoma), bevochtigingsmiddel (glycerol), water, palmvet, SOJA-cacaocrisps(SOJA-eiwit, cacaopoeder, tapiocazetmeel), magere cacaopoeder, aroma, zoetstof (sucralose).",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1478.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "353.25",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:36"
+}

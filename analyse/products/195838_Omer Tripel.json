@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Omer Tripel",
+  "brand": "Omer",
+  "price": "2.29",
+  "base_unit_price": "6.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/195838_M/f2045bb8a476edc7bb461e868743c679/195838.png",
+  "ingredients": "Bevat GERSTEmout en TARWE",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "8.8",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:16:38"
+}

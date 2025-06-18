@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Bacardi Mango Mojito",
+  "brand": "Bacardi",
+  "price": "2.49",
+  "base_unit_price": "9.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/914566_M/0d10dcda3102db3cc1287a89293aca51/914566.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "213.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "51.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:37"
+}

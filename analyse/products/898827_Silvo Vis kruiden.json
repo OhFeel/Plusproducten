@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Vis kruiden",
+  "brand": "Silvo",
+  "price": "3.49",
+  "base_unit_price": "29.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898827_M/fa217d84a3d9b28489d4535bdee7d4ab/898827.png",
+  "ingredients": "Ingrediënten: TARWEbloem, smaakversterker: mononatriumglutamaat, dextrose, specerijen 14,5% (paprika, uienpoeder 3%, korianderzaad, gember, MOSTERDbloem, cayennepeper, komijn), zout 10,5%, aroma (bevat GERST, TARWE), zetmeel, peterselie, antiklontermiddel: siliciumdioxide, zonnebloemolie, Totaal gehalte aan kruiden en specerijen: 15,5%",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1212.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "287.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "18.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:41"
+}

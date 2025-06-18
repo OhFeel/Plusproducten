@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Drentse kosterworst 4 stuks",
+  "brand": "Huls",
+  "price": "10.69",
+  "base_unit_price": "26.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/410342_M/4b84db11a118891fbde19c7484881738/410342.png",
+  "ingredients": "varkensvlees, zout, dextrose, specerijen, suiker, stabilisator (e450), antioxidant (ascorbinezuur), fermenten, conserveermiddel (natriumnitriet), worstomhulsel: varkensdarm. voor 100 gram droge worst is 185 gram varkensvlees gebruikt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1876.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "452.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:42:51"
+}

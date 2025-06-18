@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Candy taco",
+  "brand": "Look o Look",
+  "price": "2.49",
+  "base_unit_price": "21.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/470264_M/e30c1a2529925bfea15816c124a6c60c/470264.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, gelatine, druivensap, gemodificeerd zetmeel, TARWEBLOEM, dextrose, voedingszuur (citroenzuur), zetmeel, glucose-fructosestroop, stabilisator (sorbitol), aroma's, kokosolie, geleermiddel (pectine), concentraten (wortel, zoete aardappel, zwarte wortel, zwarte bes), zonnebloemolie, glansmiddelen (carnaubawas, bijenwas), emulgator (mono- en diglyceriden van vetzuren), cacaoboter, kleurstoffen (curcumine, karmijn, briljantblauw FCF). ",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1386.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "326.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:24"
+}

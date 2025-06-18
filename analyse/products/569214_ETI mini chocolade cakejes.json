@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "ETI mini chocolade cakejes",
+  "brand": "ETI",
+  "price": "2.89",
+  "base_unit_price": "20.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/569214_M/400f5e05dd9257f189e30e795b27caa2/569214.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige vetten (palm, zonnebloem, katoenzaad, canola, shea), EIEREN, TARWEBLOEM (GLUTEN), cacaomassa, invertsuikerstroop, cacaoboter, WEIPOEDER (MELKPRODUCTEN), VOLLEMELKPOEDER, bevochtigingsmiddelen (glycerol, sorbitol), mager cacaopoeder 1,9%, emulgatoren (mono- en diglyceriden van vetzuren, polyglycerolesters van vetzuren, zonnebloemlecithine, polyglycerolpolyricinoleaat), zout, MAGERE MELKPOEDER, LACTOSEMONOHYDRAAT (MELKPRODUCTEN), verdikkingsmiddelen (pectine, xanthaangom), conserveermiddel (sorbinezuur), rijsmiddelen (zuur natriumpyrofosfaat, natriumwaterstofcarbonaat), BOTER (MELKPRODUCTEN), aroma, stabilisatoren (trinatriumcitraat, trikaliumcitraat), zuurteregelaar (citroenzuur). Kan sporen van HAZELNOTEN, PINDA'S en SOJAPRODUCTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1980.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "474.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.86",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:44:32"
+}

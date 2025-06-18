@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bonduelle Kikkererwten in mediterraanse saus",
+  "brand": "Bonduelle",
+  "price": "2.89",
+  "base_unit_price": "7.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/272168_M/4d4e60fc02cfdd46e3264aa58ef7252a/272168.png",
+  "ingredients": "Ingrediënten: Kikkererwten 42%, water, rode paprika's 7,8%, geroosterde aubergines 5,9%, dubbel geconcentreerde tomatenpuree, maïszetmeel, zout, kruiden 0,5%, suiker, gistextract, knoflookpoeder 0,29%, komijn 0,06%. Kan GLUTEN, SELDERIJ, MOSTERD en SOJA bevatten.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "329.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.77",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:49:46"
+}

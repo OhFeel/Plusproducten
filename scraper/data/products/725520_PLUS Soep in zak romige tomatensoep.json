@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Soep in zak romige tomatensoep",
+  "brand": "PLUS",
+  "price": "2.39",
+  "base_unit_price": "4.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/725520_M/9991abd9252d5186e3ef416169fb579c/725520.png",
+  "ingredients": "Ingrediënten :77% tomaat (tomaten uit tomatenpuree, tomatenblokjes, zongedroogde tomaat), wortelpuree, 5,2% volle MELK, water, plantaardige oliën (raapzaad, zonnebloem), 2% room (MELK), 1,4% mascarpone (MELK), cichoreivezel, gemodificeerd maïszetmeel, gistextract, zeezout, knoflook, natuurlijke aroma’s, citroensapconcentraat, witte balsamicoazijn (witte wijnazijn, druivenmost, natuurlijk aroma), kleurstof: paprika-extract, specerijen, kruiden, SELDERIJ, voedingszuur: citroenzuur.",
+  "allergens": "Melk, Selderij, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "252.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "60.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.32",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.94",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.67",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.268",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:30"
+}

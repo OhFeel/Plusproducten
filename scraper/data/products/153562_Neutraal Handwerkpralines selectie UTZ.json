@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Neutraal Handwerkpralines selectie UTZ",
+  "brand": "Neutraal",
+  "price": "5.99",
+  "base_unit_price": "28.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/153562_M/9c90ef618e8981b9611703ff21ff6023/153562.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, plantaardige oliën en vetten (kokos, palm, zonnebloem, raap), volle MELKPOEDER, cacaomassa, HAZELNOTEN, weipoeder (MELK), glucosestroop, gecondenseerde magere MELK, magere MELKPOEDER, roompoeder (MELK), lactose (MELK), water, appel, cacaopoeder, emulgatoren (E322 (SOJA), E471), rijstebloem, kaneel, aroma's, natuurlijk vanille aroma, koffie-extract, verdikkingsmiddelen (E1442, E414, E440), suikerstroop, zuurteregelaar (E330), zout, MELKVET, kleurstof (E100), conserveermiddelen (E202, E223), voedingszuur (E334), koffieboon, glansmiddel (E904), spirulina concentraat. Gemaakt in een bedrijf waar ook ei, andere noten en glutenhoudende granen worden verwerkt.",
+  "allergens": "Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2263.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "542.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:58:06"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Patak's Naan Naturel",
+  "brand": "Patak's",
+  "price": "2.99",
+  "base_unit_price": "13.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/563927_M/cfb8b6718cfc424bb652f83e4fe93bf3/563927.png",
+  "ingredients": "Ingrediënten: TARWEbloem (60%) (met calciumcarbonaat, niacine, ijzer, thiamine), water, koolzaadolie, gist, azijn, rijsmiddelen (difosfaten, natriumcarbonaten, calciumfosfaten), plantaardige ghee (palmolie, koolzaadolie), conserveringsmiddelen (kaliumsorbaat, calciumpropionaat), kalonji-zaden (0,3%), zout, zuurteregelaar (citroenzuur), TARWEzetmeel, TARWEbloem. ALLERGENENINFORMATIE: Voor allergenen, inclusief glutenbevattende granen, zie VETGEDRUKTE ingrediënten. Kan ook sporen van pinda's, noten en melk bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1222.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "290.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.87",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:41:47"
+}

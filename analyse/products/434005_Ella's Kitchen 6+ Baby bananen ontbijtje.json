@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ella's Kitchen 6+ Baby bananen ontbijtje",
+  "brand": "Ella's Kitchen",
+  "price": "1.85",
+  "base_unit_price": "18.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/434005_M/a3535fa51082cd103a09364f46e39418/434005.png",
+  "ingredients": "Ingrediënten: 56% bananen*, 41% yoghurt (MELK)*, 2% HAVERbloem*, 1% rijstebloem*, een beetje geconcentreerd citroensap*, \n\n* = biologisch",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "404.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "96.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:52:35"
+}

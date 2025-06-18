@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer Nacho Cheese Bites",
+  "brand": "Mora",
+  "price": "4.79",
+  "base_unit_price": "0.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/553212_M/3ac521818ce454edcf3664fe4143bc7e/553212.png",
+  "ingredients": "Ingrediënten: 44% vegetarische kaasvulling (water, 22% Goudse kaas (MELK), 12% extra gerijpte Cheddar kaas (MELK), boter (MELK), kruidenmix (dextrose, paprika, natuurlijk aroma, kruiden, specerijen, ui, knoflook, zout, citroenconcentraat, maltodextrine, gistextract, raapzaadolie), MELKeiwitten, gemodificeerd aardappelzetmeel, emulgatoren: E331, E452, bamboevezel, zuurteregelaars: E500, E330, zout, zonnebloemolie, stabilisator: E461, kleurstof: annatto bixine), paneermeel (TARWEbloem, zout, gist, kurkumapoeder, paprikapoeder, kleurstoffen: paprika-extract, curcumine), doorhaalmiddel (water, glucosestroop, witte basterdsuiker (suiker, invertsuikerstroop), TARWEbloem, dextrose, stabilisatoren: E464, E466, zout, TARWE-eiwit), 9% cornflakes (maïs, zout, GERSTEMOUT), plantaardige oliën (palm, raapzaad, zonnebloem), 5% tortilla chips (bloem (TARWE, maïs), zout, suiker, emulgator: E471). Kan sporen van PINDA bevatten. \"E\"-nummers zijn door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1397.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "334.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:37:17"
+}

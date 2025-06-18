@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Veltins Bier",
+  "brand": "Veltins",
+  "price": "1.05",
+  "base_unit_price": "2.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/682303_M/eacb9ec789e2b46f1a6daa45af07e38b/682303.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, hop",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "4.8",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:23"
+}

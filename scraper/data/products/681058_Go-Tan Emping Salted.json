@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Emping Salted",
+  "brand": "Go-Tan",
+  "price": "3.15",
+  "base_unit_price": "35.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681058_M/b1db7344f0d0f319da030563f627c2ca/681058.png",
+  "ingredients": "emping melindjonoten 70%, zonnebloemolie, 0,6% zeezout. kan sporen van glutenbevattende granen (tarwe), soja en schaaldieren bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2192.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "525.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:42"
+}

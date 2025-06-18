@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Venco Dropmix zacht zoet",
+  "brand": "Venco",
+  "price": "3.49",
+  "base_unit_price": "7.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/166493_M/40373f91ed6af7c040c4f762000b6651/166493.png",
+  "ingredients": "suiker, glucosestroop, zetmeel, melado, gemodificeerd zetmeel, zoethoutwortelextract 1,5%, gelatine, salmiakzout 0,8%, honing 0,1%, plantaardige oliën (kokos, koolzaad), anijsolie, gekaramelliseerde suiker, aroma, glansmiddelen (bijenwas, carnaubawas).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1438.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "339.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "82.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:27"
+}

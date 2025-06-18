@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Cookie 'N Cream bites",
+  "brand": "Cookie 'N Cream",
+  "price": "2.79",
+  "base_unit_price": "31.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/948424_M/88aec323189ccc53162a9aa0e22f723c/948424.png",
+  "ingredients": "Ingrediënten:Hittebehandeld TARWEmeel, suiker, palmpitolie, tapiocasiroop, plantaardige glycerine, aroma's,coating met witte chocoladesmaak (suiker, gehydrogeneerde palmpitolie, magere MELKpoeder, MELKpoeder, kleurstof: E151, emulgator: SOJAlecithine, aroma), zout, voedingszuur: zonnebloemlecithine, verdikkingsmiddel: xanthaangom,conserveringsmiddelen:E202,rozemarijn-extract (koolzaadolie, natuurlijke aroma, natuurlijk ge-mengde tocopherolen, zonnebloemolie, voedingszuur: ascorbinezuur, citroenzuur, zonnebloemlecithine, TARWEmeel,suiker,palmolie,cacao(verwerkt met alkali) glucosestroop, maïsmeel, baksoda, emulgator: SOJA-lecithine, zout, aroma's), baksoda. Bevat genetisch gemanipuleerde organismen. Kan sporen bevatten van EI, PINDA, NOTEN",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1942.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "464.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:47"
+}

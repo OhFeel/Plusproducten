@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Paté met gekarameliseerde ui",
+  "brand": "PLUS",
+  "price": "2.43",
+  "base_unit_price": "16.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/492097_M/f988f2e36c9163205ea8c2756cc3d324/492097.png",
+  "ingredients": "31% varkenslever, varkensvet, 12% uienkonfijt (ui, suiker, citroensap), 11% varkensvlees, melk, varkensbindweefsel, ei, nitrietpekelzout (zout, conserveermiddel: E250), voedingszuur: E262, E325; rijstbloem, suiker, gebakken ui, specerijen, honing, erwtenzetmeel, varkenseiwit, antioxidant: E300, E330; natuurlijk aroma, dextrose. ",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1367.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "329.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:15:31"
+}

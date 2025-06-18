@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Canisius Rinse appelstroop",
+  "brand": "Canisius",
+  "price": "1.89",
+  "base_unit_price": "4.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/862033_M/e1a33a0cf2617796ecd0924dd581ec23/862033.png",
+  "ingredients": "ingrediënten:, suikerbietenconcentraat, appelconcentraat, geleermiddel: pectine, vruchtgehalte: 140 g appels per 100 g rinse appelstroop.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1165.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "275.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "64.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "6.6",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:57:23"
+}

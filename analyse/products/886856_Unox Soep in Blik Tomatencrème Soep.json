@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Soep in Blik Tomatencrème Soep",
+  "brand": "Unox",
+  "price": "1.99",
+  "base_unit_price": "6.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/886856_M/9841198cf3468123b1c58381cb357b9f/886856.png",
+  "ingredients": "Ingrediënten: Tomaat¹ 65%, water, raapzaadolie, tomatenvezel, gemodificeerd zetmeel, suiker, magere MELKPOEDER, citroensapconcentraat, TARWEBLOEM, zout, gistextract (bevat GERST), uipoeder, stabilisator (E451, E452), aroma's, fructose, maltodextrine, knoflookpuree, laurierblad, witte wijnextract, balsamicoazijn (wijnazijn, druivenmost). Kan selderij, ei, mosterd, soja bevatten. ¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "209.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "50.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.67",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:06"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Muffin Masters Mini muffins chocolade",
+  "brand": "Muffin Masters",
+  "price": "2.79",
+  "base_unit_price": "12.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/944789_M/0dadbc780e5a5717e8f4e1957274d4e9/944789.png",
+  "ingredients": "Ingrediënten: Suiker, SCHARRELEI, raapzaadolie, TARWEBLOEM, stabilisatoren: sorbitolen/ glycerol, 6 % chocolade (suiker, cacaomassa^1, cacaoboter^1, emulgator: SOJALECITHINE), 2,5% magere cacaopoeder^1, water, dextrose, TARWEZETMEEL, cacaomassa^1, gemodificeerd zetmeel, WEIPOEDER (MELK), gezoete gecondenseerde magere melk (MELK, suiker), rijsmiddelen: E450/ E500, emulgatoren: E471/ E481/ E322 (SOJA), rijstzetmeel, TARWEGLUTEN, cacaoboter^1, zout, verdikkingsmiddelen: E401/ E466/ E415, natuurlijk aroma, zuurteregelaar: E501i, ^1Rainforest Alliance gecertificeerd. Lees meer op www.ra.org.Dit product kan sporen van noten en sesam bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1763.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "421.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.86",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:15:27"
+}

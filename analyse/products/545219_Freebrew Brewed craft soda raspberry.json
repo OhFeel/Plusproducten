@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Freebrew Brewed craft soda raspberry",
+  "brand": "Freebrew",
+  "price": "0.99",
+  "base_unit_price": "3.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/545219_M/e5da7f735e87c2f0e8d6d02583f9e451/545219.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT*, TARWEMOUT*, HAVERMOUT*, TARWEMOUT (SPELT)*, appelsapconcentraat*, natuurlijk frambozenaroma, frambozensapconcentraat*, hibiscus extract*, antioxidant (ascorbinezuur), rietsuiker*, citroensapconcentraat*, kleurend concentraat van wortel*, zuurteregelaar (citroenzuur), 5 hop*. *van biologische oorsprong.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "76.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "18.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:33:19"
+}

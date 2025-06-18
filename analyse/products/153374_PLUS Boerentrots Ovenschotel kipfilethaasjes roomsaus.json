@@ -1,0 +1,103 @@
+{
+  "sku": "",
+  "name": "PLUS Boerentrots Ovenschotel kipfilethaasjes roomsaus",
+  "brand": "PLUS Boerentrots",
+  "price": "6.75",
+  "base_unit_price": "17.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/153374_M/952c688ede3afb9fa0a3acae0fcbbfd9/153374.png",
+  "ingredients": "Ingrediënten :46% Kipfilet*, 22% aardappel, 18% kaassaus (water, MELK**, kaas (MELK**, zout, zuursel, stremsel)), slagroom (room (MELK), stabilisator: E407), gemodificeerd maïszetmeel, roomboter (MELK), TARWEBLOEM, zout, tapiocazetmeel, natuurlijk aroma, knoflook, gistextract, zwarte peper), 7% marinade (water, zonnebloemolie, zout, kruiden, olijfolie, dextrose, gedroogde groente (paprika, knoflook, ui), specerijen, natuurlijk aroma, kip-eiwit, ui, kruidenextracten (rozemarijn, peterselie), extract van paprika, limoenolie, knoflookolie), 4% groene asperge, kaaspoeder (MELK, zout, zuursel, stremsel, conserveermiddel: E251, kleurstof: E160b(ii)/E160a), peterselie.\n\n* = Beter Leven keurmerk 1 ster. ** = Beter Leven keurmerk 3 sterren.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "533.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "127.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.725",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:56"
+}

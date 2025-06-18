@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Zonder suikers marmercakes",
+  "brand": "Damhert",
+  "price": "4.79",
+  "base_unit_price": "27.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/922990_M/afc3c96f0519e5c3caa3afc0bbf9d8ee/922990.png",
+  "ingredients": "EIEREN, zoetstoffen (maltitolen), zonnebloemolie, rijstmeel, aardappelzetmeel, bevochtigingsmiddel (glycerol), maïsmeel, psylliumvezels, cacaopoeder (1,7%), acaciavezels, emulgator (raapzaadlecithine), zout, rijsmiddelen (difosfaten - natriumcarbonaten, calciumfosfaten), aroma.",
+  "allergens": "Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1694.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "408.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "27.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:33"
+}

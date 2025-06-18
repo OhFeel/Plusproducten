@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Swiet Moffo Mango chutney",
+  "brand": "Swiet Moffo",
+  "price": "2.49",
+  "base_unit_price": "12.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/447348_M/f876add640f95b1775d98d1921a87f22/447348.png",
+  "ingredients": "Ingrediënten: mango (32,1%), wortel, SOJA-olie, gesnipperde ui, suiker, gemalen verse rode peper, gemodificeerd maïszetmeel, zout, knoflookpoeder, chutney mix (nigella-, korianderzaad, komijnpoeder, MOSTERDZAAD), voedingszuur: E330, conserveermiddel: E211.",
+  "allergens": "Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "840.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "200.5",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:40"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Batu Kombucha passion fruit & hop",
+  "brand": "Batu",
+  "price": "1.65",
+  "base_unit_price": "6.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/242280_M/1a3e218bc05bfba3c5766c3cf0268816/242280.png",
+  "ingredients": "Ingrediënten: NL *Biologisch, Water, kombuchacultuur*, passievrucht* (0,75%), mango* (0,25%), groene thee*, rietsuiker* (volledig omgezet tijdens het fermentatieproces), zwarte thee*, stevia*, natuurlijk mango aroma* (0,03%)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "42.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "10.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:38:30"
+}

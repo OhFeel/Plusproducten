@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Oven Oven chips mediterraanse kruiden",
+  "brand": "Lays Oven",
+  "price": "2.35",
+  "base_unit_price": "15.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/471919_M/ed19cd371446cfceee3e70acf577fdbe/471919.png",
+  "ingredients": "Ingrediënten: aardappelvlokken (63%), zetmeel (14%), zonnebloemolie, mediterraanse kruidensmaak [weipoeder (bevat MELK), aroma's (bevat MELK), zout, specerijen en kruiden (bevat ui, basilicum, knoflook, tijm, peterselie, rozemarijn), kaliumchloride, suiker, kleurstof (paprika-extract), voedingszuur (citroenzuur)], suiker, emulgator (lecithinen), kleurstof (annatto norbixin).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1851.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "440.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.83",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:50"
+}

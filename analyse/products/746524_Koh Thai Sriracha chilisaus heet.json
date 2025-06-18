@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Koh Thai Sriracha chilisaus heet",
+  "brand": "Koh Thai",
+  "price": "2.69",
+  "base_unit_price": "13.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/746524_M/7ee495780d59e94b36360cd6fe9e69c8/746524.png",
+  "ingredients": "water, rode spaanse peper (28%), suiker, knoflook, zout, verdikkingsmiddel: xanthaangom, voedingszuur: azijnzuur, kleurstof: paprika-extract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "435.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "103.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:12"
+}

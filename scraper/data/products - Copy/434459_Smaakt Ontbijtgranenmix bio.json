@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Ontbijtgranenmix bio",
+  "brand": "Smaakt",
+  "price": "3.19",
+  "base_unit_price": "6.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/434459_M/6b863d448a4f9df3f5660d8a7ea37a67/434459.png",
+  "ingredients": "Ingrediënten: Volkoren HAVERvlokken grof* 42%, TARWEvlokken* 25%, ROGGEvlokken* 25%, GERSTvlokken* 8%, *=biologisch\n\nKan sporen bevatten van andere glutenbevattende granen, pinda's, soja, melk, noten, selderij, sesamzaad.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1568.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "371.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:52:50"
+}

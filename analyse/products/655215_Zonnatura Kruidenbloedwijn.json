@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Kruidenbloedwijn",
+  "brand": "Zonnatura",
+  "price": "4.49",
+  "base_unit_price": "5.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/655215_M/bb85c9a2c056c0214004895a1e1d025f/655215.png",
+  "ingredients": "Bevat SULFIET. Kruidentinctuur geteeld zonder kunstmest en chemische synthetische bestrijdingsmiddelen.",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "549.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "131.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "11.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:00"
+}

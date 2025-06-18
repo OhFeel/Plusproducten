@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Jos Poell Toast krokant",
+  "brand": "Jos Poell",
+  "price": "0.99",
+  "base_unit_price": "9.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/221865_M/8573ac059123d9dcba245378058db284/221865.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, zonnebloemolie, suiker, gist, zout, TARWEMOUTBLOEM, meelverbetermiddel (ascorbinezuur).\n\n\n\nKan sporen bevatten van ei, melk, soja en sesam",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1854.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "441.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:26:54"
+}

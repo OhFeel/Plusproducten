@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Bugles Roasted Paprika Partypack",
+  "brand": "Lays",
+  "price": "2.75",
+  "base_unit_price": "17.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/565056_M/f3da2c4768688e149467a681c883b0a7/565056.png",
+  "ingredients": "Ingrediënten: maïsmeel, zonnebloemolie, paprikasmaak [suiker, zout, paprikapoeder, uienpoeder, knoflookpoeder, aroma's, gerookte zoete paprikapoeder, fructose, kleurstof (paprika-extract), cayennepeper, voedingszuur (citroenzuur)], suiker, zout. Kan soja, en tarwe (gluten) bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2203.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "527.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:16"
+}

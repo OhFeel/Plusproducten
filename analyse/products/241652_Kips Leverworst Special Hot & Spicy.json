@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Kips Leverworst Special Hot & Spicy",
+  "brand": "Kips",
+  "price": "2.19",
+  "base_unit_price": "10.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/241652_M/b9eb70d3dad24f2fb057e65e0db2f038/241652.png",
+  "ingredients": "Ingrediënten: varkenslever* 32%, varkensspek*, water, varkenszwoerd*, varkensvlees* 10%, specerijen (witte peper, paprika, gember, chilipeper, zwarte peper, cayennepeper), zout, TARWEBLOEM, rode paprika, stabilisator (E451), varkenseiwit, natuurlijk aroma's, suiker, gebakken uien (uien, zonnebloemolie), antioxidant (E316), glucosestroop, dextrose, paneermeel (TARWE), voedingszuur (citroenzuur), kruiden, specerijextract, conserveermiddel (E250). * = Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1090.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "263.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "5.8",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:37:55"
+}

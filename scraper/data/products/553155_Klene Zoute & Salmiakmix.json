@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Klene Zoute & Salmiakmix",
+  "brand": "Klene",
+  "price": "2.99",
+  "base_unit_price": "11.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/553155_M/f66620c6a2e36ccd9d63c60e7f75b43e/553155.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, gemodificeerd zetmeel, gelatine, rietsuikermelasse, zoethoutwortelextract, salmiakzout, natuurlijke aroma's, kleurstof (plantaardige koolstof), glansmiddel (bijenwas). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1428.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:37:13"
+}

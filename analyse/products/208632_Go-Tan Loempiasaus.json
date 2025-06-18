@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Loempiasaus",
+  "brand": "Go-Tan",
+  "price": "2.69",
+  "base_unit_price": "9.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/208632_M/baec5376746a22fc5c45a2e3330f0368/208632.png",
+  "ingredients": "water, suiker, paprika, natuurazijn, gemodificeerd maïszetmeel, rode pepers, zout, knoflook, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), voedingszuren (azijnzuur, citroenzuur), specerij, verdikkingsmiddel (xanthaangom).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "647.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "152.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:21:09"
+}

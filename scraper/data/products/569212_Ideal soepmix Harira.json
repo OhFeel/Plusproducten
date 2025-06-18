@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ideal soepmix Harira",
+  "brand": "Ideal",
+  "price": "2.25",
+  "base_unit_price": "16.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/569212_M/41ff081a2579beceb75a88edd48050f0/569212.png",
+  "ingredients": "Ingrediënten: TARWEMEEL, groenten: (tomaat 7,5%, linzen, kikkererwten, ui 0,9%, SELDER), maltodextrine, mïszetmeel, vermicelli van harde TARWE (11,2%), zout, sojaolie, smaakversterker: glutamate monosodium (E-621), specerijen: (zachte spaanse peper, kurkuma, peper, kaneel), gist, peterselie, suiker, citroenzuur E330, aroma. Kan sporen bevatten van: vis.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1446.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "342.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:44:31"
+}

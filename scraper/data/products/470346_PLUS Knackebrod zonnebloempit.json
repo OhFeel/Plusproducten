@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Knackebrod zonnebloempit",
+  "brand": "PLUS",
+  "price": "1.59",
+  "base_unit_price": "6.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/470346_M/c6dc28f4640fe5b3a44939344e2c0f27/470346.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, TARWEVLOKKEN, 6% zonnebloempitten, raapzaadolie, gist, suiker, TARWEGLUTEN, 2% lijnzaad, GERSTEMEEL, volkoren HAVERMEEL, volkoren GERSTEMOUTMEEL, zout, gedroogd ROGGEZUURDESEM, ROGGEBLOEM, TARWEMOUTMEEL, gedextrineerd TARWEMEEL, GERSTEMOUTEXTRACT, TARWEZEMELEN, pompoenpitten, SESAMZAAD, meelverbeteraar: ascorbinezuur. \n\nKan LUPINE bevatten.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1842.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "437.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "63.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.788",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.315",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:32"
+}

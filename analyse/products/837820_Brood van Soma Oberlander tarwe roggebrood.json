@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Brood van Soma Oberlander tarwe roggebrood",
+  "brand": "Brood van Soma",
+  "price": "1.59",
+  "base_unit_price": "3.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/837820_M/57721aaa785fbccbbda16bb11ad14ff2/837820.png",
+  "ingredients": "Ingrediënten : TARWEbloem, water, ROGGEbloem, bakkersgist, 2% ROGGEzuurdesem (water, ROGGEbloem, zout), bakkerszout, TARWEgluten, conserveermiddelen (calciumpropionaat, sorbinezuur). Is geproduceerd in een bakkerij waar ook NOTEN en SOJA worden verwerkt. kan GERST bevatten.",
+  "allergens": "Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "946.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "223.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:42"
+}

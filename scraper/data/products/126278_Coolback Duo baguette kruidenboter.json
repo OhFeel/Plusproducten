@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Coolback Duo baguette kruidenboter",
+  "brand": "Coolback",
+  "price": "1.99",
+  "base_unit_price": "1.00",
+  "image_url": "",
+  "ingredients": "Ingrediënten: Tarwekoekjes: TARWEBLOEM, water, zout, gist, ROGGEBLOEM, TARWEMOUTBLOEM. Bereiding  kruidenboter: 20%, BOTER 75%, uien, kruiden 6% (perterselie, dille, rozemarijn), knoflook, zout, zetmeel, zuurteregelaar: citroenzuur: natuurlijk knoflookaroma, specerijen. Kan sporen bevatten van SOJA, MOSTERD en SESAM. Komt overeen met 15% boter en 1% kruiden ten opzichte van het totale product.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1296.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "309.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:49:27"
+}

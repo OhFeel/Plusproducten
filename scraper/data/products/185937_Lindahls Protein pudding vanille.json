@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindahls Protein pudding vanille",
+  "brand": "Lindahls",
+  "price": "1.49",
+  "base_unit_price": "9.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/185937_M/310744dc830253ea70413e74fb89446d/185937.png",
+  "ingredients": "Magere MELK (87,9%), MELKeiwitten, gemodificeerd maïszetmeel, verdikkingsmiddel (pectine), aroma, kleurstof (bèta-caroteen), zoetstoffen (acesulfaam-K, sucralose).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "305.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "73.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:12:40"
+}

@@ -1,0 +1,139 @@
+{
+  "sku": "",
+  "name": "Blue Band Halvarine",
+  "brand": "Blue Band",
+  "price": "2.19",
+  "base_unit_price": "4.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/182786_M/ae5566618af9c0b846423a23a2ca5193/182786.png",
+  "ingredients": "Ingrediënten: water, 39 % plantaardige oliën (zonnebloem, koolzaad, kokos, lijnzaad), gemodificeerd zetmeel, zout (0,3%), emulgatoren (mono- en diglyceriden van vetzuren, lecithine), voedingszuur (citroenzuur), natuurlijke aroma's, vitamines ( A, B1, B2, B6, foliumzuur, B12, D, E).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1459.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "366.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "800.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "9.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "1.1",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "1.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "1.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "200.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "2.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Omega 3 vetzuren",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Omega 6 vetzuren",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:11:12"
+}

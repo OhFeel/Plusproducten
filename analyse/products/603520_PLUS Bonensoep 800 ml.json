@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Bonensoep 800 ml",
+  "brand": "PLUS",
+  "price": "2.17",
+  "base_unit_price": "2.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/603520_M/d5132060d3ef10dbbb3a385e3b9ed4ff/603520.png",
+  "ingredients": "INGREDIËNTEN: water, 18% pintobonen, 7% aardappel, 7% groenten (59% wortel, 33% ui, 8% prei), 5% rookworst (varkensvlees*, water, zout, dextrose, bouillon (aardappelzetmeel, gedroogde glucosestroop, natuurlijk aroma, gehydrolyseerd koolzaadeiwit, ui), specerijenextract (nootmuskaat, witte peper, chilipeper), kruidenextract (koriander, rozemarijn), rundercollageen, rookaroma), TARWEBLOEM, tomatenpuree, gemodificeerd maïszetmeel, zout, BLADSELDERIJ, raapzaadolie, natuurlijk aroma (bevat TARWE), gehydrolyseerd raapzaadeiwit, suiker, kaliumchloride, rookaroma, verdikkingsmiddel: E412.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "281.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "67.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:01:59"
+}

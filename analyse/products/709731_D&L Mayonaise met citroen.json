@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "D&L Mayonaise met citroen",
+  "brand": "D&L",
+  "price": "3.29",
+  "base_unit_price": "9.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709731_M/9e1fec7b12067227e5850d863fe3ba22/709731.png",
+  "ingredients": "Ingrediënten: Koolzaadolie , EIGEEL van scharreleieren 7,5%, azijn, MOSTERD (azijn, MOSTERDZAAD, water, zout, specerijen), water, suiker, citroensap 1,2%, zout, antioxidant: E385, aroma's",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3054.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "742.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "81.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:20"
+}

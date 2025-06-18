@@ -1,0 +1,43 @@
+{
+  "sku": "",
+  "name": "Leffe Giftpack",
+  "brand": "Leffe",
+  "price": "16.99",
+  "base_unit_price": "4.25",
+  "image_url": "",
+  "ingredients": "Ingrediënten: Blond 0.0%: water, GERSTEMOUT, maïs, GERST, suiker, hop, natuurlijke aroma's. Blond: water, GERSTEMOUT, maïs, GERST, suiker, hop. Bruin: water, GERSTEMOUT, maïs, GERST, suiker, hop. Tripel: water, GERSTEMOUT, suiker, kruiden (natuurlijke sinaasappelschil, korianderzaden), hop.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "240.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "57.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    }
+  ],
+  "percentage_alcohol": "8.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:32"
+}

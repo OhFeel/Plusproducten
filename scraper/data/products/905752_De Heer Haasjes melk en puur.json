@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "De Heer Haasjes melk en puur",
+  "brand": "De Heer",
+  "price": "2.99",
+  "base_unit_price": "19.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/905752_M/2971b87cd2b66a37309b3e6d439915d4/905752.png",
+  "ingredients": "Ingrediënten: suiker, cacaomassa*, cacaoboter*, volle MELKpoeder, watervrij MELKvet, emulgator: SOJAlecithinen, natuurlijk vanillearoma. Kan HAZELNOTEN, andere NOTEN en GLUTEN bevatten.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2243.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "538.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "52.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:04:10"
+}

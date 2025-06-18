@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Triple layer dip Italiaans",
+  "brand": "PLUS",
+  "price": "3",
+  "base_unit_price": "16.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/941591_M/d3581277762eb48dab33a434d71fdea0/941591.png",
+  "ingredients": "Ingrediënten :33% Zure roombereiding (zure room (MELK), gemodificeerd aardappelzetmeel, rundergelatine, conserveermiddel: E261/E202), 33% halfgedroogde tomaatjes (95% halfgedroogde tomaat, zout, wijnazijn, antioxidant: E300, voedingszuur: citroenzuur, conserveermiddel: E223 (SULFIET)), 33% pesto-roomkaasbereiding (32% roomkaas (magere MELK, room (MELK), microbieel stremsel, zuursel), zure roombereiding (zure room (MELK), gemodificeerd aardappelzetmeel, rundergelatine), 12% geraspte kaas (MELK, zout, zuursel, dierlijk stremsel, kleurstof: E160a/E160b(ii), conserveermiddel: E251), 11% basilicum, 8% pijnboompitten, spinazie, zout, water, knoflookpoeder, tapiocazetmeel, azijn, zuurteregelaar: E261/E270, conserveermiddel: E202).",
+  "allergens": "Melk, Zwaveldioxide en sulfieten, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "785.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "190.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.832",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:13:19"
+}

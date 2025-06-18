@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade Nobo sprits dubbel chocolade",
+  "brand": "Verkade",
+  "price": "2.49",
+  "base_unit_price": "16.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946802_M/12ba8b53e13df05f34263b5d56cf96a4/946802.png",
+  "ingredients": "Ingrediënten: TARWEbloem, plantaardige vetten en oliën (palm, raapzaad), suiker, MELKchocolade 15% [suiker, cacaoboter, cacaomassa, magere MELKpoeder, watervrij MELKvet, lactose (MELK), emulgator (SOJAlecithinen), natuurlijk vanillearoma], chocoladestukjes 2,3% [suiker, cacaomassa, cacaoboter, emulgator (lecithinen), natuurlijk vanillearoma], cacaonibs, boterolie (MELK), weipermeaatpoeder (MELK), zout, natuurlijk aroma\n\nKan noten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2210.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "529.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:47"
+}

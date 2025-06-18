@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Pulmuone Air Dried Noodle Spicy",
+  "brand": "Pulmuone",
+  "price": "1.59",
+  "base_unit_price": "16.91",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/800520_M/cf7c474f1fc865af85f243069e8fc1e3/800520.png",
+  "ingredients": "Ingrediënten: instantnoedels 84,6%: TARWEmeel, aardappelzetmeel, zonnebloemolie met hoog oleïnegehalte, zout, TARWEGLUTEN, gistextract, zuurteregelaars (E501, E500), kruidenextract (dextrine, gemodificeerd zetmeel, phosphatidylserine (SOJA), verdikkingsmiddel (E414).  kruidenpoeder 13,7%: kruiden (gehydroliseerde TARWE-eiwitten, maltodextrine, gsitextract, gefermenteerd SOJAconcentraat, suiker, zout), zout, specerijen: rode peperpoeder, pittig kruidenpoeder, zwarte peperpoeder, gistextract, smaakversterkers (E621, E330, E635), suiker, glucose, SOJA. garnituur 1,7%: gedroogde prei, gedroogde wortelen, gedroogde knoflook, gedroogde shiitake paddenstoel, gedroogde rode peper. Kan sporen bevatten van: gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, mosterd sesamzaad, weekdieren.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1423.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "340.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:06"
+}

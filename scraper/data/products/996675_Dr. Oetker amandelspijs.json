@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker amandelspijs",
+  "brand": "Dr. Oetker",
+  "price": "3.09",
+  "base_unit_price": "10.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/996675_M/1af2edd35673fb204f4310bacfd43107/996675.png",
+  "ingredients": "Ingrediënten: 46% AMANDELEN, suiker, water, bevochtigingsmiddel E 422, verdikkingsmiddel (E 415), conserveermiddel (E 202), aroma's, voedingszuur (citroenzuur). Kan bevatten: MELK, EI, SOJA, TARWE (GLUTEN).",
+  "allergens": "Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1883.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "450.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:27:21"
+}

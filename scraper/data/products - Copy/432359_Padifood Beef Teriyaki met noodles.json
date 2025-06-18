@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Padifood Beef Teriyaki met noodles",
+  "brand": "Padifood",
+  "price": "4.99",
+  "base_unit_price": "12.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/432359_M/1c2daa66d3de77ebad74518cf27512d0/432359.png",
+  "ingredients": "INGREDIËNTEN: 33% noedels (TARWEbloem, water, zout), 29% teriyakisaus (88,6 teriyakisaus (water, suiker, rijstazijn, rijstwijn, sojasaus (water, SOJAbonen, TARWE, zout), appelsap van concentraat, donkere sojasaus (water, SOJAbonen, zout, suiker, TARWEbloem), gemberkrullen (gember, suikersiroop), azijn (water, zuurteregelaar (E260), kleur (E150d), zout, knoflookpoeder, water, gemodificeerd aardappelzetmeel)), 14% gegrild rundvlees (89% rundvlees, water, niet gemodificeerd aardappelzetmeel, dextrose, zout, aminozuur, specerijen, glucosestroop, zuurteregelaar (E500), natuurlijk aroma, antioxidant (E331), azijn), ui, wortel, sperzieboon, champignon, rode paprika, water, prei, volledig geraffineerde ongeharde sojaolie, sojasaus (water, SOJAboon, TARWE, zout), ongeharde plantaardige oliën (koolzaad, SESAM), suiker, witte peper. Dit product kan PINDA en EIEREN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "520.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:51:14"
+}

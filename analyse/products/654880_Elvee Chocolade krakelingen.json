@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Chocolade krakelingen",
+  "brand": "Elvee",
+  "price": "4.99",
+  "base_unit_price": "35.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654880_M/99139db849323abefef8afe31114038d/654880.png",
+  "ingredients": "Ingrediënten: suiker, volle MELKPOEDER, kleurstof (paprika-extract), cacaoboter, cacaomassa, emulgator (SOJALECITHINE), natuurlijk vanille-aroma. Gemaakt in een bedrijf waar ook gluten bevattende granen en noten worden verwerkt.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2163.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "517.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:58"
+}

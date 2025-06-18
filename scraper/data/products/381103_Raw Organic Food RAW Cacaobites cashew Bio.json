@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Raw Organic Food RAW Cacaobites cashew Bio",
+  "brand": "Raw Organic Food",
+  "price": "5.69",
+  "base_unit_price": "1.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/381103_M/7ad1e1ce59c35252b2946f0576238a85/381103.png",
+  "ingredients": "Ingrediënten: Gedroogde dadels* 26%, honing*, CASHEWNOTEN* 17% , rauwe chocolade* 11% (cacaomassa*, kokosbloesemsuiker*, cacaoboter*), kokosolie*, gedroogde abrikozen*, rozijnen*, zonnebloemolie*, *=biologisch\nKAN SPOREN BEVATTEN VAN:",
+  "allergens": "Noten, cashewnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1711.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "409.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:31:40"
+}

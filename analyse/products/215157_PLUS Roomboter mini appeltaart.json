@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Roomboter mini appeltaart",
+  "brand": "PLUS",
+  "price": "1.35",
+  "base_unit_price": "1.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/215157_M/1148309637b57318ed0b59c1c4d9bf9b/215157.png",
+  "ingredients": "34,7% appel, TARWEBLOEM, 16,3% roomboter (MELK), suiker, SCHARRELKIPPENEI, rozijnen, dextrose, gemodificeerd zetmeel (maïs, aardappel), appelpoeder, abrikoos, kaneel, zout, glucosestroop, rijsmiddel (E500, E450), citroenschillen, emulgator (E322), gist, voedingszuur (E296), plantaardige olie (raapzaad, zonnebloem), natuurlijk citrusaroma, zuurteregelaar (E330, E333, E331), conserveermiddel (E202), verdikkingsmiddel (E415), geleermiddel (E440), natuurlijk citroenaroma, natuurlijk aroma",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1266.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "300.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:35"
+}

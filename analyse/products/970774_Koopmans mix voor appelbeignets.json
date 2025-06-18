@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans mix voor appelbeignets",
+  "brand": "Koopmans",
+  "price": "2.29",
+  "base_unit_price": "9.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/970774_M/8fb693284807b258d6395fb582e237f2/970774.png",
+  "ingredients": "Ingrediënten: deegmix (TARWEBLOEM, EIWITPOEDER, rijsmiddelen (E 450, E 500), zout, dextrose, verdikkingsmiddel (E 466), aroma), kaneelsuiker (suiker, TARWEBLOEM, kaneel, verdikkingsmiddel (E 466)), poedersuiker (poedersuiker, anti-klontermiddel (E 341)). Kan bevatten: MELK, MOSTERD, SOJA.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "826.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "197.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:23"
+}

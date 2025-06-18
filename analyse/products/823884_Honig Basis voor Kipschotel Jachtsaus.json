@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Kipschotel Jachtsaus",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "41.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/823884_M/d0c8ebafc132c9718d607b177b17c77c/823884.png",
+  "ingredients": "zetmeel, zout, maltodextrine, tarwebloem, suiker, natuurlijk champignonaroma, gekarameliseerde suiker, knoflook, specerijen (paprikapoeder, lavas, peper, kaneel), ui, kruiden (tijm, peterselie, salie, laurier), champignon, eekhoorntjesbrood, natuurlijk aroma, zonnebloemolie, paprika, aroma (bevat gerst), voedingszuur (citroenzuur).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1245.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "294.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:52:22"
+}

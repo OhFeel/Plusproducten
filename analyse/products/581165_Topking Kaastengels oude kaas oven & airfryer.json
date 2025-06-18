@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Topking Kaastengels oude kaas oven & airfryer",
+  "brand": "Topking",
+  "price": "4.99",
+  "base_unit_price": "33.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581165_M/d2f93abbcf7a31d32d61aea65acf7591/581165.png",
+  "ingredients": "Ingrediënten: TARWEbloem, water, 26% KAAS (21% oude KAAS), plantaardige oliën (zonnebloem, raapzaad, in wisselende verhouding), rijstebloem, zetmeel, maïsbloem, zout, smeltzouten (E331, E452, E340, E339), boter [bevat MELK], rijsmiddel (E500), kleurstof (annatto norbixin, carotenen, paprika-extract, E150d), zetmeel, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom)",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1260.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "299.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:03"
+}

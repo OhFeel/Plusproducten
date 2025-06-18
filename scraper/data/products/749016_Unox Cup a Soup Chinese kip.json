@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Cup a Soup Chinese kip",
+  "brand": "Unox",
+  "price": "1.89",
+  "base_unit_price": "52.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749016_M/e65498e380b08a80f532093e1693cd3f/749016.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel, deegwaar 20% (harde TARWEGRIES, zout), dextrose, pannenkoekreepjes 11% (TARWEBLOEM, EI, zetmeel, zout, magere MELKPOEDER, MELKWEI, aroma), gejodeerd zout, aroma, gistextract, zout, suiker, rode paprika¹ 2,4%, Chinese paddenstoel 2,3%, kippenvlees 2,3% (kippenvlees, zout, antioxidant: rozemarijnextract), ui¹, gember, koriander 0,3%, knoflook¹, kurkuma¹, cayennepeper, kippenvet 1,6% (kippenvet, antioxidant: rozemarijnextract), spinazie, mineraalzout (kalium), glucosestroop, GERSTEMOUTEXTRACT. Kan selderij, mosterd, soja bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "96.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "23.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:52"
+}

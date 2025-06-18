@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ritter Sport Chocoladetablet Wit hele hazelnoot",
+  "brand": "Ritter Sport",
+  "price": "2.09",
+  "base_unit_price": "20.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/325714_M/89896b284736e6fecfde0a600c1a0fd3/325714.png",
+  "ingredients": "Ingrediënten:  suiker, HAZELNOTEN, cacaoboter, volle MELKpoeder, LACTOSE, rijst (2,5 %), BOTERvet, emulgator: lecithinen (SOJA), zout, moutextract (GERST).  Kan sporen van aardnoten, andere noten en eieren bevatten.",
+  "allergens": "Glutenbevattende granen, Soja, Melk, Noten, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2427.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "583.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:05"
+}

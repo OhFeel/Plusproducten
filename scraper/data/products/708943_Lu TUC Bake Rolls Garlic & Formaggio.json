@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu TUC Bake Rolls Garlic & Formaggio",
+  "brand": "Lu",
+  "price": "2.09",
+  "base_unit_price": "13.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/708943_M/934e4c7773ed5f006cf351abc8be9c21/708943.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, zonnebloemolie 13 %, TARWEGLUTEN, suiker, Parmigiano Reggiano KAAS 1,5 %,gejodeerd zout, gist, weipermeaat (van MELK), emulgator (natriumstearoyllactaat), gedroogde uien, natuurlijk aroma, tuinbonenbloem, KAASPOEDER 0,03 %, peterselie, gistextract, knoflookpoeder 0,03 %, meelverbeteraars (ascorbinezuur,  L-cysteïne), TARWEZETMEEL, voedingszuren (melkzuur,  calciumlactaat).KAN BEVATTEN: EI, PINDA, NOTEN, SELDERIJ, SESAM.",
+  "allergens": "Tarwe, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1853.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "441.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:01"
+}

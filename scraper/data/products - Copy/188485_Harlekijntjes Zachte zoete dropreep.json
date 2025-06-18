@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Harlekijntjes Zachte zoete dropreep",
+  "brand": "Harlekijntjes",
+  "price": "0.99",
+  "base_unit_price": "15.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/188485_M/15ebb78fe570f983b929b000a70ad754/188485.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, maïszetmeel, melasse, zoethoutwortel, gelatine (varken), TARWEBLOEM, salmiakzout, kokosolie, glansmiddel: bijen- en carnaubawas, kleurstof: carbo medicinalis vegetabilis, natuurlijk anijsaroma",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1400.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "330.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:14:09"
+}

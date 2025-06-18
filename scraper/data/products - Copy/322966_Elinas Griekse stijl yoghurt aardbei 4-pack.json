@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Elinas Griekse stijl yoghurt aardbei 4-pack",
+  "brand": "Elinas",
+  "price": "2.19",
+  "base_unit_price": "3.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/322966_M/e7efc4b21a5d90b5134f5197d52ad35a/322966.png",
+  "ingredients": "Ingrediënten: YOGHURT, vruchtenbereiding (aardbeien, suiker, kleurend concentraat van vruchten en groenten (zwarte bes, wortel), gemodificeerd zetmeel, verdikkingsmiddelen (E440, E410), zuurteregelaar (E330), aroma), suiker\nKan sporen van SCHAALVRUCHTEN bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "561.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "134.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "100.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:11:48"
+}

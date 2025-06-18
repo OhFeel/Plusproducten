@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker kookpudding rum rozijnen",
+  "brand": "Dr. Oetker",
+  "price": "1.29",
+  "base_unit_price": "13.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/195210_M/3713c51814f9ea9f9dd39ee22a6d643c/195210.png",
+  "ingredients": "Ingrediënten: suiker, maïszetmeel, 6,9% krent, 6,9% rozijnen, aroma, kleurstof (caroteen).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "415.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "98.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:16:21"
+}

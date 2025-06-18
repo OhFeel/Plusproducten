@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Faustino Rivero Ulecia Reserva",
+  "brand": "Faustino",
+  "price": "6.65",
+  "base_unit_price": "8.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/160686_M/0740e3172f46ebcdb99f6cffaafe5a6a/160686.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:01:41"
+}

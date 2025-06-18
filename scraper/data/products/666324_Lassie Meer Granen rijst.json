@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lassie Meer Granen rijst",
+  "brand": "Lassie",
+  "price": "2.39",
+  "base_unit_price": "8.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/666324_M/81629a895559df086e87dde5073b5103/666324.png",
+  "ingredients": "Ingrediënten: voorgekookte zilvervliesrijst (33%), voorgekookte witte rijst (33%), GERST (15%), TARWE (7%), SPELT (7%), kortkokende wilde rijst (5%). Kan sporen van noten bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1469.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "347.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.43",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:17:10"
+}

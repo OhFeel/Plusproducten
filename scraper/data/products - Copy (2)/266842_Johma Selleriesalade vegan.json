@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Selleriesalade vegan",
+  "brand": "Johma",
+  "price": "2.55",
+  "base_unit_price": "14.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/266842_M/06c872f154373682b374c2c066920406/266842.png",
+  "ingredients": "Ingrediënten: 61% KNOLSELDERIJ, koolzaadolie, water, suiker, natuurazijn, zout, gemodificeerd zetmeel, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), specerijen (MOSTERD), gistpoeder, natuurlijk aroma (SELDERIJ), verdikkingsmiddel (xanthaangom), antioxidanten (ascorbinezuur, NATRIUMDISULFIET), voedingszuur (citroenzuur). Kan sporen bevatten van ei, gluten, melk, noten, pinda's, sesamzaad, schaaldieren, soja en vis.",
+  "allergens": "Selderij, Mosterd, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "981.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "238.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:46:17"
+}

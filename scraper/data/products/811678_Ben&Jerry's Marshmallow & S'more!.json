@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ben&Jerry's Marshmallow & S'more!",
+  "brand": "Ben&Jerry's",
+  "price": "7.25",
+  "base_unit_price": "16.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/811678_M/c1a7ee18ed1109d25604d5f3963d91b4/811678.png",
+  "ingredients": "Ingrediënten: Water, suiker, ROOM (20%), geconcentreerde magere MELK, glucosestroop, TARWEBLOEM, cacaopoeder (2%), kokosolie, magere cacaopoeder (1,5%), oplosbare maïsvezel, EIGEEL, plantaardige oliën (soja, zonnebloem), gemodificeerd zetmeel, EI-EIWIT, stabilisatoren (guargom, johannesbroodpitmeel, pectine, carrageen), maltose, emulgatoren (lecithines (bevat SOJA)), zout, natuurlijke aroma's, zuurteregelaars (calciumcarbonaat, appelzuur), vanille-extract, geconcentreerd citroensap, koolstofdioxide, rijsmiddel (natriumbicarbonaat). Kan amandel en hazelnoot bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1064.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "254.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:34"
+}

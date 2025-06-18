@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Pukka Thee night time",
+  "brand": "Pukka",
+  "price": "5.79",
+  "base_unit_price": "0.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/566106_M/6260601cbed75f04e3f6a59dd3ad6ed2/566106.png",
+  "ingredients": "Van nature cafeïnevrij, ethisch verantwoord verkregen en 100% biologisch geteelde ingrediënten: bloeiende toppen van haver (30%), kamillebloem, zoethoutwortel, lavendelbloem (14%), lindebloesem (10%), tulsi-blad, valeriaanwortel (4,9%).",
+  "allergens": "Haver en haverproducten (gluten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "17.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "4.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:01"
+}

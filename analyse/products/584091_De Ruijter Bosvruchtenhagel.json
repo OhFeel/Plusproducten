@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "De Ruijter Bosvruchtenhagel",
+  "brand": "De Ruijter",
+  "price": "2.59",
+  "base_unit_price": "8.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/584091_M/7d6f7a123529031eaa14f8aacd6f63d5/584091.png",
+  "ingredients": "Ingrediënten: Suiker, TARWEZETMEEL, vlierbessap 4%, dextrose, kleurstof (karmijn), natuurlijk aroma, voedingszuur (citroenzuur)",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1697.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "399.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "99.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "94.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:51:30"
+}

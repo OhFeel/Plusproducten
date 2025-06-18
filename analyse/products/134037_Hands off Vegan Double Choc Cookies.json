@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hands off Vegan Double Choc Cookies",
+  "brand": "Hands off",
+  "price": "2.99",
+  "base_unit_price": "28.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/134037_M/6d02ef030db36c7cadad73e7d2fe02ca/134037.png",
+  "ingredients": "Ingrediënten: suiker, TARWEbloem, plantaardige oliën en vetten (shea, kokos), cacaomassa*, cacaoboter*, cacaopoeder*, zonnebloempitpoeder, rijstpoeder (rijststroop, rijstmeel), magere cacaopoeder*, rijsmiddel (E450, E500, E503), inuline, invertsuikerstroop, emulgatoren (E322, E322 van SOJA), dextrose, zout, natuurlijk vanillearoma, natuurlijk cacaoaroma. *Rainforest Alliance Certified. Find out more at ra.org. Kan sporen bevatten van: noten, pinda's, melk en sesam.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2183.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "522.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "37.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:51:34"
+}

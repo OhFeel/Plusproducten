@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Emmi Kaasfondue original",
+  "brand": "Emmi",
+  "price": "5.99",
+  "base_unit_price": "14.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/667525_M/832f7cbf0a73f5296e4563cb70fc5280/667525.png",
+  "ingredients": "Bevat: Zwitserse KAAS 52%, witte wijn, water, aardappelzetmeel, kirsch, zout, smeltzout (E339), specerijen, stabilisator (johannesbroodpitmeel). Gepasteuriseerd, bevat alcohol. Lactose minder dan 0,01g/100g.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1010.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "244.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:17:43"
+}

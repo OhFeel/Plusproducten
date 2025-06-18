@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wieger Ketellapper Ontbijtkoek kruidkoek",
+  "brand": "Wieger Ketellapper",
+  "price": "2.49",
+  "base_unit_price": "5.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469156_M/f189a906a775b0b146fb83515f5366de/469156.png",
+  "ingredients": "Ingrediënten: ROGGEbloem, glucose-fructosestroop, suiker, water, specerijen, kaneel, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), zonnebloemolie. Kan sporen bevatten van: NOTEN, MELK.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1291.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "304.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:37"
+}

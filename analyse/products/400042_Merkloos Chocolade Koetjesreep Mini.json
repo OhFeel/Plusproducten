@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Merkloos Chocolade Koetjesreep Mini",
+  "brand": "Merkloos",
+  "price": "1.79",
+  "base_unit_price": "11.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/400042_M/bf1416fa6a7676a624f8e2ade049479d/400042.png",
+  "ingredients": "Ingrediënten: suiker, plantaardig vet (kokosnoot, palm, shea in wisselende verhoudingen), gealkaliseerde magere cacaopoeder, weipoeder (MELK), mager MELKpoeder, stabilisator: E492; emulgator: lecithinen; aroma. Kan sporen bevatten van: gluten en schaalvruchten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2336.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "558.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:39:35"
+}

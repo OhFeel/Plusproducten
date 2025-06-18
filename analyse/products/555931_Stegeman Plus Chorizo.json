@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Stegeman Plus Chorizo",
+  "brand": "Stegeman",
+  "price": "4.45",
+  "base_unit_price": "22.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/555931_M/171f7722bf6d56bc9eb7539c81317895/555931.png",
+  "ingredients": "89% varkensvlees*, varkenscollageen*, 20% paprika, varkensspek*, zout, zeezout (zout, kaliumchloride), specerijen, knoflook, glucosestroop, varkenseiwit, dextrose, geconcentreerd rode bietensap, azijn, aroma, extract van paprika, antioxidant (e301), conserveermiddelen (e235, e250), rook. *beter leven keurmerk 1ster.\nkan sporen bevatten van: melk.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1694.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "403.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:38:28"
+}

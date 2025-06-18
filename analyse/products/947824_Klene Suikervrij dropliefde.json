@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Klene Suikervrij dropliefde",
+  "brand": "Klene",
+  "price": "2.59",
+  "base_unit_price": "28.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947824_M/a7c0816d146d68af309f0abd52b64a30/947824.png",
+  "ingredients": "Ingrediënten: zoetstoffen (maltitolstroop, erytritol, steviolglycosiden), gelatine, zetmeel, zoethoutwortelextract, salmiakzout, geleermiddel (pectine), natuurlijke aroma's, kokosolie, glansmiddel (carnaubawas), kleurstof (plantaardige koolstof). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "797.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "190.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:32"
+}

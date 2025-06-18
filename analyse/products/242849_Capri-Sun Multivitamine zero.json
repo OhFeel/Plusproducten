@@ -1,0 +1,103 @@
+{
+  "sku": "",
+  "name": "Capri-Sun Multivitamine zero",
+  "brand": "Capri-Sun",
+  "price": "4.49",
+  "base_unit_price": "0.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/242849_M/7d90b45de4177c8733cb78cd87a9ec46/242849.png",
+  "ingredients": "Ingrediënten: Bronwater, sinaasappelsap* (3,1%), citroensap* (2,7%),ananassap* (0,3%), bananensap* (0,3%), appelsap* (0,3%),kiwisap* (0,2%), zuurteregelaar citroenzuur, passievruchtensap*(0,1%), natuurl k aroma, vitaminemix: C, niacine, E, B6,thiamine (B1), biotine, zoetsto en sucralose, cyclamaaten sacharine, antioxidant ascorbinezuur. (*uit vruchtensapconcentraat)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "15.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "12.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "1.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.17",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "2.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:39:04"
+}

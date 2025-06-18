@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS BBQ Plantaardige worst masala",
+  "brand": "PLUS",
+  "price": "3.29",
+  "base_unit_price": "13.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/942665_M/69a1474ef090c226c59de46a8c2b123e/942665.png",
+  "ingredients": "Ingrediënten :79% Gerehydrateerd SOJA-EIWIT, zonnebloemolie, aardappelzetmeel, natuurlijk aroma, citrusvezel, sheavet, geroosterde ui, uienpoeder, knoflookpoeder, peterselie, 1% masala-specerijen (korianderzaad, kurkuma, komijnzaad, zwarte peper, dillezaad, cayennepeper, citroengras), zout, ijzer, vitamine B12, aroma, conserveermiddel: E261, voedingszuur: citroenzuur, antioxidant: E300, geleermiddel: E401, verdikkingsmiddel: E461.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "647.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "156.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.09",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.452",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.455",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.185",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.666",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.422",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "4.244",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "7.373",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.334",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.045",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.418",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:14:09"
+}

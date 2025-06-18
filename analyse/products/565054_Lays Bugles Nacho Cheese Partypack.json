@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Bugles Nacho Cheese Partypack",
+  "brand": "Lays",
+  "price": "2.65",
+  "base_unit_price": "16.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/565054_M/90ff0032fe3a68ef03a54f9132e27555/565054.png",
+  "ingredients": "Ingrediënten: maïs, zonnebloemolie, kaassmaak [weipermeaat (van MELK), weipoeder (van MELK), natuurlijk aroma (zwarte peper, rozemarijn, kurkuma, room en kaas (van MELK), uien-, tomaat-, KAASPOEDER, knoflookpoeder, zuurteregelaars (citroenzuur, melkzuur), kleurstof (paprika-extract)], zout, suiker. Kan soja en tarwe (gluten) bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2167.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "519.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:15"
+}

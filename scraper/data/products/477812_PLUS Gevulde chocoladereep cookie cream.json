@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gevulde chocoladereep cookie cream",
+  "brand": "PLUS",
+  "price": "2.49",
+  "base_unit_price": "13.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/477812_M/e177503a2b3ffc0f6140c6829938fc1d/477812.png",
+  "ingredients": "Ingrediënten :suiker, geheel geharde plantaardige vetten (palmpit, palm), cacaoboter, roompoeder (MELK), volle MELKPOEDER, cacaomassa, 5% CACAOMELKVULLING (suiker, geheel geharde plantaardige vetten (palmpit, palm), volle MELKPOEDER, magere cacaopoeder, emulgator: E322 (SOJA), zout, Bourbon-vanille-extract), 4% cacao-koekstukjes (TARWEBLOEM, suiker, geheel gehard palmvet, magere cacaopoeder, glucose-fructosestroop, magere MELKPOEDER, zout, natuurlijk vanille-aroma, Bourbon vanillepoeder, rijsmiddel: E500/E503, water), zoete weipoeder (MELK), emulgator: E322 (SOJA), watervrij MELKVET, zout, natuurlijk vanille-aroma, Bourbon-vanille-extract.\n\nKan PINDA, AMANDEL en HAZELNOOT bevatten.\n\nMelkchocolade: ten minste 30% cacaobestanddelen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2348.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "563.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.157",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "22.892",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "9.113",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.434",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.147",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.466",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.427",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.254",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.645",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.518",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.207",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.539",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "48.36",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:08:47"
+}

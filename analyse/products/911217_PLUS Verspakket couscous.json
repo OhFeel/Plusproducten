@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket couscous",
+  "brand": "PLUS",
+  "price": "5.89",
+  "base_unit_price": "5.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/911217_M/06cdc43da341620478cbcb23f17bce68/911217.png",
+  "ingredients": "Ingrediënten :23% couscous (DURUMTARWEGRIESMEEL), courgette, aubergine, rode paprika, ui, rozijnen-abrikozenmix (rozijnen (rozijnen, zonnebloemolie), abrikozenstukjes (abrikoos, rijstmeel, conserveermiddel: E220 (SULFIET))), 8% specerijen- en kruidenpasta (water, geconcentreerde tomatenpuree, knoflook, suiker, witte wijnazijn, specerijen (piment, chilipeper, komijn, kurkuma, korianderzaad, anijszaad, gember, kaneel, kardemom), limoensap, zout, natuurlijk aroma, koolzaadolie, munt, conserveermiddel: E202, voedingszuur: citroenzuur), 0,9% mix met specerijen (specerijen (venkelzaad, korianderzaad, zwarte peper, komijn, chilipeper, kruidnagel, nootmuskaat), mineraal zeezout met verlaagd natriumgehalte (zeezout, kaliumchloride), rooibos, kruizemunt), knoflook.",
+  "allergens": "Tarwe, Glutenbevattende granen, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "617.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "147.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.494",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.384",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.47",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.382",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.684",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.749",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "11.597",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.989",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.896",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.464",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.186",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.006",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.347",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:51"
+}

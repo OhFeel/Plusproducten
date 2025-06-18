@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Doritos Flamin’ hot",
+  "brand": "Doritos",
+  "price": "2.49",
+  "base_unit_price": "15.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/390783_M/519e80cdaff6ea3ea8a2521d750f370f/390783.png",
+  "ingredients": "Ingrediënten: Maïs, koolzaadolie, Flamin' Hot smaak [suiker, aroma, kaliumchloride, zuurteregelaars (citroenzuur, appelzuur), zout, knoflookpoeder, smaakversterker (mononatriumglutamaat), uienpoeder, gerookt paprikapoeder, groenteconcentraat (radijs, wortel), jalapeño peperpoeder, specerijen, kleurstof (paprika-extract), gedroogde oregano, gerookte maltodextrine, gerookte zonnebloemolie], antioxidanten (extracten van rozemarijn, ascorbinezuur, tocoferolrijk extract, citroenzuur). Kan soja en tarwe (gluten) bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2007.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "479.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:36:00"
+}

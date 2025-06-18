@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Borrelworstjes trio",
+  "brand": "Huls",
+  "price": "4.99",
+  "base_unit_price": "27.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/555923_M/6b33e320320c86ad0a2015949ab04a5e/555923.png",
+  "ingredients": "plakjes droge worst met provençaalse kruiden\ningrediënten: varkensvlees*, kruiden 8% (basilicum, majoraan, bonenkruid, oregano, tijm), zout, dextrose, suiker, varkensgelatine, kleurstof: karmijn, antioxidant: natriumascorbaat, aroma's, stabilisator: e451, bevochtigingsmiddel: e422, specerij-extract, voedingszuur: citroenzuur, fermenten, conserveermiddelen: natriumnitriet, e202. voor 100 gram droge worst is 152 gram varkensvlees* gebruikt.\n\nplakjes droge worst naturel\ningrediënten: varkensvlees*, zout, dextrose, suiker, kleurstof: karmijn, antioxidant: natriumascorbaat, natuurlijke aroma's, stabilisator: e451, specerij-extract, fermenten, conserveermiddel: natriumnitriet. voor 100 gram droge worst is 161 gram varkensvlees* gebruikt.\n\ndroge worstjes chorizo\ningrediënten: varkensvlees*, zout, specerijen, paprikapoeder, dextrose, aroma, cayennepeper, antioxidant: natriumascorbaat, extract van paprika, fermenten, conserveermiddel: natriumnitriet, collageen (rund). voor 100 gram droge worst is 160 gram varkensvlees* gebruikt.\n\n* = beter leven keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2031.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "491.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.52",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:38:25"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely B&J Donkere melk brownie",
+  "brand": "Tony's Chocolonely",
+  "price": "4.59",
+  "base_unit_price": "25.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/609379_M/7c21cd787b66779bab6d77f3dd4ac1af/609379.png",
+  "ingredients": "Ingrediënten: Suiker, cacaomassa, volle MELKpoeder, cacaoboter, 11% brownie stukjes (suiker, TARWEbloem, zonnebloemolie, bevochtigingsmiddel (glycerine), magere cacaopoeder, zout), emulgator (SOJAlecithine). KAN SPOREN BEVATTEN VAN: EI, PINDA EN NOTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2259.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "540.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:58"
+}

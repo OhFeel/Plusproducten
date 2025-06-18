@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Soep in Zak Bospaddenstoelensoep",
+  "brand": "PLUS",
+  "price": "2.79",
+  "base_unit_price": "4.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/912741_M/5539db05c0560f7ff46f24fe79fe58ae/912741.png",
+  "ingredients": "Ingrediënten :water, 16% paddenstoelen (champignon, 20% bospaddenstoelen (Japanse bundelzwam, cantharellen)), room (MELK), gemodificeerd maïszetmeel, volle MELK, ui, zonnebloemolie, magere MELKPOEDER, champignonconcentraat, gistextract, zeezout, TARWEBLOEM, TARWEMOUTMEEL), witte balsamicoazijn (witte wijnazijn, druivenmost, natuurlijk aroma), kruiden, knoflookpoeder, natuurlijk aroma, verdikkingsmiddel: xanthaangom, specerij.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "199.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "48.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.248",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:05"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Starmix Uitdeelzakjes",
+  "brand": "Haribo",
+  "price": "4.35",
+  "base_unit_price": "11.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/933659_M/e4dd71c36537746eb13a9721a3517d99/933659.png",
+  "ingredients": "Ingrediënten: Glucosestroop; suiker; dextrose; gelatine; voedingszuur: citroenzuur; aroma; vruchten- en plantenconcentraten: saffloer, spirulina, appel, vlierbes, zwarte bes, sinaasappel, kiwi, citroen, mango, passievrucht, aronia, druif; karamelstroop; vlierbesextract; glansmiddelen: bijenwas wit en geel, carnaubawas. Kan sporen bevatten van MELK, TARWE.",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1452.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "342.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:23"
+}

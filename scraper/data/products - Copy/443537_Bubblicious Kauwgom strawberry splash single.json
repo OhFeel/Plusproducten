@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bubblicious Kauwgom strawberry splash single",
+  "brand": "Bubblicious",
+  "price": "0.99",
+  "base_unit_price": "26.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/443537_M/a2c1eab00cff8306acca1492e5573c6d/443537.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, gom, aroma's, voedingszuren (E330, E296), emulgator (zonnebloemlecithine), bevochtigingsmiddel (E422), palmpittenolie, kleurstof (E120), antioxidant (E321)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1281.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "302.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:56:50"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely Chocoladereep Donkere Melk Fairtrade",
+  "brand": "Tony's Chocolonely",
+  "price": "4.29",
+  "base_unit_price": "23.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/167006_M/4a74c27adbd7961f360591fb7cac1465/167006.png",
+  "ingredients": "Ingrediënten: suiker, cacaomassa, volle MELKpoeder, cacaoboter, emulgator ((lecithines (SOJA))). Kan sporen bevatten van gluten, ei en noten.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2308.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "552.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:39"
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Yum Yum Thai Spicy Soup",
+  "brand": "Yum Yum",
+  "price": "1.19",
+  "base_unit_price": "11.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/660548_M/c6e9dbbf8383582fd9ed563477f67070/660548.png",
+  "ingredients": "Ingrediënten: TARWEmeel, palmolie (bevat antioxidanten: E319, E320), tapiocazetmeel, zout, koffiecreamer (glucosesiroop, geheel geharde palmpitolie), MELKeiwit, zuurteregelaar: E340, emulgator: E471, antiklontermiddel: E551), suiker, groenten (knoflook, ui, uienblad), smaakversterkers: E621, E635, specerijen (chili, galanga, capsicumextract), voedingszuren: E330, E296, VISsaus (ANSJOVISextract, zout, suiker, maltodextrine), zuurteregelaars: E500, E452, E451, E501, GARNALEN 0,2%, kleurstoffen: E160c, E150c, citroengras 0,1%, verdikkingsmiddelen: E415, E466, antiklontermiddel: E551, aroma (bevat SOJAbonen), antioxidant: E306. DIT PRODUCT KAN SPOREN VAN SELDERIJ EN SESAM BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Vis, Soja, Melk, Garnaal en producten op basis van garnaal, Ansjovis en producten op basis van ansjovis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "436.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "104.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "400.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:15:22"
+}

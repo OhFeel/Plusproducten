@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mona Framboospudding rode bessensaus",
+  "brand": "Mona",
+  "price": "2.49",
+  "base_unit_price": "5.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/804297_M/55765c762baf150026833de68489736f/804297.png",
+  "ingredients": "Ingrediënten: Volle MELK, vloeibare MELKbestanddelen, suiker, 9,8% rode bessensap, 0,7% frambozensap, glucose-fructosestroop, maïszetmeel, gemodificeerd maïszetmeel, rudergelatine, verdikkingsmiddel: xanthaangom, aroma, wortelconcentraat, kleurstoffen: E120, E101, zuurteregelaar: E331, stabilisator: E339",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "450.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "107.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:48:00"
+}

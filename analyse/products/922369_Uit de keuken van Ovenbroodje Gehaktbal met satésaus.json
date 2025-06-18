@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van Ovenbroodje Gehaktbal met satésaus",
+  "brand": "Uit de keuken van",
+  "price": "4.99",
+  "base_unit_price": "4.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/922369_M/a9304425caeb753313fbd7c1cf6c809b/922369.png",
+  "ingredients": "Wit broodje (TARWEBLOEM, water, bakkerszout, bakkersgist, gefermenteerd TARWEBLOEM, gefermenteerd gedroogd TARWEZUURDESEM, dextrose, TARWEMOUTMEEL, aroma, antioxidant: E300, koolzaadolie), gehaktbal (55% varkensvlees, 30% rundvlees, SCHARRELEI, TARWEBLOEM, voedingszuur: E326/E262/E330, zout, specerijen, TARWEZEMELEN, dextrose, conserveermiddel: E202, zonnebloemolie, gebrande suiker), pindasaus met kokosmelk (water, 30% PINDA'S, 13% kokosmelk (53% kokosextract, water, voedingszuur: citroenzuur), SOJASAUS (water, azijn, SOJABONEN, zout), suiker, gebrande suikerstroop, Spaanse peper, knoflook, gember, zout, limoenblad, gekarameliseerde suiker), gebakken uitjes (ui, palmolie, TARWEBLOEM, zout), geroosterde krulpeterselie (peterselie, olijfolie).",
+  "allergens": "Tarwe, Ei, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1154.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "276.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:21"
+}

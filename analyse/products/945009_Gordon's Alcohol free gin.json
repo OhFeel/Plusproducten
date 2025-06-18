@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Gordon's Alcohol free gin",
+  "brand": "Gordon's",
+  "price": "16.99",
+  "base_unit_price": "24.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/945009_M/d9d12fe1820feb7308683432ff531257/945009.png",
+  "ingredients": "water, natuurlijke aroma's, zuur: e334, conserveringsmiddelen: e202; e242; e211; zuuteregelaar: e331iii; e508; e514, zoetstoffen: e508; e514, zoetstoffen: e955; e950, zout.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "48.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "12.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:15:36"
+}

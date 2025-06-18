@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hi-Five Ice Tea Yuzu Organic",
+  "brand": "Hi-Five",
+  "price": "1.99",
+  "base_unit_price": "6.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/549295_M/754d29b5497f739ed765f20114b65865/549295.png",
+  "ingredients": "Ingrediënten: thee- en kruideninfusie (citroengras, verbena, witte thee, groene thee, balsem, zoethout, limoenbloesem, verbenabladeren, gember, rozemarijn, natuurlijk aroma), agavesiroop, yuzusap, citroenconcentraat.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "55.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "13.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:34:50"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Klene Suikervrij dropgums",
+  "brand": "Klene",
+  "price": "2.59",
+  "base_unit_price": "23.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947383_M/d4a25120facbd9f90051c13b478303e3/947383.png",
+  "ingredients": "Ingrediënten: zoetstoffen (maltitolstroop, steviolglycosiden), verdikkingsmiddel (arabische gom), gemodificeerd zetmeel, gelatine, zoethoutwortelextract, voedingszuren (melkzuur, citroenzuur), natuurlijke aroma's, kokosolie, salmiakzout, concentraten (saffloer, wortel, spirulina, citroen, zwarte bes), glansmiddel (carnaubawas), kleurstof (plantaardige koolstof). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "937.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "224.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:20"
+}

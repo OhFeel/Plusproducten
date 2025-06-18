@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Klene Suikervrij honingbijtjes",
+  "brand": "Klene",
+  "price": "2.39",
+  "base_unit_price": "21.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947389_M/6c15334e84f44f4729a588306a08097c/947389.png",
+  "ingredients": "Ingrediënten: zoetstoffen (maltitolstroop, steviolglycosiden), verdikkingsmiddel (arabische gom), zoethoutwortelextract, gemodificeerd zetmeel, natuurlijk aroma en aroma, salmiakzout, kokosolie, glansmiddel (bijenwas), kleurstof (plantaardige koolstof). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "818.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "198.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:21"
+}

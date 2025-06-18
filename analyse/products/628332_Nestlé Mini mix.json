@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nestlé Mini mix",
+  "brand": "Nestlé",
+  "price": "4.39",
+  "base_unit_price": "12.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/628332_M/b05f7176e9471b785500437da8cc2291/628332.png",
+  "ingredients": "Ingrediënten: SMARTIES: suiker, magere MELKpoeder, cacaomassa¹, cacaoboter¹, TARWEmeel, watervrij MELKvet, WEIpoeder, rijstzetmeel, emulgator (lecithinen), kleuren (bietenrood, carotenen, curcumine), spirulinaconcentraat, glansmiddelen (carnaubawas, witte bijenwas), plantenconcentraten (saffloer, radijs), GERSTEmoutextract. BROS: suiker, volle MELKpoeder, cacaoboter¹, cacaomassa¹, plantaardige vetten (palm, karité), WEIpoeder, magere MELKpoeder, watervrij MELKvet, emulgator (lecithinen). Kan bevatten: PINDA'S, NOTEN en SOJA. ROLO: glucosestroop, suiker, invertsuikerstroop, cacaoboter¹, plantaardige vetten (palm, karité), gecondenseerde magere MELK met suiker (magere MELK, suiker), volle MELKpoeder, cacaomassa¹, watervrij MELKvet, LACTOSE, MELKeiwitten, emulgator (lecithinen), zout, aroma. Kan bevatten: GLUTEN. KITKAT: suiker, TARWEmeel, magere MELKpoeder, plantaardige vetten (palm, karité), cacaoboter¹, cacaomassa¹, WEIpoeder, watervrij MELKvet, magere cacao¹, emulgator (lecithinen), rijsmiddel (natriumcarbonaten). LION: Melkchocolade (37,2%) (suiker, cacaoboter¹, volle MELKpoeder, cacaomassa¹, plantaardige vetten (palm, karité), WEIpoeder, emulgator (lecithinen)), glucose-fructose-troop, TARWEmeel, gecondenseerde volle MELK met suiker (MELK, suiker), palmolie, suiker, WEIpoeder, maltodextrine, magere MELKpoeder, gekarameliseerde suiker, verdikkingsmiddel (carrageen). Kan bevatten: PINDA'S, NOTEN en SOJA. ¹Rainforest Alliance gecertificeerd. www.ra.org.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1978.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "471.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "62.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:56"
+}

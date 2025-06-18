@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gesneden verspakket Lasagne",
+  "brand": "PLUS",
+  "price": "6.89",
+  "base_unit_price": "7.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/218408_M/1be7e1b69e52546e6d008926b78487fd/218408.png",
+  "ingredients": "Ingrediënten :43% tomatenblokjes (tomaat, tomatensap, zout, voedingszuur: citroenzuur), 10% prei, 9% lasagnebladen (DURUMTARWEGRIESMEEL), 8% wortel, 8% paprika, 8% courgette, 8% ui, 4% lasagnesaus (water, zongedroogde tomatenpuree (water, zongedroogde tomaat (tomaat, zout), zout, natuurazijn, citroensap), zout, witte balsamicoazijn (witte wijnazijn, druivenmostconcentraat, conserveermiddel: E202, natuurlijk aroma), tomatenpoeder, olijfolie, gedroogde ui, specerijen (paprikapoeder, witte peper, MOSTERDPOEDER), knoflookpoeder, kruiden (basilicum, oregano, rozemarijn, tijm), erwtenvezels, erwtenzetmeel, conserveermiddel: E202, natuurlijk aroma), knoflook, tijm.",
+  "allergens": "Tarwe, Glutenbevattende granen, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "470.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "112.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.639",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.141",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.776",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.235",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.725",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "5.365",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.447",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.626",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.649",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.037",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:24:46"
+}

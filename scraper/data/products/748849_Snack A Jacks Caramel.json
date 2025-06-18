@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Snack A Jacks Caramel",
+  "brand": "Snack A Jacks",
+  "price": "2.69",
+  "base_unit_price": "19.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/748849_M/7ff08a03acfef9aa726891c7348184ce/748849.png",
+  "ingredients": "Ingrediënten: Zilvervliesrijst (35%), maïs (35%) (waarvan de kiem verwijderd is), suiker, oligofructose, karamelaroma, zonnebloemolie, kleurstof (annatto norbixin), emulgator (SOJALECITHINE), zout.  ◊Dit product kan sesam en melk  bevatten. ",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1578.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "388.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:42"
+}

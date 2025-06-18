@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Snackworstjes met kruidnagel",
+  "brand": "Huls",
+  "price": "3.49",
+  "base_unit_price": "28.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/324928_M/9bc4ea8db250b204090f0a9623583ffb/324928.png",
+  "ingredients": "varkensvlees*, zout, maltodextrine, varkensspek*, kruidnagel, dextrose, specerijen, antioxidant: natriumascorbaat, kleurstof: karmijn, fermenten, conserveermiddel: natriumnitriet, rundercollageen. voor 100 gram droge worst is 168 gram varkensvlees gebruikt. * = beter leven keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2361.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "571.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "51.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.83",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:12:32"
+}

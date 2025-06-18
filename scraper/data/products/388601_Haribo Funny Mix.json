@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Funny Mix",
+  "brand": "Haribo",
+  "price": "5.15",
+  "base_unit_price": "7.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/388601_M/1261dfcdc9f1d2cecaf3a7371b9f3713/388601.png",
+  "ingredients": "glucosestroop; suiker; zetmeel; voedingszuur: citroenzuur; karamelstroop; aroma; vruchten- en plantenconcentraten: spirulina, saffloer, vlierbes, zwarte bes, sinaasappel, aronia, druif, citroen; glansmiddelen: bijenwas wit en geel, carnaubawas; vlierbesextract; kleurstof: indigotine. kan sporen bevatten van melk, tarwe.",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1421.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "334.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "82.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:25"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Yildriz Turkse knoflooksaus",
+  "brand": "Yildriz",
+  "price": "3.99",
+  "base_unit_price": "7.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/738997_M/96ab7e1eddb878c66e0ac27f46283244/738997.png",
+  "ingredients": "Ingredienten: water, raapolie, natuurazijn, suiker, glucose-fructosestroop, gemodificeerd maiszetmeel, maiszetmeel, knoflook 2,2%, VRIJE UITLOOP EI en EIGEEL, zout, kruiden, voedingszuur: citroenzuur, MOSTERDMEEL, kaliumchloride, verdikkingsmiddelen: guarpitmeel en xanthaangom, specerijen, natuurlijk aroma, conserveermiddelen: kaliumsorbaat en E211, antioxidant: E385.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1207.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "291.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.49",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:50"
+}

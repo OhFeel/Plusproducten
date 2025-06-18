@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Gulpener Lentebock",
+  "brand": "Gulpener",
+  "price": "6.89",
+  "base_unit_price": "3.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/704558_M/d1c0a702f42ea18b1183626e3100b680/704558.png",
+  "ingredients": "Ingrediënten: water, GERSTEmout en hop.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "238.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "57.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:25:42"
+}

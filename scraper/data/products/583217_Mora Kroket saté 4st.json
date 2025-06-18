@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Kroket saté 4st",
+  "brand": "Mora",
+  "price": "4.29",
+  "base_unit_price": "13.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/583217_M/e0e325f47cbbf52131ca301a46929bcb/583217.png",
+  "ingredients": "Ingrediënten: PINDAsaus (water, geroosterde PINDA 17%, bloem (bevat TARWE), palmolie, suiker, WEIpoeder (MELK), rundergelatine, zout, suikerstroop, rode pepers 0,7%, melasse, verdikkingsmiddel: E464, stabilisator: E466, specerijen, SOJAbonen, TARWE, natuurlijk aroma, kleurstof: karamel, maltodextrine, zuurteregelaar: azijnzuur, gistextract, conserveermiddelen: E202 en E211, voedingszuur: citroenzuur), bloem (bevat TARWE), kippenvlees* 13%, plantaardige oliën (palm, raapzaad), water, zetmeel (bevat TARWE), dextrose (bevat TARWE), zout, glucosestroop, suiker, kleurstoffen: E160b, E100 en E160c, stabilisator: E466, invertsuikerstroop, gist, TARWE-eiwit, emulgator: E471. *Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1324.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "318.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:51:00"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 8+mnd Courgette Witvis Rijst",
+  "brand": "Olvarit",
+  "price": "1.49",
+  "base_unit_price": "7.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435347_M/1fbde88c2f806c3f4b418c086f1c5e40/435347.png",
+  "ingredients": "Ingrediënten :   32% courgette, 19% rijst, water, 8% witVIS, 8% groene paprika, 6% peterseliewortel, 5% wortel, 2,2% maïszetmeel, koolzaadolie.",
+  "allergens": "Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "247.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "59.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.025",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:04"
+}

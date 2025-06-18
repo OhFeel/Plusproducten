@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Dubbelfrisss Boost ananas & mango",
+  "brand": "Dubbelfrisss",
+  "price": "1.99",
+  "base_unit_price": "1.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/620788_M/7cd6bdcabb9187027c2498fd78adba96/620788.png",
+  "ingredients": "Ingrediënten: Bronwater, vruchtensap uit concentraat 15% (appel 13%, ananas 1,0%, mango 1,0%), MELKbestanddelen (MELKpermeaat) 10%, suiker, ROOM <lt/>0,1%, voedingszuur (citroenzuur), stabilisator (pectine), aroma's, zoetstof (steviolglycosiden uit Stevia), vitamines (B5, B6, B8), koolzuur (<lt/>0,1%)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "94.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "23.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.012",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "0.9",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:05"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Ristorante piadina 4 kazen flatbread",
+  "brand": "Dr. Oetker",
+  "price": "3.99",
+  "base_unit_price": "14.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/240849_M/ef54f7d01344e27be76b664ce55a7b7d/240849.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 15% gezeefde tomaten, 14% MOZZARELLA KAAS, 7,1% EMMENTALER KAAS, 7,1% CHEDDAR KAAS, 3,5% HARDE KAAS, raapzaadolie, suiker, zout, gist, oregano, peper. Kan bevatten: SOJA, MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1100.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "262.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:36:37"
+}

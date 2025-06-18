@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ella's Kitchen Spaghetti bolognese",
+  "brand": "Ella's Kitchen",
+  "price": "2.99",
+  "base_unit_price": "15.74",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/584530_M/6ba07904c49f5701ae067c55ecff902b/584530.png",
+  "ingredients": "Ingrediënten: 35% tomaten*, 21% gekookte pasta* (water, durumTARWE*, gedroogd EIwit*), 17% wortelen*, 10% rundvlees*, 5% uien*, 5% groentebouillon (water en groenten: uien*, pastinaken*, koolraap*, prei*), 4% champignons*, 2% cheddarkaas* (MELK), <lt/>1% knoflook, <lt/>1% gemengde kruiden (peterselie*, tijm*, oregano*, salie*), <lt/>1% zwarte peper*, * = biologisch.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "294.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:51:54"
+}

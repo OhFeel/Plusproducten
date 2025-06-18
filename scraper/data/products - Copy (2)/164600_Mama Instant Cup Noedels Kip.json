@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mama Instant Cup Noedels Kip",
+  "brand": "Mama",
+  "price": "1.59",
+  "base_unit_price": "22.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/164600_M/f3bd05fd962319775229669957379b7f/164600.png",
+  "ingredients": "Ingrediënten: Noedels 62g: TARWEmeel, palmolie, zout, suiker, zuurteregelaar: E500; E501; E451, verdikkingsmiddel: E466, SOJAsaus (SOJA). Kruidenpoeder 5,5g: Zout, suiker, smaakversterker: E621; E635, kruiden, aroma (SOJA, smaakversterker: E621; E635, kleurstof: E150c, zuur: E330; E331; E300), kleurstof: E150a, SOJAsauspoeder (SOJA, TARWE, GERST), chilipoeder, zuur: E330. Gedroogde groente 2,5g: Wortel, kool, SOJAeiwit.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "341.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "81.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:32"
+}

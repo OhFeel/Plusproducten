@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Chocoladereep sinaas zonder suikers",
+  "brand": "Damhert",
+  "price": "3.89",
+  "base_unit_price": "45.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/465541_M/5508a0e6ac534fa0ee8136cba152d684/465541.png",
+  "ingredients": "pure chocolade (cacao: 55,5% minimum) (cacaomassa, zoetstof (maltitol), cacaoboter, emulgator (SOJAlecithine), natuurlijk vanillearoma), gevriesdroogde sinaasappelstukjes (4%) (sinaasappelconcentraat, sinaasappelcellen), aroma (sinaasappel (0,04%)). Kan NOTEN en MELK bevatten.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2221.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "531.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "44.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:04:06"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Van Dijk Donut cakejes Lemon",
+  "brand": "Van Dijk",
+  "price": "1.89",
+  "base_unit_price": "12.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639175_M/718d7e62153c8b1b49e5566df300766a/639175.png",
+  "ingredients": "Ingrediënten: suiker, TARWEbloem, plantaardige oliën: palm/ raapzaad/ kokos, scharrelEI, stabilisatoren: E422/E420, water, plantaardige vetten: palm/ palmpit/ raapzaad (gehard), invertsuikerstroop, maiszetmeel, rijsmiddelen: E450/E500, dextrose, glucosestroop, natuurlijke aroma's, bietenrood concentraat, emulgatoren: E322 (SOJA)/ E472c, kleurstof: E160a, glansmiddel: E901, citroensapconcentraat, saffloerconcentraat, radijsconcentraat, zoete aardappelconcentraat, zwarte bessenconcentraat, spirulinaconcentraat, Kan KOEMELK, AMANDELEN, HAZELNOTEN, WALNOTEN en PECANNOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1797.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "429.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:09"
+}

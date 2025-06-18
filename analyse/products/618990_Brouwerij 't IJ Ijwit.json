@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Brouwerij 't IJ Ijwit",
+  "brand": "Brouwerij 't IJ",
+  "price": "9.99",
+  "base_unit_price": "7.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/618990_M/d5d2ae14e37910446642badc990808d1/618990.png",
+  "ingredients": "Bevat: gerstemout en tarwemout.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "227.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "54.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:44"
+}

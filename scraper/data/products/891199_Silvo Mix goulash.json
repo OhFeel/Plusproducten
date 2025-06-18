@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix goulash",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "37.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/891199_M/efb3b4ce85c9ddcddff7f4243d5638b8/891199.png",
+  "ingredients": "Ingrediënten: TARWEbloem, specerijen 20.7% (paprika 13%, knoflookpoeder 5%, karwijzaad 2%, SELDERIJzaad, chilipeper), gemodificeerd zetmeel, suiker, zout 10%, smaakversterker: mononatriumglutamaat, aroma (bevat GERST, TARWE), verdikkingsmiddel: guarpitmeel, koolzaadolie, voedingszuur: citroenzuur, antiklontermiddel: siliciumdioxide, marjolein, kleurstof: paprika-extract, Totale gehalte aan kruiden en specerijen: 21.2%.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1406.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "15.39",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:43"
+}

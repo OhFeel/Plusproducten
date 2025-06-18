@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Originals Olijf/tomaatkaas",
+  "brand": "Originals",
+  "price": "6",
+  "base_unit_price": "20.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/410065_M/0ce5c513f809e32d887f9b6b99f081d4/410065.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde MELK, zout, 0,9% tomaat, 0,6% zwarte olijven, 0,1% knoflook, zuursel, vegetarisch stremsel, natuurlijk aroma.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1619.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "386.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.25",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:42:45"
+}

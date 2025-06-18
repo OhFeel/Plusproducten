@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mangiare tomatentapenade",
+  "brand": "Mangiare",
+  "price": "2.09",
+  "base_unit_price": "14.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/153496_M/598daa5ecd081713b917653bfe0b1442/153496.png",
+  "ingredients": "zongedroogde tomaten (33%), tomaten (21%), tomatenpuree (11%), raapzaadolie, tomatensap (9%), knoflook (7%), water, suiker, zout, azijn, witte peper, zuurte- regelaar (citroenzuur), antioxidant (ascorbinezuur).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "698.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:57"
+}

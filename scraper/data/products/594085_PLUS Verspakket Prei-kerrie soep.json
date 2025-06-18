@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket Prei-kerrie soep",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "4.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/594085_M/bbc67fb926476c79d8b2e0ee33f83a93/594085.png",
+  "ingredients": "Ingrediënten: 19% prei, ui, kookroom (room (MELK), stabilisator: E407), rode appel, aardappel, pastinaak, groentebouillonblokje (zout, maïszetmeel, gistextract, rijstzetmeel, glucosestroop, maltodextrine, 4,3% groenten (ui, wortel, SELDERIJ, prei), kruiden (peterselie, SELDERIJ, lavas), suiker, specerijen (kurkuma, SELDERIJZAAD, peper, foelie), olijfolie, gekaramelliseerde suikerstroop, knoflook, natuurlijk peterselie-aroma, voedingszuur: citroenzuur), knoflook, 0,7% specerijenmix (specerijen (kurkuma, komijn, paprika, peper, fenegriek, karwijzaad, chilipeper, piment, nootmuskaat, venkel, gember), kruiden (koriander, lavas)).   Kan EI, GLUTEN, MOSTERD en SOJA bevatten.",
+  "allergens": "Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "393.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "94.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:55:43"
+}

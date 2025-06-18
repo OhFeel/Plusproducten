@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Snickers Snickers Ice 12-pack",
+  "brand": "Snickers",
+  "price": "8.69",
+  "base_unit_price": "14.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375846_M/3001c758d905f6bfb072b7f408fe9ef1/375846.png",
+  "ingredients": "Ingrediënten: magere MELK (15%), suiker, glucosestroop, room (van MELK), PINDA'S, gecondenseerde magere MELK met suiker, water, kokosvet, cacaoboter, palmvet, cacaomassa, magere MELKPOEDER, botervet (van MELK), LACTOSE, weipermeaat (van MELK), emulgatoren (SOJALECITHINE, E471), magere cacao, stabilisatoren (E407, E410, E412), zout, vanille-extract, natuurlijk aroma (van MELK). (Kan bevatten: AMANDELEN, HAZELNOTEN).",
+  "allergens": "Aardnoten (pinda's), Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1425.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "341.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:31"
+}

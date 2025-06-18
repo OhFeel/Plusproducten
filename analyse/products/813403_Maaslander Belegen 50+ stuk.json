@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maaslander Belegen 50+ stuk",
+  "brand": "Maaslander",
+  "price": "9.99",
+  "base_unit_price": "18.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/813403_M/ec342410376488ca5a252a55833d7611/813403.png",
+  "ingredients": "Ingrediënten: MELK (gepasteuriseerd), zout, zuursel (bevat MELK), microbieel stremsel, conserveermiddel (E251), kleurstof (annatto norbixine). Op natuurlijke wijze lactosevrij (<lt/>0.01g/100g)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1675.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "404.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "23.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "23.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "774.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:59"
+}

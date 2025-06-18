@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade Chocolade chip wit",
+  "brand": "Verkade",
+  "price": "2.29",
+  "base_unit_price": "15.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946806_M/ca796c7932e9010210c655b7570e7a91/946806.png",
+  "ingredients": "Ingrediënten: Bloem (TARWEbloem, calcium, ijzer, niacine, thiamine), witte chocoladestukjes 20% [suiker, volle MELKpoeder, cacaoboter, magere MELKpoeder, emulgator (SOJAlecithinen), natuurlijk aroma], palmolie, suiker, weipoeder (MELK), gedeeltelijk invertsuikerstroop, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, natuurlijke aroma's\n\nKan noten, sesamzaad en ei bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2112.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "505.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.81",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:48"
+}

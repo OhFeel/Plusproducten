@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Paté in Mediterrane stijl",
+  "brand": "PLUS",
+  "price": "2.43",
+  "base_unit_price": "16.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/489742_M/fe64ca3c9df9b8699f16f938232a6bc9/489742.png",
+  "ingredients": "29% varkenslever, varkensvet, 13% paprika, 11% varkensvlees, melk, varkensbindweefsel, ei, gebakken ui, rijstbloem, 1,6% groene olijven, nitrietpekelzout (zout, conserveermiddel: E250), voedingszuur: E262, E325; suiker, 0,71% groene peper (groene peper, water, zout, antioxidant: E330), specerijen, honing, erwtenzetmeel, varkenseiwit, antioxidant: E300, E330; natuurlijk aroma, knoflookpoeder, dextrose.",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1241.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "299.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:14:38"
+}

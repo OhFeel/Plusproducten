@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ola Cornetto classico",
+  "brand": "Ola",
+  "price": "2",
+  "base_unit_price": "2.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/602058_M/30e83f0cb765cb44fe63008c65393c18/602058.png",
+  "ingredients": "Ingrediënten: Volle MELK (18%), suiker, water, TARWEBLOEM, kokosolie, geconcentreerde magere MELK, ROOM (7,5%), glucose-fructosestroop, HAZELNOTEN (3%), glucosestroop, zonnebloemolie, magere cacaopoeder, BOTERCONCENTRAAT, emulgatoren (lecithines, mono- en diglyceriden van vetzuren, ammoniumfosfatiden), aardappelzetmeel, zout, stabilisator (natriumalginaat), magere MELKPOEDER, gekarameliseerde suikerstroop, aroma's (bevat MELK), natuurlijk vanille aroma, MELKEIWIT, EI-EIWIT, TARWEZETMEEL. Kan mosterd, andere noten en soja bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1366.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "326.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:01:25"
+}

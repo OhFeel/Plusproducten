@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Echte Enkhuizer Jodekoek chocolade",
+  "brand": "Echte Enkhuizer",
+  "price": "2.46",
+  "base_unit_price": "6.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469256_M/60fa7081365c24b6f3062e6b370b366c/469256.png",
+  "ingredients": "Ingrediënten: TARWEbloem, suiker, plantaardige oliën (palm*, raap, zonnebloem, shea, kokos), magere cacao**1%, scharrelEIEREN, zout, dextrose, rijsmiddelen (natriumbicarbonaat, monocalciumfosfaat), citroenpulp, emulgatoren (E492, lecithinen (SOJA)). *palmolie van duurzame en gecertificeerde plantages. **Rainforest Alliance Certified. Kan sporen bevatten van: MELK, NOTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2139.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "511.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:43"
+}

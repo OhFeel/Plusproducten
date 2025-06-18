@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Saitaku Miso Soup",
+  "brand": "Saitaku",
+  "price": "2.39",
+  "base_unit_price": "27.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/431719_M/43555f7ca1ad21c976ee2f42faeb5b66/431719.png",
+  "ingredients": "Ingrediënten: Sojaboonpasta 56% (water, SOJAbonen, rijst, zout), water, alcohol, zout, wakame zeewier 1.5%, kelp zeewier extract, gist extract, suiker, SOJAsaus (bevat TARWE), Bevat alcohol",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "372.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "89.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:51:06"
+}

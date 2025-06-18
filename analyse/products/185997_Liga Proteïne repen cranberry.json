@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Liga Proteïne repen cranberry",
+  "brand": "Liga",
+  "price": "3.25",
+  "base_unit_price": "20.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/185997_M/837c15d8b41dcef32c8f903f1ec483c6/185997.png",
+  "ingredients": "Ingrediënten: HAVERVLOKKEN 14 %, krokante wei-proteïnestukjes 11 % [weiproteïne-isolaat (van MELK), weiproteïne-concentraat (van MELK),  tapiocazetmeel], suiker, glucosestroop, stabilisator (sorbitolen), plantaardige vetten (palm,  shea), geroosterde PINDA'S 7,5 %, gezoete cranberries 7 % [suiker, cranberry stukjes 2,5 %,  zonnebloemolie], invertsuikerstroop, VOLKORENTARWEMEEL2,5 %, cacaoboter, honing, cacaomassa, magere MELKPOEDER, weipoeder (van MELK), HAZELNOOTSTUKJES 1 %, bevochtigingsmiddel (glycerol), MELKVET, TARWEZEMELEN, emulgatoren (SOJALECITHINEN,  E471,  E476), zout, melasse, GERSTEMOUTEXTRACT, aroma's.KAN BEVATTEN: ANDERE NOTEN.",
+  "allergens": "Tarwe, Aardnoten (pinda's), Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1855.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "443.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:12:58"
+}

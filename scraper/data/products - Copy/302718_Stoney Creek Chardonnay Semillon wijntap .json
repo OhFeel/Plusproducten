@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stoney Creek Chardonnay Semillon wijntap ",
+  "brand": "Stoney Creek",
+  "price": "10.49",
+  "base_unit_price": "4.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/302718_M/3c2d467d380c75cc0bbd04e92dd1ed65/302718.png",
+  "ingredients": "Ingredients: Grapes,Concentrated Grape Must / Rectified Concentrated Must,SULFITES,Ascorbic acid,Tartaric acid,Argon / Nitrogen / Carbon dioxide",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "294.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:01"
+}

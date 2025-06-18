@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hak Burritoschotel",
+  "brand": "Hak",
+  "price": "3.15",
+  "base_unit_price": "5.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/724846_M/8b2ec20ad949b8de881b121f11408932/724846.png",
+  "ingredients": "groenten 58% (tomatenpuree, rode paprika, tomaat, doperwt 6%, ui, wortelpuree, wortel 4%, zongedroogde tomaat), rode kidneybonen 32%, water, knoflook, maiszetmeel, komijnzaad, paprikapoeder, oregano, cayennepeper, kaneel, zwarte peper, tijm, lavaswortel, laurier, rode chilipeper, zout, natuurazijn.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "332.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:25"
+}

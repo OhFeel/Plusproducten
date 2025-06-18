@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket Kapsalon met kip",
+  "brand": "PLUS",
+  "price": "5.89",
+  "base_unit_price": "5.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/937377_M/37ebccce7fd55899237010e203932390/937377.png",
+  "ingredients": "Ingrediënten: tomaat, zoete aardappel, aardappel, mini Romaanse sla, wortel, rode ui, komkommer, limoen, specerijenmix (specerijen (komijn, korianderzaad, venkelzaad, witte peper, paprika, kurkuma, foelie, kruidnagel, fenegriek, gember, karwijzaad, piment, chilies), zout, maltodextrine, knoflookpoeder, peterselie), specerijenmix (knoflookpoeder, uipoeder, zout, specerijen (komijn, zwarte peper), kruiden (oregano, peterselie, kruizemunt, bieslook)).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "221.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:13"
+}

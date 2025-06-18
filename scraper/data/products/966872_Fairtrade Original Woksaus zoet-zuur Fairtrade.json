@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fairtrade Original Woksaus zoet-zuur Fairtrade",
+  "brand": "Fairtrade Original",
+  "price": "2.49",
+  "base_unit_price": "16.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/966872_M/71c74efc84187a81b381b64df832fc6e/966872.png",
+  "ingredients": "Ingrediënten: Water, rietsuiker (22%), azijn, tomatenpuree (4,4%), zout, rode chillipepers (2,4%), verdikkingsmiddelen: gemodificeerd tapiocazetmeel (E1442), guargom (E412), sjalot (2,2%), gember, knoflook (0,7%), kleurstof: paprikaextract (E160c), voedingszuur: azijnzuur (E260).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "501.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "118.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:35"
+}

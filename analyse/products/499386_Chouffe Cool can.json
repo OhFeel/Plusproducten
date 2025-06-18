@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Chouffe Cool can",
+  "brand": "Chouffe",
+  "price": "11.99",
+  "base_unit_price": "9.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/499386_M/c497b2a35a9e14abc1d42a193af3beaf/499386.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, invertsuikerstroop, gist, hop, korianderzaad",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "8",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:18:08"
+}

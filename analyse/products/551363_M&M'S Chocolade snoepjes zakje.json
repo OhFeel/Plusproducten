@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "M&M'S Chocolade snoepjes zakje",
+  "brand": "M&M'S",
+  "price": "1.49",
+  "base_unit_price": "14.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/551363_M/d63a9e1a2f93ee9ab380f4e6bfee6f21/551363.png",
+  "ingredients": "Ingrediënten: suiker, cacaomassa, VOLLEMELKPOEDER, LACTOSE, cacaoboter, zetmeel, palmvet, glucosestroop, sheavet, stabilisator (Arabische gom), emulgator (SOJALECITHINE), kleurstoffen*, dextrine, glansmiddel (carnaubawas), palmpitolie, zout, natuurlijk vanille-extract, aroma. (Kan bevatten: PINDA, AMANDEL, HAZELNOOT).  * E100, E133, E160a, E160e, E162, E170, E172.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2019.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "481.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:36:07"
+}

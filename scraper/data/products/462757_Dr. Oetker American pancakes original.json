@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker American pancakes original",
+  "brand": "Dr. Oetker",
+  "price": "1.99",
+  "base_unit_price": "6.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/462757_M/6fb29f4efea6f3c3c2126464c1a00542/462757.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, magere MELKPOEDER, rijsmiddelen (E 575, E 501), emulgatoren (E 475, E 471), rijstzetmeel, HAVERMEEL, zout, verdikkingsmiddel (xanthaangom), Kan bevatten: (EI).",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "829.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "196.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.54",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:03:46"
+}

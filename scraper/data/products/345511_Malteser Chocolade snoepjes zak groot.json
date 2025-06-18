@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Malteser Chocolade snoepjes zak groot",
+  "brand": "Malteser",
+  "price": "5.79",
+  "base_unit_price": "21.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/345511_M/ab5338e89967e733e9a9a6f6f6ddb9da/345511.png",
+  "ingredients": "Ingrediënten: suiker, MAGEREMELKPOEDER, cacaoboter, glucosestroop, GERSTEMOUTEXTRACT, cacaomassa, botervet (van MELK), LACTOSE, weipermeaat (van MELK), palmvet, palmpitvet, emulgator (SOJALECITHINE), TARWEMEEL, rijsmiddelen (E341, E500, E501), TARWEGLUTEN, weipoeder (van MELK), glansmiddel (pectinen), zout, vanille-extract.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2094.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "500.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:41"
+}

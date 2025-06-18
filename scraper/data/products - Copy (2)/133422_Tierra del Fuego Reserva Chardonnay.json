@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Tierra del Fuego Reserva Chardonnay",
+  "brand": "Tierra del Fuego",
+  "price": "29.94",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/133422_M/152abfbc3700f71aba5c4004b613b1a4/133422.png",
+  "ingredients": "Bevat Sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "302.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "73.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:51:12"
+}

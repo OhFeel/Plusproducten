@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "De Kleine Keuken Bio haverkoekjes wortel 12+",
+  "brand": "De Kleine Keuken",
+  "price": "2.89",
+  "base_unit_price": "24.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/661049_M/940709765f205014f216b71ffd1e7042/661049.png",
+  "ingredients": "Ingrediënten: Volkoren HAVERmeel* 40%, volkoren SPELTmeel* 25%, ingedampt suikerrietsap* 14% (oerzoet*), zonnebloemolie*, wortelpuree* 10%, pompoenpoeder* 1%, rijsmiddelen (kaliumtartraat, natriumbicarbonaat), vitamine B1, * van biologische oorsprong. Kan sporen bevatten van soja en mosterd.",
+  "allergens": "Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1790.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "426.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.6",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "2.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koper",
+      "value": "0.35",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:15:53"
+}

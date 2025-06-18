@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Mix voor bami goreng",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "29.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/719793_M/58c9e2d6a26598d9bcd580137dd691a9/719793.png",
+  "ingredients": "Ingrediënten: Suiker, geroosterde ui 12%, zout, sojasauspoeder 6,0% (zout, SOJABONEN, TARWE, maltodextrine), zetmeel, bouillonpoeder (SOJA), raapzaadolie, specerijen (gemberwortel, anijs, cayennepeper), kleurstof (karamel), knoflook, gistextract (bevat GERST), ui, natuurlijke aroma's, maltodextrine, voedingszuur (citroenzuur), tamarinde.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1494.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "353.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "12.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:55"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "SOTW Mexican mix",
+  "brand": "SOTW",
+  "price": "3.79",
+  "base_unit_price": "8.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/580964_M/3fbf031e0376be0dd89ed4e15cb09989/580964.png",
+  "ingredients": "Ingrediënten: 54% PINDA'S, 16% maïs, 9% rijst, zetmeel (aardappel, TARWE, MAÏS), plantaardige olie (zonnebloem, paprika),TARWEmeel, zout, kruidenmix (kruiden, TARWEmeel, kleurstof [E160c], zout, antioxidant [E306], natuurlijk aroma), poedersuiker, kruiden en specerijen, maltodextrine, tomatenpoeder, kaas (gepasteuriseerde MELK, zout, startercultuur, enzymen), uienpoeder, volle MELKpoeder, melkbestanddelen (WEIpoeder, MELKpoeder, MELKvet), gistextract, zuurteregelaar (citroenzuur, melkzuur, E262), suiker, stabilisator (E500), voedingszuur (citroenzuur), antioxidant (E339, E331, E306), kleurstof (paprika-extract, E100, carotenen), gehydrolyseerd maïseiwit, aroma, natuurlijk aroma, rode bietensapconcentraat, rijstmeel, rozemarijnextract. KAN NOTEN EN SESAM BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2217.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "529.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:48:55"
+}

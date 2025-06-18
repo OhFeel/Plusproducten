@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lassie BijnaKlaar Risotto",
+  "brand": "Lassie",
+  "price": "2.89",
+  "base_unit_price": "11.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/451830_M/b02ca7b2ebd642fb73f8de9fa735e6c8/451830.png",
+  "ingredients": "Ingrediënten: voorgekookte rijst (83%), [water, rijst], rijstmeel, ui, zonnebloemolie, KAASPOEDER, BOTER, natuurlijke smaakstof, zeezout, emulgator: zonnebloemlecithine, zwarte peper.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "753.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "178.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.85",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:00:33"
+}

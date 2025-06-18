@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum Classic",
+  "brand": "Magnum",
+  "price": "2.75",
+  "base_unit_price": "25.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/598104_M/ab1d4d205e2e5ec6bbd1d9e79b0344d1/598104.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, water, cacaoboter¹, cacaomassa¹,\nkokosolie, glucosestroop, glucose-fructosestroop, volle MELKPOEDER, LACTOSE en\nMELKEIWITTEN, BOTERCONCENTRAAT, emulgatoren (E471, lecithines), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanillearoma¹ (bevat MELK), natuurlijk vanillearoma, kleurstof (carotenen). Kan amandel en pistachenoot bevatten.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1272.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "305.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:58:51"
+}

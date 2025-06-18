@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Chio Party Pack Fried Chicken",
+  "brand": "Chio",
+  "price": "2.29",
+  "base_unit_price": "18.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581180_M/5d4c03c561a9ed5f5868250d3240c8ab/581180.png",
+  "ingredients": "gedroogde aardappel 33%, zonnebloemolie, aardappelzetmeel, rijstmeel, suiker, zout, maltodextrine, specerijen, gistextract, dextrose, uipoeder, tomatenpoeder, zuurteregelaar, (natriumacetaten), knoflookpoeder, natuurlijk aroma, specerij-extract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2209.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "530.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.84",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:10"
+}

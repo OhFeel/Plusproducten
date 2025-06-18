@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Venco Boerderijdrop",
+  "brand": "Venco",
+  "price": "2.49",
+  "base_unit_price": "10.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/327392_M/f74dce51fe3365ccdbabf67972c66aeb/327392.png",
+  "ingredients": "suiker, gemodificeerd zetmeel, glucosestroop, melado, salmiakzout 5,3%, zetmeel, zoethoutwortelextract 3,5%, plantaardige oliën (kokos, koolzaad), anijsolie, glansmiddel (carnaubawas).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1390.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "328.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:46"
+}

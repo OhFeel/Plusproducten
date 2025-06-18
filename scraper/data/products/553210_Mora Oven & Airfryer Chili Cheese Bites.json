@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer Chili Cheese Bites",
+  "brand": "Mora",
+  "price": "4.79",
+  "base_unit_price": "0.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/553210_M/36308ac8348edbd18b3975e9dc3a3249/553210.png",
+  "ingredients": "Ingrediënten: vegetarische KAASvulling 55% (KAAS 55% (GOUDA, CHEDDAR, MOZZARELLA), water, groene jalapeñopeper 3%, groene paprika, MELKeiwit, smeltzouten: E341, E452 en E450, zout, stabilisator: E461, gemodificeerd zetmeel, zonnebloemolie, zetmeel, natuurlijk aroma (bevat MELK), verdikkingsmiddel: guarpitmeel, natuurazijn, kleurstof: caroteen), paneermeel (bloem (bevat TARWE), zout, gist, zonnebloemolie, moutextract (bevat GERST), suiker), water, plantaardige oliën (palm, raapzaad, zonnebloem), glucosestroop, suiker, stabilisatoren: E464 en E466, bloem (bevat TARWE), dextrose, zout, invertsuikerstroop, TARWE-eiwit. Kan sporen van PINDA bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "274.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:37:16"
+}

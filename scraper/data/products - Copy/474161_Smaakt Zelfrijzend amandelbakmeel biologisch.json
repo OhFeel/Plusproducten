@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Zelfrijzend amandelbakmeel biologisch",
+  "brand": "Smaakt",
+  "price": "3.79",
+  "base_unit_price": "18.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/474161_M/7f5f50aecc941cc29895ddcdccf67958/474161.png",
+  "ingredients": "Ingrediënten: Ingrediënten:, Zilvervliesrijstmeel*, AMANDELmeel* 40%, wijnsteenbakpoeder* (maïszetmeel*, zuurteregelaar [kaliumtartraat], rijsmiddel [natriumbicarbonaat]), *=biologisch._x000D_\n_x000D_\nKan sporen bevatten van glutenbevattende granen, pinda's (aardnoten), andere noten, sesamzaad._x000D_",
+  "allergens": "Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1960.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "469.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:35"
+}

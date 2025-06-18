@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fish Tales Sardines in pittige tomaat",
+  "brand": "Fish Tales",
+  "price": "3.29",
+  "base_unit_price": "27.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/650477_M/49710549339c3bae3b28b658cab66a0e/650477.png",
+  "ingredients": "Ingrediënten: Sardines (VIS) (72%) (Sardina pilchardus), olijfolie (15%), tomatensaus(8%) (tomaat, water, olijfolie, suiker, azijn, laurier, zout), komkommer (2%), piri piri(2%), zout.",
+  "allergens": "Vis, Sardine en producten op basis van sardine",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1223.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "295.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:49"
+}

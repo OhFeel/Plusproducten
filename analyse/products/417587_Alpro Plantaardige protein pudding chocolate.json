@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Alpro Plantaardige protein pudding chocolate",
+  "brand": "Alpro",
+  "price": "2.39",
+  "base_unit_price": "11.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/417587_M/f4dd27294077959bd2cc2af68a15c1dc/417587.png",
+  "ingredients": "Ingrediënten: SOJABASIS (82,9%) (water, gepelde SOJABONEN (10%)), SOJA eiwit, suiker, gemodificeerd zetmeel, chocolade (1,5%), magere cacao* (1,5%), aroma's, calcium (calciumcarbonaat), zeezout, vitaminen B2, D2, *Rainforest Alliance Certified. www.ra.orgKAN SPOREN VAN NOTEN (GEEN PINDANOTEN) BEVATTEN.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "407.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "97.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Ergocalciferol/vitamine D2",
+      "value": "0.75",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:44:46"
+}

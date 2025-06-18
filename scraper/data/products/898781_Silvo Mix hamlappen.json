@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix hamlappen",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "67.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898781_M/575dbfa6259f8f8a2a2e80035a796e16/898781.png",
+  "ingredients": "Ingrediënten: Specerijen 37.7% (gedroogde ui, paprika 7%, korianderzaad 6%, geel MOSTERDzaad 6%, gember, fenegriek, nootmuskaat, kurkuma, chilipeper, SELDERIJzaad), paneermeel (bevat TARWE), zout 24.8%, smaakversterker: mononatriumglutamaat, peterselie, koolzaadolie, Totale gehalte aan kruiden en specerijen: 39.2%.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1177.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "281.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "28.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:32"
+}

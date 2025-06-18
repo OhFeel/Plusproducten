@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Echte Enkhuizer Jodekoek kaneel",
+  "brand": "Echte Enkhuizer",
+  "price": "2.49",
+  "base_unit_price": "7.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/420713_M/842a5ce445184048f4f1cb2566fabd16/420713.png",
+  "ingredients": "Ingredienten: TARWEbloem, suiker, plantaardige oliën (palm*, raap), scharrelEIEREN, zout, dextrose, rijsmiddelen (natriumwaterstofcarbonaat, monocalciumfosfaat), citroenpulp, specerijen, kaneel, glucosestroop, emulgator (lecithinen (SOJA)). *Palmolie van duurzame en gecertificeerde plantages.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2133.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "509.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.79",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:45:46"
+}

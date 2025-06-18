@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Leentjes Strooipret surprice verrassing",
+  "brand": "Leentjes",
+  "price": "2.15",
+  "base_unit_price": "43.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/600506_M/1d7c952c827f135e1f1515b067ed6bc4/600506.png",
+  "ingredients": "suiker, emulgator (zonnebloemolie), plantaardige olie (kokos), zetmeel (aardappel, mais), rijstebloem, kleurstoffen (bietenrood, curcumine, anthocyaninen), kleurende levensmiddel concentraten (saffloer, spirulina, radijs, zoete aardappel, rode biet, citroen, zwarte bessen), glansmiddel (carbnaubawas).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1793.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "423.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "94.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "84.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten plantaardig",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:59:57"
+}

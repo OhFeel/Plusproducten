@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Two Chefs FUNKY FALCON NA PALE ALE 0.2%",
+  "brand": "Two Chefs",
+  "price": "2.25",
+  "base_unit_price": "6.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/691245_M/95e40d4566f1bc1fe443d9d5db54b3ab/691245.png",
+  "ingredients": "Ingrediënten: Water, GERST, HAVER, hop, gist. Bevat GLUTEN",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "26.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "111.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0.2",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:26"
+}

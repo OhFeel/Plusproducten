@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Rolnik Fasolka / Bretonse soep",
+  "brand": "Rolnik",
+  "price": "2.79",
+  "base_unit_price": "5.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/407176_M/7fffcbcd7f512cf20264e203ecff88f1/407176.png",
+  "ingredients": "Ingrediënten: water, geweekte witte bonen 27%, worst 9% (varkensvlees 50%, water, varkenshuiden 11%, aardappelmeel, zout, glucose, maltodextrine, SOJA-eiwit, SOJAvezel, stabilisatoren, difosfaten, trifosfaten, polyfosfaten, conserveermiddel natriumnitriet, aroma, kruiden), tomatenconcentraat 3,6%, TARWEbloem, kruiden- en aromamix (suiker, kruiden, zout, gedroogde groenten waaronder SELDERIJ, aroma's, glucose), varkensvet, gemodifeerd maïszetmeel, Het product kan MOSTERDZAAD, MELK en EIEREN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "348.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "83.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.85",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:41:52"
+}

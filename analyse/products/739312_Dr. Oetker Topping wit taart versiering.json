@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Topping wit taart versiering",
+  "brand": "Dr. Oetker",
+  "price": "3.29",
+  "base_unit_price": "23.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/739312_M/b3b093df5c513703940f017af6801b8a/739312.png",
+  "ingredients": "Ingrediënten: suiker, water, plantaardige oliën (palm, raapzaad), glucosestroop, gemodificeerd zetmeel, emulgatoren (zonnebloemlecithinen, E 435), natuurlijke aroma's (bevat MELK), conserveermiddel (E 202), zuurteregelaar (E 330), kleurstof (E 160a).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1640.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "388.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "83.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "81.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:54"
+}

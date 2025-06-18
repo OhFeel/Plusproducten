@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mitsuba Street food snackmix coconut & peanut",
+  "brand": "Mitsuba",
+  "price": "1.99",
+  "base_unit_price": "14.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/711902_M/0320bc21e97001148472a7dee77d9b23/711902.png",
+  "ingredients": "Ingrediënten: 48% PINDA, 21% rijst, TARWEbloem, 6% kokos, suiker, zonnebloemolie, zetmeel, sojasaus (SOJAboon, water, TARWE, zout), kruiden en specerijen, zout, maltodextrine, gistextract, kokosmelk, dextrose, rijsmiddel: E503, water, rijstolie, roompoeder (MELK), voedingszuur: citroenzuur, aroma, gemodificeerd tapiocazetmeel, kleurstoffen: E100; paprika-extract; E120, tamarinde, natriumcaseïnaat (MELK), extract van paprika, korianderextract, sojasauspoeder (SOJAboon), TARWE, maltodextrine, zout), raapzaadolie, glucosestroop. Kan noten en sesam bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2197.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "523.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:59"
+}

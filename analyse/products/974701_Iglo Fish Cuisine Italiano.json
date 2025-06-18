@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Iglo Fish Cuisine Italiano",
+  "brand": "Iglo",
+  "price": "5.99",
+  "base_unit_price": "15.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/974701_M/9cdb1c28b4ce46350d0a0a092a20f1ed/974701.png",
+  "ingredients": "Ingrediënten: Alaska koolVIS 42%, tomaten 24%, uien, paprika 5,5%, kwarkbereiding 5,5% (kwark (MELK), magere yoghurt (MELK)), water, Edammer kaas (MELK), mozzarella (MELK), 2,1% rijstzetmeel, koolzaadolie, zout, kruiden (basilicum, peterselie, oregano), knoflook, yoghurtpoeder (MELK), witte peper, paprikapoeder.",
+  "allergens": "Vis, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "327.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:43"
+}

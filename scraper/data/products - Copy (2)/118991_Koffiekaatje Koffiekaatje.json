@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Koffiekaatje Koffiekaatje",
+  "brand": "Koffiekaatje",
+  "price": "9.39",
+  "base_unit_price": "13.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/118991_M/d9ba9a571acb4e38abf8facfb152f7da/118991.png",
+  "ingredients": "",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "14.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:04"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Kipkruiden zonder zout",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "69.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/714396_M/566f18a4fd4c9298a2c3e3aa1bbf7576/714396.png",
+  "ingredients": "specerijen 40% (paprikapoeder 20%, gedroogde ui 9%, zwarte peper 5%, knoflookpoeder 5%, cayennepeper), paddestoelpoeder, suiker, kruiden 14% (peterselie, salie, rozemarijn, tijm), rode paprika 10%, gedroogde citroenschil, zonnebloemolie, totale gehalte aan specerijen en kruiden: 54%.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1411.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "337.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:09"
+}

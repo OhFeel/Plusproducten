@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Jack Daniels Honey Tennessee",
+  "brand": "Jack Daniels",
+  "price": "28.99",
+  "base_unit_price": "41.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326468_M/12b50f34433a414842da1af71bcf3c82/326468.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "240.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "35",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:33"
+}

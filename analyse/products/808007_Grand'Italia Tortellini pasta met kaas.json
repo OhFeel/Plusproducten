@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Tortellini pasta met kaas",
+  "brand": "Grand'Italia",
+  "price": "4.79",
+  "base_unit_price": "10.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/808007_M/d1c38899d27ea80a56b10b079c07d081/808007.png",
+  "ingredients": "Ingrediënten: Pasta (72%): durum TARWEGRIES, SCHARRELEI (24% per kg semolina)., Vulling (28%): paneermeel (TARWEBLOEM type \"0\", zout, gist), kaas (22,5%) [gedroogde kaas (MELK, zout, stremsel, lysozym van EI), gesmolten kaaspoeder (MELK, WEI, zout, enzymen)], plantaardige margarine (kokosvet, zonnebloemolie, water), ricotta (11,5%) (WEI, zout, zuurteregelaar: citroenzuur), WEIPOEDER, water, aroma, zout, knoflook, peper.\n\nKan sporen bevatten van soja.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1634.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "388.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:48:35"
+}

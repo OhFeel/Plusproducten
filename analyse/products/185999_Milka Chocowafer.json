@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Chocowafer",
+  "brand": "Milka",
+  "price": "5.29",
+  "base_unit_price": "17.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/185999_M/0650be16b30083346c523b32ed64514b/185999.png",
+  "ingredients": "Ingrediënten: Suiker, TARWEBLOEM, cacaoboter, plantaardige vetten (palm,  kokos in wisselende verhoudingen), cacaomassa, magere MELKPOEDER, weipoeder (van MELK), MELKVET, koolzaadolie, magere cacaopoeder (1,5 %), emulgator (SOJALECITHINEN), rijsmiddel (natriumcarbonaten), zout, aroma's.KAN BEVATTEN: EI, NOTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2234.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:13:00"
+}

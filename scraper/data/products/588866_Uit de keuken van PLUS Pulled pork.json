@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Pulled pork",
+  "brand": "Uit de keuken van",
+  "price": "2.97",
+  "base_unit_price": "13.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/588866_M/e4455e29681c3941fbddc5a448f066cb/588866.png",
+  "ingredients": "89% varkensvlees, rietsuiker, zout, glucose-fructosestroop, specerijen, gebufferd azijn (conserverend ingredient), conserveermiddel: e250/e202, invertsuikerstroop, melasse, gemodificeerd aardappelzetmeel, water, gistextract, kruiden, kruidenextract, kleurstof: bietenrood, karamelpoeder (suikerstroop, maltodextrine), aroma, karamel, ui, zonnebloemolie, natuurlijk aroma, voedingszuur: citroenzuur/azijnzuur, uipoeder, verdikkingsmiddel: xanthaangom, gehydrolyseerd eiwit (soja, mais), gebrande suiker, paprikaconcentraat.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "831.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "199.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:54:01"
+}

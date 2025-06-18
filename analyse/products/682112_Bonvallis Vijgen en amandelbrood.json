@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Bonvallis Vijgen en amandelbrood",
+  "brand": "Bonvallis",
+  "price": "2.59",
+  "base_unit_price": "10.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/682112_M/c1cfa4ee45dea066a4829e7cf06b0b6b/682112.png",
+  "ingredients": "Ingrediënten: Gedroogde Spaanse vijgen (83%), Spaanse AMANDELEN (15%). Bevat van nature aanwezige suikers. Kan harde stukjes of deeltjes van NOTENDOPPEN bevatten als ook sporen van WALNOTEN, HAZELNOTEN, SOJA.",
+  "allergens": "Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1413.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "338.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "240.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "3.96",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:17"
+}

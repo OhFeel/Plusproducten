@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Optimel Yoghurt Proteïne Griekse Stijl bes",
+  "brand": "Optimel",
+  "price": "2.49",
+  "base_unit_price": "5.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/802506_M/b4f6f3dddd3ba8afbdca890e1c8548d3/802506.png",
+  "ingredients": "Ingrediënten: Magere YOGHURT, water, 2% bosbes, gemodificeerd maïszetmeel, aroma, wortelconcentraat, zoetstof: sucralose",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "221.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.55",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:30"
+}

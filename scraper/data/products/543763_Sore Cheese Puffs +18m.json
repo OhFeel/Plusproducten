@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Sore Cheese Puffs +18m",
+  "brand": "Sore",
+  "price": "2.19",
+  "base_unit_price": "62.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/543763_M/da5b5509b205f1985156e7337ecf5b4c/543763.png",
+  "ingredients": "Ingrediënten: 75% mais*, zonnebloemolie*, 10% cheddar kaaspoeder (MELK)*, magere MELKpoeder*, uienpoeder*, wortelpoeder*, knoflookpoeder*, rijstmeel*, thiamine, * = van gecontroleerde biologische teelt",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1761.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "422.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.6",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "Energie;211 kJ;1761 kJ# ;51 kcal;422 kcal# Vetten;1,6 g;13 g# waarvan verzadigde vetzuren;0,3 g;2,5 g# Koolhydraten;7,7 g;64 g# waarvan suikers;0,6 g;5,1 g# Vezels;0,3 g;2,9 g# Eiwitten;1,2 g;10 g# Zout;0,02 g;0,19 g# Thiamine;0,07 mg;0,6 mg# Deze verpakking bevat ca. 3 porties van 12g;;#",
+  "extracted_at": "2025-04-25 15:32:30"
+}

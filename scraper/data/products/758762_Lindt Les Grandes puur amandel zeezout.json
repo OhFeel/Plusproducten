@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Les Grandes puur amandel zeezout",
+  "brand": "Lindt",
+  "price": "5.89",
+  "base_unit_price": "39.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/758762_M/35ef17ef271cdd15e011a4f74ff66fe6/758762.png",
+  "ingredients": "Ingrediënten: suiker, gekarameliseerde AMANDELEN 23% (AMANDELEN 86%, suiker, zout), cacaomassa, AMANDELEN 11,5%, cacaoboter, geconcentreerde MELKboter, emulgator (SOJAlecithine), zeezout (fleur de sel) 0,13%, aroma. Allergenen: Kan MELK, HAZELNOTEN en andere NOTEN bevatten. Cacaobestanddelen %: Donkere chocolade bevat: cacao: minstens 43%.",
+  "allergens": "Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2341.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "563.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:09"
+}

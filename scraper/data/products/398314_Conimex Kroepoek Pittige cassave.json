@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Kroepoek Pittige cassave",
+  "brand": "Conimex",
+  "price": "2.09",
+  "base_unit_price": "27.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/398314_M/91d545903436d491f5b1ba21323dc711/398314.png",
+  "ingredients": "cassave¹ 43%, zonnebloemolie, tapiocazetmeel, prei, rietsuiker, rijstebloem, chilipoeder 1,5%, zout, galangapoeder, paprikapoeder, suiker, mineraalzout (kalium), knoflookpoeder, zwarte peper, uienpoeder, voedingszuur (e330, e296), gistextract, aroma (specerijextract, natuurlijk aroma), kokosvet, witte peper. kan selderij bevatten.\n¹rainforest alliance gecertificeerd, ra.org",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2021.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "483.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:38:40"
+}

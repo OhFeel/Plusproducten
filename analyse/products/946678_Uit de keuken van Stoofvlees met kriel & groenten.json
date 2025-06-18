@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van Stoofvlees met kriel & groenten",
+  "brand": "Uit de keuken van",
+  "price": "6.39",
+  "base_unit_price": "14.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946678_M/6a0f5a98974b1ab439a19cb820b023e8/946678.png",
+  "ingredients": "Ingrediënten :31% Aardappel, 18% wortel, 13% varkensvlees*, 10% KNOLSELDERIJ, 8% ui, 6% pastinaak, raapzaadolie, water, appelstroop (suikerbietensap uit concentraat, appelsap), ontbijtkoek (glucose-fructosestroop, ROGGEBLOEM, rijsmiddel: E500/E450, shea-olie, specerijen (kaneel, nootmuskaat, koriander, foelie, piment, kruidnagel, gemberpoeder, anijszaad, venkelzaad, kardemom)), oud bruin bier (natuurlijk mineraalwater, GERSTEMOUT, hop, kleurstof: E150d, zoetstof: E954), zilveruien (zilveruien, water, natuurazijn, suiker, zout, natuurlijk aroma, antioxidant: E223, zoetstof: E954), conserveermiddel: gebufferde azijn, peterselie, gemodificeerd maiszetmeel, zout, azijn, rode wijnazijn (rode wijnazijn, conserveermiddel: E222), zwarte peper, kruidnagel, laurier, antioxidant: E300/E301/E302, zuurteregelaar: E331. \n* = Beter Leven keurmerk 1 ster.",
+  "allergens": "Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "473.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "113.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.428",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.171",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:41"
+}

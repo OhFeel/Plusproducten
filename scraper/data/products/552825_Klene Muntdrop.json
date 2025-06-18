@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Klene Muntdrop",
+  "brand": "Klene",
+  "price": "2.69",
+  "base_unit_price": "12.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/552825_M/c35ce9595e4ab4e5083a8ee17c6a3eb8/552825.png",
+  "ingredients": "Ingrediënten: suiker, gemodificeerd zetmeel, gelatine, glucosestroop, zoethoutwortelextract, salmiakzout, verdikkingsmiddel (arabische gom), glansmiddel (bijenwas), natuurlijk aroma, kleurstof (plantaardige koolstof). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1440.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "339.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:36:50"
+}

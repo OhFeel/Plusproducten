@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ola Cornetto classico",
+  "brand": "Ola",
+  "price": "4.15",
+  "base_unit_price": "0.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/575059_M/0592e4f613ef1a01d6eec86bf04991db/575059.png",
+  "ingredients": "Ingrediënten: volle MELK (18%), suiker, gerehydrateerde magere MELK, TARWEBLOEM, kokosolie, ROOM (8%), glucose-fructosestroop, water, glucosestroop, HAZELNOTEN (2%), zonnebloemolie, magere cacaopoeder¹ (1,5%), magere MELKPOEDER of -concentraat, BOTERCONCENTRAAT, zetmeel, emulgatoren (mono- en diglyceriden van vetzuren, lecithines, ammoniumfosfatiden), stabilisator (natriumalginaat), zout, magere MELKPOEDER, gekarameliseerde suiker, aroma's, TARWEZETMEEL, natuurlijk vanille aroma, EI-EIWIT, MELKEIWIT. Kan PINDA, SOJA, AMANDEL, WALNOOT, CASHEWNOOT, PECANNOOT, PISTACHENOOT en MACADAMIANOOT bevatten. ¹Rainforest Alliance gecertificeerd.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1350.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "323.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:48"
+}

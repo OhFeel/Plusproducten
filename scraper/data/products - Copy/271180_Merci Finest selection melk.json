@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Merci Finest selection melk",
+  "brand": "Merci",
+  "price": "5.29",
+  "base_unit_price": "21.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/271180_M/d0d81bbd59cfb655aa52de65e3d83c20/271180.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, VOLLEMELKPOEDER, HAZELNOTEN (7,6%), cacaomassa, plantaardige vetten (palm, shea), MELKSUIKER, KARNEMELKPOEDER, MAGEREMELKPOEDER, BOTERVET, gehakte AMANDELEN (1,3%), dextrose, emulgator: lecithinen (SOJA), magere cacao, aroma's, zout. Alle soorten kunnen ook sporen van hazelnoot, amandel, aardnoot/pinda, andere noten en ei bevatten.",
+  "allergens": "Soja, Melk, Noten, Lactose, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2394.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "575.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "37.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:48:50"
+}

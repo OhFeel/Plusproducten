@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Arla Skyr bosfruit",
+  "brand": "Arla",
+  "price": "2.19",
+  "base_unit_price": "4.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/766790_M/4fef7f2cbafde64a25982a07444abbec/766790.png",
+  "ingredients": "Ingrediënten: Magere YOGHURT, 1,8% aardbei, 1,5% rode bes, 1,4% rode bosbes, 1,1% kers, 1,1% bosbes, suiker, maïszetmeel, citroensap uit concentraat, natuurlijk aroma (bevat MELK).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "300.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:31"
+}

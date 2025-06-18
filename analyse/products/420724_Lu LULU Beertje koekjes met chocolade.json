@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu LULU Beertje koekjes met chocolade",
+  "brand": "Lu",
+  "price": "2.69",
+  "base_unit_price": "17.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/420724_M/5819e7d27c2d2908dbdb6a67b512db47/420724.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM 24,3 %, glucose-fructosestroop, EIEREN 12,6 %, suiker, koolzaadolie 11,4 %, chocolade 6 % (cacaomassa, suiker, magere cacaopoeder, emulgator (SOJALECITHINEN)), stabilisator (glycerol), TARWEZETMEEL, weipoeder (van MELK), magere MELKPOEDER 1,2 % en volle MELKPOEDER 0,8 % (equivalent melk 19 %), rijsmiddelen (difosfaten, kaliumcarbonaten), glucosestroop, emulgatoren (E472b, E475, SOJALECITHINEN), magere cacaopoeder 0,3 %, zout, natuurlijk vanillearoma. KAN NOTEN BEVATTEN.",
+  "allergens": "Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1679.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "400.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:45:48"
+}

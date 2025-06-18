@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Za'atar",
+  "brand": "Silvo",
+  "price": "3.29",
+  "base_unit_price": "94.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/595422_M/33028a289346b2e3c69b5aeb3c5ea2db/595422.png",
+  "ingredients": "Ingrediënten: Specerijen 73,6% (SESAMzaad 44%, sumak 21,6%, komijn, korianderzaad), kruiden 19,5% (oregano, tijm 9,5%), zout 6,3%, zonnebloemolie, Totaal gehalte aan kruiden en specerijen: 93,1%",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1953.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "470.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:30"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Côte d'Or Chokotoff chocolaatjes puur",
+  "brand": "Côte d'Or",
+  "price": "4.19",
+  "base_unit_price": "16.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/892519_M/d41f4f944358ff13ef69a5d368b9d8df/892519.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, cacaomassa, plantaardige vetten (palmpit, palm), cacaoboter, volle MELKPOEDER, lactose (van MELK), magere cacaopoeder, emulgator (SOJALECITHINEN), zout, voedingszuur (E331), aroma's.Bevat melk, soja, soja, melk.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1921.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "458.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:56"
+}

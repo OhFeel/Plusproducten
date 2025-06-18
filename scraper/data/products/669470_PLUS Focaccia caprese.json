@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Focaccia caprese",
+  "brand": "PLUS",
+  "price": "1.29",
+  "base_unit_price": "1.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/669470_M/60b8889638e6c83f5c5b59abf269ead3/669470.png",
+  "ingredients": "Ingrediënten: TARWEbloem, water, Goudse kaas (bevat: MELK), cherry tomaten, basilicum marinade (raapzaadolie, basilicum (2%), zout, emulgator (E471), voedingszuur (E330), conserveermiddel (E202)), raapzaadolie, mozzarella (bevat: MELK), gist, zout, suiker, extra vierge olijfolie, enzym (bevat: TARWE)",
+  "allergens": "Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1093.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "262.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:16"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Santa maria Tortilla Oat Medium",
+  "brand": "Santa maria",
+  "price": "3.09",
+  "base_unit_price": "12.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780498_M/088930ba9c4beac20537a7f437313fac/780498.png",
+  "ingredients": "Ingrediënten: HAVERMEEL (37%), water, rijstmeel, stabilisator (glycerol, xanthaangom), koolzaadolie, emulgator (mono- en diglyceriden van vetzuren), voedingszuur (appelzuur), conserveermiddel (calciumpropionaat), rijsmiddel (natriumcarbonaten), zout. Kan sporen van soja en gluten bevatten.",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1238.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "295.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "213.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:53"
+}

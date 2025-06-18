@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Roombonbons FT",
+  "brand": "Elvee",
+  "price": "5.99",
+  "base_unit_price": "37.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/512854_M/381d19cfd1dce4a7c66d3d4cb2af4d50/512854.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige oliën en vetten (kokos, palm, zonnebloem), cacaoboter, cacaomassa, volle MELKpoeder, glucosestroop, weipoeder (MELK), 2% roompoeder (MELK), magere MELKpoeder, gecondenseerde magere MELK, lactose (MELK), water, aardbeiconcentraat, MELK, invertsuikerstroop, emulgatoren (E322 (SOJA), E471), kersenconcentraat, aroma’s, natuurlijk vanille aroma, gemodificeerd zetmeel, verdikkingsmiddelen (E1442, E440), koffie-extract, sinaasappelconcentraat, suikerstroop, kaneel, zuurteregelaar (E330), kleurstoffen (E160a, E160c), conserveermiddel (E202), zout, voedingszuur (E334). Gemaakt in een bedrijf waar ook GLUTENBEVATTENDE GRANEN, EI en NOTEN worden verwerkt.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2287.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "548.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:23:55"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Sour bites appel & citroen",
+  "brand": "Redband",
+  "price": "1.95",
+  "base_unit_price": "13.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/198523_M/e90ca711fcffd7af18133cd4a4cb125b/198523.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, plantaardige vetten (palm, kokos), voedingszuren (melkzuur, citroenzuur), maltodextrine, zuurteregelaar (calciumlactaat), natuurlijke aroma's, emulgator (sucrose-esters van vetzuren), kleurstoffen (kopercomplexen van chlorofylinen, luteïne). Kan MELK, NOTEN en PINDA'S bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1690.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "399.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:09"
+}

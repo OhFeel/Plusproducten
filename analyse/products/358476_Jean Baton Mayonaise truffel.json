@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Jean Baton Mayonaise truffel",
+  "brand": "Jean Baton",
+  "price": "2.49",
+  "base_unit_price": "18.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/358476_M/e0de39d30f2550d19a751d393c392424/358476.png",
+  "ingredients": "Ingrediënten: 74,5% raapzaadolie, gepasteuriseerd. SCHARRELKIPEIDOOIER, azijn, suiker, 1,5% truffel (Tuber aestivum vitt), 1,5% zonnebloemolie, aroma, zout, MOSTERDZAAD, kruiden en specerijen, antioxidant: E385.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2980.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "724.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:21:59"
+}

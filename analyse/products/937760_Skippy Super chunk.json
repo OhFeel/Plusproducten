@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Skippy Super chunk",
+  "brand": "Skippy",
+  "price": "4.79",
+  "base_unit_price": "14.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/937760_M/eb527c739b5f33725e4acea62ded3483/937760.png",
+  "ingredients": "Ingrediënten: Geroosterde PINDA'S, (91%) (niet EU), suiker, koolzaadolie, zout. Allergie-informatie: voor Allergenen, ziet dikgedrukte ingrediënten.",
+  "allergens": "Aardnoten (pinda's)",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2525.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "603.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "43.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:18"
+}

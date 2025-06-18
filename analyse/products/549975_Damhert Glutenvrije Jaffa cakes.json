@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Glutenvrije Jaffa cakes",
+  "brand": "Damhert",
+  "price": "3.29",
+  "base_unit_price": "21.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/549975_M/10ae3d7a52d705b35dc5528d51aa8d58/549975.png",
+  "ingredients": "biscuits (43%), gepasturiseerd EImassa,maïsmeel suiker, aardappelzetmeel, SOJAbloem, maltodextrine, glucose-fructosestroop, rijsmiddelen(ammoniumcarbonaten, disfotaten, natriumcarbonaten) zout, koolzaadlolie), gelei (42%)(suiker, glucose-fructosestroop, water bevochtingsmiddel (glycerol) zuurteregelaar (criticus zuur, natriumcitraten) geleermiddelen (pectines), geconcentreerd sinaasappelsap (11%) geconcentreerd appelsap aroma's kleur (annatto norbixin) chocolade 15%(suiker cacaomassa, cacaovet, emulgatoren? (Lecithines, polyglycerol-polyricinolaat) aroma\nKAN NOTEN EN MELK BEVATTEN",
+  "allergens": "Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1493.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "354.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.52",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:35:22"
+}

@@ -1,0 +1,355 @@
+{
+  "sku": "",
+  "name": "Nutrilon 2 Omneo Opvolgmelk 6+mnd",
+  "brand": "Nutrilon",
+  "price": "22.89",
+  "base_unit_price": "28.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/776840_M/a3446339f1b889b4067ad9dea6b46059/776840.png",
+  "ingredients": "Ingrediënten : Gehydrolyseerd wei-eiwitconcentraat (melk), plantaardige oliën (palmolie, koolzaadolie, zonnebloemolie, high oleic zonnebloemolie, kokosolie), glucosesiroop, maltodextrine, galacto-oligosachariden (melk), aardappelzetmeel, maiszetmeel, lactose (melk), fructo-oligosachariden, visolie, kaliumdiwaterstoffosfaat, calciumfosfaat, calciumchloride, magnesiumwaterstoffosfaat, cholinechloride, olie van Mortierella alpina, natriumchloride, L-ascorbinezuur, kaliumchloride, inositol, taurine, ijzersulfaat, L-carnitine, zinksulfaat, DL-α-tocoferylacetaat, cytidine 5’-monofosfaat, uridine 5’-monofosfaat natrium zout, calcium D-pantothenaat, adenosine 5’-monofosfaat, inosine 5’-monofosfaat natrium zout, nicotinamide, guanosine 5’-monofosfaat natrium zout, kopersulfaat, riboflavine, retinylpalmitaat, thiaminehydrochloride, pyridoxinehydrochloride, emulgator (sojalecithine), pteroylmonoglutaminezuur, kaliumjodide, mangaansulfaat, natriumseleniet, antioxidant (ascorbylpalmitaat), fytomenadion, D-biotine, cholecalciferol, cyanocobalamine.",
+  "allergens": "Vis, Soja, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "286.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "68.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "60.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "8.7",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "72.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "1.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "1.7",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "1.6",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine K",
+      "value": "5.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.07",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.14",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "0.46",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.05",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "15.3",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.09",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "1.8",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "0.62",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "80.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chloride",
+      "value": "46.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "42.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "0.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koper",
+      "value": "0.054",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Mangaan",
+      "value": "0.007",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fluoride",
+      "value": "0.006",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Seleen",
+      "value": "3.1",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chroom",
+      "value": "6.2",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Molybdeen",
+      "value": "6.2",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "13.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "6.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "30.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Lactose",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Choline",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Palmitinezuur",
+      "value": "223.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Linolzuur",
+      "value": "410.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Alfa-linoleenzuur",
+      "value": "48.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Arachidonzuur",
+      "value": "10.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Docosahexaeenzuur",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fructose in voedingsvezel",
+      "value": "0.082",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Galactose in voedingsvezel",
+      "value": "0.49",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Glucose",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Inositol/vitamine B7",
+      "value": "9.3",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Carnitine",
+      "value": "2.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Maltodextrine",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Nucleotide",
+      "value": "2.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Taurine",
+      "value": "5.1",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Weiproteïne",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:06"
+}

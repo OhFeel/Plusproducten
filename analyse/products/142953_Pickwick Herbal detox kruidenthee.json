@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Pickwick Herbal detox kruidenthee",
+  "brand": "Pickwick",
+  "price": "2.39",
+  "base_unit_price": "0.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/142953_M/a6afe59099f359fcb0b874b387e61816/142953.png",
+  "ingredients": "brandnetel (30%), citroengras,\ngroene thee* (13%), rozemarijn (10%), groene\nmaté, gember (7%), vlierbloesem. brandnetel\n0,5g (30%) per theezakje (1,8g).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "1.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:55:01"
+}

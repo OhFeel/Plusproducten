@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Oreo Oreo Remix Tiramisu 157g",
+  "brand": "Oreo",
+  "price": "1.89",
+  "base_unit_price": "12.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902395_M/18313b5003ee0e96c010b3562c0ed1e6/902395.png",
+  "ingredients": "Ingrediënten: Suiker, TARWEBLOEM, palmolie, TARWEZETMEEL, koolzaadolie, magere cacaopoeder 3,7 %, glucose-fructosestroop, rijsmiddelen (kaliumcarbonaten, natriumcarbonaten, ammoniumcarbonaten), zout, emulgator (SOJALECITHINEN), gekarameliseerde suiker, zuurteregelaar (natriumhydroxide), aroma's.KAN BEVATTEN: MELK.",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2056.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "491.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:13"
+}

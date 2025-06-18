@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ponti Glassa al aceto di balsamico di Modena",
+  "brand": "Ponti",
+  "price": "3.99",
+  "base_unit_price": "15.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/484379_M/30a4fc2cb6d202c9e946b3c70173fd3c/484379.png",
+  "ingredients": "Ingrediënten: Gekookte druivenmost*, Balsamico Azijn uit Modena* 38% (wijnazijn, geconcentreerde druivenmost, gekookte druivenmost, kleurstof: karamel E 150d), wijnazijn*, kleurstof: karamel E 150d*, gemodificeerd maïszetmeel, verdikkingsmiddel: xanthaangom, *Bevat SULFIETEN.",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "819.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "195.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:12:36"
+}

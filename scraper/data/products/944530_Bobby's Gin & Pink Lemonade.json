@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Bobby's Gin & Pink Lemonade",
+  "brand": "Bobby's",
+  "price": "3.09",
+  "base_unit_price": "12.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/944530_M/6dd9474f06e08e08ca44a5b2338489a0/944530.png",
+  "ingredients": "koolzuurhoudend water, bobby's dry gin (21,4%), pinkrose spiced lemon & rose siroop, natuurlijk grapefruit aroma, plantenextract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "325.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "9",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:15:10"
+}

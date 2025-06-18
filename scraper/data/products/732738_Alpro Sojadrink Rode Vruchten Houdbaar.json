@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Alpro Sojadrink Rode Vruchten Houdbaar",
+  "brand": "Alpro",
+  "price": "2.69",
+  "base_unit_price": "2.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/732738_M/b72bbf876e5eca28fcfcb997ab2cf1a5/732738.png",
+  "ingredients": "Ingrediënten: SOJABASIS (91,2%) (water, gepelde SOJABONEN (6,7%)), suiker, rode vruchtensap uit concentraat (2,1%) (vlierbes, rode aalbes, aardbei, framboos, braambes in wisselende verhoudingen), appelsap uit concentraat, calcium (tricalciumfosfaat), maltodextrine, zuurteregelaars (melkzuur, citroenzuur), stabilisatoren (pectinen, agaragar), zwarte wortel concentraat, aroma's, zeezout, natuurlijk aroma, vitaminen B2, B12, D2. Vrij van zuivel en gluten. Van nature lactosevrij.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "225.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "53.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Ergocalciferol/vitamine D2",
+      "value": "0.75",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.38",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:59"
+}

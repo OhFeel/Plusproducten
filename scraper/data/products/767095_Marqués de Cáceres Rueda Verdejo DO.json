@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Marqués de Cáceres Rueda Verdejo DO",
+  "brand": "Marqués de Cáceres",
+  "price": "3.79",
+  "base_unit_price": "10.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/767095_M/1a74d40b6f1eaba611ac40a5e3c99713/767095.png",
+  "ingredients": "Contains SULPHITES",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "330.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:40"
+}

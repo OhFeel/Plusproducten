@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Limbourgois Limburgse hoofdkaas",
+  "brand": "Limbourgois",
+  "price": "1.99",
+  "base_unit_price": "16.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/739184_M/e3aeafcb545b79a0e5da2ff706542e58/739184.png",
+  "ingredients": "Ingrediënten: 33% varkensvlees, water, varkenslever, varkensvet, varkenszwoerd, varkensgelatine, azijn, zout, specerijen (SELDERIJ), maltodextrine, gehydrolyseerd maiseiwit.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1385.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "330.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:53"
+}

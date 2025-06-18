@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu Prince Start koekjes naturel",
+  "brand": "Lu",
+  "price": "3.15",
+  "base_unit_price": "10.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/500248_M/9801f74c2a3f4f22d88b3e29cce41b50/500248.png",
+  "ingredients": "Ingrediënten: Meel (TARWE 40,2 %, VOLKORENTARWE 14,6 %, VOLKORENROGGE 4,8 %), suiker, plantaardige vetten (palm, shea in wisselende verhoudingen), cacaomassa, magere MELKPOEDER 0,7 %, rijsmiddelen (natriumcarbonaten, ammoniumcarbonaten), dextrose, zout, cacaoboter, aroma, emulgatoren (SOJALECITHINEN, E472e).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1956.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "466.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.63",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:18:46"
+}

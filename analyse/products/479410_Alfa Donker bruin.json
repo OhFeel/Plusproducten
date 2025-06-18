@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Alfa Donker bruin",
+  "brand": "Alfa",
+  "price": "4.69",
+  "base_unit_price": "2.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/479410_M/86f6cb8e71e1dc8df7ce8592989d3700/479410.png",
+  "ingredients": "Ingrediënten: 100% bronwater, GERSTEmout, hop, kleurstof: karamel",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "162.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "38.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "3",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:09:39"
+}

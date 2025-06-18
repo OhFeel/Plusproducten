@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Ovenschotel witlof crèmesaus",
+  "brand": "Maggi",
+  "price": "1.79",
+  "base_unit_price": "29.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/760740_M/fde4f419e020787ce33102fd4e27b3e5/760740.png",
+  "ingredients": "Ingrediënten: Aardappelen, aardappelzetmeel, gejodeerd zout, uien, aroma's, gistextract, kruiden en specerijen (peterselie, nootmuskaat, kurkuma), zonnebloemolie, rookaroma's. Bevat mogelijk melk, ei, soja, gluten, selderij, mosterd.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1353.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "319.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:33"
+}

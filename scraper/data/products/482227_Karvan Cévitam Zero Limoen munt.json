@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Karvan Cévitam Zero Limoen munt",
+  "brand": "Karvan Cévitam",
+  "price": "3.99",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482227_M/ae484745216a61c068269b9bc8038f81/482227.png",
+  "ingredients": "Ingrediënten: Water, voedingszuur (citroenzuur), limoensap uit vruchtensapconcentraat 0,6%, zuurteregelaar (natriumcitraten), natuurlijke aroma's, limoen-en citroenextract, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), gekarameliseerd appelsapconcentraat, zoetstoffen (sucralose, steviolglycosiden uit stevia), antioxidant (ascorbinezuur), muntextract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "35.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "8.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.32",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:31"
+}

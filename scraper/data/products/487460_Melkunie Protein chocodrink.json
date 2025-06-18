@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Melkunie Protein chocodrink",
+  "brand": "Melkunie",
+  "price": "3.79",
+  "base_unit_price": "3.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/487460_M/c4fee418a33e90be5aeea443b5e1c0de/487460.png",
+  "ingredients": "Ingrediënten: 94% magere MELK, water, MELKeiwitten, suiker, room, 1,2% magere cacaopoeder, stabilisators: gellangom carrageen en trinatriumcitraat, natuurlijk aroma, lactase.\n\n*Lactosegehalte <lt/>0,01 g / 100ml",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "214.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "51.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "136.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:13:33"
+}

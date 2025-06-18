@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "NXT Level Protein Shake Banana",
+  "brand": "NXT Level",
+  "price": "2.35",
+  "base_unit_price": "7.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/132683_M/b82d61a1ece9cadf7f80ea013d67ccc8/132683.png",
+  "ingredients": "magere MELK (50%), water, MELKeiwitten (6,9%), bananensap uit concentraat (0,5%), stabilisatoren: cellulosegel, cellulosegom, polyfosfaten, carrageen; aroma, zout, kleurstof: carotenen, zoetstof: sucralose.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "188.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "45.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:51:05"
+}

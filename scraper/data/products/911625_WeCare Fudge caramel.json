@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "WeCare Fudge caramel",
+  "brand": "WeCare",
+  "price": "3.39",
+  "base_unit_price": "56.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/911625_M/7a34821216f9c104c8ec2a38db13616e/911625.png",
+  "ingredients": "Ingrediënten: Melkchocolade met zoetstof 20,8% (zoetstof: maltitolen, cacaoboter, volle MELKpoeder, cacaomassa, emulgator: lecithinen (SOJA), aroma's), laagje karamelsmaak 15% (vulstof: polydextrose, sojaolie, zoetstoffen: xylitol en sucralose, magere MELKpoeder, SOJA-eiwitten, aroma's, emulgator: lecithinen (SOJA), zout), bevochtigingsmiddel: glycerol, SOJA-eiwitten, vulstof: polydextrose, gehydrolyseerd TARWEgluten, MELKeiwitten, gehydrolyseerd collageen, cacaoboter, watervrij MELKvet, zonnebloemolie, cacaomassa, emulgator: lecithinen (SOJA), aroma's, zoetstof: sucralose\n\nKan sporen van eieren, noten, aardnoten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1597.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "384.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.61",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:55"
+}

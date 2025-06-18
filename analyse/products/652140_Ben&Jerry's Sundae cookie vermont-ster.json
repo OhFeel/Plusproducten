@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ben&Jerry's Sundae cookie vermont-ster",
+  "brand": "Ben&Jerry's",
+  "price": "8.15",
+  "base_unit_price": "19.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/652140_M/176d0e6d38e510af0081297816f29caa/652140.png",
+  "ingredients": "Ingrediënten: suiker, ROOM (21%), water, geconcentreerde magere MELK, TARWEBLOEM, plantaardige oliën (raapzaadolie, sojaolie), glucosestroop, magere cacaopoeder, EIGEEL, LACTOSE en MELKEIWITTEN, kokosolie, cacaomassa, oplosbare maïsvezel, BOTER, BOTERCONCENTRAAT, sheavet, natuurlijke aroma's, emulgatoren (lecithines (bevat SOJA)), stabilisatoren (guargom, johannesbroodpitmeel, carrageen), cacaoboter, cacaopoeder, zout, rijsmiddelen (natriumbicarbonaat, ammoniumcarbonaat), magere MELKPOEDER, zeezout, vanille-extract. Kan gerst en haver bevatten. <gt/>Suiker, cacao, vanille: onder Fairtrade voorwaarden ingekocht volgens het mass balance principe, totaal 58%F, exclusief water en zuivel. Past in een vegetarisch dieet. Finfo.fairtrade.net/sourcing",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1248.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "298.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:17"
+}

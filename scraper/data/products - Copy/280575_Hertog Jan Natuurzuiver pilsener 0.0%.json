@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hertog Jan Natuurzuiver pilsener 0.0%",
+  "brand": "Hertog Jan",
+  "price": "5.99",
+  "base_unit_price": "3.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/280575_M/f637f69f5d1f2d11c9c219ca7e4ca539/280575.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, maïs, suiker, natuurlijke aroma's, hop, hopextract.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "76.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "18.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:54:05"
+}

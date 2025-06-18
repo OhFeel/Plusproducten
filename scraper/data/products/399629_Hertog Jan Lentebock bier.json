@@ -1,0 +1,61 @@
+{
+  "sku": "",
+  "name": "Hertog Jan Lentebock bier",
+  "brand": "Hertog Jan",
+  "price": "7.99",
+  "base_unit_price": "4.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/399629_M/35619455635dfa85658809614d998b05/399629.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, suiker, hop.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "266.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "64.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "7.2",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:39:23"
+}

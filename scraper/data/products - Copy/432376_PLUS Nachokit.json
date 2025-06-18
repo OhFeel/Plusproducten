@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Nachokit",
+  "brand": "PLUS",
+  "price": "5.49",
+  "base_unit_price": "13.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/432376_M/26097616fa140ac53bd691875cc55d28/432376.png",
+  "ingredients": "Ingrediënten :37% Gezouten maischips (77% mais, zonnebloemolie, 0,9% zout), 24% mix van Goudse kaas en Cheddar kaas (49% Goudse kaas (MELK, zout, zuursel, vegetarisch stremsel), 49% Cheddar kaas (MELK, zout, zuursel, vegetarisch stremsel), aardappelzetmeel), 20% tomatendip met rode peper (78% tomaat, water, koolzaadolie, 3,4% tomatenvlokken, 2,5% rode peper, zout, knoflook, knoflookpoeder, witte peper, natuurazijn, citroensap, suiker, gemodificeerd maïszetmeel, kruiden, verdikkingsmiddel: xanthaangom, conserveermiddel: E202/E211, zuurteregelaar: E262, natuurlijk aroma, ui, voedingszuur: citroenzuur), 20% zure roomdip met bieslook (40% zure room (MELK), yoghurtbereiding (MELK, gemodificeerd maïszetmeel, verdikkingsmiddel: pectinen), water, koolzaadolie, natuurazijn, 2% bieslook, suiker, gemodificeerd aardappelzetmeel, maïszetmeel, zout, verdikkingsmiddel: E461/E415, conserveermiddel: E202/E211, natuurlijk aroma, specerijen (o.a. MOSTERD), uienpoeder, voedingszuur: E270/E330, emulgator: E466, gedroogde pastinaak).",
+  "allergens": "Melk, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1389.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "22.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.456",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:51:22"
+}

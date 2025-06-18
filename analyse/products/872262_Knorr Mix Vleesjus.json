@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Mix Vleesjus",
+  "brand": "Knorr",
+  "price": "2.99",
+  "base_unit_price": "43.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/872262_M/2ba439b12145093a3c8394408da59725/872262.png",
+  "ingredients": "Ingrediënten: aroma, aardappelzetmeel, palmvet, suiker, boterpoeder 5,1% (BOTER, magere MELK), gehydrolyseerd maïseiwit, GERSTEMOUTEXTRACT, ui¹ 1,8%, rundvleespoeder, kruidnagel. Kan selderij, ei, mosterd, andere glutenbevattende granen, soja bevatten.\n¹op duurzame wijze geteeld.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "237.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "57.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:58:18"
+}

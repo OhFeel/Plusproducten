@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Curry Topdown mini",
+  "brand": "Remia",
+  "price": "1.75",
+  "base_unit_price": "5.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/688105_M/855339099c9b8b34ebaa867e01ee73a2/688105.png",
+  "ingredients": "Ingrediënten: water, tomatenpuree, suiker, azijn, gemodificeerd maiszetmeel, zout, currykruiden, kleurstof: karamel, raapolie, verdikkingsmiddel: xanthaangom, natuurlijk aroma, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, kruiden, zoethoutpoeder, zoetstoffen: acesulfaam-K en aspartaam¹",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "421.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "99.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:23"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Absolut Vodka Vanilia",
+  "brand": "Absolut",
+  "price": "20.99",
+  "base_unit_price": "29.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/510158_M/1708e0949b15b3bcd3cabb56573357dc/510158.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "870.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "210.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "38",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:22:57"
+}

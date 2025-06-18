@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Originals Pikanto",
+  "brand": "Mora",
+  "price": "3.99",
+  "base_unit_price": "9.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/731486_M/4362b56656a8a3938879f2067b6a3cc5/731486.png",
+  "ingredients": "Ingrediënten: varkensspek, kippenseparatorvlees, water, varkensvlees, ui, specerijen, plantaardige oliën (raapzaad, zonnebloem), zout, kruiden, gistextract, dextrose, natuurlijke aroma's, gehydrolyseerd SOJA-eiwit, melasse, stabilisatoren: E451 en E452, maltodextrine, zetmeel, gedroogde glucosestroop, rode pepers <lt/>1%, SOJAbonen, TARWE, antioxidant: extracten van rozemarijn, azijn, salmiakzout, sambal <lt/>1%, bloem (bevat TARWE).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1364.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "330.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:54"
+}

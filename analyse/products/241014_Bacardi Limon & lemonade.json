@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Bacardi Limon & lemonade",
+  "brand": "Bacardi",
+  "price": "2.49",
+  "base_unit_price": "9.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/241014_M/867b77675e2ee1de09051804009727bd/241014.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:37:08"
+}

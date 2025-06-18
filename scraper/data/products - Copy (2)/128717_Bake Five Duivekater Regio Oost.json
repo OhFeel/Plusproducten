@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Bake Five Duivekater Regio Oost",
+  "brand": "Bake Five",
+  "price": "1.89",
+  "base_unit_price": "4.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/128717_M/ac39906ea2dcf5217edf328b83cc449f/128717.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 8% basterdsuiker (suiker, invertsuikerstroop) plantaardige oliën (palm, raapzaad), bakkersgist, suiker, dextrose, bakkerszout, TARWEGLUTEN, enzymen (TARWE), moutmeel (TARWE), weipoeder (MELK), citroenschil, emulgatoren: E471, E472e, E482, veldbonenmeel, meelverbeteraar: E300, aroma's (sinaasappel (natuurlijk), citroen (natuurlijk)), MELKEIWIT, conserveermiddelen: E202, E224, rijsmiddel: E500, erwteneiwit, gemodificeerd aardappelzetmeel, zuurteregelaar: E330.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1395.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "330.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "45.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.06",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:50:25"
+}

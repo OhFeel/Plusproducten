@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Keulen Koude schotel superieur",
+  "brand": "Keulen",
+  "price": "5.99",
+  "base_unit_price": "11.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/731745_M/8cbccb88612acbcc23c2535a4e52536c/731745.png",
+  "ingredients": "INGREDIËNTEN: 35% aardappel, 24% groenten (zilverui, augurk, doperwt, wortel, sperziebonen, groene bonen, koolraap), raapolie, 12% rundvlees, water, suiker, SCHARRELEIGEEL, zout, specerijen (MOSTERD), dextrose, natuurlijk aroma, azijn, gemodificeerd aardappelzetmeel, conserveermiddel (E202, E211), verdikkingsmiddel (E415), voedingszuur (E330), antioxidant (E385, E223), kleurstof (E160a, E101), aroma, zoetstof (E954), lavas. E= door EU goedgekeurde hulpstoffen.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "999.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "241.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten dierlijk",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten plantaardig",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:56"
+}

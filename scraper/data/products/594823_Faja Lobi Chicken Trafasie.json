@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Faja Lobi Chicken Trafasie",
+  "brand": "Faja Lobi",
+  "price": "0.69",
+  "base_unit_price": "10.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/594823_M/f451166f73d39652738fa41747cfe5f8/594823.png",
+  "ingredients": "Ingrediënten: TARWEbloem (GLUTEN), palmolie (bevat antioxidant: E306), zout, zonnebloemolie (bevat antioxidant: E306), sojasaus (SOJABONEN), suiker, smaakversterkers: E621, E635, knoflook, chilipoeder, gistextract , verdikkingsmiddel: E412, gehydrolyseerd plantaardig eiwit, kiparoma, peper, gedroogde bieslook, antiklontermiddel: E551, kurkuma,\nkleurstof: E150a, zuurteregelaar: E296. DIT PRODUCT KAN SPOREN BEVATTEN VAN SCHAALDIEREN, MELK EN SELDERIJ.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "331.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.52",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.83",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.97",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:00"
+}

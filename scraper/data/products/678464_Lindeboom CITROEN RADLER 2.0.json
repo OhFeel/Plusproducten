@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Lindeboom CITROEN RADLER 2.0",
+  "brand": "Lindeboom",
+  "price": "1.69",
+  "base_unit_price": "5.63",
+  "image_url": "",
+  "ingredients": "Ingrediënten: Bier (50%) (water, GERSTEmout, hop), citruslimonade (50%) (koolzuurhoudend water, suiker, vruchtensapconcentraat 4% (citroensap 3%, sinaasappelsap 1%), citroen en sinaasappel-extract, antioxidant: ascorbinezuur, natuurlijk aroma, stabilisator: johannesbroodpitmeel).",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "167.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "39.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "2",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:03"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good noodles kip piri piri",
+  "brand": "Unox",
+  "price": "1.25",
+  "base_unit_price": "17.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/194495_M/49d997d5c384702a6cf4f76c90c43410/194495.png",
+  "ingredients": "Ingrediënten: Deegwaar (noedels) 85% (TARWEBLOEM, zonnebloemolie, zout, gemodificeerd zetmeel, suiker, raapzaadolie, kurkuma-extract), gemodificeerd zetmeel, tomatenpureepoeder, smaakversterkers (E621, E631, E627), aroma, specerijen (cayennepeper 0,3%, gerookt paprikapoeder, knoflookpoeder¹, kurkuma, komijn), karamelstroop, gistextract, mineraalzout (kalium), uienpoeder¹, rode paprika¹ 0,4%, maltodextrine, kippenvleespoeder 0,1% (kippenvlees, zout, antioxidant (rozemarijnextract)) korianderblaadjes¹ 0,1%. Kan rogge, gerst, haver, ei, soja, melk, selderij, mosterd bevatten. ¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "443.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "107.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.88",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:16:04"
+}

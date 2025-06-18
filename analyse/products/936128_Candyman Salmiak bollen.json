@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Candyman Salmiak bollen",
+  "brand": "Candyman",
+  "price": "2.27",
+  "base_unit_price": "22.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/936128_M/5c40c292d17a1404fcb31a5a06a0b58a/936128.png",
+  "ingredients": "glucosestroop, suiker, dextrose,  salmiakzout (1%), gelatine, zoethoutwortelextract, aroma's (bevat vanilline), kleurstof (karamel).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1650.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "388.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "93.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:57"
+}

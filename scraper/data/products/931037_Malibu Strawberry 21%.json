@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Malibu Strawberry 21%",
+  "brand": "Malibu",
+  "price": "17.29",
+  "base_unit_price": "24.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/931037_M/583fe6b43e895650f20d83a6dd417f00/931037.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "697.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "21",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:10:31"
+}

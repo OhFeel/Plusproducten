@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Royal Club Ginger beer",
+  "brand": "Royal Club",
+  "price": "2.39",
+  "base_unit_price": "2.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/310157_M/0a3197f3eb61ad3bf04f136a45e5015b/310157.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, suiker, voedingszuur (citroenzuur), natuurlijk gember aroma, antioxidant (ascorbinezuur), zoetstoffen (cyclaamzuur, sucralose, sacharine), stabilisator (arabische gom), kleurstof (sulfiet-ammoniakkaramel).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "78.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "18.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:08:04"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Biofood Rijstwafels yoghurt bio",
+  "brand": "Damhert Biofood",
+  "price": "2.49",
+  "base_unit_price": "24.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/474935_M/c67f4f63eff535cf1f3f2ddb9047c731/474935.png",
+  "ingredients": "rijst*(50%), yoghurt coating* (50%) (cacaoboter*,\nruwe rietsuiker*, yoghurtpoeder*(bevat melk), volle melkpoeder*, weipoeder*, emulgator (zonnebloemlecithine*)). *Van gecontroleerde biologisch teelt. Kan sporen bevatten van SESAM en NOTEN. ",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2025.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "483.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:53"
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket tagliatelle pomodoro",
+  "brand": "PLUS",
+  "price": "5.89",
+  "base_unit_price": "5.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/906483_M/bc891b9fb467785a0c894187aaf02950/906483.png",
+  "ingredients": "Ingrediënten: Courgette, 19% tomaat, gele paprika, tomaten-roomsaus (42% kookroom (magere MELK, room (MELK), maïszetmeel), water, 9% zongedroogde tomatenpuree (water, zongedroogde tomaat, zout, azijn, citroensap), witte balsamico-azijn (wijnazijn, druivenmostconcentraat, natuurlijk aroma, conserveermiddel: E220), 4,1% tomatenpoeder, zout, olijfolie, ui, specerijen (paprikapoeder, knoflookpoeder, MOSTERDPOEDER, witte peper), kruiden (basilicum, oregano, rozemarijn, tijm), ERWTENvezels, conserveermiddelen: E270/E202, natuurlijk aroma), ui, knoflook.",
+  "allergens": "Melk, Mosterd, erwten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "195.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "47.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:04:18"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hands off Vegan caramel seasalt",
+  "brand": "Hands off",
+  "price": "3.39",
+  "base_unit_price": "33.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/560567_M/9ce2324190d262d5178d212615450b3b/560567.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter*, cacaomassa*, zonnebloempitpoeder, gezouten karamelstukjes (suiker, glucosestroop, 5% zout), hazelnootpraliné (HAZELNOOT, suiker, emulgator: lecithinen (SOJA)), emulgator: lecithinen, zeezout, natuurlijk vanille aroma, zout. Ten minste 51% cacaobestanddelen. *Rainforest Alliance Certified. Find out more at ra.org. Kan melk, eieren, gluten en andere noten bevatten.",
+  "allergens": "Soja, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2264.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "543.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:39:57"
+}

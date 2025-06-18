@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Reep noten appel en kaneel bio",
+  "brand": "Zonnatura",
+  "price": "1.99",
+  "base_unit_price": "0.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/797415_M/ae2241aab2fc33e984c3284f490d54b0/797415.png",
+  "ingredients": "Ingrediënten: PINDA'S* 45%, agavesiroop*, AMANDELEN* [NOTEN] 16%, rozijnen* (gedroogde druiven*, zonnebloemolie*), appel* 6%, kaneel* 0,3%. *Ingrediënt van biologische teelt. Kan andere noten en sesamzaad bevatten.",
+  "allergens": "Aardnoten (pinda's), Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2199.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "528.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:55"
+}

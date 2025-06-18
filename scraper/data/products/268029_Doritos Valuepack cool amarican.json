@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Doritos Valuepack cool amarican",
+  "brand": "Doritos",
+  "price": "2.99",
+  "base_unit_price": "10.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/268029_M/0518ad8c0fd3f3839c5528572bf1aa51/268029.png",
+  "ingredients": "Ingrediënten: maïs, koolzaadolie, zure roomsmaak [magere MELKPOEDER, lactosepoeder (MELK), tomatenpoeder, palmolie, glucosesiroop, uienpoeder, knoflookpoeder, kaaspoeder (van MELK), aroma, zonnebloemolie, suiker, smaakversterkers (mononatriumglutamaat, dinatrium-5’-ribonucleotiden), \nzuurteregelaar (appelzuur), MELKEIWIT, specerijen, kleurstof (annatto bixin)], zout, antioxidanten (extracten van rozemarijn, ascorbinezuur, tocoferolrijk extract, citroenzuur). Kan soja en tarwe (gluten) bevatten.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2104.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "503.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:47:04"
+}

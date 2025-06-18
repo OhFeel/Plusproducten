@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Holie's Granola Mixed Berries",
+  "brand": "Holie's",
+  "price": "3.99",
+  "base_unit_price": "11.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/152212_M/e40a80f40082091c3cd5dc85c866e110/152212.png",
+  "ingredients": "Ingrediënten: VOLKOREN SPELTVLOKKEN 26%, VOLKOREN GERSTVLOKKEN 25%, VOLKOREN HAVERVLOKKEN 25%, Cichoreiwortelvezel 7%, Moerbei 5%, Zonnebloempitten 3%, Lijzaad 3%, Gevriesdroogde aardbei 2%, Gevriesdroogde framboos 2%, TARWEGLUTEN 2%. Kan sporen bevatten van andere glutenbevattende granen, pinsa's, soja en noten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1476.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "358.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:42"
+}

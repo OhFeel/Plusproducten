@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Beemster Signature Royaal Grand Cru 48+",
+  "brand": "Beemster",
+  "price": "4.79",
+  "base_unit_price": "23.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/811666_M/ab396f0b5cd7cc3e06e8567196eed14e/811666.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde KOEMELK, zout, zuursel, stremsel, annatto (E160b(ii)). Op natuurlijke wijze lactosevrij (<lt/>0.1%).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1698.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "409.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "24.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "26.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:33"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof Mousse witte chocolade",
+  "brand": "Almhof",
+  "price": "1.89",
+  "base_unit_price": "9.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/273617_M/148f8b5597e573b5db373f5588db2044/273617.png",
+  "ingredients": "Ingredienten:\nWater, 12,5% witte chocolade (suiker, volle MELKPOEDER, cacaoboter*, emulgator (SOJALECITHINEN), natuurlijk vanille-aroma), magere MELKPOEDER, dextrose, ROOM, maltodextrine, rundergelatine, suiker, emulgator (mono- en diglyceriden van vetzuren), gemodificeerd maïszetmeel, stabilisatoren (carrageen, verwerkt Eucheuma-wier). *Rainforest Alliance Certified",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "711.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "169.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:50:45"
+}

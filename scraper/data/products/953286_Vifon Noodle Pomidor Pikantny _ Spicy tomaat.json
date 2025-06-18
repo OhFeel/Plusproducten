@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vifon Noodle Pomidor Pikantny / Spicy tomaat",
+  "brand": "Vifon",
+  "price": "0.69",
+  "base_unit_price": "9.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/953286_M/683a6fb3dcc55f64145bf0e1f4a67b85/953286.png",
+  "ingredients": "Ingrediënten: noedels (86,4%): TARWEbloem, palmvet, tapioca, zout, gemodificeerd zetmeel, suiker, stabilisatoren: trifosfaten, guarpitmeel; rijsmiddelen: kaliumcarbonaten, natriumcarbonaten; kurkuma; soepbasis (13,6%): tomatenpoeder (40,6%), zout, suiker, smaakversterkers: mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat; gistextractpoeder, aroma, maltodextrine, tapiocazetmeel, chili (2,1%), zuurteregelaar: citroenzuur; gedroogde groenten in variabele verhouding (0,6%): lente-ui, SELDERIJ; antiklontermiddel: E551; gehydroliseerd SOJA-eiwit, knoflook (0,5%), chili extract (0,32%), bietenpoeder, kleurstof: paprika-extract.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "257.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "61.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.74",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:39"
+}

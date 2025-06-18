@@ -1,0 +1,223 @@
+{
+  "sku": "",
+  "name": "Yfood Reep Coconut & White Chocolate",
+  "brand": "Yfood",
+  "price": "2.69",
+  "base_unit_price": "44.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/205813_M/80d4b4547bedb8dd54efc496187ba6b6/205813.png",
+  "ingredients": "Ingrediënten: Oplosbare maïsvezel, MELKeiwit, witte chocolade 24% [zoetstof: maltitolen; volle MELKpoeder, cacaoboter, emulgator: lecithinen (SOJA); natuurlijk aroma], bevochtigingsmiddel: glycerol; polydextrose, kokosschilfers 2,0%, AMANDELpasta, rijstmeel, vitaminen (A, D, E, K, B1, B2, B3, B5, B6, foliumzuur, biotine, B12), mineralen (kalium, magnesium, ijzer, zink, koper, mangaan, chloride, jood), zoetstof: steviolglycosiden uit Steviai; zout, natuurlijke smaakstoffen. Kan sporen van ei, tarwe, lupinen, sesamzaad, aardnoten en andere noten bevatten.",
+  "allergens": "Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1251.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "301.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "330.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "3.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "1.3",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "3.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine K",
+      "value": "23.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.28",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.35",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "4.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.35",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "50.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.63",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "13.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "1.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Retinol equivalent",
+      "value": "180.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "410.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chloride",
+      "value": "150.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "230.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "2.9",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koper",
+      "value": "0.25",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Mangaan",
+      "value": "1.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Seleen",
+      "value": "10.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chroom",
+      "value": "9.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Molybdeen",
+      "value": "13.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "24.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "104.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:20:41"
+}

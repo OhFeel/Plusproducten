@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Esbjaerg Vodka",
+  "brand": "Esbjaerg",
+  "price": "20.99",
+  "base_unit_price": "20.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/653409_M/4c49f53c73349d589a742aea0da4e3af/653409.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:35"
+}

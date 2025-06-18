@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ritter Sport Mini Chocolate mix colorful",
+  "brand": "Ritter Sport",
+  "price": "2.75",
+  "base_unit_price": "18.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/138974_M/3472209072f03fabfb874e2e572dfa06/138974.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, cacaomassa, volle MELKpoeder, LACTOSE, magere MELKpoeder, HAZELNOOTmassa, palmvet*, TARWEmeel, AMANDELEN (gemalen), gehakte HAZELNOTEN, BOTERvet, mais, invertsuikerstroop, emulgator: lecithinen (SOJA), BOTER, TARWEzetmeel, zout, glucose-fructosestroop, moutextract (GERST), WEIpoeder, bevochtigingsmiddel: invertase. *gecertificeerde duurzaamheid. Kan sporen van aardnoten, andere noten en eieren bevatten.",
+  "allergens": "Glutenbevattende granen, Soja, Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2243.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "544.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:53:38"
+}

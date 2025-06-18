@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Gordon's Pink alcohol free",
+  "brand": "Gordon's",
+  "price": "17.99",
+  "base_unit_price": "25.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/509653_M/bcb9b971975117ed76a8dccc3e32c487/509653.png",
+  "ingredients": "water, natuurliike aroma's, voedingszuren: (e 334, e 270), conserveermiddelen: (e 202, e 242, e 211), zuurteregelaars: (e 331(iii), e 514), zoetstoffen (e 955, e 950), stabilisator: e 508, kleurstoffen: (e 129, e 110, e 133). bevat verwaarloosbare hoeveelheden vet, verzadigde vetten, koolhydraten, suikers eiwitten en zout.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "43.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "11.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:22:42"
+}

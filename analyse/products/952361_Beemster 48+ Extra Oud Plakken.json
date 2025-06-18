@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Beemster 48+ Extra Oud Plakken",
+  "brand": "Beemster",
+  "price": "3.65",
+  "base_unit_price": "29.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952361_M/2e6698aa175d9e6848eb221b9d24a120/952361.png",
+  "ingredients": "Ingrediënten: KOEMELK (gepasteuriseerd), zout, zuursel, vegetarisch stremsel, natuurlijke kleurstof annatto (E160b(ii)). Op natuurlijke wijze lactosevrij (<lt/>0,01%).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1766.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "426.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "25.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "871.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:19:54"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Satevlees",
+  "brand": "PLUS",
+  "price": "3.59",
+  "base_unit_price": "11.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/115673_M/243bd3213cd7c82730eb70ace92e8f20/115673.png",
+  "ingredients": "ingrediënten: 96% varkensvlees, plantaardige olie (raap), kruiden en specerijen, vloeibare suiker, suikerstroop, paprikagranulaat, antioxidant (e301), voedingszuur (e331), gistextract, gekarameliseerde suiker, natuurlijk knoflookaroma, paprikaconcentraat, aroma\nggn 4056186517821\n",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "745.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "178.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:45:21"
+}

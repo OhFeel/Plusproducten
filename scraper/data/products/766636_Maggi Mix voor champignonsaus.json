@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Mix voor champignonsaus",
+  "brand": "Maggi",
+  "price": "1.15",
+  "base_unit_price": "31.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/766636_M/f01441f4e18dd41e242becd753608a4d/766636.png",
+  "ingredients": "Ingrediënten: zetmelen (erwt, maïs), plantaardige oliën (palm, zonnebloem, in wisselende verhoudingen), gejodeerd zout, champignons 5,7%, LACTOSE, gistextract, uien 2,9%, aroma's (bevat MELK, GLUTEN), MELKeiwitten, gekarameliseerde suiker, peterselie. Bevat mogelijk: SELDERIJ, EI, MOSTERD, SOJA.",
+  "allergens": "Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2043.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "489.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:26"
+}

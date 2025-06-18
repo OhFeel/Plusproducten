@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nestlé Smarties yoghurt aardbei",
+  "brand": "Nestlé",
+  "price": "2.09",
+  "base_unit_price": "8.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/801206_M/afe4d4beaf35d20b9ef78c5aa41d0e8a/801206.png",
+  "ingredients": "Ingrediënten: Yoghurt met aardbei, gesuikerd (83,3%): Yoghurt (MELK) (70,8%), suiker (6,0%), aardbeien (4,6%), fructose, rijstzetmeel, concentraat van MELKmineralen, aroma, rode bietensap concentraat, vitamine D. Ingrediënten: Melkchocolade in een krokant laagje (16,7 %): Suiker, cacaoboter, magere MELKpoeder, cacaomassa, weipoeder (MELK), tarwebloem (GLUTEN), boterconcentraat (MELK), rijstezetmeel, emulgator (zonnebloemlecithine), fruit- en plantenconcentraten (saffloer, radijs, zwarte wortel, hibiscus, citroen), spirulinaconcentraat, glansmiddelen (bijenwas, carnaubawas), natuurlijk vanillearoma, invertsuikerstroop. [Mogelijke sporen van PINDA, EIEREN, SOJA, SESAM, NOTEN].",
+  "allergens": "Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "682.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "162.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:17"
+}

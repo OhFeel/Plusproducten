@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Kipsaté nasi pittige boontjes",
+  "brand": "Uit de keuken van",
+  "price": "6.49",
+  "base_unit_price": "14.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/590360_M/cb8747b147506787955c84570e99b176/590360.png",
+  "ingredients": "Nasi goreng (57% gekookte rijst (water, rijst), 9% wortel, 6% kippenvlees, 6% ui, 4,8% prei, 4% paprika, 2,9% omelet (SCHARRELKIPPENEI, water, koolzaadolie, maismeel, geconcentreerd citroensap, witte peper, paprika, kurkuma, zout), raapzaadolie, ketjap (melasse, suiker, water, SOJASAUS (water, SOJABONEN, TARWE, zout), zout), bouillonpoeder (zout, gistextract, raapzaadolie, glucosestroop, aroma, SOJA-EIWITHYDROLISAAT, specerijen, aardappelzetmeel, uienolie), gebufferd azijnpoeder (conserverend ingrediënt), gember, uienpoeder, knoflookpuree, tomatenpuree, sambal (rode peper, zout, voedingszuur: azijnzuur), SOJASAUS (water, SOJABONEN, zout, TARWEBLOEM, conserveermiddel: E202), suiker, paprikapoeder, witte peper), kipdijfiletspiesjes (kipdijfilet, uienextract, suiker, SOJASAUS (water, SOJA, zout, azijn), water, azijn, zout, gekarameliseerde suiker, rijstzetmeel, dextrose, suikerstroop, natuurlijk aroma (SOJA, TARWE), kruiden, specerijen, gebrande suiker, aroma, conserveermiddel: E202, verdikkingsmiddel: xanthaangom), tumis boontjes (60% sperziebonen, 17% maiskorrels (mais, water, zout), 4,4% ui, 3,5% paprika, tomatenpuree, ketjap (melasse, suiker, SOJASAUS (water, SOJABONEN, TARWE, zout), water, zout), raapzaadolie, sambal (rode peper, zout, voedingszuur: azijnzuur), knoflook, groenten bouillonpoeder (groenten (ui, knoflook, tomaat, wortel, pastinaak, prei), specerijen (foelie, venkelzaad, fenegriek, witte peper, SELDERIJZAAD, rode peper, kurkuma), kruiden (tijm, peterselie, SELDERIJBLAD)), suiker, azijn, laos, paprikapoeder, garnalenpasta (maiszetmeel, zout, garnalen (SCHAALDIEREN)), witte peper, zout, salamblad), pindasaus met kokosmelk (water, 30% PINDA’S, 13% kokosmelk (53% kokosextract, water, voedingszuur: citroenzuur), SOJASAUS (water, azijn, SOJABONEN, zout), suiker, gebrande suikerstroop, Spaanse peper, knoflook, gember, zout, limoenblad, gekarameliseerde suiker), seroendeng (61% kokos, 23% PINDA'S, basterdsuiker (suiker, invertsuikerstroop, suikerstroop, kleurstof: E150a/E150c), kruiden en specerijen, zout, voedingszuur: citroenzuur).\n\n",
+  "allergens": "Tarwe, Schaaldieren, Ei, Aardnoten (pinda's), Soja, Melk, Selderij, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "604.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "144.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:54:40"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Jemy Zurek / Zure meel soep",
+  "brand": "Jemy",
+  "price": "3.19",
+  "base_unit_price": "7.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/424573_M/4ede9b35dde34d42a48ae77befc97ade/424573.png",
+  "ingredients": "Ingrediënten: water, zuur 20% (water, ROGGEBLOEM, knoflook), varkensworst 10% (varkensvlees, zout, gemodificeerd zetmeel, kruiden, suiker). ROOM 2%, gemodificeerd zetmeel, TARWEBLOEM, zout, gerookte varkensreuzel, gefrituurde uien 0,4% (ui, koolzaad plantaardige olie, TARWEBLOEM, zout), knoflook, koolzaad plantaardige olie, marjolein, peper, gistextract, antioxidant; ascorbinezuur.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "216.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:47:22"
+}

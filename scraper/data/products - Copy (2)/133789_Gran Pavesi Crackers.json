@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Gran Pavesi Crackers",
+  "brand": "Gran Pavesi",
+  "price": "2.99",
+  "base_unit_price": "16.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/133789_M/4584bb13fd93b125b4a249704bc36e3e/133789.png",
+  "ingredients": "Ingrediënten: TARWEbloem, aardappelzetmeel, zonnebloemolie, magere MELKpoeder, olijfolie 6,6%, gemodificeerd maïszetmeel, glucosestroop, karneMELKpoeder, zeezout 2%, zout, rijsmiddel: ammoniumwaterstofcarbonaat. Kan sporen bevatten van: noten, soja en ei.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1790.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "425.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.375",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:51:25"
+}

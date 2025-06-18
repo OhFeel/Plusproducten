@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Liga Milkbreak Chocolade",
+  "brand": "Liga",
+  "price": "3.19",
+  "base_unit_price": "13.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639179_M/c4f6ab7da929fc1811a7e78b577dd27f/639179.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM 47 %, suiker, glucosestroop, koolzaadolie, TARWEZETMEEL, lactose (van MELK) en MELKEIWITTEN 5,5 %, magere MELKPOEDER 5 %, geheel geharde palmpitolie, volle MELKPOEDER 2,5 %, zonnebloemolie, EIEREN, tarwedextrine, palmpitolie, rijsmiddelen (difosfaten, natriumcarbonaten, ammoniumcarbonaten), mineralen (calciumcarbonaat, elementair ijzer), magere cacaopoeder 0,5 %, zout, emulgator (SOJALECITHINEN), TARWEZEMELEN, palmolie, vitamine B6, aroma's.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1870.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "445.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.96",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "438.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "7.7",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "1.4",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:10"
+}

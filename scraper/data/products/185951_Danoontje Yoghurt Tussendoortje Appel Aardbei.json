@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Danoontje Yoghurt Tussendoortje Appel Aardbei",
+  "brand": "Danoontje",
+  "price": "0.99",
+  "base_unit_price": "14.14",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/185951_M/7bca5334a0ad2418527d51d2290b80e3/185951.png",
+  "ingredients": "Ingrediënten:  Magere melk, room (melk), appelpuree (6%), geconcentreerd appelsap (5,1%), aardbei (4%), gemodificeerd tapiocazetmeel, melkeiwitten, geconcentreerd citroensap, melkmineralen, zwarte wortelconcentraat, natuurlijke aroma’s, melkfermenten, vitamine D.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "325.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "77.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "172.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "2.15",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:12:44"
+}

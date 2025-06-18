@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Sultana FruitBiscuits Bosvruchten",
+  "brand": "Sultana",
+  "price": "2.69",
+  "base_unit_price": "12.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902372_M/c2e329e8d4dd53b2fae5a52ebc5c4501/902372.png",
+  "ingredients": "Ingrediënten: TARWEbloem, gedroogde druiven 22% (rozijnen en krenten in wisselende verhoudingen), suiker, zonnebloemolie, vulstof (maltitolen), geconcentreerde appelpuree, bevochtigingsmiddel (glycerol), maltodextrine, inuline, glucosestroop, rijstebloem, geconcentreerde bosvruchtenpuree (braam 0,3%, rode bes 0,3%, aardbei 0,1%, framboos 0,1%), bosvruchtenpuree (bosbes 0,3%, braam 0,3%, framboos 0,3%), weipermeaatpoeder (MELK), TARWEzemelen, natuurlijke aroma's (bevat MELK), rijsmiddelen (natriumcarbonaten, difosfaten), zout, magere MELKpoeder, geleermiddel (pectinen), TARWEvezel, zuurteregelaars (citroenzuur, natriumcitraten, kaliumcitraten), rijstzetmeel, verstevigingsmiddel (calciumlactaat), cacaoboter, voedingszuur (citroenzuur), citrusvezel\n\nKan noten, sesamzaad en andere glutenbevattende granen bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1592.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "378.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:12"
+}

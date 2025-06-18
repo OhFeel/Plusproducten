@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Fisherman's Friends Salmiak suikervrij single",
+  "brand": "Fisherman's Friends",
+  "price": "1.49",
+  "base_unit_price": "59.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/543233_M/4f9ac438418e542b599bd5d73e3ed126/543233.png",
+  "ingredients": "zoetstof: sorbitol. aroma's: zoethoutextract, menthol, ammonium glycyrrhizaat, pepermuntolie. salmiakzout. antiklontermiddel: magnesiumstearaat. bevat sorbitol (86 g/100 g).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1007.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "241.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.29",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.29",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "90.82",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "85.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.63",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.004",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:32:22"
+}

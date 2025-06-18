@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum Mini double sunlover",
+  "brand": "Magnum",
+  "price": "6.99",
+  "base_unit_price": "1.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/926691_M/643d7821c3ce831747bad70c7eb59123/926691.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, cacaoboter¹, glucose-fructosestroop, magere MELKPOEDER, glucosestroop, BOTERCONCENTRAAT, mangopuree (3%), volle MELKPOEDER, invertsuiker, kokos, kokospasta (2%), kokosolie, fructose, mango (1%), passievruchtsap² (1%), magere MELKPOEDER of -concentraat, limoensap², fructosestroop, LACTOSE en MELKEIWITTEN, passievruchtpuree (0,4%), emulgatoren (E471, lecithines), gemodificeerd zetmeel, stabilisatoren (E412, E440, E410, E417, E407), aroma's, zuurteregelaars (E330, E331), pompoensap², appelsap², wortelsap², zout, citroensap², kleurstof (E160a). Kan amandel en soja bevatten. Glutenvrij. ¹Rainforest Alliance gecertificeerd. ra.org. ²op basis van geconcentreerd sap.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1369.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "328.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:27"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Mini saucijzenbroodjes",
+  "brand": "PLUS",
+  "price": "2.45",
+  "base_unit_price": "8.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/611243_M/95533bc811113e83cd92cbda259b53db/611243.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 25% varkensvlees*, margarine (plantaardige oliën (palm, raap), emulgator: E471, water, zout, voedingszuur: E330), water, paneermeel (TARWEBLOEM, water, gist, zout), TARWEGLUTEN, zetmeel (TARWE, tapioca, maïs), specerijen, suiker, zout, TARWEVEZEL, gejodeerd zout, erwteneiwit, raapzaadolie, natuurlijk aroma, voedingszuur: E262/E263/E267/E270, conserveermiddel: E200, geïnactiveerd TARWEDESEMPOEDER. \n* Beter Leven keurmerk 1 ster. \n\nDit product kan sporen van EI, MELK, SOJA en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1564.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "377.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "4.13",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "26.44",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:32"
+}

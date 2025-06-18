@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Karbonade kruiden",
+  "brand": "Silvo",
+  "price": "3.49",
+  "base_unit_price": "29.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898817_M/b9f95d178c0eb0c6401822f837b508bf/898817.png",
+  "ingredients": "Ingrediënten: Specerijen 37,5% (paprika 12,5%, witte peper 9%, knoflookpoeder, MOSTERDbloem 6%, korianderzaad, SELDERIJzaad, zout 25%, paneermeel (bevat TARWE, calciumcarbonaat, ijzer, niacine, thiamine), smaakversterker: mononatriumglutamaat, aroma (bevat GERST, TARWE), rode paprika 5%, oregano, antiklontermiddel: siliciumdioxide, zonnebloemolie, Totaal gehalte aan kruiden en specerijen: 39,5%",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1001.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "238.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "30.36",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:39"
+}

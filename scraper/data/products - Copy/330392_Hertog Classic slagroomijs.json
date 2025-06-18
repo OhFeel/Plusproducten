@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hertog Classic slagroomijs",
+  "brand": "Hertog",
+  "price": "4.59",
+  "base_unit_price": "5.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/330392_M/83d86743b5fed12a1fa46ae5f48cc4b2/330392.png",
+  "ingredients": "Ingrediënten: Volle MELK (30%), SLAGROOM (23%), gerehydrateerde magere MELK, suiker, magere MELKPOEDER, glucosestroop, BOTERCONCENTRAAT, glucose-fructosestroop, emulgatoren (mono- en diglyceriden van vetzuren), stabilisatoren (guargom, johannesbroodpitmeel), natuurlijke aroma's.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "925.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "221.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:14:21"
+}

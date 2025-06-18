@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Pringles Chips Texas BBQ",
+  "brand": "Pringles",
+  "price": "2.69",
+  "base_unit_price": "16.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/246976_M/94a4994faa34563c458d43a1ff42c4e3/246976.png",
+  "ingredients": "INGREDIËNTEN: Gedehydrateerde aardappelen, zonnebloemolie, TARWEMEEL, maïsmeel, rijstbloem, barbecuekruiderij (suiker, lactose {MELK}, zout, uienpoeder, smaakversterkers {mononatriumglutamaat, dinatrium-5'-ribonucleotiden}, tomatenpoeder, paprikapoeder, gistextract, aroma's, rookaroma's, johannesbroodpoeder, zuurteregelaar {natriumdiacetaat}, voedingszuren {appelzuur, citroenzuur}, knoflookpoeder, zonnebloemolie, maiszetmeel, kleurstof {paprika-extract}, maltodextrine), maltodextrine, emulgator (E471), zout, kleurstof (annatto norbixine).Bevat mogelijk soja",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2160.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "517.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:41:28"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Speklapjes kruiden",
+  "brand": "Silvo",
+  "price": "3.49",
+  "base_unit_price": "27.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898823_M/aab2d7501d9e4f98456f62a301f7fe4d/898823.png",
+  "ingredients": "Ingrediënten: Zout 36%, paneermeel (bevat TARWE, calciumcarbonaat, ijzer, niacine, thiamine), specerijen 22,5% (korianderzaad 7%, komijn 4%, kurkuma, fenegriek 3%, gember, witte peper, Spaanse peper), smaakversterker: mononatriumglutamaat, aroma (bevat GERST, TARWE), peterselie, antiklontermiddel: siliciumdioxide, zonnebloemolie, Totaal gehalte aan kruiden en specerijen: 24%",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "912.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "217.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "40.54",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:41"
+}

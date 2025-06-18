@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mentos Gum white cool mint",
+  "brand": "Mentos",
+  "price": "4.99",
+  "base_unit_price": "0.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/197989_M/e8dd12b8451c9fbb00f5e903a69f4a8d/197989.png",
+  "ingredients": "Ingrediënten: zoetstoffen (xylitol (25%), sorbitol, mannitol, maltitolstroop, aspartaam, acesulfaam-K, sucralose), gombasis, aroma's, zetmeel, stabilisator (glycerol), maltodextrine, calciumcarbonaat, emulgatoren (SOJALECITHINE, sucrose-esters van vetzuren), verdikkingsmiddel (cellulosegom), antioxidant (E321), glansmiddel (carnaubawas).",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "711.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "171.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:00"
+}

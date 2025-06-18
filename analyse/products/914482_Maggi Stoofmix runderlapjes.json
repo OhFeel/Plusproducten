@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Stoofmix runderlapjes",
+  "brand": "Maggi",
+  "price": "1.75",
+  "base_unit_price": "46.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/914482_M/86cc58eb09a27d50a9b2578f5d7dd8d6/914482.png",
+  "ingredients": "Ingrediënten: aardappelzetmeel, TARWEgriesmeel, groenten 13.6% (6.3% uien, 3.7% tomaten, 3.6% rode paprika), zout, gekarameliseerde suiker, gistextract, palmolie, knoflook, suiker, rookaroma, aroma's. Bevat mogelijk: SELDERIJ, EI, MELK, MOSTERD, SOJA.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1424.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:34"
+}

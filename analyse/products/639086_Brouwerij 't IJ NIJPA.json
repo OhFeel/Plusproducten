@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Brouwerij 't IJ NIJPA",
+  "brand": "Brouwerij 't IJ",
+  "price": "2.99",
+  "base_unit_price": "9.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639086_M/04f81ee4fcba3358b8e16ca7b83c3537/639086.png",
+  "ingredients": "Bevat: GERSTEMOUT, TARWEMOUT en HAVERVLOKKEN.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "100.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "24.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.2",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:06"
+}

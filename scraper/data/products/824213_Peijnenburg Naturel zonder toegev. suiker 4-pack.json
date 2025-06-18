@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Peijnenburg Naturel zonder toegev. suiker 4-pack",
+  "brand": "Peijnenburg",
+  "price": "1.99",
+  "base_unit_price": "17.77",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/824213_M/148b927fe1ed2f16b7e036ddc7900947/824213.png",
+  "ingredients": "Ingrediënten: ROGGEbloem 38%, cichoreiwortelvezel, zoetstof (xylitol), water, stabilisator (glycerol), rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), zonnebloemolie, specerijen, natuurlijk aroma. Kan NOTEN en MELK bevatten.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "972.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "232.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:52:32"
+}

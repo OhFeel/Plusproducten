@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Chips Cheese Onion",
+  "brand": "Lays",
+  "price": "2.59",
+  "base_unit_price": "8.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/154072_M/1c944bbd35faefeb5944975b3f8e8898/154072.png",
+  "ingredients": "Ingrediënten: aardappelen, plantaardige oliën (zonnebloem, koolzaad, in wisselende hoeveelheden), kaas-en uismaak [weipermeaat (van MELK), zout, suiker, aroma (bevat MELK), rijstebloem, uienpoeder, zuurteregelaars (citroenzuur, appelzuur), weiproteïne (van MELK), knoflookpoeder, Cheddar kaaspoeder (van MELK), kleurstoffen (annatto bixin, paprika extract), maltodextrine, weipoeder (van MELK), magere MELKpoeder], antioxidanten (extracten van rozemarijn, ascorbinezuur, tocoferolrijk extract, citroenzuur).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2112.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "506.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.95",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:58:20"
+}

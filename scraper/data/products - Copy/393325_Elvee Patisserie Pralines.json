@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Patisserie Pralines",
+  "brand": "Elvee",
+  "price": "4.49",
+  "base_unit_price": "25.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/393325_M/abc313269740d612f1d06893171081a1/393325.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, volle MELKpoeder, cacaomassa, geheel geharde plantaardige oliën (palm, kokos, raapzaad), AMANDELEN, HAZELNOTEN, slagroom [MELKvet, MELK, suiker, maiszetmeel, emulgator (E471), stabilisator (E407), natuurlijk vanille aroma] magere MELKpoeder, glucosestroop, emulgatoren (SOJAlecithine, E471), kleurstoffen (karamel, carotenen, paprika-extract E141, E171), weipoeder (MELK), natuurlijke aroma's (boter, mokka, vanille), plantaardige olie (zonnebloem), conserveermiddel (E202), verdikkingsmiddelen (johannesbroodpitmeel, guarpitmeel, E466), koffie, invertase, voedingszuren (citroenzuur, E270), vitamine A & D3, zout, koffie-extract, zuurteregelaar (citroenzuur), maiszetmeel, antioxidant (E300), antiklontermiddelen (E535, E551), stabilisator (E420). Gemaakt in een bedrijf waar ook noten, gluten, ei, pinda's en sesamzaad verwerkt worden. Melkchocolade: ten minste 30% cacaobestanddelen. Pure Chocolade: ten minste 50% cacaobestanddelen.",
+  "allergens": "Soja, Melk, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2195.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "524.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:37:17"
+}

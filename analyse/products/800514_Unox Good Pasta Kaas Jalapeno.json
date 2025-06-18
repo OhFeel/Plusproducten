@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good Pasta Kaas Jalapeno",
+  "brand": "Unox",
+  "price": "2.09",
+  "base_unit_price": "33.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/800514_M/908a5b1c6d16190bb65907d2839d620b/800514.png",
+  "ingredients": "Ingrediënten: Pasta 48% (harde TARWEGRIES, TARWEBLOEM), zetmeel, smeltkaaspoeder 9,7% (Cheddar KAAS 4,7%, KAAS, MELKWEI), magere MELKPOEDER, zonnebloemolie, zoete MELKWEIPOEDER, mineraalzout (kalium), suiker, uienpoeder, aroma (bevat MELK), specerijen (gerookt chilipoeder (chili, rook), knoflookpoeder, jalapeñopoeder 0,16%, kurkuma), gejodeerd zout, zout, MELKSUIKER, groene paprika¹, gistextract, MELKEIWITTEN, tomatenpoeder¹. Kan gerst, haver, rogge, ei, mosterd, selderij, sesam, soja bevatten.  ¹op duurzame wijze geteeld. Kijk voor meer informatie op: www.unox.nl.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "422.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "101.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.59",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:04"
+}

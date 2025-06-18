@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Snelle Jelle Ontbijtkoek kruidkoek zero 4-pack",
+  "brand": "Snelle Jelle",
+  "price": "2.79",
+  "base_unit_price": "16.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/376295_M/a545451be07f682d4d51a4fc07828f74/376295.png",
+  "ingredients": "Ingrediënten: ROGGEbloem, cichoreiwortelvezel, zoetstof (xylitol), water, stabilisator (glycerol), rijsmiddellen (natriumwaterstofcarbonaat, dinatriumdifosfaat), specerijen, kaneel, zonnebloemolie. Kan sporen bevatten van: NOTEN, MELK.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "960.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "229.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.68",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:47"
+}

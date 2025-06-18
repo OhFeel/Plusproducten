@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Melkunie Breaker Stracciatella Yoghurt",
+  "brand": "Melkunie",
+  "price": "1.69",
+  "base_unit_price": "8.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/531567_M/a94acdad7229493daa819775c0b1b3f6/531567.png",
+  "ingredients": "Ingrediënten: YOGHURT (3,6% vet), suiker, water, 1,3% chocoladestukjes (cacaomassa*, cacaoboter*, suiker), gemodificeerd maïszetmeel, aroma, verdikkingsmiddelen: pectine en xanthaangom, zuurteregelaar: citroenzuur, lactase. \n*Rainforest Alliance Certified, ra.org",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "422.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "100.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:29:25"
+}

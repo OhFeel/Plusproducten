@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "PLUS Tablet chocolade praliné melk",
+  "brand": "PLUS",
+  "price": "2.39",
+  "base_unit_price": "11.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/934279_M/897b964259a2ba672552685e0f152ae8/934279.png",
+  "ingredients": "Ingrediënten :suiker, volle MELKPOEDER, cacaoboter, cacaomassa, plantaardige vetten (palm, palmpit, shea in wisselende verhoudingen), plantaardige oliën (kokos, raapzaad, zonnebloem in wisselende verhoudingen), 3% HAZELNOTEN*, 3% AMANDELEN, lactose (MELK), weipoeder (MELK), 1,2% CASHEWNOTEN, magere cacaopoeder, emulgator: SOJALECITHINE, aroma. \nMelkchocolade: ten minste 30% cacaobestanddelen. \n*Rainforest Alliance gecertificeerd. Lees meer op www.ra.org. \n\nKan TARWE en PISTACHENOOT bevatten.",
+  "allergens": "Soja, Melk, Noten, Lactose, amandelen, cashewnoten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2287.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "548.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "10.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.131",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.052",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "54.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:29"
+}

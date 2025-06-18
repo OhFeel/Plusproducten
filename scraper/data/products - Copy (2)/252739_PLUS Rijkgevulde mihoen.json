@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Rijkgevulde mihoen",
+  "brand": "PLUS",
+  "price": "4.29",
+  "base_unit_price": "12.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/252739_M/a4714a78f0148710d66e6e90b62a1efa/252739.png",
+  "ingredients": "Ingrediënten :41% Gekookte mihoen (rijstmeel, maïszetmeel, water), 11% gemarineerd gegaarde kip (91% kippendij*, suiker, ketjap (water, suiker, SOJA-EIWIT, kleurstof: karamel, zout, verdikkingsmiddel: E466, conserveermiddel: E202), tomatenpuree, hoisinsaus (witte suiker, water, gefermenteerde SOJA-PASTA (water, zout, SOJABONEN, TARWEBLOEM), zout, gedroogde zoete aardappel, kleurstof: karamel, gemodificeerd maïszetmeel, gedehydrateerde knoflook, SESAMZAADPASTA, specerijen, gezouten chilipeper (chili, zout), voedingszuur: E260), gember, anijszaad, venkelzaad, peperkorrels, kaneel), 9% gele paprika, 9% sperziebonen, 7% spitskool, 6% wortel, plantaardige oliën (volledig geraffineerde sojaolie, raapzaad, SESAM), 4% VRIJE-UITLOOPKIPPENEI**, 4% lente-ui, 1,2% rode peper, suiker, ui, zout, oestersaus (water, suiker, zout, oesterextract (oester (WEEKDIEREN), water, zout), gemodificeerd maïszetmeel, kleurstof: E150c), gistextract (gistextract, zout, zonnebloemolie).\n\n\n* = Beter Leven keurmerk 1 ster. \n** = Beter Leven keurmerk 2 sterren.\n\nDit product kan sporen van PINDA'S bevatten.",
+  "allergens": "Weekdieren, Tarwe, Glutenbevattende granen, Ei, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "606.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "144.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.87",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.73",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.23",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.58",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.33",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.86",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.34",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.36",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:43:30"
+}

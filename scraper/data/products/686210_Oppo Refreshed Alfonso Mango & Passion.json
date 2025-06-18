@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Oppo Refreshed Alfonso Mango & Passion",
+  "brand": "Oppo",
+  "price": "4.85",
+  "base_unit_price": "17.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/686210_M/1c6c10b9c0531fca173c835fb5a335a4/686210.png",
+  "ingredients": "Ingrediënten: Alphonso mangopuree (41%), water, oplosbare maïsvezel, passievruchtensap (7%), oligofructose, glucosestroop, zoetstoffen: erythritol en steviolglycosiden uit stevia, zetmeel, wortelsap, mangopuree, emulgator: mono- en diglyceriden van vetzuren, stabilisatoren: johannesbroodpitmeel, guarpitmeel, pectinen, geconcentreerd citroensap, natuurlijke aroma's\n\nKan ook sporen bevatten van gluten, melk, soja, ei en noten.\n\nVoor allergenen, inclusief glutenbevattende granen, zie de vetgedrukte ingrediënten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "216.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:11"
+}

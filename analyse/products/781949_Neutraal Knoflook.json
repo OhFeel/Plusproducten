@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Neutraal Knoflook",
+  "brand": "Neutraal",
+  "price": "1.29",
+  "base_unit_price": "0.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/781949_M/680b7f9827a6ac1170de4878ac037e71/781949.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:10"
+}

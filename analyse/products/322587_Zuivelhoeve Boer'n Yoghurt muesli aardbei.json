@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zuivelhoeve Boer'n Yoghurt muesli aardbei",
+  "brand": "Zuivelhoeve",
+  "price": "1.79",
+  "base_unit_price": "10.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/322587_M/56c95db5bab724bce149fb1fed0e683d/322587.png",
+  "ingredients": "Ingrediënten: YOGHURT, 10% muesli [HAVERVLOKKEN, suiker, zonnebloemolie, glucose-fructosestroop, TARWEVLOKKEN, kokos, HAZELNOOT, rijstebloem, TARWEMOUT, TARWEMEEL, TARWEGLUTEN, dextrose, invertsuiker, zout, GERSTEMOUT, melasse, antioxidant (tocoferolrijk extract)], suiker, 4,2% aardbei, 1,4% aardbeipuree uit concentraat, MELKEIWIT, 1,2% aardbeiensap, rijstzetmeel, verdikkingsmiddelen (pectinen, guarpitmeel), wortelconcentraat, citroensapconcentraat, natuurlijk aroma.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "544.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:11:38"
+}

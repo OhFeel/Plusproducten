@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Hutspot met zacht gegaard runderlapje",
+  "brand": "PLUS",
+  "price": "4.39",
+  "base_unit_price": "8.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/846619_M/255ea9c0bbb6754c8e96be06b176e756/846619.png",
+  "ingredients": "Ingrediënten :67% hutspot (52% gekookte aardappel, 30% gekookte wortel, 14% ui, water, raapzaadolie, zout, kaliumchloride, mosterd (water, MOSTERDZAAD, brandewijnazijn, zout, suiker, specerijen), natuurlijk aroma, specerijen, gistextract), 17% uienjus (water, 16% ui, plantaardige oliën (zonnebloem, raapzaad), gemodificeerd maïszetmeel, natuurlijke aroma's (bevat SELDERIJ), suiker, tomatenpuree, zout, rode wijnextract, kaliumchloride, wijnazijn, gekaramelliseerde suiker, conserveermiddel: E202, verdikkingsmiddel: E406, specerijen, druivenmostconcentraat, geroosterd uienpoeder, gistextract, kleurstof: E150d), 16% gegaard runderlapje (95% rundvlees*, rundereiwit, aardappelzetmeel, zout, gekaramelliseerde suiker, water, conserveermiddel: E261, voedingszuur: E330). \n\n* = Beter Leven keurmerk 2 sterren",
+  "allergens": "Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "315.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.19",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.45",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.22",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.96",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "6.46",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.91",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.67",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.256",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:48"
+}

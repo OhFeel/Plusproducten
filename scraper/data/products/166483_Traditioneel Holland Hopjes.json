@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Traditioneel Holland Hopjes",
+  "brand": "Traditioneel",
+  "price": "1.85",
+  "base_unit_price": "11.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/166483_M/4a9fcbd31c22041b8c084036a9812d8e/166483.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, plantaardige kokosolie, gecondenseerde magere MELK met suiker, aroma's, karamelsuikerstroop, boter (bevat MELK, LACTOSE), zout, koffie-extract, kleurstoffen (E150c, E150d)",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1670.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "395.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "95.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:21"
+}

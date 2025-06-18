@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade Koekjes Trouwe vriendjes",
+  "brand": "Verkade",
+  "price": "2.09",
+  "base_unit_price": "11.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/761756_M/f78c198f6e36f1e72e36d6969845dd5a/761756.png",
+  "ingredients": "Ingrediënten: TARWEbloem, suiker, plantaardig vet (palm), gedroogde glucosestroop, LACTOSE en MELKeiwitten, zout, emulgator (E472e), rijsmiddel (natriumcarbonaten), vanillearoma\n\nKan sporen bevatten van noten, andere glutenbevattende granen, soja en ei.\n",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1979.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "471.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "19.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.67",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:56"
+}

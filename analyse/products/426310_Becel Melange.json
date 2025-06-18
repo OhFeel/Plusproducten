@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Becel Melange",
+  "brand": "Becel",
+  "price": "2.99",
+  "base_unit_price": "13.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/426310_M/a88b0b95eeb87f7badfc1ce7cd52293a/426310.png",
+  "ingredients": "Ingrediënten: plantaardige oliën (raapzaad, zonnebloem in wisselende verhoudingen), water, kokosolie, BOTER 8.5%, KARNEMELK, zeezout 0.3%, emulgator (lecithine), natuurlijk aroma, natuurlijke kleurstof (caroteen), vitamines A, B1, D,",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2601.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "633.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.83",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Retinol equivalent",
+      "value": "800.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Omega 3 vetzuren",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Alfa-linoleenzuur",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:48:32"
+}

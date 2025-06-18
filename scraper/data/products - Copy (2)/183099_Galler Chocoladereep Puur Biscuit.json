@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Galler Chocoladereep Puur Biscuit",
+  "brand": "Galler",
+  "price": "2.19",
+  "base_unit_price": "33.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/183099_M/51c4ebc62f60b8fca9024f3d5c2fec03/183099.png",
+  "ingredients": "Ingrediënten - Chocolade (48%) : cacaopasta, suiker, magere cacaopoeder, emulgator : SOJAlecithine, natuurlijke vanille aroma. Cacao : 60% min. Vulling (52%) : suiker, HAZELNOTEN 22%, koekje 11% (TARWEbloem (gluten), suiker, geconcentreerde boter (MELK), magere MELKpoeder, GERSTEmout, zout), plantaardige vetten (shea boter, kokosolie, zonnebloemolie), cacaopasta, volle MELKpoeder, cacaoboter, inuline, weipoeder (MELK), dextrose, magere cacaopoeder, emulgator : SOJAlecithine, magereMELKpoeder, natuurlijke vanille aroma. \nKan bevatten : andere schaalvruchten, eieren en andere gluten bevattende granen.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Soja, Melk, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2244.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "536.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "43.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:11:39"
+}

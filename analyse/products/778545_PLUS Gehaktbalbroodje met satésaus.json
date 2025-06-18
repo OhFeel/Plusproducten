@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gehaktbalbroodje met satésaus",
+  "brand": "PLUS",
+  "price": "1.29",
+  "base_unit_price": "8.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/778545_M/44da3e554ca3f65c2d43f7226d1a33f9/778545.png",
+  "ingredients": "Ingrediënten :40% gehaktbal (26% varkensvlees, water, TARWEBLOEM, specerijen (gember, piment, cayenne, foelie, nootmuskaat, peper), zout, TARWEZETMEEL, TARWEGLUTEN, gehydrolyseerd TARWEEIWIT, verdikkingsmiddel: E412, emulgator: E451, gist, dextrose, ui, conserveermiddel: E200/E211, smaakversterker: E631/E621, SOJA-EIWIT, aroma, TARWEMOUTMEEL), TARWEBLOEM, margarine (plantaardige olie (palm, raapzaad), water, zout, emulgator: E471, voedingszuur: E330), satesaus (water, 3% PINDA, suiker, sojasaus (water, SOJABONEN, zout, TARWE, conserveermiddel: E202), azijn, gehydrolyseerd SOJA-EIWIT, weipoeder (MELK), raapzaadolie, gemodificeerd maïszetmeel, sambal (rode peper, zout, water, voedingszuur:E260, conserveermiddel: E210), specerijen (koriander, gember, piment, chilipepers, kruidnagel, uipoeder, knoflookpoeder, laos), zout, knoflook, voedingszuur: E270/E325/E330, conserveermiddel: E202/E222, antioxidant: E392, emulgator: E322 (SOJA)), aroma, natuurlijk aroma, verdikkingsmiddel: E412/E415, kleurstof: E150d), water, SCHARRELKIPPENEI, SCHARRELKIPPENEI-EIGEEL, gejodeerd zout\n\nKan sporen van NOTEN, SELDERIJ, MOSTERD, SESAM en LUPINE bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Aardnoten (pinda's), Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1384.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "10.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.34",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.15",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "19.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.65",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.661",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:22"
+}

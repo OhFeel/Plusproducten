@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kolios Vintage feta bio",
+  "brand": "Kolios",
+  "price": "3.19",
+  "base_unit_price": "21.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/295198_M/7976b42f7d44eb87fbe7396374b16c8f/295198.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde schapenMELK*, gepasteuriseerde geitenMELK* (0-30%), zout, zuursel, microbieel stremsel. *Van biologische oorsprong. Vochtgehalte: max. 56%.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1140.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "275.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:04"
+}

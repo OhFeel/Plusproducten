@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Melkunie Breaker vanille",
+  "brand": "Melkunie",
+  "price": "1.59",
+  "base_unit_price": "7.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/367573_M/173fbfbe8d8af51552de1cd6c7362ad3/367573.png",
+  "ingredients": "Ingredienten: YOGHURT (3,6% vet), suiker, water, gemodificeerd maïszetmeel, vanille-extract, aroma, zuurteregelaar: citroenzuur, lactase.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "376.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "89.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:25:26"
+}

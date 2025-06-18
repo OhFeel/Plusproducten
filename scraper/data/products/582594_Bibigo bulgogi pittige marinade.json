@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bibigo bulgogi pittige marinade",
+  "brand": "Bibigo",
+  "price": "1.25",
+  "base_unit_price": "15.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/582594_M/f7177918b58135f4d1bc8a29f8b2479b/582594.png",
+  "ingredients": "Ingrediënten: Chilipasta 23% (maïsstroop, TARWEmeel, water, pittige chilikruiden, ontvet SOJAbonenpoeder, zout, TARWE, rijstmeel, alcohol, smaakversterker: E621, mout (TARWE)), water, fructose-glucosestroop, suiker, perenconcentraat (geconcentreerd perensap, water, zuurteregelaar: E330), SOJAsaus (water, ontvette SOJAboon, TARWE, zout), knoflook 4,0%, zout, chilipoeder 1,6%, ui 1,0%, aroma, gember, zwarte peperpoeder, zuurteregelaar: E330, kleurstof: E160c, emulgator: E472e, antioxidant: E306), conserveermiddel: E202, verdikkingsmiddel: E415.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "840.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "201.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:50:25"
+}

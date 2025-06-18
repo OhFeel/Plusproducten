@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Dextrose ijsjes",
+  "brand": "Look o Look",
+  "price": "2.19",
+  "base_unit_price": "30.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/794200_M/a4c789fbab3dd61b0275b4c77a51f614/794200.png",
+  "ingredients": "Ingrediënten: dextrose, suiker, voedingszuur (citroenzuur), glucosestroop, maltodextrine, antiklontermiddelen (mono- en diglyceriden van vetzuren, magnesiumzouten van vetzuren), aroma, concentraat (rode biet). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1628.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "383.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "94.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "93.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:30"
+}

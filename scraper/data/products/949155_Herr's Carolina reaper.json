@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Herr's Carolina reaper",
+  "brand": "Herr's",
+  "price": "1.05",
+  "base_unit_price": "37.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949155_M/17fe701f02f39347bf87f2cb8cbeeb8b/949155.png",
+  "ingredients": "Ingrediënten: maïsmeel, plantaardige olie (maïs-, katoenzaad-, palm-, zonnebloemolie), kaasmelange (maltodextrine, wei (MELK), zonnebloemolie, cheddar kaas (MELK, MELKbestanddelen, zout, enzymen), zout, voedingszuur: E339; zuurteregelaar: E330; boter (MELK, zout), conserveermiddel: E270; kleurstof: E160c, natuurlijke aroma's, enzymen), kruiden (maismaltodextrine, zout, specerijen, knoflookpoeder, uipoeder; suiker, paprika, gum acacia, maïssiroop bestanddelen, aroma's, voedingszuur: E330, carolina reaper chilipoeder, rooksmaak), zout.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2239.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:07"
+}

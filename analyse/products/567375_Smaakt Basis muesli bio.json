@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Basis muesli bio",
+  "brand": "Smaakt",
+  "price": "2.79",
+  "base_unit_price": "5.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/567375_M/b90017e6e6312250e6616edc8b1f7434/567375.png",
+  "ingredients": "Ingrediënten: TARWEvlokken* 40%, HAVERvlokken* 40%, rozijnen* (rozijnen*, zonnebloemolie*), geroosterde kokoschips* 10%. *=biologisch. Kan sporen bevatten van andere glutenbevattende granen, pinda's, melk, noten, sesamzaad.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1542.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "367.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:26"
+}

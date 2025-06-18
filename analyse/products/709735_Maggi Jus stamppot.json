@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Jus stamppot",
+  "brand": "Maggi",
+  "price": "2.65",
+  "base_unit_price": "21.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709735_M/b33f0692e7a8ae25680bf2554dbbd820/709735.png",
+  "ingredients": "Ingrediënten: aardappelzetmeel, TARWEbloem, palmolie, zout, gistextract, uien 5,9% smaakversterker (E621), gekarameliseerde suiker, aroma's (bevat MELK), rode paprika, natuurlijk kruidnagel aroma. Bevat mogelijk SELDERIJ, EIEREN, MOSTERD, SOJA.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1762.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "420.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "13.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:22"
+}

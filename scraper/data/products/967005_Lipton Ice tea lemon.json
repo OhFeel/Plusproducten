@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lipton Ice tea lemon",
+  "brand": "Lipton",
+  "price": "3.69",
+  "base_unit_price": "2.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/967005_M/f321a1137a12e81636683b2d42982852/967005.png",
+  "ingredients": "water, suiker, fructose, voedingszuur (citroenzuur), thee-extract(1) (0,12%), citroensap uit geconcentreerd sap (0,1%), aroma's, zuurteregelaar (trinatriumcitraat), antioxidant (ascorbinezuur), zoetmiddel (steviolglycosiden).  (1) rainforest alliance certified. more information on ra.org.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "81.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "19.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:39"
+}

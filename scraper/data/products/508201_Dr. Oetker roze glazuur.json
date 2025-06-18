@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker roze glazuur",
+  "brand": "Dr. Oetker",
+  "price": "1.79",
+  "base_unit_price": "14.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/508201_M/7d7f27a623ebd42fe76b7db127050f96/508201.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, water, conserveermiddel (kaliumsorbaat), emulgator (suikerester uit vetzuren uit levensmiddelen), aroma, kleurstof (E 120).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1461.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "344.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "76.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:22:17"
+}

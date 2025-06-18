@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Lasagne bolognese",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "4.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/845304_M/876a3e53d7b1c6a8997bb3436b58a548/845304.png",
+  "ingredients": "Ingrediënten :water, 15% varkensvlees*, tomaat, griesmeel van harde TARWE, tomatenconcentraat, 4% kaas (kaas (MELK, zout, zuursel, microbieel stremsel), kaas (MELK**, zout, zuursel, microbieel stremsel)), koolzaadolie, magere MELKPOEDER**, gemodificeerd zetmeel, TARWEBLOEM, ui, erwtenvezel, zout, SCHARRELKIPPENEI, kruiden, zeezout, runderbouillon (zout, suiker, aroma's, aardappelzetmeel, specerijen, rundvlees), aardappelzetmeel, specerijen, aroma. \n*= Beter Leven keurmerk 1 ster \n**= Beter Leven keurmerk 3 sterren\n\nKan SELDERIJ bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "593.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "142.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.34",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:41"
+}

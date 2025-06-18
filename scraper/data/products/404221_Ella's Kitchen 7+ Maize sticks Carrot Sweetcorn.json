@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Ella's Kitchen 7+ Maize sticks Carrot Sweetcorn",
+  "brand": "Ella's Kitchen",
+  "price": "1.99",
+  "base_unit_price": "124.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/404221_M/d2f3717e9d79a36cb91803ce118b97d5/404221.png",
+  "ingredients": "Ingrediënten: 73% maismeel*, 13% zonnebloemolie*, 9% gedroogde mais*, 4% gedroogde wortelen*, 1% rijstmeel, <lt/>1% gedroogde prei*, <lt/>0,1% thiamine (vitamine B1). * = biologisch. Ik kan GLUTEN, SOJA, en MELK bevatten.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1925.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "457.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:37"
+}

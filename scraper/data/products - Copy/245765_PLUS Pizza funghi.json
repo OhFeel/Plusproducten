@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "PLUS Pizza funghi",
+  "brand": "PLUS",
+  "price": "2.85",
+  "base_unit_price": "7.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/245765_M/a2a10b1c64c21cdf6f244fd28921d5a0/245765.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, tomatenpuree, 16% champignons, 9% Edammer (MELK), water, 6% mozzarella (MELK), raapzaadolie, suiker, zout, gist, specerijen (paprikapoeder, witte peper, lavas, uienpoeder, fenegriek), zetmeel (aardappel, TARWE), kruiden (peterselie, oregano, basilicum), TARWE-EIWIT, dextrose, knoflook, maltodextrine, champignonextract, pastinaak.\n\nDit product kan sporen van SELDERIJ bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "852.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "203.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "19.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.825",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.33",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:40:27"
+}

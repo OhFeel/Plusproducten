@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Chivers Marmelade fruity orange",
+  "brand": "Chivers",
+  "price": "2.49",
+  "base_unit_price": "7.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/462427_M/99470564952547277189403da9d29a99/462427.png",
+  "ingredients": "glucose-fructosestroop, sinaasappels, suiker, geleermiddel (pectine), voedingszuur (citroenzuur), zuurteregelaar (natriumcitraten). bereid met 55g fruit per 100g. totaal suikergehalte: 66g per 100g.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1116.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "263.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:03:25"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Choco's crispy Fairtrade",
+  "brand": "PLUS",
+  "price": "2.59",
+  "base_unit_price": "12.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/234823_M/8d02a81cd56754592a316e212453deee/234823.png",
+  "ingredients": "Ingrediënten :suiker, 17% geëxtrudeerde rijst (rijstbloem, suiker, TARWEMOUTMEEL, TARWEGLUTEN, zonnebloemolie, zout), cacaomassa, volle MELKPOEDER, cacaoboter, PINDA, gemodificeerd aardappelzetmeel, glucosestroop, emulgator: SOJALECITHINE, natuurlijk aroma, glansmiddel: schellak/carnaubawas, rijstzetmeel, kleurstof: E163/E162/E160a/E100, spirulinaconcentraat.\n\nMelkchocolade: ten minste 25% cacaobestanddelen\n\nKan GERST, AMANDEL en HAZELNOOT bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1969.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "469.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.233",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.408",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.568",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.028",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.628",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.513",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "12.754",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.782",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.83",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.391",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.156",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.229",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "53.501",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:32:17"
+}

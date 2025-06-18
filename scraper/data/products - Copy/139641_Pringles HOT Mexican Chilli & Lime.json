@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Pringles HOT Mexican Chilli & Lime",
+  "brand": "Pringles",
+  "price": "2.49",
+  "base_unit_price": "15.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/139641_M/5234068aed029f6ed051ea398301f397/139641.png",
+  "ingredients": "INGREDIËNTEN: Gedehydrateerde aardappelen, zonnebloemolie, TARWEMEEL, maïsmeel, rijstbloem, kruiderij met smaak van chili en limoen (weipermeaatpoeder {MELK}, specerijen {gerookte paprika, knoflook, ui, komijn, paprika, zwarte peper, cayennepeper}, suiker, zout, maltodextrine, kaliumchloride, aroma's, zuurteregelaars {citroenzuur, natriumdiacetaat, melkzuur}, karnemelkpoeder {MELK}, tomatenpoeder, koolzaadolie, kleurstof {paprika-extract}, gerookte maltodextrine, gerookt zout), maltodextrine, emulgator (E471), kleurstof (annatto norbixine).Bevat mogelijk soja",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2182.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "523.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:54:01"
+}

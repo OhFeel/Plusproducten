@@ -1,0 +1,223 @@
+{
+  "sku": "",
+  "name": "WeCare 12-uurtje maaltijdreep Choco crisp",
+  "brand": "WeCare",
+  "price": "3.19",
+  "base_unit_price": "27.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/564020_M/40e565568c40f9a0e8bb1d74c4b7fc73/564020.png",
+  "ingredients": "Ingrediënten: Melkchocoladecoating 17,2% (suiker, cacaoboter¹, magere MELKpoeder, WEIpoeder, cacaomassa¹, MELKvet, emulgator: lecithinen (SOJA), natuurlijk vanillearoma), glucosestroop, fructo-oligosaccharidenstroop, SOJAeiwitten (emulgator: lecithinen (SOJA)), TARWEgluten, stabilisator: sorbitolen, fructosestroop, inuline (cichoreiwortelvezels), zonnebloemolie, granenbolletjes 3,9% (rijstmeel, TARWEbloem, ruwe rietsuiker, TARWEmout, TARWEgluten, zout), mineralen (kalium, natrium, calcium, magnesium, zink, mangaan, ijzer, koper, selenium, jood, fosfor), krokante soja-eiwitten 2,7% (SOJA-eiwitisolaat, tapiocazetmeel, zout), gelatine, magere cacaopoeder¹, MELKeiwitten, emulgator: lecithinen, zeezout, aroma (chocoladesmaak), vitaminen (C, E, niacine, A, pantotheenzuur, D, B12, B1, B2, B6, K, foliumzuur, biotine), natuurlijk aroma, ¹Rainforest Alliance gecertificeerd. Lees meer op ra.org.\n\nKAN SPOREN VAN EIEREN, NOTEN, SESAMZAAD EN MOSTERD BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1534.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "366.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.78",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "491.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "46.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "449.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "11.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "3.8",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "10.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine K",
+      "value": "39.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.73",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.87",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "9.6",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "177.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "1.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "50.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "3.1",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "875.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "510.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "6.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koper",
+      "value": "0.86",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Mangaan",
+      "value": "1.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Seleen",
+      "value": "44.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "136.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "206.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Linolzuur",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:41:52"
+}

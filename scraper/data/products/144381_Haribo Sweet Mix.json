@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Sweet Mix",
+  "brand": "Haribo",
+  "price": "2.19",
+  "base_unit_price": "8.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/144381_M/5fad16ea7eab1b7a85095eef23549ba8/144381.png",
+  "ingredients": "Ingrediënten: Glucosestroop; suiker; water; uit sapconcentraat verkregen vruchtensap (7,5%): citroen, aardbei, kers, appel, ananas; bevochtigingsmiddel: sorbitolstroop; gelatine; dextrose; voedingszuur: citroenzuur; geleermiddel: geamideerde pectine; zuurteregelaar: trinatriumcitraat; aroma; vruchten- en plantenconcentraten: spirulina, saffloer, appel, zwarte bes, vlierbes, aronia, druif, sinaasappel, citroen, mango, passievrucht; rode radijs extract; vlierbesextract; kleurstof: curcumine. Kan sporen bevatten van MELK/TARWE.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1403.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "330.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:55:20"
+}

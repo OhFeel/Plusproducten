@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Luxe kaastwister",
+  "brand": "PLUS",
+  "price": "0.99",
+  "base_unit_price": "11.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/149520_M/70762b21094c4368ea352a48a10e2244/149520.png",
+  "ingredients": "TARWEBLOEM, water, BOTER (MELK), KAAS (12%) [MELK, aardappelzetmeel, zout, zuursel, stremsel (dierlijk), conserveermiddel (E251), kleurstof (E160b (ii), E160a)], gist, dextrose, MOSTERD (<lt/>1%) [water, kruiden en specerijen (MOSTERDZAAD, kurkuma), natuurazijn, zout, natuurlijk aroma], bakkerszout, TARWEZETMEEL, aardappelzetmeel (gemodificeerd), plantaardige oliën (palmolie, koolzaad), zout, MELKPOEDER (magere), EIPOEDER, KAASPOEDER (MELK), maltodextrine, aardappelzetmeel, glucosestroop (gedroogd), natuurlijk aroma (MELK), emulgator (E482), kruiden en specerijen, MELKEIWIT, SOJAEIWIT (gehydrolyseerd), TARWEVEZEL, aardappelvezel, TARWE-eiwit, citroensap (concentraat), meelverbeteraar (E300), enzymen (TARWE), natuurlijk aroma, ui (gedroogd).",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1331.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "318.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.84",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.14",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.92",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.01",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.89",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:56:33"
+}

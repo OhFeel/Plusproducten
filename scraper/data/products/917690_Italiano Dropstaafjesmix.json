@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Italiano Dropstaafjesmix",
+  "brand": "Italiano",
+  "price": "2.29",
+  "base_unit_price": "13.47",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/917690_M/fe673c0e66b1b6dd65b767d595a4c62e/917690.png",
+  "ingredients": "Ingrediënten: suiker, TARWEBLOEM, melasse, glucosestroop, plantaardig vet (shea, kokos), stabilisator (E422), salmiakzout, gelatine, zoethoutwortelextract, zout, magere cacaopoeder, aroma's, kleurstoffen (E120, E150c, E153), plantaardige olie (koolzaad, zonnebloem), glansmiddelen (E901, E903).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1498.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "353.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.54",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:10"
+}

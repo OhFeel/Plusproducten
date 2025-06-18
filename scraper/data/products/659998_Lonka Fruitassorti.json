@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lonka Fruitassorti",
+  "brand": "Lonka",
+  "price": "2.29",
+  "base_unit_price": "11.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/659998_M/9e6981c276e1c797bde36ea5d2e8f754/659998.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, water, geleermiddel (pectine), concentraat van (appel, aardbei, zure kers), HAVERVEZEL, voedingszuur (citroenzuur), natuurlijke aroma's, kleurstoffen (E120, E141, E100, E163).",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1379.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "325.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:15:13"
+}

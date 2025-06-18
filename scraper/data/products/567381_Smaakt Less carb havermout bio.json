@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Less carb havermout bio",
+  "brand": "Smaakt",
+  "price": "3.69",
+  "base_unit_price": "7.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/567381_M/a475cfb96c9c3355178a7fef8f30593b/567381.png",
+  "ingredients": "Ingrediënten: Volkoren HAVERvlokken fijn* 50%, SOJAvlokken*, chiazaad zwart* (Salvia hispanica), lijnzaad gebroken*, *=biologisch\nKan sporen bevatten van andere glutenbevattende granen, pinda's (aardnoten), noten, sesamzaad.",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1641.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "393.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:30"
+}

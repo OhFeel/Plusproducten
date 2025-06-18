@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Roomkaas met mangochutney",
+  "brand": "PLUS",
+  "price": "2.79",
+  "base_unit_price": "22.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/568971_M/313e60da998c87e2a00da37a47d40584/568971.png",
+  "ingredients": "Ingrediënten :80% roomkaasbereiding (64% roomkaas (magere MELK, room (MELK), microbieel stremsel, melkzuurcultuur), kookroom (water, palmolie, KARNEMELKPOEDER, gemodificeerd maïszetmeel, stabilisator: E415/E466, emulgator: E435, kleurstof: E160a), raapzaadolie, water, witte wijnazijn, tapiocazetmeel, conserveermiddel: E261/E202, voedingszuur: E330, zout), 20% mangochutney (42% mangopuree, suiker, water, gember, witte wijnazijn, paprikastukjes, verdikkingsmiddel: E1422, sjalot, citroengras, jalapeñopeper, knoflookstukjes, zout, conserveermiddel: E202, kerriepoeder (koriander, kurkuma, MOSTERD, chilipeper, komijn, fenegriek, zwarte peper, knoflook, venkel, zout), kaneel).",
+  "allergens": "Melk, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1265.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "306.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:44:22"
+}

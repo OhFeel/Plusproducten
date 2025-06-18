@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Kaas pepsels",
+  "brand": "Bolletje",
+  "price": "1.39",
+  "base_unit_price": "12.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/580968_M/ecd05b7f64e94de614f1d4e70c8063af/580968.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, raapolie, 10% gedroogde geraspte KAAS (KAAS, kleurstoffen (annatto norbixine, caroteen)), zout, natuurlijk aroma (bevat MELK), emulgator (SOJALECITHINE), gistextract (bevat GERST), zuurteregelaar (E524), peper, ui-extract. Kan pinda's bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1874.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "446.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:48:57"
+}

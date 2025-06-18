@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Zundert 10",
+  "brand": "Zundert",
+  "price": "2.79",
+  "base_unit_price": "8.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/128285_M/34162f33f713049dfa75314a889daa39/128285.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, suiker, hop, kruiden, gist",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "10",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:50:22"
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Vietnamese loempia's kip BLK 12ST",
+  "brand": "PLUS",
+  "price": "3.3",
+  "base_unit_price": "5.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/139824_M/b784b54e905c7793c5638d37d49c009c/139824.png",
+  "ingredients": "Ingrediënten: 53% Groenten (72% witte kool, 18% wortel, 10% ui). TARWEBLOEM, water, 3,5% gekookt kippenvlees (99% kippenvlees*, zout), gedroogde aardappel, aardappelgranulaat, gemodificeerd maïszetmeel, zout, suiker, glasnoedels (mungbonenzetmeel, water), knoflookpoeder, specerijen. * = Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "554.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:54:10"
+}

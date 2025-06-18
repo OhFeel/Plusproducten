@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket Mexicaanse wraps",
+  "brand": "PLUS",
+  "price": "5.89",
+  "base_unit_price": "5.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/573045_M/02e5f0436c364838f8bc1d19008c37cf/573045.png",
+  "ingredients": "Ingrediënten: 26% tortilla (TARWEBLOEM, water, palmolie, stabilisatoren (E422, E412, E466), zout, rijsmiddelen (E500, E450), conserveermiddelen (E281, E202), dextrose, emulgator (E471), rijstmeel, zuurteregelaar (E296)), maïs (maïs, water), rode paprika, groene paprika, rode ui, Fajitasaus (geconcentreerde tomatenpuree, water, zout, tomaatpoeder, natuurazijn, specerijen (knoflookpoeder, korianderzaad, chilipeper, zwarte peper, komijn), suiker, koolzaadolie, champignonpoeder (maltodextrine, champignonconcentraat), kruiden (oregano, peterselie), conserveermiddel (E202)), knoflook.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "526.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "125.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.38",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:25"
+}

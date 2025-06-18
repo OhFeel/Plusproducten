@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Blue Band Voor Koken",
+  "brand": "Blue Band",
+  "price": "1.39",
+  "base_unit_price": "5.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/920288_M/39a7d18a13f45b4d34bd23ca45d6833b/920288.png",
+  "ingredients": "Ingrediënten: water, BOTERMELK 24%, plantaardige oliën 15% (koolzaad, palm), gemodificeerd tapioca zetmeel, emulgator (e471), stabilisator (methylcellulose, guargom), zuurteregelaar (natriumcitraat), voedingszuur (citroenzuur), aroma, kleurstof (caroteen). Blue band zet zich in voor duurzame palm olie.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "660.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "160.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:57"
+}

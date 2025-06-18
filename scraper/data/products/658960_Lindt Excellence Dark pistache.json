@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Excellence Dark pistache",
+  "brand": "Lindt",
+  "price": "4.29",
+  "base_unit_price": "42.90",
+  "image_url": "",
+  "ingredients": "Ingredienten: suiker, cacaomassa, gekarameliseerde pistachenoten 10% (pistachenoten, suiker, zout), cacaoboter, geconcentreerde zuivelboter, emulgator (sojalecithine), natuurlijk aroma, fleur de sel 0,15%. Kan hazelnoten, amandelen, andere noten en sesamzaad bevatten..",
+  "allergens": "Soja, Melk, Noten, pistachenoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2235.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:51"
+}

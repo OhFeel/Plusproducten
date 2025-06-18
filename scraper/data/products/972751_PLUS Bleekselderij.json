@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Bleekselderij",
+  "brand": "PLUS",
+  "price": "1.45",
+  "base_unit_price": "1.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/972751_M/af0458840e2c700d5130620dea5211b1/972751.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:34"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert zonder suikers Framboise cookies",
+  "brand": "Damhert",
+  "price": "3.39",
+  "base_unit_price": "37.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/751923_M/a494bf39f62305f45f68916f8d10b2fa/751923.png",
+  "ingredients": "TARWEbloem, zoetstof (maltitolen), palmolie, TARWEzetmeel, HAVERzemelen, natuurlijk frambozenaroma, rijsmiddelen (natriumcarbonaten, ammoniumcarbonaten), zeezout. Kan sporen bevatten van EI, MILCH, SOJA, SESAM en NOTEN.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1857.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "443.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:36:55"
+}

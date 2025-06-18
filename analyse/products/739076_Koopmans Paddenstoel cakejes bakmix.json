@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Koopmans Paddenstoel cakejes bakmix",
+  "brand": "Koopmans",
+  "price": "4.29",
+  "base_unit_price": "19.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/739076_M/020208738f44c659387a464b8b830c00/739076.png",
+  "ingredients": "Ingrediënten: cakemix (TARWEBLOEM, suiker, TARWEZETMEEL, rijsmiddelen (E 450, E 500), natuurlijk aroma), glazuurmix (suiker, gemodificeerd aardappelzetmeel, maltodextrine, kleurend levensmiddel (rode bietensapconcentraat), kleurstoffen (carotenen, riboflavine), natuurlijk aroma, zuurteregelaar (citroenzuur), zout), confetti (suiker, palmvet, aardappelzetmeel, rijstebloem, maïszetmeel, aroma). Kan bevatten: EI, MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1602.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "382.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:51"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Bonbebe 4 Standaard dreumesmelk 12 maanden",
+  "brand": "Bonbebe",
+  "price": "8.99",
+  "base_unit_price": "11.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/286422_M/e7d84b79da4af6a5176d1c533a5a5943/286422.png",
+  "ingredients": "Ingrediënten :Magere MELK, gedemineraliseerde wei (MELK), oliën (plantaardige oliën (palm, palmpit, raapzaad, zonnebloem), VISOLIE (DHA), Mortierella alpina olie (AA)), maltodextrine, lactose (MELK), vezels (galacto-oligosacharide (MELK), fructo-oligosacharide), mineralen (calciumzouten van orthofosforzuur, kaliumcitraat, calciumcarbonaat, natriumchloride, magnesiumzouten van citroenzuur, kaliumchloride, magnesiumchloride, natriumcitraat, calciumhydroxide, ijzer(II)sulfaat, zinksulfaat, koper(II)sulfaat, mangaansulfaat, kaliumjodide, natriumseleniet), vitamines (L-ascorbinezuur, natrium L-ascorbaat, DL-alfa-tocoferylacetaat, nicotinamide, calcium D-pantothenaat, retinylacetaat, riboflavine, thiamine hydrochloride, cholecalciferol, pyridoxinehydrochloride, foliumzuur, D-biotine, fytomenadion, cyanocobalamine), cholinechloride, taurine, inositol, L-carnitine, antioxidant: L-Ascorbylpalmitaat/Delta-tocoferol (SOJA), betacaroteen, emulgator: mono-diglycerides van vetzuren/SOJALECITHINE.",
+  "allergens": "Vis, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "284.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "68.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.052",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.021",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "Samenstelling:# Gemiddelde voedingswaarde per 100 ml bereide voeding# Energie;284;kJ/68;kcal# Vetten;2,7;g# verzadigd vet;1,1;g# enkelvoudig onverzadigd vet;1,1;g# meervoudig onverzadigd vet;0,5;g# -linolzuur;371;mg# -α-linoleenzuur (ALA);41;mg# -arachidonzuur (AA);1;mg# -docosahexaeenzuur (DHA);12;mg# Koolhydraten;8,9;g# suikers;6,6;g# -lactose;6,2;g# -glucose;0,3;g# polysachariden;2,3;g# Vezels;0,6;g# Eiwitten;1,5;g# Vitamines# vitamine A;65µg# vitamine D;1,7;µg# vitamine B1 (thiamine);59;µg# vitamine B2 (riboflavine);150µg# vitamine B3 (niacine);0,58;mg# pantotheenzuur;0,35;mg# vitamine B6;65;µg# biotine;2,3;µg# foliumzuur;12;µg# vitamine B12;0,19;µg# vitamine C;13;mg# vitamine E;1,2;mg# vitamine K;5,8;µg# Mineralen# natrium;21;mg# kalium;71;mg# chloride;48;mg# calcium;55;mg# fosfor;36;mg# magnesium;5,4;mg# ijzer;1,2;mg# zink;0,93;mg# koper;48;µg# jood;14;µg# seleen;1,6;µg# mangaan;6,1;µg# Overig# choline;15;mg# inositol;4,6;mg# l-carnitine;1,5;mg# taurine;4,3;mg# Percentage van de dagelijkse referentie-inname (per 100 ml bereide voeding) voor jonge kinderen:# Vitamine A:;16%# Vitamine C:;29%# Vitamine D:;24%# IJzer:;15%",
+  "extracted_at": "2025-04-25 13:56:01"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Cup-a-Soup Tomaat",
+  "brand": "Unox",
+  "price": "5.15",
+  "base_unit_price": "28.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/406085_M/56a7f4b309f9137b46ded2b5add289c0/406085.png",
+  "ingredients": "Ingrediënten: Tomaat¹ 38%, aardappelzetmeel, croutons 11% (witbrood (TARWEBLOEM, zout, gist, raapzaadolie), palmolie, antioxidant: rozemarijnextract), suiker, deegwaar 8% (harde TARWEGRIES, zout), gistextract, gejodeerd zout, dextrose, zout, uipoeder¹, maïsolie, mineraalzout (kalium), glucosestroop, specerijen (knoflookpoeder¹, peper), peterselie¹ 0,5%, geconcentreerd groentensap¹ (KNOLSELDERIJ, wortel, prei, ui). Kan ei, melk, mosterd, soja bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "145.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "33.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:41:10"
+}

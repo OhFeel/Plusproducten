@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Ter Dolen Blond",
+  "brand": "Ter Dolen",
+  "price": "2.49",
+  "base_unit_price": "7.55",
+  "image_url": "",
+  "ingredients": "Ingrediënten: water, GERSTEmout (gluten), maïs, hop, gist",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "218.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.1",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:01"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Marne Honing mosterdsaus",
+  "brand": "Marne",
+  "price": "2.29",
+  "base_unit_price": "6.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/154632_M/80a6be577a47e3fa9d9da4f59ff79473/154632.png",
+  "ingredients": "Ingrediënten: water, raapolie, 11%\nMOSTERD, (water, MOSTERDZAAD,\nnatuurazijn, specerijen), glucose-fructosestroop,\n5% Dijon MOSTERD (water,\nMOSTERDZAAD, natuurazijn, zout), 4,5%\nhoning, natuurazijn, SCHARRELEI en\nSCHARRELEIGEEL, zout, maiszetmeel,\nTARWEZETMEEL, gemodificeerd\nmaiszetmeel, aroma (bevat SOJA, MELK),\nverdikkingsmiddel (guarpitmeel), voedingszuur\n(melkzuur), conserveermiddel (E202),\nspecerijen, antioxidant (E385), kleurstof\n(beta-caroteen).",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1305.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "315.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:58:43"
+}

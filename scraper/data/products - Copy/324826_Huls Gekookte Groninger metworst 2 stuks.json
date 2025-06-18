@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Gekookte Groninger metworst 2 stuks",
+  "brand": "Huls",
+  "price": "5.99",
+  "base_unit_price": "27.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/324826_M/5899ae4522b10593ed0e11c32b93e649/324826.png",
+  "ingredients": "varkensvlees, varkensspek, zout, aardappelzetmeel, kruidnagel, specerijen, dextrose, antioxidant: natriumascorbaat, kleurstof: karmijn, specerij-extract, fermenten, conserveermiddel: e250, worstomhulsel: varkensdarm. voor 100 gram droge worst is 140 gram varkensvlees gebruikt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2084.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "504.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "46.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.51",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:12:12"
+}

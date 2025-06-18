@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Runderrookvlees",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "29.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/505869_M/d82c8a378e1a9247c63c31cd89db0205/505869.png",
+  "ingredients": "96% rundvlees, zout,  dextrose, maltodextrine, conserveermiddel: E250, suiker, antioxidant: E301,  specerijenextracten (jeneverbes, knoflook), gember, stabilisator: E450, culturen, rook.  100 gram runderrookvlees is afkomstig van 103 gram rundvlees.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "526.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "125.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:21:39"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Muffins red velvet",
+  "brand": "PLUS",
+  "price": "2.69",
+  "base_unit_price": "9.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902397_M/b50d17fb686df61cb16bad0fbda6b701/902397.png",
+  "ingredients": "Ingrediënten :suiker, TARWEBLOEM, plantaardige oliën (raapzaad, palm), SCHARRELKIPPENEI, 10% vulling met kwarksmaak (suiker, water, plantaardige oliën (raapzaad, kokos, palm), stabilisator: E422, magere MELKPOEDER, magere kwarkpoeder (MELK), glucosestroop, gemodificeerd aardappelzetmeel, voedingszuur: citroenzuur, MELKEIWIT, natuurlijk aroma, conserveermiddel: E282/E202, TARWEBLOEM), stabilisator: E422, water, 2% framboos, TARWEZETMEEL, gemodificeerd aardappelzetmeel, weipoeder (MELK), rijsmiddel: E450/E500, TARWEGLUTEN, glucose-fructosestroop, emulgator: E471/E481, conserveermiddel: E282/E202, gemodificeerd maïszetmeel, rijstzetmeel, kleurstof: E172/E163, zout, magere cacaopoeder, verdikkingsmiddel: E466/E415/E460/E412, aroma, geleermiddel: E440, voedingszuur: E330, natuurlijk aroma.\n\nKan SOJA en NOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1712.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "409.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.284",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "26.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:14"
+}

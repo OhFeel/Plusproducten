@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Gebakken Kibbeling",
+  "brand": "PLUS",
+  "price": "4.04",
+  "base_unit_price": "16.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/582999_M/76a38f4eb74fb2530d9b19c01c13931f/582999.png",
+  "ingredients": "98,4% Kibbeling (83,6% ALASKA KOOLVIS* (VIS), raapzaadolie, maïsmeel, water, TARWEMEEL, aardappelzetmeel, rijstmeel, dextrine, kruiden en specerijen (paprika, peper, kurkuma, chilipeper), natuurlijk aroma, zout, gist, uienpoeder, conserveermiddel: natriumacetaten, zuurteregelaar: natriumcarbonaten, stabilisator: hydroxypropylmethylcellulose), 1,6% specerijenmix (zout, TARWEBLOEM, natuurlijke aroma's (bevat SELDERIJ), specerijen (paprika, chilipeper, peper). *Theragra chalcogramma, vangstgebied Noordwest Stille Oceaan (FAO 61) en Noordoost Stille Oceaan (FAO 67), vangstmethode: trawlnetten.",
+  "allergens": "Glutenbevattende granen, Vis, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "695.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "166.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.41",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:50:38"
+}

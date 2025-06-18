@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Hongaarse goulash",
+  "brand": "Unox",
+  "price": "4.89",
+  "base_unit_price": "11.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/383461_M/27a355b1f8e6585e5511e93db0f8b7ad/383461.png",
+  "ingredients": "Ingrediënten: Water, rundvlees 27%, paprika 14% (rood, groen), TARWEBLOEM, gedroogde ui 2,2%, raapzaadolie, gemodificeerd maïszetmeel, tomatenpuree, specerijen (paprikapoeder, koriander, witte peper), suiker, aroma, zout, natuurlijk aroma, knoflook, uipoeder, laurier, maltodextrine, smaakversterker: E621.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "415.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "99.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:33:38"
+}

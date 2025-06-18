@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Salata Croutonmix Italiaans",
+  "brand": "Remia",
+  "price": "3.29",
+  "base_unit_price": "34.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/387579_M/2e14adafbfc708f76d87a13468b1d1bf/387579.png",
+  "ingredients": "Ingrediënten: Croutons 60% (TARWEBLOEM, zonnebloem olie, zout, gist), gedroogde tomaat 17%, zonnebloempitten 10%, pompoenpitten 7%, pijnboompitten 6%.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2053.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "490.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:04"
+}

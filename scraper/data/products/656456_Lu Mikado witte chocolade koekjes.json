@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu Mikado witte chocolade koekjes",
+  "brand": "Lu",
+  "price": "2.05",
+  "base_unit_price": "29.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/656456_M/04f671532295a6eedb74155a984de8f1/656456.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, suiker, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), plantaardige vetten (palm, kokos), MELKVET, lactose (van MELK), zout, emulgatoren (SOJALECITHINE, E476), rijsmiddel (E503), gist, aroma.KAN NOTEN BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2035.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "485.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:16"
+}

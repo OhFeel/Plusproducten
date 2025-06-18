@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nongshim Instant noedles shin ramyun zwart",
+  "brand": "Nongshim",
+  "price": "2.1",
+  "base_unit_price": "16.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681960_M/873a8d8b25206b3fac4b72dcd20ded91/681960.png",
+  "ingredients": "Ingrediënten: Noedels 80%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, smaakmaker (maltodextrine, zout, ui, knoflook), antioxidant: E306, emulgator: E322 (bevat SOJA), kleurstof: E101. Kruidenpoeder, mild 8,5%: Smaakmaker (maltodextrine, gehydrolyseerd plantaardig eiwit (SOJA), palmolie, zout, ui, gistextract, tapioca zetmeel, SESAMZAAD, TARWEBLOEM, GARNAAL), specerijen (maltodextrine, rode chilipeper, zwarte peper), suiker, smaakversterkers: E627, E631, shiitake, koolzaadolie. Kruidenpoeder 8,5%: Smaakmaker (Maltodextrine, zout, gistextract, rijstmeel, erwtenproteïne, palmolie, gehydrolyseerd plantaardig eiwit (SOJA), maïszetmeel, ui), specerijen(maltodextrine, knoflook, zout, rode chilipeper), zout, smaakversterker: E621, maltose, koolzaadolie. Mix van gedroogde ingrediënten 3%: Paksoi, getextureerde eiwitten (VIS, SOJABONEN, TARWEGLUTEN), shiitake, rode chilipeper. Kan gerst, eieren, pinda’s, melk, selderij, mosterd en weekdieren bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Vis, Soja, Sesamzaad, Zeegarnaal en producten op basis van zeegarnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1799.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "427.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:02"
+}

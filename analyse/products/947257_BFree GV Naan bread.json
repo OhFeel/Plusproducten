@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BFree GV Naan bread",
+  "brand": "BFree",
+  "price": "4.99",
+  "base_unit_price": "20.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947257_M/0574d58fa09126400e7c2abcef0c6e77/947257.png",
+  "ingredients": "Ingrediënten: Water, rijstmeel, tapiocazetmeel, maïszetmeel, aardappelzetmeel, koolzaadolie, bevochtigingsmiddel (glycerine), bamboevezel, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), psylliumdoppen, suiker, erwteneiwit, gist, rijsmiddel (glucono-delta-lacton), kikkererwtenmeel, appelsapconcentraten, zout, kalonjizaad, wortelvezel, gefermenteerde maïs, zuren (appelzuur, citroenzuur, wijnsteenzuur), natuurlijke aroma's\nKAN MOSTERD EN SESAM BEVATTEN.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1161.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "276.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:09"
+}

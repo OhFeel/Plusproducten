@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Meergranenbiscuit bosvruchten",
+  "brand": "PLUS",
+  "price": "1.05",
+  "base_unit_price": "4.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/146353_M/134463bdc8c6cffd61e66eb3a4c1f959/146353.png",
+  "ingredients": "Ingrediënten :23% TARWEBLOEM, 18% rozijnen, 10% volkoren TARWEMEEL, 10% volkoren HAVERMEEL, suiker, plantaardige oliën (palm, raapzaad), 5% bosvruchtenbereiding (16% aardbeienpuree, 16% frambozenpuree, 16% zwarte bessenpuree, glucose-fructosestroop, glucosestroop, bevochtigingsmiddel: E422, suiker, TARWEVEZELS, geleermiddel: pectinen, palmvet, zuurteregelaar: appelzuur/citroenzuur, aroma), 4% krenten, inuline, GERSTEMOUTEXTRACT, 3% HAVERVLOKKEN, calciumcarbonaat, rijsmiddel E500/E503, zout, MELKEIWIT, aroma, emulgator: E472e, invertsuikerstroop, GERSTEMOUTMEEL, vitamine B6, ijzer(II)fumaraat, dextrose, antioxidant: E392. \n\nDit product kan sporen van andere GLUTENBEVATTENDE GRANEN, EI, NOTEN, PINDA, SESAM en SOJA bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1621.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "385.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.349",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.691",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.116",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.542",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.278",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "32.503",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "32.87",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "9.067",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.631",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.548",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.219",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "12.459",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:55:36"
+}

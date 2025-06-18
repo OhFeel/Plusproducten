@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Fristi Rood fruit",
+  "brand": "Fristi",
+  "price": "2.19",
+  "base_unit_price": "2.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/174310_M/ea2d673d4f4ba7e74859a4cb3db82004/174310.png",
+  "ingredients": "Ingrediënten: Magere gefermenteerde MELK, vloeibare MELKbestanddelen (weipermeaat), water, suiker, vruchtensap uit geconcentreerd sap 3% (1% aardbei, 1% framboos, 1% kers), fructosestroop, verdikkingsmiddel (guarpitmeel) stabilisator (pectine, dikaliumfosfaat en trinatriumcitraat), voedingszuur (melkzuur), aroma, kleurstof (karmijn).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "176.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "41.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "70.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:07:34"
+}

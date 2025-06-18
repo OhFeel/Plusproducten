@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Dipsaus Cocktail",
+  "brand": "Lays",
+  "price": "0.65",
+  "base_unit_price": "108.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/793721_M/3584ecc3e82e0748d5c66ab707c26385/793721.png",
+  "ingredients": "suiker, tomatenpoeder (8,9%), uienpoeder (8,6%), groene en rode paprika (6,7%), zout, gistextract, specerijen (paprikapoeder), antiklontermiddel (magnesiumzouten van vetzuren, siliciumdioxide), zonnebloemolie, aroma, specerijenextract. kan melk, soja, tarwe (gluten), selderij, mosterd en ei bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1585.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "379.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "82.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:25"
+}

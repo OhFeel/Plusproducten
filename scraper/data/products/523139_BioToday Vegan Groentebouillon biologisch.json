@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Vegan Groentebouillon biologisch",
+  "brand": "BioToday",
+  "price": "2.59",
+  "base_unit_price": "30.47",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/523139_M/ebd81c82a1ac9701b77cd295362bcd78/523139.png",
+  "ingredients": "Ingrediënten: Maïsmeel*, ui* 12%, zout, knoflook*, edelgistvlokken*, SELDERIJ* 1%, eekhoorntjesbrood* 0,7%, lavas* 0,5%, rozemarijn*, peper*, verdikkingsmiddel: xanthaangom, *=biologisch\nKan sporen bevatten van mosterd, sesamzaad.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1078.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "255.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:27:37"
+}

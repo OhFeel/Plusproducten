@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Unox Knaks kip",
+  "brand": "Unox",
+  "price": "4.29",
+  "base_unit_price": "10.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/899791_M/1ff13333a58402b36e6d8a73eb754318/899791.png",
+  "ingredients": "Ingrediënten: Worstjes: Kippenvlees¹ 38%, kipseparatorvlees¹ 26%, water, rijstebloem, aardappelzetmeel, zout, TARWEVEZEL, rundercollageen, kippencollageen¹, rookaroma, stabilisator (E451, E452), raapzaadolie, witte peper, nootmuskaatextract, paprikapoeder, antioxidant (E301, rozemarijnextract), conserveermiddel E250. Opgiet: Water, zout. E = door de E.G. goedgekeurde hulpstof¹ = Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "613.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "146.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:49"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Royal Club Rose lemonade",
+  "brand": "Royal Club",
+  "price": "0.89",
+  "base_unit_price": "3.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/362046_M/5a75e92b80450041cf85ba93374bf897/362046.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, voedingszuur (citroenzuur), natuurlijke aroma's, roos-extract, zoetstoffen (cyclaamzuur, acesulfaam-K, sucralose), zuurteregelaar (natriumcitraat), conserveermiddel (kalium-sorbaat), concentraat van zwarte wortel.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "8.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "2.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:23:40"
+}

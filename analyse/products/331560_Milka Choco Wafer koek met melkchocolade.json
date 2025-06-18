@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Choco Wafer koek met melkchocolade",
+  "brand": "Milka",
+  "price": "2.69",
+  "base_unit_price": "14.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/331560_M/43d8f13b6cd0815e1eaebdd29b187e38/331560.png",
+  "ingredients": "Ingrediënten: ALPENMELKCHOCOLADE 60 % (suiker, cacaoboter, cacaopasta, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINE), aroma), TARWEBLOEM, suiker, plantaardige vetten (palm, kokos in wisselende verhoudingen), weipoeder (van MELK), magere cacaopoeder 2 %, koolzaadolie, emulgator (SOJALECITHINE), rijsmiddel (natriumwaterstofcarbonaat), zout, aroma. KAN EI EN NOTEN BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2240.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:15:01"
+}

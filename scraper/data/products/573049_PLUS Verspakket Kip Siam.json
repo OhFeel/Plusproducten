@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket Kip Siam",
+  "brand": "PLUS",
+  "price": "5.89",
+  "base_unit_price": "5.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/573049_M/ed3066cb8d64c28ef470dcb14af15215/573049.png",
+  "ingredients": "Ingrediënten :courgette, wortel, rode paprika, gele paprika, ui, 10% kruidenpasta (water, suiker, natuurazijn, zout, SOJASAUS (water, SOJABONEN, zout, TARWE), gemodificeerd maïszetmeel, knoflookpoeder, uienstukjes, chilipeper, peterselie, gistextract), tomaat, 5% CASHEWNOTEN, knoflook.\n\nKan PINDA, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT, PARANOOT, PISTACHENOOT en MACADAMIANOOT bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Noten, cashewnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "522.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.977",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.565",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.71",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.542",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.427",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.515",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "12.451",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.173",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.771",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.566",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.226",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:26"
+}

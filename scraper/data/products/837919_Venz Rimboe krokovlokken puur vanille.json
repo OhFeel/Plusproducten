@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Venz Rimboe krokovlokken puur vanille",
+  "brand": "Venz",
+  "price": "3.99",
+  "base_unit_price": "19.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/837919_M/87f05d8985f0430dfdf5b34dfce7c9fa/837919.png",
+  "ingredients": "Ingrediënten: Krokovlokken: suiker, magere cacaopoeder*, cacaoboter*, geheel gehard palmpitvet, dextrose, TARWEZETMEEL, emulgator (SOJALECITHINE), kleurstof (E141), aroma (bevat MELK)., Funnies: suiker, cacaoboter*, magere MELKPOEDER, WEIPOEDER, emulgator (SOJALECITHINE), aroma, kleurstoffen (E141, E160c)., *Rainforest Alliance gecertificeerd.ra.org.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1892.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "448.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "76.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:45"
+}

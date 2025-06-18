@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Goodies Lama Puffs cheese & onion",
+  "brand": "Goodies",
+  "price": "1.49",
+  "base_unit_price": "49.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/584675_M/60f6f8f4ed8d8460350461a1b659088e/584675.png",
+  "ingredients": "Ingrediënten: volkoren TARWEmeel 54,0%, mais 22,0%, zonnebloemolie 12,0%, kaaspoeder (MELK) (gerijpte cheddar kaas (MELK, microbieel stremsel, zout) 50,0%, magere MELKpoeder 50,0%) 9,1%, uienpoeder 2,4%, gistextract 0,3%, knoflookpoeder 0,2%. Kan NOTEN en SOJA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1863.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "444.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:05"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Broabantse metworstjes",
+  "brand": "Huls",
+  "price": "3.95",
+  "base_unit_price": "22.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/410364_M/d1cdc9693f0c1cc39909c1e979a2b4b4/410364.png",
+  "ingredients": "varkensvlees*, zout, dextrose, varkensspek*, glucosestroop, specerijen, stabilisatoren (e452, e412, e471), antioxidanten (natriumascorbaat, e392), rookaroma, kleurstof (karmijn), specerij-extract, fermenten, conserveermiddel: natriumnitriet, rundercollageen, beukenhoutrook. voor 100 gram droge worst is 162 gram varkensvlees gebruikt. *beter leven keurmerk 1 ster",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2280.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "551.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.58",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:42:56"
+}

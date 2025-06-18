@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Chupa Chups Bubblegum Tennis Balls",
+  "brand": "Chupa Chups",
+  "price": "2.65",
+  "base_unit_price": "29.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/908351_M/3771e151169260ec0eadc591c17fb3eb/908351.png",
+  "ingredients": "Ingrediënten: suiker, gombasis, glucosestroop, voedingszuur (citroenzuur), verdikkingsmiddelen (arabische gom, xanthaangom), aroma, stabilisator (glycerol), emulgator (SOJALECITHINE), antioxidant (E321), kleurstoffen (curcumine, briljantblauw FCF). ",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1316.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "310.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:04:54"
+}

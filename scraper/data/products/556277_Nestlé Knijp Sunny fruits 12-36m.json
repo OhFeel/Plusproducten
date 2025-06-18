@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Nestlé Knijp Sunny fruits 12-36m",
+  "brand": "Nestlé",
+  "price": "1.59",
+  "base_unit_price": "14.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/556277_M/8f304907877936876d6f4e40337897e5/556277.png",
+  "ingredients": "Ingrediënten: bananen 40%. appelen 30%. geconcentreerd sinaasappelsap 5.5%. koek 4% (maïsmeel. rijstmeel. magere MELKpoeder). geconcentreerd citroensap. vitamine C.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "338.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "81.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.013",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "15.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.005",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:38:36"
+}

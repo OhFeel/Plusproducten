@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gesneden verspakket Gnocchi Bolognese",
+  "brand": "PLUS",
+  "price": "6.89",
+  "base_unit_price": "7.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/936898_M/0cc35d91717d4247abd87c8aa0fd7a34/936898.png",
+  "ingredients": "Ingrediënten :27% gnocchi (gerehydrateerde aardappelen (water, aardappelvlokken (aardappel, emulgator: E471, antioxidant: E330/E223 (SULFIET), specerijen, natuurlijk aroma)), aardappelzetmeel, TARWEMEEL, rijstmeel, zout, zuurteregelaar: E270, conserveermiddel: E200, natuurlijk aroma), tomatensaus (water, tomaat, tomatenpuree, zonnebloemolie, knoflookpuree (knoflook, water, zout), natuurazijn, suiker, groentebouillon (groenten (ui, wortel, prei), groenteconcentraat (wortel, ui, knoflook), water), zout, ui, geroosterde knoflookpoeder, gemodificeerd maïszetmeel, gerookte paprikapoeder, peterselie, stabilisator: E415, conserveermiddel: E211/E202, maïszetmeel, nootmuskaatextract), prei, cherrytomaat, wortel, rode paprika, courgette, ui, mix met kruiden (zout, ui, kruiden (oregano, basilicum, laurier, tijm, rozemarijn), knoflook, paprika, witte peper).\n\nDe gesneden groenten kunnen sporen van SELDERIJ bevatten.\nDe gnocchi kan sporen van MELK, MOSTERD en SOJA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "583.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "139.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.449",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.139",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.11",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.231",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.576",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.65",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "7.198",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.353",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.053",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.952",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.381",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.026",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.376",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:06"
+}

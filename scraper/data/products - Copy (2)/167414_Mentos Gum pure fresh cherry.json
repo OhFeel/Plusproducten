@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mentos Gum pure fresh cherry",
+  "brand": "Mentos",
+  "price": "4.99",
+  "base_unit_price": "0.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/167414_M/ab729c28a7eb6fe9b0b3611a3692131d/167414.png",
+  "ingredients": "Ingrediënten: zoetstoffen (xylitol, sorbitol, maltitolstroop, mannitol, aspartaam, acesulfaam-K, sucralose), gombasis, maltodextrine, zetmeel, voedingszuren (appelzuur, citroenzuur, wijnsteenzuur), aroma's, stabilisator (glycerol), kokosvet, kersensappoeder (0,38%), emulgatoren (SOJALECITHINE, sucrose-esters van vetzuren), verdikkingsmiddel (cellulosegom), glansmiddel (carnaubawas), antioxidant (E321), kleurstoffen (karmijn, briljantblauw FCF). *Komt overeen met 3% vruchtensap.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "818.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "196.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:51"
+}

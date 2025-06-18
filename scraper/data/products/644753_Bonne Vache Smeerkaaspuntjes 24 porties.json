@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bonne Vache Smeerkaaspuntjes 24 porties",
+  "brand": "Bonne Vache",
+  "price": "2.99",
+  "base_unit_price": "7.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/644753_M/46206b212f5531fe79e3993f103b5d38/644753.png",
+  "ingredients": "kazen (MELK, zuursel, stremsel, conserveringsmiddel lysozym (EI)). Boter (3032220061872) MELKserum (MELK),smeltzouten (E452),E331,E450,E339, verdikkingsmiddelen (E407, E1442)",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "994.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "240.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.95",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:11:16"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Mosterd Dyon cervelaat",
+  "brand": "Stegeman",
+  "price": "4.39",
+  "base_unit_price": "21.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/197049_M/86b1a8e9a9cb370f4352d499bddb93f1/197049.png",
+  "ingredients": "Ingrediënten: Varkensvlees*(98%), varkenscollageen*, varkensspek*, 2% MOSTERDzaadjes en verse MOSTERD, zeezout(zout, dieetzout (kaliumchloride)), specerijen, geconcentreerd rode bietensap, dextrose, glucosestroop, varkenseiwit, azijn, natuurlijk aroma, antioxidant (E301), conserveermiddelen (E235, E250), rook.\n*= Beter Leven keurmerk 1 ster.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2011.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "486.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:17:24"
+}

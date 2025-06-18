@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vegetarische Slager Vegan kip stuckjes",
+  "brand": "Vegetarische Slager",
+  "price": "4.29",
+  "base_unit_price": "26.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/573039_M/48efa697cbfaf9984b99dc58a000d5f5/573039.png",
+  "ingredients": "Ingrediënten: SOJASTRUCTUUR 92% (water, SOJA-EIWIT), zonnebloemolie, aroma's, zuurteregelaar (kaliumacetaat), natuurlijk aroma, gejodeerd zout, voedingszuur (melkzuur, citroenzuur), vitamine B12. Kan TARWE, ROGGE, GERST, HAVER, EI bevatten.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "560.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "3.3",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.4",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:24"
+}

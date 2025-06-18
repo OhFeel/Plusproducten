@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "De Ruijter Specials intense puur hagel",
+  "brand": "De Ruijter",
+  "price": "3.79",
+  "base_unit_price": "18.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947011_M/bd41978c3a11950b9e038f17c5c3c0b8/947011.png",
+  "ingredients": "Ingrediënten: Magere cacaopoeder¹, suiker, cacaoboter¹, gefractioneerd MELKVET (harde fractie), emulgator (SOJALECITHINE). Kan MELKEIWIT en LACTOSE bevatten. ¹Rainforest Alliance gecertificeerd. ra.org. Ten minste 52% cacaobestanddelen.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1775.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "420.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:50"
+}

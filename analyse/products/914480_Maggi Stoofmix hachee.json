@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Stoofmix hachee",
+  "brand": "Maggi",
+  "price": "1.75",
+  "base_unit_price": "35.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/914480_M/1fe2d760d16e43fc6c5b7ccdb48b772e/914480.png",
+  "ingredients": "Ingrediënten: groenten 32.8% (25.5% uien. 4.3% tomaten. 2.4% paprika rood. 0.6% SELDERIJ). TARWEgriesmeel. aardappelzetmeel. suiker. zout. gekarameliseerde suiker. gistextract. voedingszuur (citroenzuur). palmolie. knoflook. aroma's. rookaroma. tijmextract. Bevat mogelijk: EI. MELK. MOSTERD. SOJA.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1453.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:33"
+}

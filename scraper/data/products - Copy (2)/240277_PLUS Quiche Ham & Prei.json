@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Quiche Ham & Prei",
+  "brand": "PLUS",
+  "price": "3.99",
+  "base_unit_price": "13.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/240277_M/7593cfa636db78f54751ca546e94e564/240277.png",
+  "ingredients": "Ingrediënten :19% prei, TARWEBLOEM, SCHARRELKIPPENEI, roombereiding (room (MELK), emulgator: E471, stabilisator: E466/E407/E412), 10% ham (97% varkensvlees, zout, stabilisator: E451, conserveermiddel: E250), geraspte kaas (gepasteuriseerde MELK, aardappelzetmeel, zout, zuursel, microbieel stremsel), water, margarine (kokosvet, water, zonnebloemolie, emulgator: E471, zout, aroma, zuurteregelaar: E330), gepasteuriseerde halfvolle MELK, gemodificeerd maïszetmeel, zout, alcoholazijn, 0,3% preipoeder, gist, tomatenconcentraat, varkensgelatine, witte peper, nootmuskaat.\n\nAlc. 0,003%\nKan GERST, HAVER, SPELTTARWE, KHORASANTARWE, SCHAALDIEREN, VIS, PINDA, SOJA, AMANDELEN, HAZELNOTEN, WALNOTEN, CASHEWNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN, MACADAMIANOTEN, SELDERIJ, MOSTERD, SESAM en WEEKDIEREN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "869.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "208.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.225",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.49",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:35:45"
+}

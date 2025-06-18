@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu TUC crackers kaas smaak",
+  "brand": "Lu",
+  "price": "1.19",
+  "base_unit_price": "11.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/738981_M/b4dc20f4975312363a914abe179cd0c2/738981.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, palmolie, glucosestroop, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), zout, aroma, weipoeder (van MELK), smaakversterkers (E621, E627, E631), KAASPOEDER 0,1 %, meelverbeteraar (NATRIUMDISULFIET), voedingszuren (citroenzuur, calciumlactaat), kleurstof (paprika-extract). KAN BEVATTEN: EI, SOJA.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2098.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "501.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:49"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Limbourgois Kalfsleverworst",
+  "brand": "Limbourgois",
+  "price": "3.29",
+  "base_unit_price": "16.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/249571_M/21e9e7b2400950f76337baf93864718a/249571.png",
+  "ingredients": "Ingrediënten: 63% varkensvlees°, 29% varkenslever°, water, 6% kalfsvlees°, 2% weipoeder (MELK), zout, dextrose, suiker, specerijen, aroma, specerij extract, natuurlijk aroma (SELDERIJ), gehydrolyseerd plantaardig eiwit (mais, raapzaad), kruiden, smaakversterker: E621, antioxidant: E300, voedingszuur: E330, zuurteregelaar: E676, conserveermiddel: E250.°Beter Leven keurmerk 1 ster",
+  "allergens": "Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1348.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "326.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:42:01"
+}

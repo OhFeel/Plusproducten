@@ -1,0 +1,217 @@
+{
+  "sku": "",
+  "name": "Little Steps Peutermelk 2+",
+  "brand": "Little Steps",
+  "price": "2.29",
+  "base_unit_price": "2.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902743_M/db817a8f7b48c387697ed5c68bd3ba6d/902743.png",
+  "ingredients": "Ingrediënten: Magere MELK, water, weipermeaat (MELK), plantaardige oliën (koolzaadolie (laag erucazuurgehalte), zonnebloem (hoog oliezuurgehalte), zonnebloem), ROOM, minerale zouten (calciumcitraat, ijzersulfaat, kaliumhydroxide, zinksulfaat, kaliumjodide, natriumselenaat), emulgator: SOJAlecithine, vitaminen (C, niacine, E, pantotheenzuur, B6, B1, A, B2, foliumzuur, biotine, K, D, B12), aroma.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "254.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "61.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "72.2",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "8.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "87.6",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "1.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "2.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "0.93",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine K",
+      "value": "3.7",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.12",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.15",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "21.2",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.22",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "4.1",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "0.65",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine equivalent",
+      "value": "1.9",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "91.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chloride",
+      "value": "56.7",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "53.6",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "0.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Seleen",
+      "value": "2.4",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "14.6",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "6.81",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Linolzuur",
+      "value": "469.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Alfa-linoleenzuur",
+      "value": "82.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:20"
+}

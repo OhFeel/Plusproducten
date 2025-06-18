@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vegetarische Slager Kipnuggets",
+  "brand": "Vegetarische Slager",
+  "price": "3.99",
+  "base_unit_price": "22.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/605729_M/bf280cde074c2b07903c0c971dca0a74/605729.png",
+  "ingredients": "Ingrediënten: SOJASTRUCTUUR 58% (water, SOJA-EIWIT), maïsvlokken 12% (maïs, suiker, zout), plantaardige oliën (zonnebloem, raapzaad), bloem (maïs, rijst), HAVERVEZEL, gemodificeerd zetmeel, natuurlijke aroma's, verdikkingsmiddel (methylcellulose), zuurteregelaar (gebufferde azijn), zetmeel, zout, SOJA-EIWIT, voedingszuur (citroenzuur), ijzerpyrofosfaat, vitamine B12. Kan mosterd, selderij, tarwe bevatten.",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "936.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "224.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "3.7",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.53",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:13"
+}

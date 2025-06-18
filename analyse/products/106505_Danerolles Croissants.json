@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Danerolles Croissants",
+  "brand": "Danerolles",
+  "price": "2.59",
+  "base_unit_price": "10.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/106505_M/1a6cfed05a05c0f21940b925df75a9d5/106505.png",
+  "ingredients": "Ingrediënten: TARWEmeel, water, margarine: (palmvet, koolzaadolie, water, emulgatoren (mono en diglyceriden van vetzuren), zout, voedingszuur: citroenzuur), dextrose, TARWEGLUTEN, rijsmiddelen: difosfaten, natriumcarbonaten; suiker, BOTERCONCENTRAAT, ethylalcohol, zout, aroma, stabilisator: natriumalginaat, meelverbeteraar: ascorbinezuur.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1440.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "345.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "33.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:19"
+}

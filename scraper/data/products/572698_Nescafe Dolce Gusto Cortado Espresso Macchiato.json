@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nescafe Dolce Gusto Cortado Espresso Macchiato",
+  "brand": "Nescafe",
+  "price": "9.49",
+  "base_unit_price": "0.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/572698_M/c9f371c87a6ef2b92ddcf46af85ec610/572698.png",
+  "ingredients": "Ingredienten: Volle MELKpoeder (61,8%), instantkoffie (36,5%), stabilisatoren (dikaliumfosfaat, trinatriumcitraat), emulgator (SOJAlecithine).",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:12"
+}

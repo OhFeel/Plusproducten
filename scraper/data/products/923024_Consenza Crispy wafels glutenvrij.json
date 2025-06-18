@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Consenza Crispy wafels glutenvrij",
+  "brand": "Consenza",
+  "price": "3.29",
+  "base_unit_price": "1.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/923024_M/c70f2e3c25d7c1e68f531fb24cadfc5e/923024.png",
+  "ingredients": "Ingrediënten: Melkchocolade 81% (suiker, cacaoboter, volle MELKpoeder, cacaomassa, emulgator [SOJAlecithine], natuurlijk vanille-aroma), palmvet, suiker, rijstebloem, aardappelzetmeel, teffmeel, SOJAbloem, magere cacaopoeder, emulgator (SOJAlecithine), kokosolie, EIgeel, zout, rijsmiddel (natriumbicarbonaat)\nKan sporen bevatten van noten.",
+  "allergens": "Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2288.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "547.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:37"
+}

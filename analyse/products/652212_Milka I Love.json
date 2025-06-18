@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka I Love",
+  "brand": "Milka",
+  "price": "3.65",
+  "base_unit_price": "33.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/652212_M/bdcd360245d3ea45ef23dd7b13d821a2/652212.png",
+  "ingredients": "Ingrediënten: Suiker, cacaoboter, palmolie, cacaomassa, weipoeder (van MELK), magere MELKPOEDER, MELKVET, HAZELNOOTPASTA, emulgatoren (SOJALECITHINEN, E476), aroma's (bevatten MELK). KAN ANDERE NOTEN BEVATTEN.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2283.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "547.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:20"
+}

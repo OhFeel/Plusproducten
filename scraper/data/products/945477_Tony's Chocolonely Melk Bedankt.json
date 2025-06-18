@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely Melk Bedankt",
+  "brand": "Tony's Chocolonely",
+  "price": "4.29",
+  "base_unit_price": "23.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/945477_M/736f3784e5f35d472f00a13b6cf41faf/945477.png",
+  "ingredients": "Ingrediënten: Suiker, volle MELKpoeder, cacaoboter, cacaomassa, emulgator: (lecithines (SOJA)). KAN GLUTEN, EI EN NOTEN BEVATTEN",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2280.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "545.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:15:58"
+}

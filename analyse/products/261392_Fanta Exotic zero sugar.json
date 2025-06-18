@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fanta Exotic zero sugar",
+  "brand": "Fanta",
+  "price": "2.85",
+  "base_unit_price": "1.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/261392_M/82041c8de6ffa557ca2db1ee8b474aff/261392.png",
+  "ingredients": "​ingrediënten: sprankelend water; vruchtensap uit concentraat 4.4% (sinaasappel 3.4%,perzik 0.5%, appel 0.4%, passievrucht 0.1%); voedingszuren:citroenzuur, appelzuur; conserveermiddel: kaliumsorbaat; wortel- en saffloerconcentraat; zoetstoffen:acesulfame-k, aspartaam;natuurlijke aroma’s; stabilisatoren: guarpitmeel, glycerolesters van houthars.​",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "13.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:45:20"
+}

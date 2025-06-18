@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Kip siam",
+  "brand": "Knorr",
+  "price": "4.59",
+  "base_unit_price": "15.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/296709_M/9aca5c8b934a8b899ea9694b291ef389/296709.png",
+  "ingredients": "Ingrediënten rijstmix: rijst¹ 99,5%, peterselie¹.\nKan selderij, glutenbevattende granen, ei, melk, mosterd, soja bevatten.\nIngrediënten sausmix: zetmeel, suiker, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), knoflookpoeder¹ 8%, aroma, zout, uipoeder¹ 3,4%, rode paprika¹ 2,2%, gehydrolyseerde plantaardige eiwitten, palmvet, citroensappoeder (maltodextrine, citroensap), gistextract, GARNALENPOEDER, cayennepeper, mineraalzout (kalium), peterseliewortelpoeder¹. Kan selderij, ei, vis, melk, weekdieren, mosterd, andere glutenbevattende granen bevatten.\nIngrediënten cashewnotten: CASHEWNOTEN 96,5%, zonnebloemolie.\nKan pinda, andere noten bevatten.\n¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, cashewnoten, Zeegarnaal en producten op basis van zeegarnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "381.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "91.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:02:04"
+}

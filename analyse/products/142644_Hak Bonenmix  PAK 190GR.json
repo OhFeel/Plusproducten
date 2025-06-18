@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hak Bonenmix  PAK 190GR",
+  "brand": "Hak",
+  "price": "0.99",
+  "base_unit_price": "5.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/142644_M/ad92516156ce72c9056f2c121855b2c1/142644.png",
+  "ingredients": "rode kidneybonen 30%, grote witte bonen 18%, kikkererwten 12%, water, zout, antioxidant (ascorbinezuur), verstevigingsmiddel (calciumchloride*). *een zout dat van nature voorkomt in diverse mineralen.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "424.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "101.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:54:52"
+}

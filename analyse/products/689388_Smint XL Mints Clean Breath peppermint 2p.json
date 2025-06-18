@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Smint XL Mints Clean Breath peppermint 2p",
+  "brand": "Smint",
+  "price": "4.89",
+  "base_unit_price": "2.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/689388_M/2184c3e4619599af25f8260de2200e85/689388.png",
+  "ingredients": "Ingrediënten: zoetstoffen (sorbitol, aspartaam, acesulfaam-K, sucralose, neotaam), aroma's, antiklontermiddel (magnesiumzouten van vetzuren), zinklactaat, kleurstof (briljantblauw FCF). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1002.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "241.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "96.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "96.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.45",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "37.4",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:54"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verkade Wit Crisp",
+  "brand": "Verkade",
+  "price": "2.89",
+  "base_unit_price": "26.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/548226_M/db45c63a6d92bf8d88af2e110018adb0/548226.png",
+  "ingredients": "Ingrediënten: Suiker, volle MELKpoeder, cacaoboter, rijstmeel 7%, weipoeder (MELK), emulgator (SOJAlecithinen), natuurlijk vanillearoma\n\nKan sporen bevatten van noten en gluten.\n",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2248.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "537.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:34:27"
+}

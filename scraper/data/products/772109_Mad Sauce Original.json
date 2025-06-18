@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mad Sauce Original",
+  "brand": "Mad Sauce",
+  "price": "2.39",
+  "base_unit_price": "4.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/772109_M/b006918723353b0112e885b2976e5e11/772109.png",
+  "ingredients": "Ingrediënten: water, raapolie, natuurazijn, suiker, gemodificeerd maiszetmeel, peterselie 3,7%, vrije uitloop EIGEEL, MOSTERD (water, MOSTERDZADEN, natuurazijn, specerijen), zout, kaliumchloride, voedingszuur: melkzuur, verdikkingsmiddel: guarpitmeel, conserveermiddel: kaliumsorbaat, kleurstoffen: curcumine, E141 en caroteen, natuurlijk aroma, gistextract, ui concentraat, wortel, aardappelzetmeel, specerijen, antioxidant: E385. Met raapolie en peterselie afkomstig uit EU en niet-EU.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1052.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "254.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:26"
+}

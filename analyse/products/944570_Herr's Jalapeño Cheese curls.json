@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Herr's Jalapeño Cheese curls",
+  "brand": "Herr's",
+  "price": "1.05",
+  "base_unit_price": "37.50",
+  "image_url": "",
+  "ingredients": "Ingrediënten: maïsmeel, plantaardige olie (maïs-, katoenzaad-, palm-, zonnebloemolie), kaasmelange [WEI (MELK), zonnebloemolie, maltodextrine, cheddarkaas (MELK, MELKBESTANDDELEN, zout, enzymen), zout, zuurteregelaars: E339, E330), boter (MELK, zout), antioxidant: E270; kleurstof: E160c; natuurlijk aroma, enzymen], kruidenmix (maltodextrine, WEI (MELK), suiker, dextrose, specerijen, uienpoeder, zout, knoflookpoeder, smaakversterkers: E621, E631, E627; groene paprikapoeder, toraula gist, conserveermiddelen: E262, E270; chipotle peper, gedroogde peterselie, zuurteregelaar: E330; natuurlijke aroma's, gemodificeerd zetmeel, kleurstof: 160c, specerijenextract), zout.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2241.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "536.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:15:16"
+}

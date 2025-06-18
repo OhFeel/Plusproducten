@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Wraphapje serranoham",
+  "brand": "PLUS",
+  "price": "2.75",
+  "base_unit_price": "27.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/939488_M/1c2901cb927b11b0001591e10903251f/939488.png",
+  "ingredients": "Ingrediënten :40% tomaat-roomkaasbereiding (68% roomkaasbereiding (81% roomkaas (gepasteuriseerde MELK, zout, zuursel, microbieel stremsel), zure room (MELK), gemodificeerd aardappelzetmeel, plantaardige oliën (zonnebloem, raapzaad), voedingszuur: E330, zout, conserveermiddel: E202), 17% tomatenpulp (zongedroogde tomaat, zout, voedingszuur: E330, conserveermiddel: E202), room (MELK), oregano, rundergelatine, witte peper), 36% wrap (TARWEBLOEM, water, raapzaadolie, rijsmiddel: E500/E450, dextrose, voedingszuur: E296, zout, meelverbeteraar: E920), 24% serranoham (varkensvlees, zout, antioxidant: E301, conserveermiddel: E252/E250).",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1139.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "272.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "19.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.96",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:59"
+}

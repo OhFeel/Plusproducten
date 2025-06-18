@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Danio Luchtige Kwark Bosbes",
+  "brand": "Danio",
+  "price": "1.99",
+  "base_unit_price": "1.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/156486_M/c555e5f76f7dc3ddd4edfea9bbc5a10c/156486.png",
+  "ingredients": "Ingrediënten: Ingrediënten:, Magere MELK, magere kwark (MELK) (29,7%), room (MELK), suiker, bosbes (4,2%), zwarte bes (2,8%), glucose-fructosestroop, gemodificeerd maïszetmeel, varkensgelatine, verdikkingsmiddelen (pectinen, johannesbroodpitmeel, guarpitmeel), zuurteregelaars (natriumcitraten, citroenzuur), aroma, MELKfermenten_x000D_",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "495.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "118.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:59:25"
+}

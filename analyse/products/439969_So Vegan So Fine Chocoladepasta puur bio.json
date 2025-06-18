@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "So Vegan So Fine Chocoladepasta puur bio",
+  "brand": "So Vegan So Fine",
+  "price": "4.15",
+  "base_unit_price": "15.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/439969_M/237896594d8842a3accc8f06f7e6895a/439969.png",
+  "ingredients": "Ingrediënten: zonnebloemolie*, rietsuiker*, magere cacaopoeder* 24%, chocolade* 17% (rietsuiker*, magere cacaopoeder*, cacaoboter*), emulgator: zonnebloemlecithine*, Bourbon vanillepoeder*. * = van biologische oorsprong. Kan sporen van noten, soja en melk bevatten.",
+  "allergens": "Cacao",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2251.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "542.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:21"
+}

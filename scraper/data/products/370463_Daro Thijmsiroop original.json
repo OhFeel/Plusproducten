@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Daro Thijmsiroop original",
+  "brand": "Daro",
+  "price": "9.39",
+  "base_unit_price": "46.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/370463_M/1eeed6e6b21e7f745b3de72f9f35b4ea/370463.png",
+  "ingredients": "Ingrediënten: Suiker, Water, Vloeibaar Thijmextract, Natriumbenzoaat, Kaliumsorbaat en Citroenzuur# Thijmextract per 100ml 6,5%#",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Koolhydraten",
+      "value": "77.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "77.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "Zie bijsluiter",
+  "extracted_at": "2025-04-25 14:26:54"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 6+mnd Banaan Appel Yoghurt",
+  "brand": "Olvarit",
+  "price": "1.39",
+  "base_unit_price": "6.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/233779_M/6cee758a1e5e3fc5979674e92264b2e1/233779.png",
+  "ingredients": "Ingrediënten: 32% banaan, water, 23% appel, 16% gefermenteerde MELK (gepasteuriseerd), 5,2% rijstebloem, geconcentreerd citroensap, L-ascorbinezuur.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "309.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "73.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:30:52"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Melkunie Proteine mousse banoffee pie",
+  "brand": "Melkunie",
+  "price": "2.29",
+  "base_unit_price": "11.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/402673_M/e5469f73a7b5eea8b69c46917ab09e59/402673.png",
+  "ingredients": "Ingrediënten: Magere MELK, 7,7% MELKeiwitten, zoetstoffen: erytritol en steviolglycosiden uit Stevia, ROOM, rundergelatine, gemodificeerd maïszetmeel, verdikkingsmiddelen: carrageen en guarpitmeel, zuurteregelaars: natriumfosfaten en natriumcarbonaten, kleurstof: carotenen, natuurlijk aroma, lactase.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "326.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "77.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:11"
+}

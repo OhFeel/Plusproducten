@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Holland Foodz De Oosterhoutse regenboogstokjes",
+  "brand": "Holland Foodz",
+  "price": "1.49",
+  "base_unit_price": "13.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/275556_M/09357b1bd7be4930fe35d75dbdebde1e/275556.png",
+  "ingredients": "suiker, glucosestroop, witte basterd suiker (suiker-invertsuikerstroop), aroma. kleurstoffen: e100, e131, e160a(i), e162",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1415.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "338.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "83.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "83.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:51:54"
+}

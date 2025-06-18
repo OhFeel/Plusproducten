@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Biologisch PLUS Kip currysalade",
+  "brand": "Biologisch PLUS",
+  "price": "2.49",
+  "base_unit_price": "20.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/583374_M/567839870e1d8450ae78ff677158fdcf/583374.png",
+  "ingredients": "Ingrediënten :46% Gegaarde kip**, 45% mayonaise* (78% zonnebloemolie*, 8% EIGEEL* (EIGEEL*, zout), water, natuurazijn*, agavesiroop*, MOSTERD* (MOSTERDZAAD*, water, azijn*, zeezout, kurkuma*)), agavesiroop*, 0,7% kerriepoeder* (kurkuma*, koriander*, witte peper*, gember*, fenegriek*, karwijzaad*, komijn*, nootmuskaat*, venkelzaad*, kruidnagel*), natuurazijn*, gembersiroop* (rietsuiker*, water, gember*, melasse*, maiszetmeel*), zeezout, specerijenmix* (zout, korianderzaad*, paprikapoeder*, kurkuma*, zwarte peper*, uienpoeder*, gember*, komijnzaad*, lavaswortel*, kardemom*, cayennepeper*, foelie*, zonnebloemolie*), kurkuma*, gistextract, paprikapoeder*, knoflookpoeder*, uienpoeder*, cayennepeper*.\n* = van biologische oorsprong.\n** = van biologische oorsprong en Beter Leven keurmerk 3 sterren.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1766.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "427.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "10.28",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "22.68",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.19",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.77",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.34",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.456",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:51:28"
+}

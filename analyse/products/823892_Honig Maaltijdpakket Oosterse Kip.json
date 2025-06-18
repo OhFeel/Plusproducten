@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Maaltijdpakket Oosterse Kip",
+  "brand": "Honig",
+  "price": "4.49",
+  "base_unit_price": "10.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/823892_M/3c6c21632a4ea47e15b37d6b7c09f39c/823892.png",
+  "ingredients": "Ingrediënten: Witte rijst. Oosterse Kruidenmix: Suiker, specerijen (paprikapoeder, kurkuma, komijnzaad, korianderzaad, gember, foelie, zwarte peper, chilipoeder, fenegriek, kardemom), zout, rijstebloem, glucosestroop, zetmeel, gistextract, voedingszuur (citroenzuur), natuurlijk knoflookaroma, zonnebloemolie, kleurstof (paprika-extract). Kan MOSTERD bevatten. Salade Dressing: Water, suiker, azijn, raapzaadolie, gemodificeerd zetmeel, zout, kruiden (basilicum, oregano, tijm, kervel, peterselie, dille), knoflookpoeder, paprika, uienpoeder, verdikkingsmiddel (xanthaangom), conserveermiddel (kaliumsorbaat), specerijen (peper, kurkuma), zonnebloemolie, antioxidant (E385). Extra Kruidenmix: Glucosestroop, tomaat, specerijen (paprikapoeder, peper, chilipoeder), kruiden (bieslook, peterselie), antiklontermiddel (E551), voedingszuur (citroenzuur), kleurstof (paprika-extract), zonnebloemolie, natuurlijk korianderzaadaroma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1331.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "314.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:52:25"
+}

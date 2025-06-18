@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Kikkers",
+  "brand": "Haribo",
+  "price": "2.65",
+  "base_unit_price": "6.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/799547_M/14ae4f9ee9aad32f5e4c60a68c6db4f8/799547.png",
+  "ingredients": "Ingrediënten: Glucosestroop; suiker; dextrose; gelatine; voedingszuur: citroenzuur; vruchten- en plantenconcentraten: spirulina, saffloer, appel; zonnebloemolie; glansmiddel: bijenwas wit en geel; aroma. Kan sporen bevatten van MELK, TARWE.",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1466.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "345.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:40"
+}

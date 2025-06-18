@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Snack A Jacks Special chocolate chip",
+  "brand": "Snack A Jacks",
+  "price": "2.69",
+  "base_unit_price": "16.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/748851_M/16e1f8f26c58ffe1f47aaec188e779ab/748851.png",
+  "ingredients": "Ingrediënten: zilvervliesrijst (30%), maïs (29%) (waarvan de kiem verwijderd is), oligofructose, melkchocolade (suiker, volle MELKPOEDER, weipoeder (van MELK), cacaoboter, cacaomassa, magere MELKPOEDER, emulgator (SOJALECITHINE), vanille aroma), suiker, fructose, cacaoboter, cacaopoeder, emulgator (SOJALECITHINE), zonnebloemolie, chocoladearoma. Dit product kan sesam bevatten. ",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1652.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "406.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:43"
+}

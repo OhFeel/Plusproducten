@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Mix voor spaghettisaus bolognese",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "48.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/719745_M/e10eab84a6fffc3a7f1c61bc34c4cf75/719745.png",
+  "ingredients": "groenten (tomaat 32%, ui, wortel, prei), zout, zetmeel, suiker, kruiden (knoflook, majoraan, peterselie, tijm, rozemarijn), specerijen (paprikapoeder, peper, chilipeper), gedroogde glucosestroop, olijfolie, kleurstof (paprika-extract), raapzaadolie.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1281.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "303.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "14.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:49"
+}

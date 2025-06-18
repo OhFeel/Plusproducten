@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Captain Morgan Cola",
+  "brand": "Captain Morgan",
+  "price": "9.55",
+  "base_unit_price": "9.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/901447_M/d1270e6d0804f2f441a851c645eef19b/901447.png",
+  "ingredients": "koolzuurhoudend water, gedistilleerde drank op basis van rum (14.3%) (rum, suiker, aroma's, kleurstof: e150d), suiker, aroma's (bevat kleurstof: e150d, voedingszuur: e338 en caffeine), zuurteregelaar: e331, conserveermiddel: e202.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "274.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "65.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:02:52"
+}

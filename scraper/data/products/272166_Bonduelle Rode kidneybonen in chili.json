@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bonduelle Rode kidneybonen in chili",
+  "brand": "Bonduelle",
+  "price": "2.89",
+  "base_unit_price": "7.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/272166_M/4af64400bc4b4de495f49e89357db6cc/272166.png",
+  "ingredients": "Ingrediënten: Water, rode kidneybonen 38,4%, crispy maïs 8,6%, rode paprika's 4,3%, uien 2,7%, dubbel geconcentreerde tomatenpuree, zout, MOSTERD (water, MOSTERDzaad, alcoholazijn, zout) 0,5%, komijn 0,3%, uienpoeder 0,1%, tomatenpoeder, paprika 0,1%, knoflookpoeder, gerookt paprikapoeder 0,09%, chilipeperpoeder 0,04%. Kan GRANEN (GLUTEN) en SOJA bevatten.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "292.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "69.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:49:45"
+}

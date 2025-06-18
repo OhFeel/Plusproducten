@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Knolselderij",
+  "brand": "PLUS",
+  "price": "1.49",
+  "base_unit_price": "1.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/114086_M/48e5cad417baa5cdc039f84bd867a52d/114086.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:51"
+}

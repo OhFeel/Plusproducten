@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lipton Ice tea sparkling zero",
+  "brand": "Lipton",
+  "price": "3.59",
+  "base_unit_price": "3.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/625675_M/3516deb986ce3ae9b01c579809b0b0be/625675.png",
+  "ingredients": "Ingrediënten: Koolzuurhoudend water, voedingszuren (citroenzuur, appelzuur), thee-extract(1) (0,24%), zuurteregelaar (trinatriumcitraat), citroensap van geconcentreerd sap (0,1%), aroma's, antioxidant (ascorbinezuur), zoetstoffen (sucralose, acesulfaam-k). (1)Rainforest Alliance Certified. More information on ra.org.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "8.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "2.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:20"
+}

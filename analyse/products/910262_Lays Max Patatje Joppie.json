@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Max Patatje Joppie",
+  "brand": "Lays",
+  "price": "2.39",
+  "base_unit_price": "12.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/910262_M/fe75f255804bedd5431083a17728116d/910262.png",
+  "ingredients": "Ingrediënten: aardappelen, plantaardige oliën (zonnebloem, koolzaad, in wisselende hoeveelheden), patatje Joppiesmaak [suiker, aroma's (bevat MOSTERD), kaliumchloride, uienpoeder, fructose, paprika, zout, knoflookpoeder, specerijen, sheanootolie, zwarte peper], antioxidanten (extracten van rozemarijn, ascorbinezuur, tocoferolrijk extract, citroenzuur).",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2145.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "514.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:42"
+}

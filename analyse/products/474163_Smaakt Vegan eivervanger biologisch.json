@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Vegan eivervanger biologisch",
+  "brand": "Smaakt",
+  "price": "1.59",
+  "base_unit_price": "79.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/474163_M/6045b896a0e2cb1d19f652e5ec005ecf/474163.png",
+  "ingredients": "Ingrediënten: LUPINEmeel*, maïsmeel*, verdikkingsmiddel: guarpitmeel*, gedeeltelijk ontvet lijnzaadmeel*, gedeeltelijk ontvet zonnebloempitmeel*, *=biologisch.\nKan sporen bevatten van mosterd.",
+  "allergens": "Lupine",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1463.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "349.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:36"
+}

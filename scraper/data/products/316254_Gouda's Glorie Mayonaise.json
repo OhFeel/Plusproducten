@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Gouda's Glorie Mayonaise",
+  "brand": "Gouda's Glorie",
+  "price": "2.59",
+  "base_unit_price": "3.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/316254_M/726ce8975f7863e0b8120bd4d4eb25a4/316254.png",
+  "ingredients": "Ingrediënten: raapolie 68%, water, azijn, vrije uitloop EIGEEL 5,0%, suiker, MOSTERD (water, MOSTERDZADEN, azijn, specerijen),\n\nzout, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat,\n\nverdikkingsmiddel: xanthaangom, kleurstof: caroteen, natuurlijk aroma, antioxidant: E385,",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2567.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "624.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.79",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:09:32"
+}

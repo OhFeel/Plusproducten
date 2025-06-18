@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Barbeque tafelsaus",
+  "brand": "Remia",
+  "price": "1.85",
+  "base_unit_price": "7.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435417_M/db1e5e46f0324ad8231c899c8176d6a0/435417.png",
+  "ingredients": "Ingrediënten: tomatenpuree 51%, groenten (ui 22,4% en paprika 4,2%), suiker, natuurazijn, maiszetmeel, gemodificeerd maiszetmeel, zout, specerijen, zwarte peper, natuurlijk aroma, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, MOSTERDMEEL, kruiden.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "339.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "80.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:06"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Japanse mix",
+  "brand": "PLUS",
+  "price": "1.53",
+  "base_unit_price": "5.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/221923_M/ab52e5135f3f0bd8556e92bf19f759dd/221923.png",
+  "ingredients": "Ingrediënten :47% rijst, gemodificeerd zetmeel (maïs, tapioca), 11% PINDA, TARWEBLOEM, suiker, glucosestroop, SOJASAUS (water, SOJABONEN, TARWE, zout), maltodextrine, SESAMZAAD, rijsmiddel: E503, zout, zetmeel (aardappel, tapioca), zeewier, chilipoeder, kleurstof: E150a/E160c/E141.\n\nKan AMANDELEN, HAZELNOTEN, WALNOTEN, CASHEWNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN en MACADAMIANOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1700.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "402.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "66.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "7.78",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:27:03"
+}

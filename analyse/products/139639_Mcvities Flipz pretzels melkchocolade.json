@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mcvities Flipz pretzels melkchocolade",
+  "brand": "Mcvities",
+  "price": "2.49",
+  "base_unit_price": "27.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/139639_M/92f123c8edba3aed3f34654c84920545/139639.png",
+  "ingredients": "Ingrediënten: MELKchocolade (62%) [suiker, cacaoboter, volle MELKpoeder, cacaomassa, magere MELKpoeder, emulgatoren (E442, E476, SOJAlecithinen), natuurlijk aroma], TARWEbloem, zout, invertsuikerstroop, emulgator (SOJAlecithinen), GERSTEmoutextract, rijsmiddel (natriumcarbonaten)\n\nKan ook pinda, noten en ei bevatten.\n\nVoor allergenen, inclusief gutenbeveittande granen, zie vetgedrukte ingrediënten.\n",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1988.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "473.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "37.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:54:00"
+}

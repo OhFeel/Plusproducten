@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix mosselen",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "74.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/891029_M/8a2801b7e5584125f9a6b0aede011028/891029.png",
+  "ingredients": "Ingrediënten: Specerijen 19.5% (gedroogde ui, gedroogde knoflook, selderijzaad), gemodificeerd zetmeel, wortel, kruiden 11.1% (peterselie 8%, tijm, kervel), prei 11%, zout 9.4%, glucosestroop, tarwevezels, gedroogde tomaat, natuurlijke aroma's. Totale gehalte aan kruiden en specerijen: 30.6%",
+  "allergens": "Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1241.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "294.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:32"
+}

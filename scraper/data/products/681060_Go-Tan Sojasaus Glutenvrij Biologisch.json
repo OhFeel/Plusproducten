@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Sojasaus Glutenvrij Biologisch",
+  "brand": "Go-Tan",
+  "price": "2.89",
+  "base_unit_price": "19.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681060_M/e8cfb7021e1f31532e3ef7d46755af53/681060.png",
+  "ingredients": "Ingrediënten: water, 23% SOJABONEN*, TARWE*, zout. *Ingrediënten van biologische oorsprong",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "381.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:42"
+}

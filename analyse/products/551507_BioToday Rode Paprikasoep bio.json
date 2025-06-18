@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Rode Paprikasoep bio",
+  "brand": "BioToday",
+  "price": "4.49",
+  "base_unit_price": "11.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/551507_M/5fb5b023fdb36790fcf204c80dbabad1/551507.png",
+  "ingredients": "Ingrediënten: Water, groenten* 39% (rode paprika* 28%, ui*), tomatenpuree*, olijfolie*, knoflook*, maiszetmeel*, AMANDELEN* 2%, gistextract, zwarte peper*, kurkuma*, zeezout, *=biologisch\nKan sporen bevatten van: glutenbevattende granen, vis, pinda's (aardnoten), soja, melk, andere noten, selderij, mosterd.",
+  "allergens": "Noten, amandelen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "270.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "65.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.57",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:36:11"
+}

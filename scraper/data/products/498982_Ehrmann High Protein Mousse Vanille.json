@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ehrmann High Protein Mousse Vanille",
+  "brand": "Ehrmann",
+  "price": "1.99",
+  "base_unit_price": "9.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/498982_M/cd53067c07c59d213327a41a05ba9f0f/498982.png",
+  "ingredients": "Ingrediënten: magere MELK, MELKEIWIT 7,6%, ROOM, gelatine, gemodificeerd zetmeel, ver-dikkingsmiddelen (guarpitmeel, carageen), lactase, natuurlijk bourbon vanille-aroma, zoetstoffen (E 950, sucralose), kleurstof (carotenen), natuurlijk aroma.\nOpgeklopt met stikstof.\nDit product bevat van nature aanwezige suikers.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "322.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:17:53"
+}

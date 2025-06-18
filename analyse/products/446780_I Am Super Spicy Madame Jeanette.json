@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "I Am Super Spicy Madame Jeanette",
+  "brand": "I Am Super Spicy",
+  "price": "3.69",
+  "base_unit_price": "12.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/446780_M/c37d2258aca5a895975bbf314f3c1b8c/446780.png",
+  "ingredients": "Ingrediënten: gebakken ui (36%), (ui, zonnebloemolie), water, rode habenero-chilipeper (23%), zout, gemodificeerd maïszetmeel, suiker, groentebouillon (suiker, aardappelzetmeel, zout, SELDERIJ extract, gistextract (van GERST), uien extract, peterselie extract, uienpoeder, kurkuma extract, peterselie, zuurteregtelaar: citroenzuur), azijn, zuurteregelaar: citroenzuur, azijnzuur. Wordt mogelijk geproduceerd op een locatie waar noten, pinda's en sesam worden verwerkt.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "302.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "72.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.98",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:57:59"
+}

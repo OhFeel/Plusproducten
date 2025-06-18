@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Mini stol amandelspijs",
+  "brand": "PLUS",
+  "price": "0.99",
+  "base_unit_price": "0.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/777743_M/363d63f65837c6e342fc9f2f40eb06d1/777743.png",
+  "ingredients": "Ingrediënten :Ingrediënten: TARWEBLOEM, 21% rozijnen, 19% amandelspijs (42% AMANDELEN, suiker, stabilisator: E420, water, SCHARRELKIPPENEI-EIWIT, SCHARRELKIPPENEI, verdikkingsmiddel: E466, natuurlijk citroenaroma), water, dextrose, bakkersgist, 2,6% AMANDELEN, suiker, 1,5% krenten, TARWEGLUTEN, botervet (MELK), 0,8% sinaasappelschil, TARWEZETMEEL, wei-eiwitconcentraat (MELK), weipoeder (MELK), bakkerszout, 0,5% citroenschil, glucose-fructosestroop, SOJABLOEM, voorverstijfselde ROGGEBLOEM, emulgator: E481/ E472e (TARWE), palmvet, glucosestroop, aroma, plantaardige oliën (raapzaad, zonnebloem), conserveermiddel: E282, MELKEIWIT, meelverbeteraar: E300/ E920 (plantaardig), natuurlijk aroma, enzym (TARWE), TARWEMOUTMEEL, kleurstof: E100, zuurteregelaar: E330.  \n\nKan GERST, HAVER,  HAZELNOOT, SESAM en LUPINE bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Ei, Soja, Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1351.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "320.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "23.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.247",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "13.88",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:14"
+}

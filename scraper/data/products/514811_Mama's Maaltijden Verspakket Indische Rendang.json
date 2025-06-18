@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mama's Maaltijden Verspakket Indische Rendang",
+  "brand": "Mama's Maaltijden",
+  "price": "6.29",
+  "base_unit_price": "5.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/514811_M/d9ff5b355e529a59a7a9a843946c7e6f/514811.png",
+  "ingredients": "Ingrediënten: gele paprika, ui, rode ui, wortel, prei, komkommer, Rendang Boemboe (water, suiker, ui, zout, kokosmelk, tomatenpuree, gemodificeerd zetmeel, kokosextract, kruiden en specerijen, knoflook, azijn, tamarinde, TARWE, SOJABONEN, gekarameliseerde suiker, malto-dextrine, gistextract, conserveermiddel (kaliumsorbaat), natriumcaseïnaat (MELK), zuurteregelaar (azijnzuur), voedingszuur (melkzuur)), rode peper.Allergenen: GLUTEN (TARWE), MELK, SOJA",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "233.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "56.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:24:36"
+}

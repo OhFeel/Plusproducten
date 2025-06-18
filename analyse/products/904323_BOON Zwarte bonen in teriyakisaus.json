@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BOON Zwarte bonen in teriyakisaus",
+  "brand": "BOON",
+  "price": "1.99",
+  "base_unit_price": "5.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/904323_M/727cdaf66ccf025f657773864e56c9be/904323.png",
+  "ingredients": "Ingrediënten: 51,2% Teriyakisaus (water, suiker, suikerstroop, glucosestroop, SOJAbonen, azijn, gemodificeerd maiszetmeel, zout, 0,7% gember, knoflook, sake, specerijen, natuurlijk aroma, 0,02% steranijs), 48,8% zwarte bonen.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "426.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "101.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:38"
+}

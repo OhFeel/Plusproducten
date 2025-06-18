@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 18+mnd Risotto Doperwten Kalkoen",
+  "brand": "Olvarit",
+  "price": "1.75",
+  "base_unit_price": "7.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/271649_M/66c4d59d27fc47dfc35619cd4190901f/271649.png",
+  "ingredients": "ingredienten :41% groenten (18% doperwten, 11% courgette, 7% wortel, 3% groene paprika, 2% prei), water, 17,1% rijst, 8% kalkoen, 2% maïszetmeel, koolzaadolie.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "286.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "68.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:49:10"
+}

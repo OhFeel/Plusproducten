@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Cereal Koek speculoos smaak minder suikers",
+  "brand": "Cereal",
+  "price": "2.99",
+  "base_unit_price": "27.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/641438_M/6f18dbbe577cc9b167ba4523ac8dc60a/641438.png",
+  "ingredients": "Ingrediënten: TARWEbloem, zoetstof: maltitolen, plantaardige vetstoffen (plantaardige oliën en vetten in wisselende verhoudingen [shea, koolzaad, kokos, zonnebloem, cacao], water, zout, citroensapconcentraat, natuurlijk aroma), AMANDELEN 10%, SOJAmeel, EIgeelpoeder, rijsmiddelen: natriumbicarbonaat en dinatriumdifosfaat (bevat: TARWEzetmeel), GERSTemout, kaneel, volle MELK, zout",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1691.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "404.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:37"
+}

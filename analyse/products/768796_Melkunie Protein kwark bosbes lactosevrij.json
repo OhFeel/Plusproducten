@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Melkunie Protein kwark bosbes lactosevrij",
+  "brand": "Melkunie",
+  "price": "1.59",
+  "base_unit_price": "7.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/768796_M/2c1e1bac03f3fdd82899209539d18d1f/768796.png",
+  "ingredients": "Ingrediënten: Lactosevrije* magere KWARK, geconcentreerd druivensap, 1,8% bosbespuree uit concentraat, maïszetmeel, natuurlijk aroma, wortelconcentraat, hibiscusconcentraat, zoetstof: steviolglycosiden uit Stevia, lactase.\n\n* Lactosegehalte <lt/>0.01 g / 100 g",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "302.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:05"
+}

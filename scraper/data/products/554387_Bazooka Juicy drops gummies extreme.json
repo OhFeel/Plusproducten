@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bazooka Juicy drops gummies extreme",
+  "brand": "Bazooka",
+  "price": "2.29",
+  "base_unit_price": "40.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/554387_M/72b9fed32c7ab1928af00f8e7d2130f3/554387.png",
+  "ingredients": "ingrediënten fruitgum kersen-bessensmaak: suiker, glucosestroop, water, gelatine, voedingszuren (citroenzuur, l(+)-wijnsteenzuur, appelzuur), bevochtigingsmiddel (sorbitolen) verdikkingsmiddel (pectine), aroma, appelconcentraat, zwarte wortelconcentraat, kleurstof: e163. ingrediënten zure gelvulling kersen-bessensmaak: suiker, dextrine, water glucosestroop, voedingszuur (appelzuur), verdikkingsmiddelen (arabische gom, pectine), zuurteregelaar (natriumcitraat), aroma, conserveermiddel (e202), kleurstoffen (e133, e120). kan melk bevatten. ingrediënten fruitgum aardbeien- limonadesmaak: suiker, glucosestroop, water, gelatine, bevochtigingsmiddel (sorbitolen), voedingszuren (l(+)-wijnsteenzuur, citroenzuur, appelzuur), verdikkingsmiddel (pectine), aroma's, appelconcentraat, zwarte wortelconcentraat, kleurstof: curcumine. ingrediënten zure gelvulling aardbeienlimonadesmaak: suiker, dextrine, water, glucosestroop, voedingszuur (appelzuur), verdikkingsmiddelen (arabische gom, pectine), zuurteregelaar (natriumcitraat), aroma's, conserveermiddel (e202), kleurstof (e120). kan melk bevatten. ingrediënten fruitgum colasmaak: suiker, glucosestroop, water, gelatine, bevochtigingsmiddel (glycerol), voedingszuren (appelzuur, l(+)-wijnsteenzuur), verdikkingsmiddel (pectine), aroma, kleurstof: e150a, zoete aardappelconcentraat, appelconcentraat, zwarte wortelconcentraat. ingrediënten zure gelvulling colamaak: suiker, dextrine, water, glucosestroop, voedingszuur (appelzuur), verdikkingsmiddelen (arabische gom, pectine), zuurteregelaar (natriumcitraat), aroma, conserveermiddel (e202), kleurstof (e150d). kan melk bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1440.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "339.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:37:52"
+}

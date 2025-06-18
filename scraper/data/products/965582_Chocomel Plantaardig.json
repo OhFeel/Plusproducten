@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Chocomel Plantaardig",
+  "brand": "Chocomel",
+  "price": "2.99",
+  "base_unit_price": "2.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/965582_M/402dbb11ef8181e484b959f5e2f1a559/965582.png",
+  "ingredients": "Ingrediënten: Water, suiker, CASHEW 3,2%, cacaopoeder^1 1,7%, cacaoboter^1 0,7%, erwteneiwit 0,3%, fructose, zout, aroma, calciumcarbonaat, zuurteregelaar: dikaliumfosfaat, natriumcitraat, stabilisatoren: cellulose, cellulosegom, gellangom, ^1 Rainforest Alliance Certified. Find out more at ra.org\n\nKan sporen van soja, hazelnoot, walnoot en amandel bevatten.",
+  "allergens": "Noten, cashewnoten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "248.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "59.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "68.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:28"
+}

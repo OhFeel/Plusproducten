@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Aroma Flacon Hot",
+  "brand": "Maggi",
+  "price": "2.19",
+  "base_unit_price": "21.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681005_M/4e07a93f083a5ce046f835a7252697ef/681005.png",
+  "ingredients": "Ingrediënten: water, gehydrolyseerde plantaardige eiwitten(water, TARWE-eiwit,zout)zout, aroma’s (met SELDERIJ, TARWE) smaakversterkers (621,E631), gistextract,suiker,verdikkingsmiddel(xanthaangom).",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "225.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "60.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:35"
+}

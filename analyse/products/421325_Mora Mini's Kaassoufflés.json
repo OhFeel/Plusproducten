@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Mini's Kaassoufflés",
+  "brand": "Mora",
+  "price": "3.29",
+  "base_unit_price": "10.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/421325_M/1def8fee192272e24e5fbca73c48f1c8/421325.png",
+  "ingredients": "Ingrediënten: Bloem (bevat TARWE), water, Goudse KAAS 18% (MELK), plantaardige oliën (palm, raapzaad), zetmeel, boter (MELK), zout, TARWEgluten, smeltzouten: citroenzuur en E452, gist, specerijen, kleurstof: curcumine, verdikkingsmiddel: E461 en E401, gemodificeerd zetmeel, voedingszuur: citroenzuur, emulgator: E471, rijsmiddelen; E500, E451 en E450.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1285.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "307.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:46:08"
+}

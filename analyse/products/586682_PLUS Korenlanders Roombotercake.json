@@ -1,0 +1,61 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Roombotercake",
+  "brand": "PLUS Korenlanders",
+  "price": "3.19",
+  "base_unit_price": "12.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/586682_M/bdc9df95b2145df39d966402b850471d/586682.png",
+  "ingredients": "Ingrediënten: suiker, scharrelEI, TARWEbloem, 20% roomboter (MELK), glucosestroop, TARWEzetmeel, gemodificeerd maïszetmeel, rijsmiddelen: E450; E500, zout, conserveermiddelen: E202; E282, emulgatoren: E477; E472b, magere MELKpoeder, verdikkingsmiddel: E415, vanillearoma, kleurstof: E160a. Kan sporen van soja en noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1638.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "390.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.86",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:51"
+}

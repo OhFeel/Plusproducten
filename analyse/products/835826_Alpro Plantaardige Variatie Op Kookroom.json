@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Alpro Plantaardige Variatie Op Kookroom",
+  "brand": "Alpro",
+  "price": "1.79",
+  "base_unit_price": "7.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/835826_M/d5c254c7094bac7bda3c9854d002c829/835826.png",
+  "ingredients": "Ingrediënten: SOJABASIS (84,4%) (water, gepelde SOJABONEN (5,5%)), zonnebloemolie, suiker, emulgator (sucrose-esters van vetzuren), stabilisatoren (xanthaangom, carrageen, guarpitmeel), zeezout, aroma. Vrij van zuivel en gluten. Van nature lactosevrij.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "584.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "142.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:10"
+}

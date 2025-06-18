@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Chocolade met thee",
+  "brand": "Elvee",
+  "price": "3.99",
+  "base_unit_price": "26.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/656382_M/7444d018ecb67c1119190aea6d3d36d2/656382.png",
+  "ingredients": "Ingrediënten: cacaoboter, suiker, volle MELKPOEDER, cacaomassa, 0,3% rooibos poeder, 0,3% Matcha Tsuki theepoeder, 0,2% kardemompoeder, 0,1% Earl  Grey theepoeder, vanillepoeder. Gemaakt in een bedrijf waar ook gluten bevattende granen, ei, noten, soja en sesam worden verwerkt.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2426.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "583.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:09"
+}

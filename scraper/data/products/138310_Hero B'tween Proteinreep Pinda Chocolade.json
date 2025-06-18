@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hero B'tween Proteinreep Pinda Chocolade",
+  "brand": "Hero B'tween",
+  "price": "2.69",
+  "base_unit_price": "0.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/138310_M/72ee1f57fecfa56e144b60eaff057f38/138310.png",
+  "ingredients": "Ingredienten: Geroosterde PINDA's 59%, glucosestroop, volle MELKchocoladestukjes 10% (suiker, cacaomassa*, volle MELKpoeder, cacaoboter*, emulgator (lecithinen)), glucose-fructosestroop, granencrispies (rijstbloem, suiker, maismeel, dextrose, zout), zonnebloemolie, bevochtigingsmiddel (glycerol), PINDApasta 1%, karamelsuiker, zout, emulgator (SOJAlecithinen). Kan andere NOTEN bevatten.",
+  "allergens": "Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2297.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "552.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:53:25"
+}

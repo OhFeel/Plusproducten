@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Deense rundvleessoep",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "26.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/267814_M/bdb0535b188dbb1bdda3e711bbc0cc4b/267814.png",
+  "ingredients": "Ingrediënten: Vermicelli 57% (TARWEBLOEM, TARWEGRIESMEEL, KIPPENEI-eiwit), zout, natuurlijke aroma's (bevatten SELDERIJ), glucosestroop, palmvet, gehydrolyseerd SOJA-eiwit, smaakversterkers (E621, E635), groenten 2,8% (tomaat, wortel 0,6%, KNOLSELDERIJ, ui), rundvlees 1,8%, kruiden (peterselie, laurier), zonnebloemolie, kleurstof (E150c), specerijen (SELDERIJZAAD, kurkuma, kruidnagel), KIPPENEI-eiwit, antiklontermiddel (E551), rundervet 0,01%, rozemarijnextract. Kan MELK en MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1445.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "342.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "15.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:47:01"
+}

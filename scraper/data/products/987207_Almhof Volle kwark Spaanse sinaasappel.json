@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof Volle kwark Spaanse sinaasappel",
+  "brand": "Almhof",
+  "price": "2.99",
+  "base_unit_price": "5.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/987207_M/e726125534644933971b281669772fb3/987207.png",
+  "ingredients": "Ingredienten:\n51% volle KWARK, 30% magere YOGHURT, suiker, 5,2% sinaasappels, maiszetmeel, citroensapconcentraat, plantenconcentraat (wortel), natuurlijk sinaasappelaroma.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "547.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:26:13"
+}

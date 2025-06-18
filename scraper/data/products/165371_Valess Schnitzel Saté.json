@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Valess Schnitzel Saté",
+  "brand": "Valess",
+  "price": "3.79",
+  "base_unit_price": "21.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/165371_M/730beadcb991d78825d53f418c32adcd/165371.png",
+  "ingredients": "Ingrediënten: 47% magere MELK, 18% saus met satésmaak (water, suiker, zonnebloempitten, tomatenconcentraat, gemodificeerd maïszetmeel, zout, specerijen, TARWE, SOJAbonen, azijn, raapzaadolie, voedingszuur (melkzuur, azijnzuur), kleurstoffen (karamel, ammoniakkaramel, paprika-extract), aroma, verdikkingsmiddel (guargom), citrusvezel), paneermeel (TARWEbloem, zout, gist, zonnebloemolie, peterselie, kleurstoffen (annatto norbixine, paprika-extract, curcumine), paprikapoeder, GERSTemoutextract), plantaardige olie (maïs, raapzaad, zonnebloem, in wisselende verhoudingen), TARWEmeel, verdikkingsmiddel (calciumalginaat, methylcellulose), gemodificeerd TARWEzetmeel, getextureerd TARWE-eiwit, HAVERvezel, kippenEI-eiwit, stabilisator (polyfosfaat), voedingszuur (kaliumlactaat), natuurlijk aroma (MELK), koriander, uienpoeder, zout, ijzer",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "895.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "214.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "516.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.2",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:40"
+}

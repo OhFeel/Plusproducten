@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Westland Ambachtelijk Zalmslaatje",
+  "brand": "Westland",
+  "price": "1.59",
+  "base_unit_price": "7.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/234769_M/f9cebab8d4e85ec4b58a991fbf75dab9/234769.png",
+  "ingredients": "Ingrediënten: aardappel, water, plantaardige oliën (raapzaad, zonnebloem), 8% gekookte ASC ZALM¹, SCHARRELEI, wortel, augurk, azijn, suiker, zilverui (bevat SULFIET), tomatenpuree, zout, maïszetmeel, gemodificeerd zetmeel (maïs, aardappel), SCHARRELEIGEEL, glucose-fructosestroop, appel, conserveermid- delen (E202, E211), maïs, gehydrolyseerde plantaardige eiwitten (SOJA, maïs), VISpoeder (zalm, kabeljauw), ui, specerijen (bevat MOSTERD), kleurstoffen (E101, E160a, E160c), gedroogde groenten (wortel, pastinaak, tomaat, paprika, ui), voedingszuren (E270, E330), glucosestroop, maltodextrine, natuurlijk aroma, kruiden, aroma's (bevat MOSTERD, SOJA), antioxidanten (E300, E392), gistextract, verdikkingsmiddel (E415), zuurteregelaar (E325), rookaroma, ui-extract, SOJAbonenpoeder, rook, TARWE, specerijextracten (dille, knoflook), dextrose.\n\n¹=Van een ASC-gecertificeerde, verantwoorde kwekerij. www.asc-aqua.org-ASC-C-02085",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Vis, Soja, Mosterd, Zwaveldioxide en sulfieten, Zalm en producten op basis van zalm",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "761.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "183.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:32:11"
+}

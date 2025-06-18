@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Krakus mielonka luksusowa / gekookt vlees",
+  "brand": "Krakus",
+  "price": "4.49",
+  "base_unit_price": "14.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/953272_M/1db61b0d23333315872a77fdf427a438/953272.png",
+  "ingredients": "varkensvlees 94%, zout, stabilisator: e450, witte peper, antioxidant: e301, conserveermiddel: e251. dit product kan sporen bevatten van: soja, gluten, melk (inclusief lactose), selderij, mosterdzaad en producten daarvan.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "967.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "233.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:35"
+}

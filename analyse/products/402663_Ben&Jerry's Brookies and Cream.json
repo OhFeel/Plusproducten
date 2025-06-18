@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ben&Jerry's Brookies and Cream",
+  "brand": "Ben&Jerry's",
+  "price": "6.99",
+  "base_unit_price": "15.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/402663_M/86fe74abcadf3604170480ae8bcbcfbc/402663.png",
+  "ingredients": "Ingrediënten: ROOM (27%), water, suiker, geconcentreerde magere MELK, bloem (TARWE, volkoren TARWE), kokosolie, EIGEEL, plantaardige oliën (soja, raapzaad, zonnebloem), maïszetmeel, magere cacaopoeder, volle MELKPOEDER, vanille-extract, cacaoboter, zout, emulgator (SOJALECITHINE), stabilisatoren (guargom, carrageen), BOTERCONCENTRAAT, melasse, rijsmiddel (natriumbicarbonaat). Kan AMANDEL en HAZELNOOT bevatten. <gt/> Suiker, cacao, vanille: onder Fairtrade voorwaarden ingekocht volgens het mass balance principe. Totaal 58% exclusief water en zuivel(F). Past in een vegetarisch dieet. (F)info.fairtrade.net/sourcing",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1210.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "289.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.36",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:09"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Venco Dropmix gemengd",
+  "brand": "Venco",
+  "price": "3.49",
+  "base_unit_price": "7.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/166491_M/ac37bb755db3d424d75049c9e863c074/166491.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, gemodificeerd zetmeel, melado, gelatine (SULFIET), zoethoutwortelextract 3,3%, salmiakzout 2,7%, zetmeel, gekaramelliseerde suiker, plantaardige oliën (kokos, koolzaad), honing 0,1%, aroma, anijsolie, glansmiddelen (carnaubawas, bijenwas).",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1424.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:26"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ben&Jerry's Sundae dulce de-lish",
+  "brand": "Ben&Jerry's",
+  "price": "7.99",
+  "base_unit_price": "18.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/927830_M/a9601a28a2f67d2a533a046e906742ba/927830.png",
+  "ingredients": "water, suiker, room (18%), geconcentreerde magere melk, glucosestroop, kokosolie, eigeel1, plantaardige oliën (raapzaad, zonnebloem), cacaopoeder (1%), magere melkpoeder, magere cacaopoeder (0,5%), boterconcentraat, lactose en melkeiwitten, gemodificeerd maïszetmeel, zout, gekarameliseerde suiker, stabilisatoren (guargom, carrageen, johannesbroodpitmeel), emulgatoren (lecithines (bevat soja)), melasse, gerstemoutextract, zeezout, natuurlijke aroma's, zuurteregelaar (citroenzuur). 1van vrije uitloopeieren. <gt/>fairtrade cacao, suiker, vanille. suiker en vanille volgens mass balance. totaal 53%f, exclusief water en zuivel. (f)info.fairtrade.net/sourcing. δcacao afkomstig van open chain principes: 100%. past in een vegetarisch dieet.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1102.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "263.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:43"
+}

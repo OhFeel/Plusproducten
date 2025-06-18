@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mekkafood Nuggy",
+  "brand": "Mekkafood",
+  "price": "4.89",
+  "base_unit_price": "9.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/476588_M/83d0ad5ac45c4722fc014788d559e592/476588.png",
+  "ingredients": "Ingrediënten: kippenvlees 41%, TARWEBLOEM, water,\nkippenvel, koolzaadolie, zetmeel, tafelzout, maïsbloem, rijstmeel, gemodificeerd zetmeel (bevat TARWE), suiker, TARWEGLUTEN, SOJA-eiwit, gist, specerijenextracten, specerijen, kruid, aroma (bevat EIEREN, smaakversterker (mononatriumglutamaat, dinatriuminosinaat, natriumguanylaat)), uienpoeder, magere MELKPOEDER, kip EIPOEDER, stabilisator (difosfaten, polyfosfaten, natriumcarboxymethylcellulose), rijsmiddel (natriumcarbonaten), kleurstof (annatto norbixine). Kan GERST bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1014.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "243.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:08:27"
+}

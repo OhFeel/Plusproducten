@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Wonka Nerds watermelon & cherry",
+  "brand": "Wonka",
+  "price": "1.69",
+  "base_unit_price": "36.74",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/552401_M/8842e1c6cf7db1073cab297e39ecbd06/552401.png",
+  "ingredients": "Ingrediënten: glucosesiroop*, suiker, dextrose, voedingszuur (E296), planten- en groentenconcentraten (spirulina, radijs), natuurlijke aroma's, verdikkingsmiddel (E414), glansmiddel (E903), kleurstof (E100), geconcentreerd watermeloen sap. *Bevat genetisch gemodificeerde organismen. Kan sporen van gluten (tarwe) en eieren bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1560.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "373.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "91.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "90.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:36:42"
+}

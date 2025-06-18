@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ferrero Rocher",
+  "brand": "Ferrero",
+  "price": "5.99",
+  "base_unit_price": "29.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/673462_M/aa1c1990b4d637523a24e60fde6211d3/673462.png",
+  "ingredients": "Ingrediënten: MELKCHOCOLADE 30% (suiker, cacaoboter, cacaomassa, magere MELKPOEDER, boterconcentraat (MELK), emulgator: lecithinen (SOJA); vanilline), HAZELNOTEN (28,5%), suiker, palmolie, TARWEMEEL, weipoeder (MELK), magere cacao, emulgator: lecithinen (SOJA), rijsmiddel: natriumwaterstofcarbonaat; zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2506.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "603.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "42.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "39.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.153",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:52"
+}

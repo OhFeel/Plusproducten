@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vivera Kroketburger",
+  "brand": "Vivera",
+  "price": "3.39",
+  "base_unit_price": "22.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/548521_M/97dbc5f6b605092a14f396c9452191f5/548521.png",
+  "ingredients": "Ingrediënten: 44% gehydrateerde plantaardige eiwitten (water, 3% SOJA-EIWIT, 2% TARWE-EIWIT), paneermeel (TARWEBLOEM, kleurstoffen (karamel, annatto norbixine), zout), plantaardige oliën (zonnebloem, raapzaad in wisselende verhoudingen), zetmeel (bevat TARWE), aardappel, TARWEBLOEM, water, champignons, TARWEVEZELS, aroma, azijn, natuurlijke aroma's, verdikkingsmiddel (methylcellulose), verlaagd natrium zout, gekarameliseerde suiker, specerijen, uienpoeder, zout, knoflookpoeder, ijzer, vitamine B12. Kan sporen bevatten van: EI en MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1132.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "271.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.56",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:34:33"
+}

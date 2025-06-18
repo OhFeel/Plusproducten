@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Danio Luchtige Kwark Aardbei",
+  "brand": "Danio",
+  "price": "1.99",
+  "base_unit_price": "1.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/156478_M/784595cda562868a8b7648c7d407c50b/156478.png",
+  "ingredients": "Ingrediënten: Ingrediënten:, Magere MELK, magere kwark (MELK) (29,7%), room (MELK), suiker, aardbei (7%), glucose-fructosestroop, gemodificeerd maïszetmeel, varkensgelatine, geconcentreerd aalbessensap, verdikkingsmiddelen (pectinen, johannesbroodpitmeel, guarpitmeel), kleurstof (karmijn), zuurteregelaars (natriumcitraten, citroenzuur), aroma, MELKfermenten_x000D_",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "500.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "119.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:59:23"
+}

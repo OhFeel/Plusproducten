@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Chonelly",
+  "brand": "Bolletje",
+  "price": "2.49",
+  "base_unit_price": "13.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/696455_M/44793b90737bd50f9c2f870f6bdbdf60/696455.png",
+  "ingredients": "Ingrediënten: 50% MELKCHOCOLADE (suiker, cacaoboter*, cacaomassa*, magere MELKPOEDER, MELKVET, emulgator (SOJALECITHINE), natuurlijk aroma), TARWEBLOEM, suiker, raapolie, invertsuikerstroop, rijsmiddelen (E500, E450), kokossnippers, zout, aroma. *Rainforest Alliance Certified. Lees meer op www.ra.org. Kan andere glutenbevattende granen, eieren, noten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2097.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "500.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.58",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:24:28"
+}

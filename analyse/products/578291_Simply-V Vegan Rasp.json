@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Simply-V Vegan Rasp",
+  "brand": "Simply-V",
+  "price": "2.99",
+  "base_unit_price": "16.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/578291_M/a2f08dab70f96c0e3209bb852b5a390e/578291.png",
+  "ingredients": "Ingrediënten: Water, zetmeel, kokosolie (15%), AMANDELEN (10%), zout, aroma, zonnebloemeiwit, kleurstof: wortel- en appelconcentraat, antioxidant: natriumascorbaat",
+  "allergens": "Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1185.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "285.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:47:47"
+}

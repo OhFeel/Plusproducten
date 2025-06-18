@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Jif Extra crunchy",
+  "brand": "Jif",
+  "price": "5.85",
+  "base_unit_price": "12.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/494711_M/8290c2d07bc5443cb2115820f0268cd6/494711.png",
+  "ingredients": "Ingrediënten: Geroosterde PINDA's, suiker, melasse, volledig gehydrogeneerde plantaardige olie(raapzaad, SOJA), emulgator: mono- en diglyceriden, zout",
+  "allergens": "Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2409.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "576.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "48.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:16:34"
+}

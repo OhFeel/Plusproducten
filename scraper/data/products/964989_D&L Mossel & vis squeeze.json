@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "D&L Mossel & vis squeeze",
+  "brand": "D&L",
+  "price": "3.49",
+  "base_unit_price": "11.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/964989_M/68e5a6a48c8fe4c96c7ff1b8284094bf/964989.png",
+  "ingredients": "Ingrediënten: Koolzaadolie, water, MOSTERD (azijn, MOSTERDZAAD, water, zout, specerijen), azijn, EIGEEL, zout, citroensap, gemodificeerd zetmeel, verdikkingsmiddelen: guar- en xanthaangom, aroma, antioxidant: E385",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1469.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "357.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "37.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:16"
+}

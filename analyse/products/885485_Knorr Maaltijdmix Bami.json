@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Maaltijdmix Bami",
+  "brand": "Knorr",
+  "price": "1.59",
+  "base_unit_price": "45.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/885485_M/fa53d72e43df42c5064c53df3754c799/885485.png",
+  "ingredients": "Ingrediënten: Groenten¹ 34% (geroosterde ui 16%, savooiekool, wortel, rode paprika, prei 2,8%), gejodeerd zout, knoflookpoeder¹ 6,9%, aroma, mineraalzout (kalium), gehydrolyseerde plantaardige eiwitten, maïsolie, gember, gistextract, aardappelzetmeel, kerrie (koriander, komijn, kurkuma, peper, anijszaad, kaneel, venkelzaad, gember, lavaswortel, cayennepeper, piment), koriander, suiker, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), BLADSELDERIJ, komijn, cayennepeper, kurkuma¹.  Kan andere glutenbevattende granen, ei, melk, mosterd bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "513.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "122.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:59:47"
+}

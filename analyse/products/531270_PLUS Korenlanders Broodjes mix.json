@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Broodjes mix",
+  "brand": "PLUS Korenlanders",
+  "price": "3.69",
+  "base_unit_price": "0.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/531270_M/8cf4875911e9d28f230dc0986d28e505/531270.png",
+  "ingredients": "Ingrediënten :33% Wit tarwebroodje (60% TARWEBLOEM, water, aroma, bakkerszout, bakkersgist, rijstmeel, 0,1% TARWEMOUTMEEL, antioxidant: E300), 33% wit speltbroodje met zonnebloempitten (51% speltbloem (TARWE), water, 9% zonnebloempitten, 2,8% gedroogd speltdesem (water, volkorenspeltmeel (TARWE), verdikkingsmiddel: xanthaangom), lijnzaad, 2,3% speltschroot (TARWE), aroma, bakkersgist, bakkerszout, rijstmeel, acerolapoeder, koolzaadolie, gemodificeerd aardappelzetmeel, tapiocazetmeel), 33% volkorentarwebroodje (47% VOLKORENTARWEMEEL, water, 9% TARWEDESEM (water, TARWEBLOEM, desemcultuur), 3,8% HAVERVLOKKEN, TARWEGLUTEN, aroma, bakkersgist, bakkerszout, 0,7% TARWEZEMELEN, rijstmeel, 0,1% TARWEMOUTMEEL, 0,1% voorverstijfseld VOLKORENTARWEMEEL, 0,1% TARWEKIEMEN, aardappelzetmeel, meelverbeteraar: E300, 0,02% TARWEBLOEM).",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, macadamianoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1065.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "252.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.496",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.446",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.647",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.991",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "43.802",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.648",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "43.154",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.51",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.123",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.992",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.397",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:29:21"
+}

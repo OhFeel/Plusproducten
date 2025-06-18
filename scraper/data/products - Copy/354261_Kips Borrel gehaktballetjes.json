@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kips Borrel gehaktballetjes",
+  "brand": "Kips",
+  "price": "3.39",
+  "base_unit_price": "8.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/354261_M/40b9726fa754859a645c928bb9e91f59/354261.png",
+  "ingredients": "Ingrediënten: varkensseparatorvlees 41%, varkensvlees 25%, varkensvet, uien, TARWEBLOEM, water, aardappelzetmeel, varkensbindweefsel, HAVERMOUT, zout, voedingszuren (E326, E262), raapzaadolie, dextrose, specerijen, gehydrolyseerd maïseiwit, gist, conserveermiddel (gebufferde azijn), stabilisatoren (E451, E450), smaakversterker (E621).  ",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1196.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "288.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:19:52"
+}

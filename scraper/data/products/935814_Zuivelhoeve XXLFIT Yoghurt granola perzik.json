@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zuivelhoeve XXLFIT Yoghurt granola perzik",
+  "brand": "Zuivelhoeve",
+  "price": "1.99",
+  "base_unit_price": "9.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/935814_M/cecbdaed52d1043392238d7519629db7/935814.png",
+  "ingredients": "Ingrediënten: YOGHURT, 9% muesli [HAVERvlokken, TARWEGLUTEN, invertsuikersiroop, TARWEbloem, suiker, zonnebloempitten, pompoenpitten, gevriesdroogde aardbei, natuurlijk aroma, zonnebloemolie], MELKEIWIT, water, 1,8% perzikpuree uit concentraat, 1,8% perziksap uit perziksapconcentraat, zoetstoffen (erythritol, sucralose), gemodificeerd zetmeel, verdikkingsmiddelen (pectinen, guarpitmeel), concentraten (citroensap, wortel), zuurteregelaar (natriumcarbonaten, calciumcitraten).",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "377.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "89.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:51"
+}

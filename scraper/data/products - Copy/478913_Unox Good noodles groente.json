@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good noodles groente",
+  "brand": "Unox",
+  "price": "1.15",
+  "base_unit_price": "16.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/478913_M/755e9aaf762b3b5d38196a0bbe22a9ae/478913.png",
+  "ingredients": "Ingrediënten: Deegwaar (noedels) 89% (TARWEBLOEM, palmvet, zout, gemodificeerd aardappelzetmeel, suiker, raapzaadolie, kurkuma-extract), smaakversterker (E621, E631, E627), aroma’s (bevat SELDERIJ), suiker, glucosestroop, aardappelzetmeel, palmvet, specerijen (knoflookpoeder¹, peper, cayennepeper, kurkuma¹), prei¹ 0,5%, mineraalzout (kalium), wortel¹ 0,4%, gejodeerd zout, geroosterde uienpoeder¹, peterselie¹ 0,1%, rode paprika¹ 0,1%, uiensapconcentraat¹, zout, voedingszuur E330, gistextract, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), zonnebloemolie. Kan andere glutenbevattende granen, ei, melk, mosterd bevatten.¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "384.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "92.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:09:19"
+}

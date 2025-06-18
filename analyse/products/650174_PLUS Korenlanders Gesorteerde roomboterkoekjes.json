@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Gesorteerde roomboterkoekjes",
+  "brand": "PLUS Korenlanders",
+  "price": "3.29",
+  "base_unit_price": "20.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/650174_M/f6e5cff368563bd5b493936617bd59b2/650174.png",
+  "ingredients": "Ingrediënten: TARWEbloem, 27% roomboter (MELK), suiker, 2% chocolade (suiker, cacao massa, cacao boter, emulgator (SOJALECITHINE)), EI, AMANDELEN, invertsuikerstroop, rijsmiddel (E500, E336(i)), zout, cacaopoeder, kaneel, MELKPOEDER, karamel, citroenschil, zetmeel, voedingszuur (citroenzuur), natuurlijk aroma, kleurstof (caroteen). Allergenen: Dit product bevat melk, lactose, ei, gluten, tarwe. Geproduceerd in een bedrijf waar ook noten, pinda's en sesam worden verwerkt.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2226.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "533.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.78",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:42"
+}

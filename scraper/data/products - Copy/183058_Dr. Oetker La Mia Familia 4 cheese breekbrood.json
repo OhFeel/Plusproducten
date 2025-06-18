@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker La Mia Familia 4 cheese breekbrood",
+  "brand": "Dr. Oetker",
+  "price": "4.59",
+  "base_unit_price": "9.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/183058_M/dca22b9aab542985bca963dab6d246b7/183058.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 4,7% CRÈME FRAÎCHE, 4,1% tomatenpuree, 3,3% CHEDDAR KAAS (MELK, zout, kleurstof (carotenen)), 3,3% PROVOLONE KAAS, 3,3% EMMENTALER KAAS, 2,0% PECORINO HARDE KAAS, raapzaadolie, zout, gist, gemodificeerd zetmeel, peper, peterselie, oregano, knoflook, nootmuskaat. Kan bevatten: (SOJA, MOSTERD).",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1065.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "253.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:11:32"
+}

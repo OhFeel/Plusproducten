@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Palingworst",
+  "brand": "PLUS",
+  "price": "1.49",
+  "base_unit_price": "14.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/603248_M/fb5a9873bb76b412808ac2b144ddd186/603248.png",
+  "ingredients": "47% varkensvlees¹, 25% varkensseparatorvlees¹, water, varkensspek¹,  aardappelzetmeel, voedingszuur: E326/E330,  zout, varkenseiwit,  conserveermiddel: E267/E250, stabilisator: E450, specerijen,  antioxidant: E301, gehydroliseerd  raapzaad- en maïseiwit, rookaroma,   specerijeextracten (zwarte peper, nootmuskaat), zonnebloemolie,  rook. 1 = Beter Leven keurmerk 1 ster.  E= door EU goedgekeurde hulpstoffen.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1246.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "301.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:01:43"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "8.6 Original Blond Bier",
+  "brand": "8.6",
+  "price": "7.69",
+  "base_unit_price": "3.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/613866_M/ece57f097091d9fb87fcc5f56a292b6d/613866.png",
+  "ingredients": "Ingrediënten: natuurlijk mineraalwater, GERSTEMOUT, glucosestroop, hopextract.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "240.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "57.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "8.6",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:18"
+}

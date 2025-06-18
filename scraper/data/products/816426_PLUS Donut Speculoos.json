@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Donut Speculoos",
+  "brand": "PLUS",
+  "price": "1.19",
+  "base_unit_price": "1.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/816426_M/427378e96507d3107456abe406bd3c51/816426.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 25% vulling met speculoossmaak (15% speculooskoekjes (TARWEBLOEM, suiker, plantaardige oliën (palm, raapzaad), suikerstroop, rijsmiddel: E500, SOJABLOEM, zout, kaneel, emulgator: SOJALECITHINE, voedingszuur: citroenzuur), suiker, zonnebloemolie, lactose (MELK), magere MELKPOEDER, emulgator: E322), plantaardige vetten (palm, palmpit, kokos), water, suiker, plantaardige oliën (zonnebloem, palm, raapzaad), weipoeder (MELK), dextrose, gist, lactose (MELK), SOJABLOEM, rijsmiddel: E450/E500, aardappelzetmeel, zout, emulgator: E322/E471/E481, bruine suikersiroop, kaneel, kleurstof: carotenen, magere MELKPOEDER, meelverbeteraar: E300, natuurlijk aroma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1918.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "460.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.05",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.63",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.44",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "8.98",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.45",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "21.25",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.55",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "19.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:59"
+}

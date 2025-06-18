@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Campina Zacht & luchtig chocolade",
+  "brand": "Campina",
+  "price": "2.59",
+  "base_unit_price": "2.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/320173_M/0d4edd93688e2ea3320ef30c423dd68d/320173.png",
+  "ingredients": "Ingrediënten: Halfvolle MELK, water, suiker, plantaardige oliën (palm, palmpit, kokos, raapzaad), 2,6% magere cacao^1, gemodificeerd maïszetmeel, fructose, glucosestroop, MELKeiwit, karneMELKpoeder, geharde palmpitolie, verdikkingsmiddel: carrageen, xanthaangom; stabilisator: E331, E339, E460, E466; emulgator: SOJAlecithine, E435, E472b, E472e; zout, aroma (MELK). ^1Rainforest Alliance Certified. Lees meer op www.ra.org.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "364.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "87.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:10:42"
+}

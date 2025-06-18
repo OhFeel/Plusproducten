@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer Mini Frikandel",
+  "brand": "Mora",
+  "price": "4.69",
+  "base_unit_price": "11.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326524_M/372826d07c4dea86b191c642b5fb0592/326524.png",
+  "ingredients": "Ingrediënten: kippenseparatorvlees, varkensspek, water, bloem (bevat TARWE), zout, ui, specerijen, dextrose, kleurstof: karamel, glucosestroop, maltodextrine, emulgatoren: E450 en E452, gistextract, voedingszuren: ascorbinezuur en citroenzuur, gist, natuurlijke aroma's, specerij-extracten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "963.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "231.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:37"
+}

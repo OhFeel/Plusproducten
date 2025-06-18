@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Buisman Cappuccino",
+  "brand": "Buisman",
+  "price": "2.69",
+  "base_unit_price": "13.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/470283_M/4f57da4590eef9985fbc9fbc18bf7bdb/470283.png",
+  "ingredients": "Ingrediënten: glucosestroop, magere MELKpoeder (20%), kokosolie, oploskoffie* (16%), suiker, stabilisatoren (kaliumfosfaten, polyfosfaten), MELKEIWIT, emulgator (monoen diglyceriden van vetzuren), antiklontermiddel (siliciumdioxide).*Rainforest Alliance Certified. Lees meer op www.ra.org. Allergenen: melk, kan sporen van soja bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1770.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "422.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:27"
+}

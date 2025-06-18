@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Salata Pesto",
+  "brand": "Remia",
+  "price": "1.99",
+  "base_unit_price": "7.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/361895_M/c676be29a3c2a6af0fcfa3114b627ae2/361895.png",
+  "ingredients": "Ingrediënten: water, raapolie, natuurazijn, verse pesto 5% (35%, basilicum, zonnebloemolie, 13% KAAS, extra vergine olijfolie, citroensap, 4% pijnboompitten, knoflook, azijn, zout, suiker, specerijen), suiker, knoflook, gemodificeerd maiszetmeel, vrije uitloop EIGEEL, Parmigiano Reggiano KAAS 0,5%, MOSTERD (water, MOSTERDZADEN, natuurazijn, specerijen), zout, natuurlijk aroma, maiszetmeel, voedingszuur: citroenzuur, verdikkingsmiddel: guarpitmeel, conserveermiddel: kaliumsorbaat, antioxidant: E385, .",
+  "allergens": "Ei, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1027.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "249.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:23:26"
+}

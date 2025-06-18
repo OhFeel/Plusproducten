@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gehaktballetjes in satésaus",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "7.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/408163_M/d9ffc1c1f622e9434555ba6fcc70b82c/408163.png",
+  "ingredients": "Ingrediënten :43% gehaktballetjes (65% varkensvlees*, 23% rundvlees*, TARWEBLOEM, zout, gehydrolyseerd SOJA-EIWIT, dextrose, uipoeder, gebrande suikerstroop, TARWEZEMELEN), water, 9% PINDA, suiker, ui, raapzaadolie, melasse, gemodificeerd maïszetmeel, tomatenpuree, SOJASAUS (SOJABONEN, zout, voedingszuur: E270, kleurstof: E150d), natuurlijk aroma, specerijen (galangal, citroengras, komijn), knoflook, rode chilipeper, gemberpuree, zout, voedingszuur: E270.\n\n*= Beter Leven Keurmerk 1 ster",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "993.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "239.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.495",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.598",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.062",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:42:21"
+}

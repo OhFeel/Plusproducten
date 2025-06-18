@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Snoepmix funky",
+  "brand": "Redband",
+  "price": "2.49",
+  "base_unit_price": "11.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/316389_M/1703018c4a8230d019d7ff3dfa0891cb/316389.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, gelatine, zetmeel, voedingszuren (citroenzuur, appelzuur, melkzuur), zuurteregelaars (natriumcarbonaten, natriummalaten), natuurlijke aroma's, geheel geharde zonnebloemolie, concentraat van (spirulina, wortel, zwarte bessen, saffloer, citroen), gekaramelliseerde suiker, kleurstof (paprika-extract).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1455.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:09:34"
+}

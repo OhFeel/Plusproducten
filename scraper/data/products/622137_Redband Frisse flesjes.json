@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Frisse flesjes",
+  "brand": "Redband",
+  "price": "1.3",
+  "base_unit_price": "10.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/622137_M/5e968f2dfd9e03140e5b89a825d8967d/622137.png",
+  "ingredients": "suiker, glucosestroop, gemodificeerd zetmeel, zetmeel, voedingszuren (melkzuur, appelzuur), gelatine, zuurteregelaar (natriummalaten), natuurlijke aroma's, concentraat van (zwarte wortel, saffloer, spirulina, wortel, zwarte bes), kleurstoffen (paprika extract, curcumine).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1536.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "362.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "89.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:30"
+}

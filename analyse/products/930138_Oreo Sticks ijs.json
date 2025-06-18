@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Oreo Sticks ijs",
+  "brand": "Oreo",
+  "price": "3.69",
+  "base_unit_price": "1.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/930138_M/963bc1dd7145c341f3f7d8bf8699c706/930138.png",
+  "ingredients": "Ingrediënten: Gereconstitueerde magere MELK, fijngehakte koek met cacaosmaak en\neen vulling met vanillesmaak 25% (TARWEbloem, suiker, palmolie, koolzaadolie, TARWEzetmeel, magere cacaopoeder 1%***, glucose-fructose siroop, rijsmiddelen (ammoniumcarbonaten, kaliumcarbonaten, natriumcarbonaten), zout, emulgator (SOJAlecithinen), zuurteregelaar (natriumhydroxide), aroma´s), kokosvet, suiker, glucosesiroop, plantaardige oliën in wisselende verhoudingen (koolzaad, zonnebloem),zoete weipoeder (MELK), magere MELKpoeder, emulgatoren (mono- en diglyceriden van vetzuren, lecithinen, E 476), geleermiddel (johannesbroodpitmeel, guarpitmeel), aroma. ***PERCENTAGE gebaseerd op het uiteindelijke product. KAN NOTEN, PINDA'S EN EIEREN BEVATTEN.",
+  "allergens": "Tarwe, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1405.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:10:22"
+}

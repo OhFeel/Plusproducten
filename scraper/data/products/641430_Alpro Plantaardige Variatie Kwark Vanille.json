@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Alpro Plantaardige Variatie Kwark Vanille",
+  "brand": "Alpro",
+  "price": "2.89",
+  "base_unit_price": "7.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/641430_M/d11c46cb323fe541fc09f327da566d86/641430.png",
+  "ingredients": "Ingrediënten: SOJABASIS (91,5%) (water, gepelde SOJABONEN (13,9%)), suiker, stabilisator (pectinen), zuurteregelaars (citroenzuur, natriumcitraten, appelzuur), calcium (tricalciumfosfaat), natuurlijk aroma, zeezout, antioxidanten (tocoferolrijk extract, vetzuuresters van ascorbinezuur), geplette vanillestokjes (0,02%), natuurlijk vanillearoma met andere natuurlijke aroma's, wortelconcentraat, vitaminen B2, B12, D2, yoghurtculturen (S. thermophilus, L. bulgaricus] KAN SPOREN VAN NOTEN (GEEN PINDANOTEN] BEVATTEN.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "323.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "77.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "0.75",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.38",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:36"
+}

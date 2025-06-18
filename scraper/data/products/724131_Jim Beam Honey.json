@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Jim Beam Honey",
+  "brand": "Jim Beam",
+  "price": "21.99",
+  "base_unit_price": "31.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/724131_M/baeeae8e0a5fb20b512be5849786def1/724131.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "934.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "223.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "32.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:14"
+}

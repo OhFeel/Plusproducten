@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Soep in blik originele groentesoep",
+  "brand": "Unox",
+  "price": "1.99",
+  "base_unit_price": "6.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/954397_M/8e71ff2a912fbe212503f440fd8902f2/954397.png",
+  "ingredients": "Ingrediënten: Water, groenten¹ 20% (wortel, prei, ui, tomaat, SELDERIJ), soepballen 6,5% (varkensvlees², rundvlees², water, zetmeel, zout, peper, koriander, nootmuskaatextract), vermicelli 1,2% (harde TARWEGRIES, EI-EIWIT), gemodificeerd zetmeel, SELDERIJBLAD, zout, gistextract, peterselie, laurierblad, aroma, peterseliewortel¹. Kan soja, melk, mosterd bevatten. ¹op duurzame wijze geteeld. ²Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "139.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "33.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:56"
+}

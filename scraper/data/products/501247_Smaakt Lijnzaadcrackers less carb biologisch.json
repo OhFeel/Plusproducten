@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Lijnzaadcrackers less carb biologisch",
+  "brand": "Smaakt",
+  "price": "5.69",
+  "base_unit_price": "45.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/501247_M/367b5dc4b0bf6e3a524578f11632e10d/501247.png",
+  "ingredients": "Ingrediënten: Water, lijnzaad* 15%, zonnebloempitten* 15%, SESAMZAAD* 10%, pompoenpitten* 5%, maanzaad* 5%, zout, chilipeper* 0,4%, basilicum*, oregano*, kardemomzaad*, *=biologisch\nKan sporen bevatten van: soja, noten, lupine.",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2214.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:19:49"
+}

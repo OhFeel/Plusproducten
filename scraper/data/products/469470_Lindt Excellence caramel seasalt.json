@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Excellence caramel seasalt",
+  "brand": "Lindt",
+  "price": "3.69",
+  "base_unit_price": "36.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469470_M/c7b1969dc459b1927b898a6007722e5c/469470.png",
+  "ingredients": "Ingrediënten: suiker, cacaomassa, stukjes, karamel (suiker, LACTOSE, watervrij MELKvet, magere MELKpoeder, emulgator (koolzaad lecithine), aroma) 6%, karamelsuiker (suiker, cacaoboter), 6% cacaoboter, watervrij MELKvet, emulgator (SOJAlecithine), Fleur de sel (zout), 0,3%, aroma's. Kan SESAMZAAD en NOTEN bevatten. Donkere chocolade bevat cacao: 47% minimum.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "507.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:49"
+}

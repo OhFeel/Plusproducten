@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Corona Extra 12 pack",
+  "brand": "Corona",
+  "price": "13.29",
+  "base_unit_price": "1.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/708945_M/270fad4776b2248c4872d0162cdd17ac/708945.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, maïs, rijst, hopextract, stabilisator: E405",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "176.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "42.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:02"
+}

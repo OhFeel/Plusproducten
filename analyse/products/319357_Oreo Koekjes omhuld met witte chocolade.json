@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Oreo Koekjes omhuld met witte chocolade",
+  "brand": "Oreo",
+  "price": "2.79",
+  "base_unit_price": "11.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/319357_M/e8c036b422c90813eb2e3371e6d26870/319357.png",
+  "ingredients": "Ingrediënten: suiker, TARWEBLOEM, palmolie, sheavet, magere MELKPOEDER, koolzaadolie, TARWEZETMEEL, magere cacaopoeder 2,5 %,  lactose (van MELK), weipoeder (van MELK), glucose-fructosestroop, MELKVET, emulgatoren (SOJALECITHINEN,  E492), rijsmiddelen (ammoniumcarbonaten,  kaliumcarbonaten,  natriumcarbonaten), zout, zuurteregelaar (natriumhydroxide), aroma's.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2121.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "507.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:10:27"
+}

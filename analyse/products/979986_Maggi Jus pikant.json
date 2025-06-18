@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Jus pikant",
+  "brand": "Maggi",
+  "price": "0.79",
+  "base_unit_price": "43.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/979986_M/5962a6c5daf840f1e44183a92d0d3982/979986.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel, zout, gekarameliseerde suiker, gistextract, uien, tomaten (5,9%), aroma's (bevat GLUTEN), smaakversterkers (E621, E627, E631), groene peper (1,7%), peterselie, zonnebloemolie, rode paprika, gehydrolyseerde plantaardige eiwitten (bevat TARWE), chilipeper-extract, paprika-extract. Bevat mogelijk selderij, ei, melk, mosterd, soja.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1278.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "301.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "18.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:25:38"
+}

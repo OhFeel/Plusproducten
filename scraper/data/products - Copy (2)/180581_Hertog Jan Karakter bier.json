@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Hertog Jan Karakter bier",
+  "brand": "Hertog Jan",
+  "price": "1.46",
+  "base_unit_price": "4.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/180581_M/a66c5098095a20b842534d67b111354b/180581.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, TARWEZETMEEL, suiker, hop.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "277.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "66.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "7.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:10:06"
+}

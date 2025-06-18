@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vivera Kruimgehakt grootverpakking",
+  "brand": "Vivera",
+  "price": "4.99",
+  "base_unit_price": "13.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/911893_M/ba66e16877add925c62600ec91344332/911893.png",
+  "ingredients": "Ingrediënten: 94% gehydrateerd plantaardig eiwit (water, 31% SOJA-EIWIT), azijn, gekarameliseerde suiker, verlaagd natrium zout, natuurlijke aroma's, conserveermiddel (natriumdiacetaat), water, voedingszuur (melkzuur), zout, ijzer, vitamine B12. Kan sporen bevatten van glutenbevattende granen, ei en melk.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "446.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "106.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "5.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.71",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:57"
+}

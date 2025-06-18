@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Benediktiner Weissbier",
+  "brand": "Benediktiner",
+  "price": "1.79",
+  "base_unit_price": "3.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/146659_M/d66d137408612f9b084a9e9de65102fb/146659.png",
+  "ingredients": "Ingrediënten: water, TARWEMOUT, GERSTEMOUT, hop, gist",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "5.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:55:47"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Hershey's Cookies 'n' creme",
+  "brand": "Hershey's",
+  "price": "1.19",
+  "base_unit_price": "27.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/948555_M/1a18639f03f7a3da8fee4fdffb13d094/948555.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige oliën (palmolie, palmpitolie, shea-olie, zonnebloemolie en/of saffloerolie), magere MELKpoeder, verrijkt TARWE meel (bevat, niacine, ijzersulfaat, thiamine mononitraat, riboflavine en foliumzuur), maïssiroop, lactose (MELK), mager cacaopoeder, wei (MELK), emulgatoren: E322 (SOJA), E476; maïssiroop met hoge fructose, cacaomassa, rijsmiddel: E500(ii), zout, aroma's.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2161.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "516.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:50"
+}

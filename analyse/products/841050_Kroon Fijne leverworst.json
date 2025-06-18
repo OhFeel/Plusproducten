@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kroon Fijne leverworst",
+  "brand": "Kroon",
+  "price": "3.69",
+  "base_unit_price": "7.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/841050_M/47d27e6c4e6d82377f08bb6dbc5751c4/841050.png",
+  "ingredients": "Ingrediënten: Ingrediënten:, 29% varkensleverª, varkensspekª, varkenscollageenª, water, 24% varkensvleesª, rijstebloem, varkenshemoglobine, zout, gehydrolyseerd SOJA eiwit, specerijen, ui, antioxidant (E300), kruiden, conserveermiddel (E250), ª= Beter Leven 1 ster vlees",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1227.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "292.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "542.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:07"
+}

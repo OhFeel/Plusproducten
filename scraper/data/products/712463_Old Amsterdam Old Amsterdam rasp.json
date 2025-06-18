@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Old Amsterdam Old Amsterdam rasp",
+  "brand": "Old Amsterdam",
+  "price": "3.99",
+  "base_unit_price": "26.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/712463_M/ad416babad11893f854261f072459975/712463.png",
+  "ingredients": "Ingrediënten: MELK (gepasteuriseerd), aardappelzetmeel, zout, zuursel (bevat MELK), microbieel stremsel, conserveermiddel (E251), kleurstof (carotenen)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1659.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "400.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "22.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:28:11"
+}

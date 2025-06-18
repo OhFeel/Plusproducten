@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Pizza pakket tomatensaus en olijfolie",
+  "brand": "Dr. Oetker",
+  "price": "2.99",
+  "base_unit_price": "4.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/495676_M/e40da58efe30a91b3d8301af36a81097/495676.png",
+  "ingredients": "Ingrediënten: bodemmix (TARWEBLOEM, rijsmiddelen (E 575, E 500, E 450), dextrose, zout, emulgator (E 472e), TARWEZUURDESEMCONCENTRAAT), tomatensaus (water, 24% tomatenpuree, suiker, gemodificeerd zetmeel, zout, ui, kruiden, knoflook, voedingszuur (citroenzuur), specerijenextract), olijfolie. Kan bevatten (EI, MELK).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "909.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "216.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:16:44"
+}

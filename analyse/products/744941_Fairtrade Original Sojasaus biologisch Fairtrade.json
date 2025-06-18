@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fairtrade Original Sojasaus biologisch Fairtrade",
+  "brand": "Fairtrade Original",
+  "price": "3.19",
+  "base_unit_price": "15.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/744941_M/58fb8f866a0f41ff7a90aead17640ee1/744941.png",
+  "ingredients": "Ingrediënten: Water, SOJAbonen* (25%), rijst* (17%), zout (16,5%).\n*Van biologische oorsprong.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "218.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "51.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "16.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:54"
+}

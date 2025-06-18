@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Beemster Signature Extra Aged 48+ borrelstuk",
+  "brand": "Beemster",
+  "price": "4.89",
+  "base_unit_price": "27.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/173916_M/8f1c93d49485db1b9119c1a6f498ae21/173916.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde KOEMELK, zout, zuursel, stremsel, kleurstof: Annatto (E160b(ii)).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1766.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "426.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "25.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:07:27"
+}

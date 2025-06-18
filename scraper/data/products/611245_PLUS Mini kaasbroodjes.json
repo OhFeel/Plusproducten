@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Mini kaasbroodjes",
+  "brand": "PLUS",
+  "price": "1.99",
+  "base_unit_price": "8.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/611245_M/ce832124f660b10bda3cc72ffa94ef60/611245.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, water, margarine (palmolie, water, raapzaadolie, zout, emulgator: E471, voedingszuur: citroenzuur), 16% geraspte kaas (MELK, aardappelzetmeel, zout, zuursel, microbieel stremsel), gemodificeerd aardappelzetmeel, plantaardige olie (palm, raapzaad), weipoeder (MELK), wei-eiwitconcentraat (MELK), dextrose, glucosestroop, aroma (bevat MELK), geleermiddel: E339, TARWEVEZEL, TARWEZETMEEL, gist, SCHARRELKIPPENEI-EIWITPOEDER, SCHARRELKIPPENEI-EIGEELPOEDER, kurkuma-extract, MELKEIWIT, kaaspoeder (gepasteuriseerde MELK, zout, microbieel stremsel, zuursel), zout, gejodeerd zout, erwteneiwit, maïszetmeel, conserveermiddel: E270/E267.\nDit product kan sporen van SESAM en SOJA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1421.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "341.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "21.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:33"
+}

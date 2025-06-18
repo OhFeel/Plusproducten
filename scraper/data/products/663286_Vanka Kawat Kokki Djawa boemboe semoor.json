@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vanka Kawat Kokki Djawa boemboe semoor",
+  "brand": "Vanka Kawat",
+  "price": "1.29",
+  "base_unit_price": "12.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/663286_M/def4021dc49c6fc4a6efe66b4511b9b7/663286.png",
+  "ingredients": "water, suiker, ui, melado, tomatenpuree, zout, knoflook, witte peper, kruidnagel, nootmuskaat, voedingszuur (e330, e260, e270), conserveermiddel (e202, e211),",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "747.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "179.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:15"
+}

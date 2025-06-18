@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Bami met ajam pangang",
+  "brand": "Uit de keuken van",
+  "price": "5.99",
+  "base_unit_price": "13.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/689753_M/9e5790cb6d8898bf20d330b1311848c6/689753.png",
+  "ingredients": "Gekookte mie met kip en groenten (57% gekookte noedels (harde TARWEGRIESMEEL, water), 10% ui, 7% wortel, 6% prei, 5% kippenvlees, 4% omelet (SCHARRELKIPPENEI HEELEI, water, koolzaadolie, maismeel, zout, geconcentreerd citroensap, witte peper, paprika, kurkuma), 3% paprika, raapzaadolie, bouillonpoeder (zout, gistextract, glucosestroop, raapzaadolie, aroma, SOJA-EIWITHYDROLISAAT, specerijen, uienolie, aardappelzetmeel), gember, gebufferd azijnpoeder (conserverend ingrediënt), tomatenpuree, SESAMOLIE (SESAMOLIE, raapzaadolie), knoflookpuree, ketjap (melasse, suiker, water, SOJASAUS (water, SOJABONEN, TARWE, zout), zout), suiker, limoensap (limoensap, conserveermiddel: E224), uienpoeder, paprikapoeder, kurkuma, witte peper), kipdijfiletreepjes in pangangsaus (gegaarde kipdijfiletreepjes (95% kipdijfilet, natuurlijk aroma, aardappelzetmeel, zout, dextrose, azijn, rozemarijnextract), saus (suiker, water, appelpuree, tomatenpuree, gemodificeerd maïszetmeel, zout, voedingszuur: E260/E330, kruiden en specerijen (gemberpoeder, chilipeper, knoflookpoeder, sereh, kaneel), paprikagranulaat, conserveermiddel: E202, SOJABONEN, TARWEKORREL, zuurteregelaar: E514, paprikaconcentraat, antioxidant: E300, uigranulaat, zonnebloemolie, verdikkingsmiddel: guarpitmeel/xanthaangom)).",
+  "allergens": "Tarwe, Ei, Soja, Melk, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "538.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "128.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:06"
+}

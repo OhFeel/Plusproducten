@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Appelsientje Fruitdrink Goudappeltje",
+  "brand": "Appelsientje",
+  "price": "1.99",
+  "base_unit_price": "1.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/625673_M/af8cb15eff09ddd53c1013c9f7b0e6a3/625673.png",
+  "ingredients": "Ingrediënten: Vruchtensap uit concentraat (appel 80%, citroen), vloeibare MELKbestanddelen (MELKpermeaat) 10%, water, ROOM , stabilisator (pectine), natuurlijk appel aroma, zoetstof (steviolglycosiden uit Stevia)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "153.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "37.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.013",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:19"
+}

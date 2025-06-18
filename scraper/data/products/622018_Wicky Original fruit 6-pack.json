@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Wicky Original fruit 6-pack",
+  "brand": "Wicky",
+  "price": "1.99",
+  "base_unit_price": "1.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/622018_M/0d7f1691b9697991357054201596a3f1/622018.png",
+  "ingredients": "water, 10% vruchtensap uit concentraat en puree (9% appel, 0,2% sinaasappel, passievrucht, mandarijn, abrikoos, 0,05% ananas, 0,01% banaan, mango, guave, limoen), suiker, fructosestroop, voedingszuur (citroenzuur), natuurlijke aroma's, zuurteregelaar (natriumcitraten), stabilisator (pectinen), vitaminen (a (uit provitamine a), c).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "101.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "24.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "100.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "10.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:27"
+}

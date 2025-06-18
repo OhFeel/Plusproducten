@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "La Morena Tortilla volkoren",
+  "brand": "La Morena",
+  "price": "2.79",
+  "base_unit_price": "0.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/908077_M/f7e57b55990772d56b95718f7449f298/908077.png",
+  "ingredients": "Ingrediënten: VOLKOREN TARWEMEEL (60%), water, stabilisator (glycerine), raapzaadolie, zout, suiker, rijsmiddel (natriumcarbonaten), zuurteregelaar (appelzuur), conserveermiddelen (kaliumsorbaat, calcium propionaat), emulgator (mono- en diglyceriden van vetzuren). Allergie-informatie: Bevat GLUTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1178.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "279.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.67",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:04:47"
+}

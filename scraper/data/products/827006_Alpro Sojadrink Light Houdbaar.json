@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Alpro Sojadrink Light Houdbaar",
+  "brand": "Alpro",
+  "price": "2.79",
+  "base_unit_price": "2.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/827006_M/972bd7fa898af863388ce3763b544cb7/827006.png",
+  "ingredients": "Ingrediënten: SOJABASIS (97%) (water, gepelde SOJABONEN (5,6%)), oplosbare maïsvezel, fructose, suiker, calcium (calciumcarbonaat), zuurteregelaar (kaliumfosfaten), zeezout, aroma, stabilisator (gellangom), natuurlijk aroma, vitaminen B2, B12, D. Vrij van zuivel en gluten. Van nature lactosevrij.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Ergocalciferol/vitamine D2",
+      "value": "0.75",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.38",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:53:21"
+}

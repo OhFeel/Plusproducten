@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Bols Vodka",
+  "brand": "Bols",
+  "price": "5.99",
+  "base_unit_price": "29.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326433_M/0a48f5b3bbce19e9a105529cd413a39c/326433.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "37.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:29"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Zaanse Mayonaise",
+  "brand": "Zaanse",
+  "price": "2.39",
+  "base_unit_price": "7.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/571679_M/bdb1c33468e5b3e766e7718efac56f93/571679.png",
+  "ingredients": "Ingrediënten: raapzaadolie (78%), water, SCHARRELEIGEEL (6%), natuurazijn, suiker, zout, MOSTERD (water, MOSTERD-zaad, zout, azijn, suiker), aroma's (bevat SOJA-EIWIT en SELDERIJ), kleurstof (beta-caroteen), conserveermiddel (kaliumsorbaat), antioxidant (E385) E=door de E.U. goedgekeurde hulpstof",
+  "allergens": "Ei, Soja, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3029.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "735.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "80.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "50.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:45:55"
+}

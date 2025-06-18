@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Imazighen saus Andalouse",
+  "brand": "Imazighen",
+  "price": "3.99",
+  "base_unit_price": "9.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/569218_M/d9b95bddd26370acfdfae29c9806f0e9/569218.png",
+  "ingredients": "Ingrediënten: koolzaadolie (58,9%), tomatenconcentraat (5,9%), MOSTERD (water, MOSTERDZADEN, azijn, zout, kurkuma), azijn, gezouten EIGEEL (6%) (EIgeel, zout), suiker, water, extracten (kruidnagel, chili, SELDERIJ, kervel, rozemarijn, groene thee), uienpoeder, paprika, kappertjes (kappertjes, water, zout), voedingszuur (citroenzuur), kleurstof (beta caroteen).",
+  "allergens": "Ei, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2361.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "573.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:44:35"
+}

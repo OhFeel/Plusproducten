@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ketjap A Ketjap manis kentel no.1",
+  "brand": "Ketjap A",
+  "price": "2.75",
+  "base_unit_price": "5.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/858361_M/f9e699dce9083086ace822248114b219/858361.png",
+  "ingredients": "Ingrediënten: Melasse, water, zout, SOJAbonen, caramel, suiker, voedingszuur E270, TARWEmeel, conserveermiddel E211, natuurlijk aroma.",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "882.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "207.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "44.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:57:16"
+}

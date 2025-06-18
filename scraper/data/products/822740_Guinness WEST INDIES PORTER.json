@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Guinness WEST INDIES PORTER",
+  "brand": "Guinness",
+  "price": "3.35",
+  "base_unit_price": "6.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/822740_M/d5ea4149960601c1715089eda8b31f20/822740.png",
+  "ingredients": "Bevat gerst",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "222.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "53.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:52:01"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Vanille roomvlaai half",
+  "brand": "PLUS",
+  "price": "7.99",
+  "base_unit_price": "7.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/185673_M/b9b87c5ad98e5d02f477e000cf6daced/185673.png",
+  "ingredients": "Ingrediënten :Water, magere MELK, TARWEBLOEM, suiker, plantaardige oliën (palm, raapzaad), witte basterdsuiker, gemodificeerd aardappelzetmeel, palmolie (geheel gehard), TARWEGLUTEN, dextrose, volle MELKPOEDER, SCHARRELEI, maltodextrine, magere MELKPOEDER, 0,4% HAZELNOTEN, rijsmiddel: E450/E500, cacaomassa, aroma, geleermiddel: E339/E516/E407, SCHARRELKIPPENEI-EIGEEL, verdikkingsmiddel: E401, natuurlijk aroma, glucosestroop, citroenschil, citroensapconcentraat, MELKEIWITTEN, kleurstof: E160a/E161b, TARWEZETMEEL, emulgator: E471/E433/E322(SOJA), bakkerszout, palmvet, melasse, boterolie (MELK), cacaoboter, citroensap, vanille.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1171.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "280.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "20.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:12:30"
+}

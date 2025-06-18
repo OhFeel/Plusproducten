@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Karmeliet Belgische tripel speciaalbier",
+  "brand": "Karmeliet",
+  "price": "5.65",
+  "base_unit_price": "7.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/777978_M/c3f6afa239b0cdfd30e6955abc7126bb/777978.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, TARWE, TARWEMOUT, HAVER, hop, gist",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "316.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "8.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:21"
+}

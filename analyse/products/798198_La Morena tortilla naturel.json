@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "La Morena tortilla naturel",
+  "brand": "La Morena",
+  "price": "2.69",
+  "base_unit_price": "8.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/798198_M/e1807babb3e59920bba874219b18fae8/798198.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water,stabilisator (glycerine), raapzaadolie, suiker, zout, rijsmiddel (natriumcarbonaat), zuurteregelaar (appelzuur), conserveermiddelen (calciumpropionaat, kaliumsorbaat), emulgator (mono- en diglyceriden van vetzuren), bietenvezels. Allergie-informatie: Bevat GLUTEN. Kan sporen van SOJA bevatten",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1284.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "304.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:17"
+}

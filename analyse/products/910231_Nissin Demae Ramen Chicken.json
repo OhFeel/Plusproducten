@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nissin Demae Ramen Chicken",
+  "brand": "Nissin",
+  "price": "1.19",
+  "base_unit_price": "12.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/910231_M/87f3a74290576b1d5a68b0eb994e4e86/910231.png",
+  "ingredients": "Ingrediënten: noedels 91,5% [TARWEMEEL, palmolie, zout, meelverbeteraars (natriumcarbonaat, trifosfaten), stabilisator (kaliumcarbonaat), verdikkingsmiddel (guarpitmeel), antioxidant (tocoferolrijk extract)], kruidenpoeder 7,3% [zout, smaakversterkers (monomatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), suiker, kippenvleespoeder (6,2% in kruidenpoeder), specerijen, sojasauspoeder (SOJABONEN, TARWE, zout, maltodextrine), prei, gistextract, aroma, raapzaadolie, antiklontermiddel (siliciumdioxide), rookaroma], kruidenolie 1,2% [gerosterde SESAMOLIE, raapzaadolie, raapzaadolie, aroma's, kleurstof (paprika-extract)]. Kan sporen bevatten van SELDERIJ, SCHAALDIEREN, VIS, MELK, WEEKDIEREN en MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "380.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "91.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:39"
+}

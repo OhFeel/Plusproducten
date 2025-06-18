@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Orangina Zero",
+  "brand": "Orangina",
+  "price": "2.89",
+  "base_unit_price": "1.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/708476_M/113ebf5cea81336002b9a65308c3fd57/708476.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, sinaasappelsap en andere citrusvruchtensappen uit concentraat 12% (sinaasappel 10%, citroen, mandarijn, pompelmoes), vruchtvlees 2% (sinaasappel, mandarijn), natuurlijk aroma, natuurlijke sinaasappelaroma's, bewaarmiddelen: kaliumsorbat, zoetstoffen: acesulfaam K en sucralose, extract van sinaasappelschil.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "33.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "8.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:52"
+}

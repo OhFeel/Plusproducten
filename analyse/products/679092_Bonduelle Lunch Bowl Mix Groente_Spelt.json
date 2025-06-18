@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bonduelle Lunch Bowl Mix Groente/Spelt",
+  "brand": "Bonduelle",
+  "price": "3.59",
+  "base_unit_price": "14.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/679092_M/e63682c06fdb2bd095d27d520a8ec017/679092.png",
+  "ingredients": "Ingrediënten: Water, SPELT 19%, erwtjes16%, zwarte oogbonen 14%, cherrytomaten9%, gegrilde rode paprika's 6%, groene olijven5,5% (olijven 4,6%, zout), extra-vergineolijfolie 2,8%, zout, basilicum 0,6%, zwartepeper. Kan SOJA en SELDERIJ bevatten.",
+  "allergens": "Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "529.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "126.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:13"
+}

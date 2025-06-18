@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Duo winegums zoet fris",
+  "brand": "Redband",
+  "price": "2.49",
+  "base_unit_price": "11.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/317401_M/f18d85792bd8c684cbd67378efcfc31c/317401.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, zetmeel, water, gelatine, voedingszuur (melkzuur), natuurlijke aroma's, plantaardige oliën (kokos, koolzaad), concentraat van (zwarte wortel, spirulina, saffloer, wortel, zwarte bessen), glansmiddel (bijenwas), kleurstoffen (paprika-extract, curcumine).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1445.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "340.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:10:02"
+}

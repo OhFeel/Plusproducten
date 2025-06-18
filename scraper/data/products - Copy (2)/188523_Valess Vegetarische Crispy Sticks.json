@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Valess Vegetarische Crispy Sticks",
+  "brand": "Valess",
+  "price": "3.69",
+  "base_unit_price": "23.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/188523_M/0e8c848c5c4666977de79f749ae395b8/188523.png",
+  "ingredients": "Ingrediënten: 51% magere MELK, paneermeel met tortillastukjes (TARWEmeel, maïsbloem, tomatenpoeder, chilipoeder, zout, gist, suiker, uienpoeder, kruiden, specerijen, zonnebloemolie, chili, granulaat, kleurstof (calciumcarbonaat)), Zonnebloemolie, getextureerd TARWE-eiwit, TARWEmeel, verdikkingsmiddel (calciumalginaat, methylcellulose), gemodificeerd TARWEzetmeel, HAVERvezel, kippenEI-eiwit, stabilisator (polyfosfaten), voedingszuur (kaliumlactaat), cheddar kaaspoeder (MELK), natuurlijk aroma (MELK), specerijen, zout, ijzer.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "964.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "230.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "499.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.3",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:14:13"
+}

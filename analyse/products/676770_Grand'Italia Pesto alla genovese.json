@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Pesto alla genovese",
+  "brand": "Grand'Italia",
+  "price": "2.59",
+  "base_unit_price": "28.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/676770_M/09e4a99c10d3a73197a2a045a68ff196/676770.png",
+  "ingredients": "Ingrediënten: Zonnebloemolie, basilicum 34%, Grana Padano KAAS DOP (bevat EI) 8,4%, AMANDELEN, WEIPOEDER (bevat MELK), zout, suiker, extra vierge olijfolie 1,0%, zuurteregelaar: melkzuur, pijnboompitten, natuurlijk aroma, WEI-EIWITCONCENTRAAT (bevat MELK), knoflook. Kan andere NOTEN bevatten. GLUTENVRIJ.",
+  "allergens": "Ei, Melk, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1941.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "470.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:19:48"
+}

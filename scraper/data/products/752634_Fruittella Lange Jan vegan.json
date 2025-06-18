@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fruittella Lange Jan vegan",
+  "brand": "Fruittella",
+  "price": "2.99",
+  "base_unit_price": "17.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/752634_M/fa963fd50639b253844dc3a03e8786d6/752634.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, kokosolie, vruchtensappen (zwarte bes, sinaasappel, aardbei, citroen, banaan) (2,5%), voedingszuren (citroenzuur, appelzuur), maltodextrine, emulgatoren (mono- en diglyceriden van vetzuren, sucrose-esters van vetzuren), bevochtigingsmiddel (glycerol), concentraten (wortel, zwarte wortel, saffloer, spirulina, vlierbes), geleermiddel (arabische gom), cacaoboter, natuurlijke aroma's, verdikkingsmiddel (gellangom). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1633.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "385.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:37:13"
+}

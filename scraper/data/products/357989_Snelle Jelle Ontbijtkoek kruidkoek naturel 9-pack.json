@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Snelle Jelle Ontbijtkoek kruidkoek naturel 9-pack",
+  "brand": "Snelle Jelle",
+  "price": "3.99",
+  "base_unit_price": "6.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/357989_M/7a8df1fdbeddbab2e12a637ef21a8bfa/357989.png",
+  "ingredients": "Ingrediënten: ROGGEbloem, glucose-fructosestroop, suiker, water, specerijen, kaneel, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), zonnebloemolie. Kan NOTEN en MELK bevatten.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1291.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "304.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:21:38"
+}

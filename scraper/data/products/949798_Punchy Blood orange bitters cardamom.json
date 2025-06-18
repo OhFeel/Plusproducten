@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Punchy Blood orange bitters cardamom",
+  "brand": "Punchy",
+  "price": "1.59",
+  "base_unit_price": "6.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949798_M/13e40d55b35f4b0c267c064a9cec1d33/949798.png",
+  "ingredients": "bruisend water, italiaans perzikextract, zuur; citroenzuur, sri lankaanse gemberextract, kleurstof; karamel, natuurlijke smaakstoffen, suiker, zoetstof; steviolglycosiden, vitamine d",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "107.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "25.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:27"
+}

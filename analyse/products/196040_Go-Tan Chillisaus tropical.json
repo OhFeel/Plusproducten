@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Chillisaus tropical",
+  "brand": "Go-Tan",
+  "price": "3.39",
+  "base_unit_price": "6.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/196040_M/68b7d27cd6bdd2c6cd128ff726c05680/196040.png",
+  "ingredients": "water, suiker, 8,9% ananas, natuurazijn, gemodificeerd maïszetmeel, 1,9% rode pepers, 1,5% mango, zout, specerij, voedingszuren (citroenzuur, azijnzuur), conserveermiddel (kaliumsorbaat), verdikkingsmiddelen (xanthaangom, guargom).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "739.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "174.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.38",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:16:49"
+}

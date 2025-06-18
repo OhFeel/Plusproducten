@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Roomtruffels",
+  "brand": "Elvee",
+  "price": "8.69",
+  "base_unit_price": "28.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/579651_M/010b8a2383ab777509bc40b51b9dad73/579651.png",
+  "ingredients": "Ingrediënten: 35% melkchocolade [suiker, cacaoboter, volle MELKPOEDER, cacaomassa, emulgator (SOJALECITHINE), natuurlijk vanille-aroma], plantaardige vetten (kokosnoot, palmpit, palm, shea), suiker, weipoeder (MELK), 4% mager cacaopoeder, LACTOSE, 3% ROOM, emulgator (SOJALECITHINE), aroma. Gemaakt in een bedrijf waar ook noten worden verwerkt.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2392.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "575.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:48:12"
+}

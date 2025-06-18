@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Seamore Seaweed tagliatelle",
+  "brand": "Seamore",
+  "price": "4.39",
+  "base_unit_price": "87.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/751897_M/828e90c8cba7c41014884cdb3aa02f15/751897.png",
+  "ingredients": "ingrediënt:, gedroogd zeewier*, *=biologisch._x000d_\n_x000d_\nniet geschikt voor mensen met glutenbevattende granen, schaaldieren, vis of weekdieren allergie._x000d_",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "709.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "170.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "700.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "5900.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "14600.0",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:36:49"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Gouda's Glorie Snacksaus Fresh Garlic",
+  "brand": "Gouda's Glorie",
+  "price": "2.99",
+  "base_unit_price": "5.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/662818_M/01186c7b13adb6e1c40dca9dbd431579/662818.png",
+  "ingredients": "Ingrediënten: water, raapolie, biologische magere YOGHURT, natuurazijn, suiker, gemodificeerd maiszetmeel, vrije uitloop EIGEEL, verse gehakte knoflook 2,1%, kruiden, MOSTERD (water, MOSTERDZADEN, azijn, specerijen), zout en zeezout, knoflookpoeder, voedingszuren: melkzuur en citroenzuur, kaliumchloride, verdikkingsmiddel: guarpitmeel, ui concentraat, aroma, conserveermiddel: kaliumsorbaat, antioxidant: E385.",
+  "allergens": "Ei, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1211.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "293.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:08"
+}

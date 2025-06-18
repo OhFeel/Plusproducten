@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lee kum kee Smaakmaker Black bean garlic stir-fry",
+  "brand": "Lee kum kee",
+  "price": "1.49",
+  "base_unit_price": "29.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/276170_M/7a898efdd264188fa8532ea9732c3e0b/276170.png",
+  "ingredients": "Ingrediënten: Sojasaus (water, zout, SOJABONEN, TARWEbloem), gerfermenteerde zwarte sojabonen 18% (zwarte SOJABONEN 83%, zout, water), suiker water zout, gehydrateerde knoflook 4%, gezouten chilipepers (chilipepers, zout) gember, SOJAolie, visextract [ANSJOVIS (VIS), zout], rijstwijn  (water, rijst, TARWE), gemodificeerd maïszetmeel.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Soja, Ansjovis en producten op basis van ansjovis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "690.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "164.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "10.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:52:18"
+}

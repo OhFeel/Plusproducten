@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Hardys VR Rosé",
+  "brand": "Hardys",
+  "price": "5.29",
+  "base_unit_price": "7.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/975313_M/d49abeec31ece067372665db61bab5f9/975313.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "294.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "11.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:46"
+}

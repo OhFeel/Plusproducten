@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ola Calippo cola",
+  "brand": "Ola",
+  "price": "1.5",
+  "base_unit_price": "1.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469315_M/8654fbe4c636155948287873df650eaf/469315.png",
+  "ingredients": "water, suiker, fructosestroop, glucosestroop, citroensap op basis van geconcentreerd sap, zuurteregelaars (citroenzuur, wijnsteenzuur), stabilisatoren (taragom, johannesbroodpitmeel), kleurstof (sulfiet-ammonniakkaramel), aroma. kan melk bevatten. glutenvrij.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "379.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "87.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:45"
+}

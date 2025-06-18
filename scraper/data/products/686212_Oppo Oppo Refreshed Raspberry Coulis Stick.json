@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Oppo Oppo Refreshed Raspberry Coulis Stick",
+  "brand": "Oppo",
+  "price": "4.85",
+  "base_unit_price": "17.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/686212_M/ebc60271adaecc33afb4affa29488af6/686212.png",
+  "ingredients": "Ingrediënten: Frambozenpurre (43%), water, oplosbare maïsvezel, glucosestroop, oligofructose, zoetstoffen: erythritol en steviolglycosiden uit stevia, zetmeel, citroensap, emulgator: mono- en diglyceriden van vetzuren, frambozensap, stabilisatoren: johannesbroodpitmeel, guarpitmeel, pectinen, frambozenextract, wortelextract\n\nKan ook sporen bevatten van gluten, melk, soja, ei en noten.\n\nVoor allergenen, inclusief glutenbevattende granen, zie de vetgedrukte ingrediënten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "216.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:11"
+}

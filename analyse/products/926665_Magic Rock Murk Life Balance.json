@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Magic Rock Murk Life Balance",
+  "brand": "Magic Rock",
+  "price": "2.99",
+  "base_unit_price": "6.80",
+  "image_url": "",
+  "ingredients": "Bevat: Gerst, Haver, Tarwe",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "180.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "43.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:24"
+}

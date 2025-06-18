@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Springhome Loempiavellen",
+  "brand": "Springhome",
+  "price": "3.69",
+  "base_unit_price": "6.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/504842_M/db480a80161e666842280c658dd58771/504842.png",
+  "ingredients": "Ingrediënten: TARWE-Meel (48%), Water, Kokosolie, Zout, MELK-Eiwit, TARWE-Zetmeel, Maltodextrine, Meelverbeteraar: Ascorbinezuur.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1289.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "307.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.94",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:21:29"
+}

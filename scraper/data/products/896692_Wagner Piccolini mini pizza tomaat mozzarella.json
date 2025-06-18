@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wagner Piccolini mini pizza tomaat mozzarella",
+  "brand": "Wagner",
+  "price": "3.49",
+  "base_unit_price": "12.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/896692_M/5e80d08ba2f4131045c06ff3f09224da/896692.png",
+  "ingredients": "tarwemeel, water, mozzarella (melk) (16%), tomatenpuree (11%), tomatenblokjes (10%), koolzaadolie, gist, suiker, kruiden en specerijen, gedroogde zuurdesem (tarwe), zout, maïszetmeel, dextrose, specerijenextracten.\nbevat mogelijk : eieren, vis, lupine, melk, selderij, mosterd en soja",
+  "allergens": "Lupine, Vis, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "915.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "218.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:16"
+}

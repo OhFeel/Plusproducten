@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Stoofpeertjes met runderlapje",
+  "brand": "PLUS",
+  "price": "5.59",
+  "base_unit_price": "11.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/845205_M/9fb007fac31de8db494d52cf12183f5e/845205.png",
+  "ingredients": "Ingrediënten :40% stoofperen (95% peer, water, suiker, wortelconcentraat, specerijen, voedingszuur: E330, conserveermiddel: E202, maltodextrine, karamelsuikersiroop), 28% aardappelpuree (78% gekookte aardappel, volle MELK, water, raapzaadolie, boter (MELK), zout, kaliumchloride, gistextract), 16% uienjus (water, 23% ui, plantaardige oliën (raapzaad, zonnebloem), gemodificeerd maïszetmeel, natuurlijke aroma's (bevat SELDERIJ), suiker, tomatenpuree, zout, rode wijnextract, kaliumchloride, wijnazijn, gekaramelliseerde suiker, conserveermiddel: E202, verdikkingsmiddel: E406, specerijen, druivenmostconcentraat, geroosterd uienpoeder, gistextract, kleurstof: E150d), 16% runderlapje (95% rundvlees*, rundereiwit, aardappelzetmeel, zout, gekaramelliseerde suiker, water, conserveermiddel: E261, voedingszuur: E330).\n\n* = Beter Leven keurmerk 2 sterren.\n\nKan TARWE en SOJA bevatten.",
+  "allergens": "Melk, Selderij, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "326.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.56",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.81",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.26",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.46",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.57",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "4.89",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.24",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.39",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.475",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:39"
+}

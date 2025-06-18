@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Leentjes Koekjespret bakmix",
+  "brand": "Leentjes",
+  "price": "2.89",
+  "base_unit_price": "9.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/252839_M/b1731e94e5d01d733179813f65507ccd/252839.png",
+  "ingredients": "TARWEbloem, suiker, 9% suikerdecoratie (suiker, water, zonnebloemolie, aardappelzetmeel, rijstebloem, saffloerextract, natuurlijk vanille aroma, spirulina, rammenas, zwarte bes, appels, citroen), gedroogde glucosestroop, rijsmiddelen (E450, E500), zout, natuurlijk aroma, Kan EI bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1763.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "420.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:43:37"
+}

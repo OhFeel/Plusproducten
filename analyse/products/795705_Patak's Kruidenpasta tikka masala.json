@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's Kruidenpasta tikka masala",
+  "brand": "Patak's",
+  "price": "3.29",
+  "base_unit_price": "19.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/795705_M/5bf50ba4eee3c499634ba315512add9e/795705.png",
+  "ingredients": "water, gemalen specerijen (19%) [kurkuma, paprika (4%), komijn (3%), koriander (3%), specerijen], koolzaadolie, zout, maïsmeel, voedingszuuren (azijnzuur, citroenzuur),tamarinde, knoflookpoeder, gedroogd fenegriekblad, komijnzaad, paprika-extract, gedroogd korianderblad. kan mosterd, aardnoten (pinda's) en noten bevatten",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "270.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:46"
+}

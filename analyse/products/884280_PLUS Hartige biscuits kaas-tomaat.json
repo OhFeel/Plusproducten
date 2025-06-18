@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Hartige biscuits kaas-tomaat",
+  "brand": "PLUS",
+  "price": "1.79",
+  "base_unit_price": "10.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/884280_M/2477921181ccd0a505370fcafa8d833a/884280.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 12% vulling met tomatenpureeconcentraat (gedroogde glucosestroop, bevochtigingsmiddel: E422, maltodextrine, 10% tomatenpureeconcentraat, gemodificeerd zetmeel (tapioca, aardappel), stabilisator: E460, zout, olijfolie, kleurstof: E160c, zwarte peper, natuurlijk aroma), suiker, zonnebloemolie, 5% geraspte kaas (MELK, aardappelzetmeel, zout, zuursel, dierlijk stremsel, conserveermiddel: E251, kleurstof: annatto norbixine/carotenen), gedroogde paprikastukjes, 2% mix met kaaspoeder (65% kaaspoeder (MELK, zout, zuursel, microbieel stremsel), glucosestroop, TARWEZETMEEL, zout, raapzaadolie), inuline, dextrose, natuurlijk aroma (MELK), olijfolie, zout, natuurlijke aroma's, rijsmiddel: E450/E500, MELKEIWIT, uipoeder, antioxidant: E392. \n\nDit product kan sporen van andere GLUTENBEVATTENDE GRANEN, EI, NOTEN, PINDA, SESAM en SOJA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1681.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "399.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.451",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.512",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "6.896",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.992",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.171",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.057",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "52.108",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.382",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.888",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.86",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.744",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.051",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "7.972",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:59:37"
+}

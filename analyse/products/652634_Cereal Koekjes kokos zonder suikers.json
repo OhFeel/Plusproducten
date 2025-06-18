@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Cereal Koekjes kokos zonder suikers",
+  "brand": "Cereal",
+  "price": "3.19",
+  "base_unit_price": "24.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/652634_M/15a45f453ab2a255fa0960bd3b4f40b5/652634.png",
+  "ingredients": "Ingrediënten: TARWEbloem 58,1%, zoetstof: maltitolen van plantaardige oorsprong, koolzaadolie, TARWEzetmeel, TARWEvezels, natuurlijke aroma's: smaak kokos en kokosmelk, emulgator: lecithinen, rijsmiddelen: citroenzuur en ammoniumcarbonaten, zeezout\n\nKan sporen van noten (amandelen, hazelnoten, walnoten), lupine, eieren, melk, sesamzaad en soja bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1791.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "427.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:30"
+}

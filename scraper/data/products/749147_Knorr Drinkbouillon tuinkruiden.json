@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Drinkbouillon tuinkruiden",
+  "brand": "Knorr",
+  "price": "1.39",
+  "base_unit_price": "69.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749147_M/3ee997abe55225021b5e2607998129fe/749147.png",
+  "ingredients": "Ingrediënten: Zout, smaakversterker (E621, E627, E631), aroma (bevat SELDERIJ), mineraalzout (kalium), kruiden¹ 1,5% (peterselie, lavas), rode paprika¹ 0,8%, groene paprika, palmvet, uienpoeder¹, suiker, gebakken uiensapconcentraat¹ (uiensapconcentraat, zonnebloemolie), specerijen¹ (knoflookpoeder, peterseliewortelpoeder), gistextract, karamelsiroop, maltodextrine.  ¹op duurzame wijze geteeld.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "17.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "4.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:57"
+}

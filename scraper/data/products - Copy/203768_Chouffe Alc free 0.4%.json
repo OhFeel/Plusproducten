@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Chouffe Alc free 0.4%",
+  "brand": "Chouffe",
+  "price": "1.94",
+  "base_unit_price": "5.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/203768_M/be8613b92951f97ced708fa25a9f5ff4/203768.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, TARWEMOUT, hop, kruiden, hopextract.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "96.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "23.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:19:49"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Chorizo",
+  "brand": "Lays",
+  "price": "2.39",
+  "base_unit_price": "12.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/154070_M/f43a61e7ce6386eb645ecb643274d6d1/154070.png",
+  "ingredients": "Ingrediënten: aardappelen, plantaardige oliën (zonnebloem, koolzaad, in wisselende hoeveelheden), chorizo en geroosterde uiensmaak [suiker, aroma's, (bevat MELK), zout, specerijen, gerookt zout, voedingszuur (citroenzuur), kleurstof (paprika-extract)], antioxidanten (extracten van rozemarijn, ascorbinezuur, tocoferolrijk extract, citroenzuur).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2154.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "516.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:58:19"
+}

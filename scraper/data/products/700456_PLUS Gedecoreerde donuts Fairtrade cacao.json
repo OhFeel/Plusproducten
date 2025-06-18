@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gedecoreerde donuts Fairtrade cacao",
+  "brand": "PLUS",
+  "price": "0.79",
+  "base_unit_price": "0.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/700456_M/a207bbda10c41bb3f8770b3206460940/700456.png",
+  "ingredients": "Ingrediënten :Deeg van alle donuts: TARWEBLOEM, water, palmvet, zonnebloemolie, dextrose, gist, weipoeder (MELK), SOJABLOEM, zout, magere MELKPOEDER, emulgator: E471/E481, rijsmiddel: E450/E500, kleurstof: E160a, meelverbeteraar: E300, natuurlijk vanillearoma.\n\nRoze donuts: 18% coating (suiker, weipoeder (MELK), plantaardige vetten (palm, palmpit, kokos), lactose (MELK), palmolie, maïszetmeel, emulgator: E322, kleurstof: E162, natuurlijk aardbei-aroma), 8% topping (suiker, glucosestroop, palmvet, emulgator: E322 (SOJA)).\n\nGele donuts met gekleurde decoratie: 16% coating (suiker, weipoeder (MELK), plantaardige vetten (palm, palmpit, kokos), lactose (MELK), maïszetmeel, emulgator: E322, kleurstof: E160a, natuurlijk banaanaroma), 5% topping (suiker, glucosestroop, zuurteregelaar: E330, kleurstof: E160a/E141, vlierbessenconcentraat, glansmiddel: E901, natuurlijk aroma, zonnebloemolie).\n\nOranje donuts: 16% coating (suiker, weipoeder (MELK), plantaardige vetten (palm, palmpit, kokos), lactose (MELK), maïszetmeel, emulgator: E322, kleurstof: E160c), 7% topping (suiker, plantaardige vetten (palm, palmpit), emulgator: E322/E492, kleurstof: E161b/E160c, verdikkingsmiddel: E414, natuurlijk aroma).\n\nWitte donuts: 16% coating (suiker, weipoeder (MELK), plantaardige vetten (palm, palmpit, kokos), lactose (MELK), maïszetmeel, emulgator: E322), 7% topping (suiker, cacaomassa, cacaoboter, boter (MELK), emulgator: E322/E476, verdikkingsmiddel: E414, natuurlijk aroma).\n\nBruine donuts met gekleurde decoratie: 15% coating (suiker, plantaardige vetten (palm, palmpit, kokos), magere cacaopoeder, MELKPOEDER, emulgator: E322, natuurlijke aroma's), 6% topping (suiker, glucosestroop, plantaardige oliën (kokos, raap), zetmeel (maïs, aardappel), rode bietensapconcentraat, spinaziepoeder, emulgator: E322, kleurstof: E100). \n\nKan EI, AMANDEL, HAZELNOOT, PISTACHENOOT en MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1807.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "433.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.73",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "20.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.28",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.512",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:25:03"
+}

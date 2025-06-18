@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Italiano Zachte zoete dropstaafjes",
+  "brand": "Italiano",
+  "price": "2.29",
+  "base_unit_price": "11.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/917688_M/170d9fd792778b970f1754eae0e35c29/917688.png",
+  "ingredients": "Ingrediënten: suiker, TARWEBLOEM, melasse, zoethoutwortelextract, zout, emulgator (E471), natuurlijk aroma (anijsolie), kleurstof (E153), plantaardige olie (koolzaad, zonnebloem, kokos), glansmiddelen (E901, E903).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1404.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "331.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "76.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:09"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Senseo Café latte vanilla koffiepads",
+  "brand": "Senseo",
+  "price": "3.39",
+  "base_unit_price": "0.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/261201_M/f6da4fe2ac425a58f0d5a6f74e28461f/261201.png",
+  "ingredients": "Ingrediënten: magere MELKPOEDER, suiker, volledig gehard plantaardig vet (kokos), glucosestroop, instant koffie (5%), aroma, stabilisatoren (E340, E452), zout, antiklontermiddelen (E341, E551), MELKEIWIT, emulgator (E481).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "154.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "37.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:45:16"
+}

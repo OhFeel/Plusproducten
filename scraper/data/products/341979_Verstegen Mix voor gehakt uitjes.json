@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verstegen Mix voor gehakt uitjes",
+  "brand": "Verstegen",
+  "price": "5.69",
+  "base_unit_price": "28.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/341979_M/b4909f8251d23f88dc04152b10f6ec6b/341979.png",
+  "ingredients": "Ingrediënten: groenten (38% ui, 4% geroosterde ui, prei), zout, 15% specerijen (koriander, peper, gember, nootmuskaat), aroma's (bevat smaakversterker: mononatriumglutamaat, SELDERIJ), bieslook.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1081.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "257.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "29.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:17:56"
+}

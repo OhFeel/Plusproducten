@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix shoarma",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "59.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898803_M/1014766fb3f148b26ec43c331ff61949/898803.png",
+  "ingredients": "Ingrediënten:  Specerijen 48.7% (paprika 21%, korainderzaad, kurkuma 5.5%, komijn 5%, knoflookpoeder, zwarte peper, piment, fenegriek, gember, chilipeper, kruidnagel, selderijzaad), zout 30%, smaakversterker: mononatriumglutamaat, dextrose, gedroogde gist, peterselie, raapzaadolie, antiklontermiddel: siliciumdioxide. Totale gehalte aan kruiden en specerijen: 49.9%",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1023.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "244.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "34.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:38"
+}

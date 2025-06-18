@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Italiaanse mix zonder zout",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "99.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375418_M/2eed588671fee1255ca1a85db0d4896a/375418.png",
+  "ingredients": "specerijen 31,7% (gedroogde knoflook, gedroogde ui, paprika, gedroogde tomaat 20%), kruiden 18,8% (oregano 11,8%, marjolein, basilicum), groene paprika, rode paprika 14%, extra vierge olijfolie, totale gehalte aan kruiden en specerijen: 50,5%.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1377.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "328.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:09"
+}

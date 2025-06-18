@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Heks'nkaas met dipstokjes",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "21.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654703_M/d7dcb07b787915c4373301bb7a97254f/654703.png",
+  "ingredients": "Ingrediënten :68% Heks'nkaas (koolzaadolie, water, 16% roomkaas (MELK, room (MELK), microbieel stremsel, zuursel), 10% verse prei, suiker, 3% verse peterselie, 1,6% room (MELK), 1,3% knoflook, natuurazijn, citroensap, SCHARRELKIPPENEI-EIGEEL, gemodificeerd zetmeel, zout, verdikkingsmiddel: E412/E415/E410, maïszetmeel, conserveermiddel: E202, SCHARRELKIPPENEI-EIWIT, specerijen, MOSTERD, voedingszuur: E330, stabilisator: E407, zoetstof: E955/E954), 32% Dipstokjes (TARWEBLOEM, zonnebloemolie, basilicum, bakkersgist, palmolie, olijfolie, gemoute TARWEBLOEM, zout, knoflook).\n\nKan SELDERIJ en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1719.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "414.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "18.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "20.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.61",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.644",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:48"
+}

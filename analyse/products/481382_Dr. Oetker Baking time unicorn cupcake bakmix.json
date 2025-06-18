@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Baking time unicorn cupcake bakmix",
+  "brand": "Dr. Oetker",
+  "price": "3.39",
+  "base_unit_price": "14.01",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/481382_M/7445478ad224f248452593f595762c37/481382.png",
+  "ingredients": "Ingrediënten: Ingrediënten cakemix (170 g): TARWEBLOEM, suiker, rijsmiddelen (E575, E500), aroma. Ingrediënten glazuurmix (60 g): poedersuiker, kleurstof (bietenrood), natuurlijk aroma, anti-klontermiddel E341. Ingrediënten suikerdecoratie (12 g): suiker, gemodificeerd zetmeel, plantaardige oliën (kokos, palmpit), zetmeel, glucosestroop, rijstebloem, kleurende levensmiddelen (concentraten van spirulina, radijs, zoete aardappel), aroma, kleurstof (E100), anti-klontermiddel (talk). Kan bevatten: EI en MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1681.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "400.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:04"
+}

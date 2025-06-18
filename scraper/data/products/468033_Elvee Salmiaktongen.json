@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Salmiaktongen",
+  "brand": "Elvee",
+  "price": "3.29",
+  "base_unit_price": "18.28",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/468033_M/cecd6e9c8c4e6dfda500e87759dd296f/468033.png",
+  "ingredients": "suiker, glucosestroop, gemodificeerd maïszetmeel, salmiakzout (7%), gelatine (varken), zoethoutwortelextract, melasse, natuurlijk aroma, plantaardige olie (kokos), glansmiddel (e903).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1412.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "332.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:04:55"
+}

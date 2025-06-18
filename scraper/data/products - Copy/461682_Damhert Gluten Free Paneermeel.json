@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Gluten Free Paneermeel",
+  "brand": "Damhert",
+  "price": "3.69",
+  "base_unit_price": "18.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/461682_M/f51929daec89922c99819a6a0284fda1/461682.png",
+  "ingredients": "maïszetmeel, rijstmeel, water, tapiocazetmeel, gist, dextrose, suiker, zout, extra vierge olijfolie van eerste persing, verdikkingsmiddelen (guarpitmeel, hydroxypropylmethylcellulose), psylliumvezels, emulgator (mono- en diglyceriden van vetzuren). Kan LUPINE, MOSTERD, SESAM en SOJA bevatten.",
+  "allergens": "Maïs",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1616.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "382.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "84.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:03:17"
+}

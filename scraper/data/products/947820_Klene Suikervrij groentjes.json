@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Klene Suikervrij groentjes",
+  "brand": "Klene",
+  "price": "2.59",
+  "base_unit_price": "28.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947820_M/558b143965fb2632a3fa59d4ec40e23b/947820.png",
+  "ingredients": "Ingrediënten: zoetstoffen (maltitolstroop, erytritol, steviolglycosiden), gelatine, gemodificeerd zetmeel, verdikkingsmiddel (arabische gom), natuurlijk aroma, concentraten (spirulina, saffloer). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "842.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "201.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:31"
+}

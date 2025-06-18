@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Candyman Mac bubble watermeloen",
+  "brand": "Candyman",
+  "price": "2.29",
+  "base_unit_price": "16.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/936134_M/c46918359d3fcba61d3a250332f82f56/936134.png",
+  "ingredients": "suiker, glucosestroop, gombasis, voedingszuur (citroenzuur), kleurstoffen (e162, e153), aroma's, bevochtigingsmiddel (sorbitol). met bijna echte pitjes.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1464.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "350.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "88.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:59"
+}

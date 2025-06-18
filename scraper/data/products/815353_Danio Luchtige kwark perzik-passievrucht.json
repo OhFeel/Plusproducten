@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Danio Luchtige kwark perzik-passievrucht",
+  "brand": "Danio",
+  "price": "1.99",
+  "base_unit_price": "7.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/815353_M/a01d807dd881ceb7f8887bd1aaa26c65/815353.png",
+  "ingredients": "Ingrediënten: Magere MELK, magere kwark (MELK) (28,5%), room (MELK), suiker, perzik (7%), passievruchtsap uit concentraat (1,6%), glucose-fructosestroop, kleurstof (carotenen), gemodificeerd maïszetmeel, varkensgelatine, verdikkingsmiddelen (pectinen, guarpitmeel), zuurteregelaars (natriumcitraten, citroenzuur), wortel- en pompoenconcentraat, aroma's, MELKfermenten",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "585.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "139.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:30"
+}

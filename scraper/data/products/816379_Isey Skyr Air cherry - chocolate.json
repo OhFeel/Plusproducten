@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Isey Skyr Air cherry - chocolate",
+  "brand": "Isey Skyr",
+  "price": "1.69",
+  "base_unit_price": "13.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/816379_M/51b9885c79c81ac57d659a6263b7e95e/816379.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde magere MELK (dk), water, kersen (9%), ROOM (4%), chocolade (1,3%) (cacaoboter, cacaopoeder, magere cacaopoeder, BOTERCONCENTRAAT, suiker), gelatine, gemodificeerd maïszetmeel, emulgator (mono- en diglyceriden van vetzuren veresterd met melkzuur), fruit-/groenteconcentraat, verdikkingsmiddel (pectine), aroma, zoetstoffen (sucralose, acesulfaam k), lactase, skyr-culturen, schuimmiddel (stikstof).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "354.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "84.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:51"
+}

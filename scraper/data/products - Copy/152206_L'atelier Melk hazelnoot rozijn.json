@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "L'atelier Melk hazelnoot rozijn",
+  "brand": "L'atelier",
+  "price": "3.99",
+  "base_unit_price": "26.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/152206_M/8f734a5a15a79ea5f0fc77dcc96b29b2/152206.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter¹, cacaomassa¹, volle MELKpoeder, HAZELNOTEN (8%) rozijnen (7%), magere MELKpoeder, emulgator (lecithinen), natuurlijk aroma., Cacaobestanddelen: ten minste 30%, Bevat mogelijk: EIEREN, GLUTEN, andere NOTEN, ¹Rainforest Alliance gecertificeerd. www.ra.org",
+  "allergens": "Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2222.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "532.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "52.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:39"
+}

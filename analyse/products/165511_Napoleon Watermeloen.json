@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Napoleon Watermeloen",
+  "brand": "Napoleon",
+  "price": "2.19",
+  "base_unit_price": "9.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/165511_M/d36689441d4472e07f3aae1a6f2fbc63/165511.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, dextrose, voedingszuur (citroenzuur), natuurlijk aroma, extract van paprika, vlierbessen concentraat",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1640.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "386.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "96.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:50"
+}

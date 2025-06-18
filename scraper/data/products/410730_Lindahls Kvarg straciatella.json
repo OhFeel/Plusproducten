@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindahls Kvarg straciatella",
+  "brand": "Lindahls",
+  "price": "3.09",
+  "base_unit_price": "6.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/410730_M/b96209f93caae589359cf2cc174abf99/410730.png",
+  "ingredients": "Ingrediënten: Magere MELK (92%), water, MELKeiwitten, chocoladestukjes (0,5%) [cacaoboter, cacaopoeder, magere cacaopoeder, geconcentreerde boter (MELK), suiker], gemodificeerd zetmeel, natuurlijk aroma, lactase, Infomains geconcentreerd citroensap, verdikkingsmiddel (pectinen), zoetstoffen (acesulfaam-K, aspartaam), conserveermiddel (kaliumsorbaat), stremmend enzym, MELKzuurfermenten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "253.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "60.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:43:13"
+}

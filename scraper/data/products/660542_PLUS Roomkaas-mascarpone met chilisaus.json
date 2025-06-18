@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Roomkaas-mascarpone met chilisaus",
+  "brand": "PLUS",
+  "price": "2.83",
+  "base_unit_price": "22.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/660542_M/d03e271059b16c1b2ca9a9d6395d4c59/660542.png",
+  "ingredients": "Ingrediënten :80% roomkaasbereiding (34% verse roomkaas (MELK, zout, zuursel, microbieel stremsel), 34% zure room (MELK), 12% mascarpone (room (MELK), voedingszuur: E330), groenten (knoflook, ui, pastinaak, wortelpeterselie), plantaardige oliën (zonnebloem, raapzaad, in wisselende verhouding), suiker, water, gemodificeerd aardappelzetmeel, kruiden (bieslook, peterselie), azijn, zout, voedingszuur: E330/E260, 0,2% specerijen (90% rode chilli peper, specerijen, peper, lavaswortel), conserveermiddel: E202, gemodificeerd maïszetmeel, verdikkingsmiddel: E412/E415, dextrose, specerijenextracten (foelie, knoflook), natuurlijk aroma), 20% chillisaus (suiker, water, azijn, 3% rode chilli pepers, gemodificeerd maïszetmeel, zout, specerijen, voedingszuur: E330/E260, conserveermiddel: E202, verdikkingsmiddel: E412/E415)",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1106.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "266.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.36",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:15:20"
+}

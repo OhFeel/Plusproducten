@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Flatchips BBQ",
+  "brand": "Lays",
+  "price": "1.79",
+  "base_unit_price": "8.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/297647_M/d22c7a1a009fbd4f2f7a84668e2d6811/297647.png",
+  "ingredients": "Ingrediënten: aardappelen, plantaardige oliën (zonnebloem, koolzaad, maïs, in wisselende hoeveelheden), barbecue smaak [suiker, zout, aroma (bevat SOJA), paprikapoeder, dextrose, uipoeder, tomaatpoeder, knoflookpoeder, zuurteregelaars (appelzuur, citroenzuur), johannisbroodpitmeel, kleurstof (paprika-extract), gerookte maltodextrine, gerookte zonnebloemolie].",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2115.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "507.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:02:41"
+}

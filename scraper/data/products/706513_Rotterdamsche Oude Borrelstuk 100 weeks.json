@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Rotterdamsche Oude Borrelstuk 100 weeks",
+  "brand": "Rotterdamsche Oude",
+  "price": "4.99",
+  "base_unit_price": "24.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/706513_M/5d0ecbd4542d4ca8b5ed1724dc32cc66/706513.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde KOEMELK, zout, zuursel, dierlijk stremsel, conserveermiddel (E251), kleurstof (E160b(ii))",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1771.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "427.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "24.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "26.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.97",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:07"
+}

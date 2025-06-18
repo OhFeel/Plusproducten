@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Spread Veggie Tomato Bio",
+  "brand": "BioToday",
+  "price": "2.99",
+  "base_unit_price": "12.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/296703_M/4c8832f003db06ea6f36e36967b2a69e/296703.png",
+  "ingredients": "Ingrediënten: tomatenpuree* 25%, wortelen*, koolzaadolie*, tomaten* 12%, water, zonnebloempitten*, SESAMZAAD*, zout, rijstmeel*, basilicum* 0,6%, chilipeper*, zwarte peper*. *=biologisch",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1141.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "276.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:02:02"
+}

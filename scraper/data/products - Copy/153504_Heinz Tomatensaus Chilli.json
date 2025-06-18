@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Heinz Tomatensaus Chilli",
+  "brand": "Heinz",
+  "price": "1.49",
+  "base_unit_price": "4.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/153504_M/8fccecf0798e1e92334c87a28bdc9aef/153504.png",
+  "ingredients": "Ingrediënten: Tomaten (154g per 100g Tomato Frito), plantaardige oliën 3,4% (zonnebloem, soja in wisselende verhoudingen met extracten van gebakken ui en knoflook), suiker, gemodificeerd zetmeel, zout, specerijen, cayennepeper 0,2%, kruiden, ui, knoflook, specerij-extracten, zuurteregelaar: citroenzuur.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "313.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:58:01"
+}

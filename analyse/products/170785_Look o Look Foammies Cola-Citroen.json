@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Foammies Cola-Citroen",
+  "brand": "Look o Look",
+  "price": "2.49",
+  "base_unit_price": "13.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/170785_M/93560df0651553e7fcfacb3dd6273dc9/170785.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, gemodificeerd zetmeel, gelatine, voedingszuren (citroenzuur, appelzuur), stabilisator (sorbitolstroop), zuurteregelaars (natriummalaten, trinatriumcitraat), kleurstoffen (sulfiet-ammoniakkaramel, curcumine), aroma's",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1449.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "341.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "82.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:06:25"
+}

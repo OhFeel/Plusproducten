@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ola OLA Chocolate Donut Stick 4x62ml",
+  "brand": "Ola",
+  "price": "2.99",
+  "base_unit_price": "12.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/402659_M/ce68e3fb45077ce988b8870e65ff0665/402659.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, suiker, plantaardige vetten (kokos, shea), magere cacaopoeder, TARWEBLOEM, vulstof (polydextrose), volle MELKPOEDER, LACTOSE en MELKEIWITTEN, glucose-fructosestroop, fructose, zonnebloemolie, kleurstof (karamel), emulgatoren (lecithines (bevat SOJA), mono- en diglyceriden van vetzuren, polyglycerol polyricinoleaat), magere MELKPOEDER, stabilisatoren (johannesbroodpitmeel, guargom, carrageen), aroma's, rijsmiddelen (natriumcarbonaten, ammoniumcarbonaten), zout. Kan ROGGE, GERST, HAVER, EI, PINDA, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT, PISTACHENOOT, MACADAMIANOOT, MOSTERD en LUPINE bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1384.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "331.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:06"
+}

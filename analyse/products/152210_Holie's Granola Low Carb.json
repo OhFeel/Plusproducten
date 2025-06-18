@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Holie's Granola Low Carb",
+  "brand": "Holie's",
+  "price": "3.99",
+  "base_unit_price": "11.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/152210_M/b1615dfd397b700f8dd1d329daf455b2/152210.png",
+  "ingredients": "Ingrediënten: Zonnebloempitten 31%, SOJAVLOKKEN 19%, Cichoreiwortelvezel 10%, AMANDELEN 8%, VOLKOREN SPELTVLOKKEN 6%, Lijnzaad 6%, VOLKOREN HAVERVLOKKEN 6%, VOLKOREN GERSTVLOKKEN 6%, PINDAKAAS (10% PINDA) 5%, TARWEGLUTEN 3%.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Aardnoten (pinda's), Soja, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2027.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "490.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "15.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:40"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Coppenrath & Wiese Cheesecake bosbessen",
+  "brand": "Coppenrath & Wiese",
+  "price": "4.99",
+  "base_unit_price": "9.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/427119_M/5c841bf650b2863d67171005f6ebb3b3/427119.png",
+  "ingredients": "Ingrediënten: blauwe bosbessen (18%), TARWEBLOEM, MAGERE KWARK (MELK) (11%), HALFVOLLE KWARK (MELK) (11%), glucose-fructosestroop, suiker, water, plantaardige margarine (plantaardig vet (palm), water, plantaardige olie (raapzaad, palm), emulgator mono- en diglyceriden van vetzuren), ROOM, kandijsuiker, zwarte bes, EI, gemodificeerd zetmeel, blauwe bosberren sapconcentraat, invertsuikerstroop, natuurlijk aroma, geleermiddel (pectine), rijsmiddel (natriumcarbonaat, ammonium carbonaat), emulgator (mono- en diglyceriden van vetzuren), zuurteregelaar (natriumcitraten, calciumchloride), levensmiddelenkleurstof wortelextract, voedingszuur (citroenzuur), zout.\nKan noten bevatten. Wordt in een productielokatie gefabriceerd waar noten verwerkt worden.",
+  "allergens": "Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "239.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:48:43"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kwekkeboom Oven kalfsvlees croquetten 4st",
+  "brand": "Kwekkeboom",
+  "price": "5.19",
+  "base_unit_price": "18.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/351235_M/886a9724cc694f1b1ad36f1afcfe3782/351235.png",
+  "ingredients": "Ingrediënten: water, bloem (TARWE, SOJA), 12% kalfsvlees, plantaardige oliën en vetten (raapzaadolie, shea boter, koolzaadolie), 7% room (MELK), zetmeel (TARWE, maïs), 0.2 kruiden en specerijen (bevat SELDERIJ), ui, gelatine (rund), gistextract, aroma, verdikkingsmiddelen (xanthaangom, guarpitmeel, E466, E461), suiker, kleurstof (curcumine, E160b(ii)), MELKeiwit, zout, champignonpoeder, stabilisatoren (carrageen, E451, E450), citrusvezel, natuurazijn, emulgatoren (lecithinen, E471), lavas, dextrose, voedingszuur (citroenzuur, melkzuur), SOJAbonen, rijsmiddel (E500), TARWE-eiwithydrolysaat, maltodextrine, conserveermiddel (E250), TARWE, antioxidant (extracten van rozemarijn). E = Door EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Selderij, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1099.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "263.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:19:39"
+}

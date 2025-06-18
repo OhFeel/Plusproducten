@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "KitKat Festive Friends",
+  "brand": "KitKat",
+  "price": "2.49",
+  "base_unit_price": "38.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/307817_M/784ef5deb4e34df2b134c181b16abb90/307817.png",
+  "ingredients": "Ingrediënten: plantaardige oliën (palm, koolzaad, zonnebloem in wisselende verhoudingen), magere MELKpoeder, cacaoboter*, cacaomassa*, rijstemeel, LACTOSE, magere cacao*, WEIpoeder, watervrij MELKvet, emulgator (lecithinen), aardappelzetmeel, maïszetmeel, rijsmiddel (natriumcarbonaten), zout, WEIproteïneconcentraat, bamboevezel, natuurlijk vanillearoma, natuurlijk aroma. Bevat mogelijk: NOTEN. *Rainforest Alliance gecertificeerd. www.ra.org.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2241.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "537.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:07:34"
+}

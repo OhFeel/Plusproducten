@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Tosti quick saus",
+  "brand": "Remia",
+  "price": "1.99",
+  "base_unit_price": "5.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/796755_M/a9712c2cb98e461c3fadd3919fe29387/796755.png",
+  "ingredients": "groenten (ui, prei en paprika), tomatenpuree (112g verse tomaten per 100g saus), glucose-fructosestroop, raapolie, natuurazijn, gemodificeerd maiszetmeel, zout, specerijen, kruiden, conserveermiddel: kaliumsorbaat, voedingszuur: melkzuur, verdikkingsmiddel: guarpitmeel.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "519.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "123.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:50"
+}

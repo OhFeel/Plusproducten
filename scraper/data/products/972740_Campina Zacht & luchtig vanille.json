@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Campina Zacht & luchtig vanille",
+  "brand": "Campina",
+  "price": "2.59",
+  "base_unit_price": "2.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/972740_M/ab1353b27360b272085b6fdba2ecf0c3/972740.png",
+  "ingredients": "Ingrediënten: Halfvolle MELK, water, suiker, plantaardige oliën (palm, palmpit, kokos, raapzaad), gemodificeerd maïszetmeel, glucosestroop, MELKeiwit, karneMELKpoeder, geharde palmpitolie, verdikkingsmiddel: carrageen, xanthaangom; stabilisator: E331, E339, E460, E466; emulgatoren: SOJAlecithine, E435, E472b, E472e; zout, aroma, kleurstof: annatto norbixine, bètacaroteen, curcumine.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "363.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "87.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:33"
+}

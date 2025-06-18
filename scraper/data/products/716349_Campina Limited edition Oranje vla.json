@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Campina Limited edition Oranje vla",
+  "brand": "Campina",
+  "price": "2.59",
+  "base_unit_price": "2.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/716349_M/9310d1b3be2377a953dae2858f5df764/716349.png",
+  "ingredients": "Ingrediënten: MELK, vloeibare MELKbestanddelen, suiker, gemodificeerd maïszetmeel, verdikkingsmiddel: carrageen; natuurlijk aroma, kleurstof: annatto norbixine, carotenen; calciumcarbonaat.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "416.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "99.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "150.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:27"
+}

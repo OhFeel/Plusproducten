@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Cardini's Original Ceasar dressing",
+  "brand": "Cardini's",
+  "price": "4.99",
+  "base_unit_price": "14.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/500793_M/ffedb838493ff074fe6fea816ef3d84d/500793.png",
+  "ingredients": "Ingrediënten: Koolzaadolie (62%), water, gepasteuriseerd EIGEEL, wittewijnazijn, citroensapconcentraat, zout, Parmigiano Reggiano-kaas (MELK) (1%), MOSTERDMEEL, zwarte peper, worcestersaus (water, brandewijnazijn, GERSTEMOUTAZIJN, suiker, melasse, zout, gedroogde ui, gedroogde knoflook, tamarindepasta, gedroogde gember, chilipoeder), gedroogde knoflook, gedroogde ui, extra vierge olijfolie, ansjovispasta (ansjovis (VIS), zout, olijfolie), stabilisator: xanthaangom.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Vis, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2484.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "607.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "65.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:19:25"
+}

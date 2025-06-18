@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Kees Barley Wine",
+  "brand": "Kees",
+  "price": "3.49",
+  "base_unit_price": "10.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/748255_M/6b93ea6edc2b548ad2a415e81444da6d/748255.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, Hop, Gist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "11.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:35"
+}

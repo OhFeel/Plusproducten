@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Bonbebe standaard volledige zuigelingenvoeding",
+  "brand": "Bonbebe",
+  "price": "8.49",
+  "base_unit_price": "10.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/919359_M/b803c32d0d8e7c6de59ad6d1f5103732/919359.png",
+  "ingredients": "Ingrediënten :Gedemineraliseerde wei (MELK), oliën (plantaardig oliën (palm, palmpit, raapzaad, zonnebloem), VISOLIE (DHA), Mortierella alpina olie (AA)), magere MELK, lactose (MELK), maltodextrine, vezels (galacto-oligosacharide (MELK), fructo-oligosacharide), mineralen (kaliumcitraat, calciumzouten van orthofosforzuur, calciumcarbonaat, natriumchloride, magnesiumzouten van citroenzuur, kaliumchloride, calciumhydroxide, ijzer(II)sulfaat, zinksulfaat, koper(II)sulfaat, mangaansulfaat, kaliumjodide, natriumseleniet), vitamines (L-ascorbinezuur, natrium L-ascorbaat, DL-alfa-tocoferylacetaat, nicotinamide, calcium D-pantothenaat, retinylacetaat, riboflavine, thiaminehydrochloride, cholecalciferol, pyridoxinehydrochloride, foliumzuur, D-biotine, fytomenadion, cyanocobalamine), cholinechloride, taurine, nucleotiden (cytidine 5'-monofosfaat, natriumzouten van uridine 5'-monofosfaat, adenosine 5'-monofosfaat, guanosine 5'-monofosfaat, natriumzouten van inosine 5'-monofosfaat), inositol, antioxidant: L-Ascorbylpalmitaat/Delta-tocoferol (SOJA), emulgator: mono- en diglyceriden van vetzuren/SOJALECITHINE.",
+  "allergens": "Vis, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "279.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "67.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "Samenstelling:# Gemiddelde voedingswaarde per 100 ml bereide voeding# Energie;279;kJ/67;kcal# Vetten;3,3;g# verzadigd vet;1,3;g# enkelvoudig onverzadigd vet;1,3;g# meervoudig onverzadigd vet;0,7;g# -linolzuur;432;mg# -α-linoleenzuur (ALA);43;mg# -arachidonzuur (AA);7,4;mg# -docosahexaeenzuur (DHA);17;mg# Koolhydraten;7,7;g# suikers;7,1;g# -lactose;7,0;g# -glucose;0,1;g# polysachariden;0,6;g#\nVezels;0,6;g# Eiwitten;1,4;g# Vitamines# vitamine A;68µg# vitamine D;1,5;µg# vitamine B1 (thiamine);58;µg# vitamine B2 (riboflavine);140µg# vitamine B3 (niacine);0,53;mg# pantotheenzuur;0,35;mg# vitamine B6;59;µg# biotine;2,4;µg# foliumzuur;13;µg# vitamine B12;0,20;µg# vitamine C;11;mg# vitamine E;1,1;mg# vitamine K;6,1;µg# Mineralen# natrium;20;mg# kalium;61;mg# chloride;47;mg# calcium;49;mg# fosfor;28;mg# magnesium;5,3;mg# ijzer;0,57;mg# zink;0,53;mg# koper;45;µg# jood;13;µg# seleen;3,0;µg# mangaan;6,1;µg# Overig# choline;18;mg# inositol;3,0;mg# l-carnitine;1,5;mg# taurine;4,1;mg# nucleotiden;3,2;mg#",
+  "extracted_at": "2025-04-25 17:07:41"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Peijnenburg Koekrepen parelkandij",
+  "brand": "Peijnenburg",
+  "price": "2.78",
+  "base_unit_price": "14.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/719121_M/f9ec7be6e5fd82cf37787f9bbf44bf2b/719121.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, ROGGEbloem 30%, water, parelsuiker 10%, suiker, specerijen, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat) zonnebloemolie, kaneel. Kan NOTEN en MELK bevatten.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1315.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "310.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:43"
+}

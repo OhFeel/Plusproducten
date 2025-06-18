@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Wok Egg Noodles",
+  "brand": "Go-Tan",
+  "price": "2.59",
+  "base_unit_price": "10.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681036_M/e74766b7b6607b55cbfd17abfd381d25/681036.png",
+  "ingredients": "Ingrediënten: durum TARWEgriesmeel, 10% KIPPENEI. Kan sporen van SOJA en MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1506.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "355.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:39"
+}

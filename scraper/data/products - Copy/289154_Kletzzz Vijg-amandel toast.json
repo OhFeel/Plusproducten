@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kletzzz Vijg-amandel toast",
+  "brand": "Kletzzz",
+  "price": "2.59",
+  "base_unit_price": "34.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/289154_M/3e15e8fe04bc00b09f9ac051da59e554/289154.png",
+  "ingredients": "Ingrediënten: karneMELK (LACTOSE), TARWEbloem, 8% vijgen (vijgen, rijstebloem), 5% AMANDELEN, basterdsuiker (suiker, suikerstroop, kleurstoffen E150c, E150d), lijnzaad, honing, rijsmiddel E500, bakpoeder (TARWEzetmeel, stabilisator E170, rijsmiddelen E450, E500), bakkerszout, enzymen (TARWE), TARWEmoutmeel. Kan sporen van andere NOTEN en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1461.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "349.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:52"
+}

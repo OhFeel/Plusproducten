@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Satésaus Hot",
+  "brand": "Remia",
+  "price": "2.15",
+  "base_unit_price": "6.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/434365_M/fd8c3082b41358323cdbf442d1817ea6/434365.png",
+  "ingredients": "Ingrediënten: water, gemalen PINDA'S 26%, suiker, azijn, sambal (rode pepers, zout) 3,0%, SOJASAUS (water, SOJABONEN, zout, azijn), gemodificeerd zetmeel (mais en aardappel), knoflook, raapolie, LUPINEMEEL, aroma, specerijen, kleurstoffen: E150c en paprika-extract, voedingszuur: melkzuur, verdikkingsmiddel: xanthaangom, conserveermiddel: kaliumsorbaat.",
+  "allergens": "Lupine, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "848.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "227.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:52:40"
+}

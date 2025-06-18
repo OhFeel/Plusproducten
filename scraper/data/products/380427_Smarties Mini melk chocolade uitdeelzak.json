@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smarties Mini melk chocolade uitdeelzak",
+  "brand": "Smarties",
+  "price": "2.99",
+  "base_unit_price": "11.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/380427_M/cac6ee1d05bfca1237d32543efb5b603/380427.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, magere MELKpoeder, cacaomassa, watervrij MELKvet, TARWEmeel, WEIpoeder, rijstzetmeel, emulgator (lecithinen), kleuren (bietenrood, carotenen, curcumine), spirulinaconcentraat, glansmiddelen (carnoubawas, witte bijenwas), plantenconcentraten (saffloer, radijs) GERSTemoutextract.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "478.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "64.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:31:10"
+}

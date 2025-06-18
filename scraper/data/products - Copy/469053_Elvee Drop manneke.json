@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Drop manneke",
+  "brand": "Elvee",
+  "price": "3.29",
+  "base_unit_price": "19.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469053_M/4e9ca5c8c2bfaee52689ec6d1ba6ba9a/469053.png",
+  "ingredients": "suiker, glucosestroop, gemodificeerd maïszetmeel, maltodextrine, gelatine (varken), salmiakzout (2%), zoethoutwortelextract, emulgator (arabische gom), kleurstof (e153), melasse, natuurlijk aroma, plantaardige olie (kokos), glansmiddel (e903).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1512.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "356.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "83.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:28"
+}

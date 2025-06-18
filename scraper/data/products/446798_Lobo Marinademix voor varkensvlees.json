@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lobo Marinademix voor varkensvlees",
+  "brand": "Lobo",
+  "price": "1.49",
+  "base_unit_price": "14.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/446798_M/0311b40fb93b94612e38f9a53861856a/446798.png",
+  "ingredients": "Ingrediënten: suiker, zout, gehydroliseerd plantaardig eiwit (SOJAbonen, maïs, maltodextrine), specerijen (steranijs, kaneel), antiklontermiddel: E341, aroma, kleurstof: E160c.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1251.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "299.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "19.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:08"
+}

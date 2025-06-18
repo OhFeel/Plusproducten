@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vivera Falafel",
+  "brand": "Vivera",
+  "price": "2.99",
+  "base_unit_price": "14.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/892400_M/7934bd2b156f69f3243dfdd8e020ad64/892400.png",
+  "ingredients": "Ingrediënten: 51% Kikkererwten, 11% spinazie, plantaardige oliën (zonnebloemolie en raapzaadolie in wisselende verhoudingen), TARWEBLOEM, specerijen (komijnzaad, korianderzaad, witte peper), ui, knoflookpuree, peterselie zout, azijn, voedingszuur (citroenzuur), conserveermiddel (sorbinezuur), natuurlijke aroma's, ijzer, vitamine B12. Kan sporen bevatten van soja, ei en melk.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1173.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "281.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "4.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.77",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:56"
+}

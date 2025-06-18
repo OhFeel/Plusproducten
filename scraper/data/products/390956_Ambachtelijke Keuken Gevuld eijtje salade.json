@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Ambachtelijke Keuken Gevuld eijtje salade",
+  "brand": "Ambachtelijke Keuken",
+  "price": "3.29",
+  "base_unit_price": "7.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/390956_M/39be059926966e519a87bd005982349a/390956.png",
+  "ingredients": "Ingrediënten: aardappel (40%), vrije uitloopEI* (28%), raapolie, water, tomatenpuree, suiker, azijn, ui, zout, vrije uitloopEI-eigeel, specerijen (MOSTERD, SELDERIJ) (0,7%), paprikagranulaat, maïszetmeel, palmvet, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), gistextract, TARWEbloem, voedingszuur (melkzuur), kruiden, wijnazijn, gemodificeerd maïszetmeel, verdikkingsmiddelen: (xanthaangom, guarpitmeel), curcuma-extract, sherry-azijn, limoen- sapconcentraat, natuurlijk aroma. * Beter Leven 2 sterren. • Kan pinda en walnoten bevatten.",
+  "allergens": "Tarwe, Ei, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "814.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "196.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:36:16"
+}

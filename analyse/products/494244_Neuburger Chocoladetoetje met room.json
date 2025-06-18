@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Neuburger Chocoladetoetje met room",
+  "brand": "Neuburger",
+  "price": "0.35",
+  "base_unit_price": "1.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/494244_M/3bce40a774cc0f21220accc0205cca60/494244.png",
+  "ingredients": "Ingrediënten: Magere MELK, WEIPRODUCT, suiker, 9% ROOM, gemodificeerd zetmeel, 1% magere cacaopoeder¹, verdikkingsmiddelen: carrageen, guarpitmeel, aroma, gelatine, emulgator: mono- en diglyceriden van vetzuren, veresterd met meklzuur, stikstof, ¹Rainforest Alliance gecertificeerd. www.ra.org",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "366.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "87.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:16:15"
+}

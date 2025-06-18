@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Ita Prosecco Spumante",
+  "brand": "Ita",
+  "price": "7.99",
+  "base_unit_price": "10.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780024_M/0c5596139df6f6ac46a7cb76ac90e4cf/780024.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "11",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:38"
+}

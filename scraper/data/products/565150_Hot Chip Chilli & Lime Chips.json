@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hot Chip Chilli & Lime Chips",
+  "brand": "Hot Chip",
+  "price": "2.19",
+  "base_unit_price": "27.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/565150_M/7d87a903c3e87fdcf2841b115d8aab29/565150.png",
+  "ingredients": "aardappelen (59 %), zonnebloemolie, zout, suiker, chilimix (0,9 % - chili, piri piri, jalapenogroen), dextrose, limoen (0,3 %), gistextract, paprika, natuurlijk limoensmaak, specerijen, kruidenextracten, zuurteregelaar: citroenzuur, natuurlijk chili-aroma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2262.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "543.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:25"
+}

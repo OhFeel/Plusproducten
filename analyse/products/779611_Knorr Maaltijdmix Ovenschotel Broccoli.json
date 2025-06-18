@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Maaltijdmix Ovenschotel Broccoli",
+  "brand": "Knorr",
+  "price": "1.59",
+  "base_unit_price": "22.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/779611_M/76eece2d7eb6eb624def0fc5c030ec7b/779611.png",
+  "ingredients": "Ingrediënten: Palmvet, suiker, aardappel¹ 15%, witte roux (TARWEBLOEM, palmvet), gejodeerd zout, zetmeel (aardappel, erwt), LACTOSE, uipoeder¹ 3,5%, mineraalzout (kalium), maltodextrine, MELKEIWITTEN, gehydrolyseerde plantaardige eiwitten, maïsolie, aroma (bevat MELK), specerijen (peper, nootmuskaat, kurkuma, peterseliewortel¹), marjolein, witte wijnextract 0,3%, gistextract.Kan andere glutenbevattende granen, ei, mosterd, selderij, soja bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "488.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "117.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.61",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:36"
+}

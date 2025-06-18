@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ola Viennetta Salted Caramel",
+  "brand": "Ola",
+  "price": "4.65",
+  "base_unit_price": "7.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/928429_M/8ba722d5850e0c1eb9e028afa76eae5a/928429.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, kokosolie, water, suiker, glucose-fructosestroop, glucosestroop, gekarameliseerde suikerstroop, LACTOSE en MELKEIWITTEN, cacaoboter, aroma's (bevat MELK, GERST), emulgatoren (mono- en diglyceriden van vetzuren, citroenzuuresters van mono- en diglyceriden van vetzuren, SOJALECITHINE), zeezout, volle MELKPOEDER, stabilisatoren (johannesbroodpitmeel, guargom, taragom, carrageen), cacaomassa.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1062.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "255.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:53"
+}

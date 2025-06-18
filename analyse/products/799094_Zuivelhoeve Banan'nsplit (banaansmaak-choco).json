@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Zuivelhoeve Banan'nsplit (banaansmaak-choco)",
+  "brand": "Zuivelhoeve",
+  "price": "1.99",
+  "base_unit_price": "4.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/799094_M/c0b5ec8192188eceeb892ad5d8a70056/799094.png",
+  "ingredients": "Ingrediënten: MELK, magere MELK, suiker, gemodificeerd zetmeel, magere MELKPOEDER, mager cacaopoeder, natuurlijk aroma, verdikkingsmiddel (carrageen), zout, kleurstof (carotenen).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "453.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "108.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:29"
+}

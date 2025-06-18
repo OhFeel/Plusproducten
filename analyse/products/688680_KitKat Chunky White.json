@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "KitKat Chunky White",
+  "brand": "KitKat",
+  "price": "0.99",
+  "base_unit_price": "24.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/688680_M/fb888da05792f5289150f81f41822fea/688680.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige vetten (palm, karite), TARWEmeel, magere MELKpoeder, WEIpermeaat poeder, glucosestroop, magere cacao, emulgator (lecithinen), cacaoboter, cacaomassa, watervrij MELKvet, rijsmiddel (natriumcarbonaten), natuurlijk aroma. Bevat mogelijk: PINDA'S, NOTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2182.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "521.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:34"
+}

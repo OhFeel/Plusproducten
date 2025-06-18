@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Gehaktschnitzels Hongaarse stijl 2st",
+  "brand": "PLUS",
+  "price": "2.79",
+  "base_unit_price": "13.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/837243_M/d19470526819707233ae117b69d07770/837243.png",
+  "ingredients": "Ingrediënten: 64,0% varkensvlees (Beter Leven keurmerk 1 ster), 17,0% paneermix (paneermeel (TARWEbloem, zout, gist, kleurstof: E160b(i)/E160b(ii), ROGGE), ui, specerijen (paprikapoeder, peper, chilipoeder, knoflookpoeder), groene paprika, rode paprika, zonnebloemolie, natuurlijk aroma, peterselie), water, bloem (TARWE, maïs), zeezout, zout, zetmeel (TARWE, mais), varkenseiwit, glucosestroop, specerijen\n(witte peper, zwarte peper, nootmuskaat, gemberpoeder, koriander, foelie), dextrose, natuurlijke aroma's, oregano, zuurteregelaar: E262.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1282.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "308.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:19"
+}

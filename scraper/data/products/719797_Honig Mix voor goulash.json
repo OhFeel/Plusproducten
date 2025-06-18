@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Mix voor goulash",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "25.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/719797_M/d524e7a0461fdeb82d3c26b0efa5bfd4/719797.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, zetmeel, groenten (tomaat, ui), specerijen (paprikapoeder, cayennepeper, kruidnagel), zout, bouillonpoeder (SOJA), rijstebloem, suiker, kruiden (knoflook, laurier, peterselie), natuurlijke aroma's (bevatten TARWE), rundvleesextract, raapzaadolie, kleurstof (paprika-extract), maltodextrine\n\nKan sporen bevatten van melk en selderij.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1358.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "321.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:56"
+}

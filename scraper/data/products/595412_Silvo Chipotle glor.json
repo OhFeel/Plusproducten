@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Chipotle glor",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "65.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/595412_M/0cac3b9f839e15b29938279c5d854742/595412.png",
+  "ingredients": "specerijen 97,3% (chipotle chili peper 38,5%, gerookt paprikapoeder, chilipeper, komijn, gedroogde knoflook), oregano, zout, totaal gehalte aan kruiden en specerijen: 98,6%",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1397.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "337.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:24"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Kikkererwtenwafel",
+  "brand": "Zonnatura",
+  "price": "3.29",
+  "base_unit_price": "32.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/576530_M/ef85de3755fee2170ede0dbc58ebd70c/576530.png",
+  "ingredients": "kikkererwtenmeel* 31,5%, linzenmeel* 31,5%, maïsmeel* 30%, tapiocameel*. *ingrediënt van biologische teelt. kan sporen bevatten van melk, soja en sesamzaad.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1502.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "356.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:47:10"
+}

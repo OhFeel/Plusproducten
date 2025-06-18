@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Gordon's Pink",
+  "brand": "Gordon's",
+  "price": "26.99",
+  "base_unit_price": "26.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/748920_M/c6e78ccd7ca2db8fb136ee3d6664692f/748920.png",
+  "ingredients": "Met kleurstof",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "990.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "237.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "37.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:47"
+}

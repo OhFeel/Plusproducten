@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "PLUS Pinda choco's Fairtrade",
+  "brand": "PLUS",
+  "price": "1.68",
+  "base_unit_price": "6.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/444603_M/9b6d9a8bcfe4d08e5b779a8b9d14119d/444603.png",
+  "ingredients": "Ingrediënten :suiker, 22% PINDA, volle MELKPOEDER, cacaoboter, cacaomassa, weipoeder (MELK), rijstzetmeel, plantaardige olie en vet (palmolie, sheavet, in wisselende verhoudingen), emulgator: E322/E476, stabilisator: E414, kleurstof: E100/E120/E133/E160a, glansmiddel: E903/E901/E904, aroma.   \n\nMelkchocolade bevat ten minste 25% cacaobestanddelen.\n\nDit product kan sporen van NOTEN, GLUTENBEVATTENDE GRANEN en SOJA bevatten",
+  "allergens": "Aardnoten (pinda's), Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2071.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "495.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:57:03"
+}

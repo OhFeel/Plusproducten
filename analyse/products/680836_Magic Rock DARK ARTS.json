@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Magic Rock DARK ARTS",
+  "brand": "Magic Rock",
+  "price": "2.79",
+  "base_unit_price": "6.34",
+  "image_url": "",
+  "ingredients": "Bevat: Gerst, Haver",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "243.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "58.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:29"
+}

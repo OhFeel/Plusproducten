@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Tafelsaus whiskey cocktailsaus",
+  "brand": "PLUS",
+  "price": "1.19",
+  "base_unit_price": "3.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/342011_M/c76920452cbf238a7d7336a0acc62020/342011.png",
+  "ingredients": "Ingrediënten :water, geheel geharde raapzaadolie, natuurazijn, glucose-fructosestroop, gemodificeerd maïszetmeel, 2,2% VRIJE-UITLOOPKIPPENEI, VRIJE-UITLOOPKIPPENEI-EIGEEL, 1,7% tomatenpoeder, zout, maïszetmeel, aardappelzetmeel, 1% whisky, MOSTERDMEEL, specerijen, worcestersaus (water, glucosestroop, GERSTEMOUTAZIJN, suiker, zout, aroma, ui-extract, ANSJOVIS, citroensap, knoflook, koriander), verdikkingsmiddel: xanthaangom, voedingszuur: citroenzuur, knoflook, aroma, ui, wortel, gistextract, conserveermiddel: E202, kleurstof: paprika-extract, zoetstof: acesulfaam-K/aspartaam*, antioxidant: E385. \n\n* = bevat een bron van fenylalanine\n\nAlc. 0,4% vol.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Vis, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1131.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "274.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "15.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.35",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.54",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:00"
+}

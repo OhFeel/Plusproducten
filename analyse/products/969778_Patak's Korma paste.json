@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's Korma paste",
+  "brand": "Patak's",
+  "price": "2.99",
+  "base_unit_price": "18.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/969778_M/653be50d6e2c09f688a74df0ceed0200/969778.png",
+  "ingredients": "water, gemalen specerijen (12%) [koriander (4%), kurkuma (3%), specerijen, paprika, komijn (1%), venkel 0,3%], koolzaadolie, suiker, geconcentreerde tomatenpuree, zout, maïsmeel, gemberpuree, knoflookpuree, geraspte kokos (3%), voedingszuur (azijnzuur), gedroogde ui, gedroogd korianderblad. kan mosterd, aardnoten (pinda's) en noten bevatten. glutenvrij.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "952.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "229.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:08"
+}

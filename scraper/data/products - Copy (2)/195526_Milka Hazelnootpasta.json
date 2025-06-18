@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Hazelnootpasta",
+  "brand": "Milka",
+  "price": "5.69",
+  "base_unit_price": "9.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/195526_M/09b4d1e46bb9bcd3c299c251f5fb4d63/195526.png",
+  "ingredients": "Ingrediënten: suiker, koolzaadolie (25%), weipoeder (van MELK), HAZELNOOTPASTA (5%), magere cacaopoeder (4,5%), magere MELKPOEDER, cacaoboter, zonnebloemolie, emulgator (lecithinen), zout, aroma's.KAN TARWE, ANDERE NOTEN EN PINDA BEVATTEN.",
+  "allergens": "Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2316.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "555.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:16:29"
+}

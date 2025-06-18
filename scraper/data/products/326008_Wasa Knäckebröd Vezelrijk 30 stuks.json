@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Wasa Knäckebröd Vezelrijk 30 stuks",
+  "brand": "Wasa",
+  "price": "1.99",
+  "base_unit_price": "6.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326008_M/9cc355b5a1c80061a26453c793493ddd/326008.png",
+  "ingredients": "Ingredienten: Volkoren ROGGEMEEL (57 g*), TARWEZEMELEN (27 g*), HAVERVLOKKEN (13 g*), SESAMZAAD (7.9 g*), TARWEKIEMEN, zout. Kan sporen van MELK bevatten. *in g voor 100 g product.",
+  "allergens": "Tarwe, Rogge, Haver en haverproducten (gluten, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1396.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "6.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "5.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "200.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:18"
+}

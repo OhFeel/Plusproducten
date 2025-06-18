@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Delifrance Croissants roomboter",
+  "brand": "Delifrance",
+  "price": "2.85",
+  "base_unit_price": "8.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/819254_M/33f024d807ac60912f04a227abfc1e9b/819254.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, BOTER 18%, suiker, gist, TARWEGLUTEN, zout, EIEREN, natuurlijk aroma (MELK), kleurstof (natuurlijke carotenen), meelverbeteraar (E300), enzym. Mogelijke aanwezigheid: SOJA, NOTEN",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1356.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "324.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:33"
+}

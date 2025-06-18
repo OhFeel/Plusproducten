@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Jongga Cabbage Kimchi",
+  "brand": "Jongga",
+  "price": "2.49",
+  "base_unit_price": "15.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/208646_M/26f538c029064b5cf2f2620ac50b7877/208646.png",
+  "ingredients": "Ingredienten: Kool 67,38%, water, rijstpasta (rijstpoeder, water), rodepeperpoeder, zout, suiker, knoflook, ui, kelpconcentraat(kelpextract, gistextract, BONITO-extract, glucosestroop, zoetstof: E420), prei, melkzuurbacteriën, gember.",
+  "allergens": "Vis, Blauwbaars en producten op basis van blauwbaars",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "34.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:21:18"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Orinoko Melk",
+  "brand": "Orinoko",
+  "price": "1.99",
+  "base_unit_price": "5.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/298401_M/e7668c77e70ae678bf126b0a6b53fdb5/298401.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige oliën (raap, palm), 5,8% magere MELKpoeder, 1,7% magere cacaopoeder, emulgator (lecithine), vanille aroma, HAZELNOTEN. Kan ook andere noten, gluten en soja bevatten. Rainforest Alliance Certified Lees meer op ra.org.",
+  "allergens": "Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2374.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "568.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:03:26"
+}

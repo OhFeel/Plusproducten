@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Encona Jamaican jerk BBQ sauce",
+  "brand": "Encona",
+  "price": "1.99",
+  "base_unit_price": "14.01",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/439902_M/caf2bd5dd8fe89c18c3653bfac69147b/439902.png",
+  "ingredients": "water, kristalsuiker, tomatenpasta, jerk kruiden (3%) (uien-poeder, zout, rijstmeel, suiker, specerijen, knoflookpoeder, kruiden, aroma’s, zuur (citroenzuur), olijfolie, sinaasappelsappoeder (maltodextrine van ip maïs, sinaasappelsap)), rookaroma (suiker, rookaroma, knoflookpoeder, specerijen, natuurlijk aroma), gemodificeerd zetmeel (e1422), zuur (azijnzuur), habañero puree (habañero pepers, scotch bonnet pepers, voedingszuur (azijnzuur), zout), gemalen piment, uienpoeder, zout, conserveermiddel (e202), kleurstof (e150c), voedingszuur (e330).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "619.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "146.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:15"
+}

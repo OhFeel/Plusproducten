@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van Gepofte aardappel met kruidenboter",
+  "brand": "Uit de keuken van",
+  "price": "4.49",
+  "base_unit_price": "9.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/251030_M/dc80b0a4f74c26a136c2bbed114a12fb/251030.png",
+  "ingredients": "Gepofte aardappel (aardappel, kruidenboter (roomboter (MELK), water, kruiden, specerijen, bieslook, knoflook, zout, gistextract, suiker, emulgator: xanthaangom, voedingszuur: citroenzuur, maltodextrine, conserveermiddel: E202), zeezout, peper, olijfolie).\n\nVegetarisch? Ja.\nVeganistisch? Nee.\n",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:43:18"
+}

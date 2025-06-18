@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Sourcy Vitaminwater limoen lychee",
+  "brand": "Sourcy",
+  "price": "1.75",
+  "base_unit_price": "3.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/434443_M/8a1f920493589ebb059f446e8baf8abc/434443.png",
+  "ingredients": "Ingrediënten: bronwater, voedingszuur (citroenzuur), magnesiumcarbonaat, natuurlijk limoen aroma met andere natuurlijke aroma's, zoetstoffen (cyclaamzuur, acesulfaam-K, sucralose), stabilisator (arabische gom), conserveermiddel (kaliumsorbaat), groene thee-extract (0,01%), pantotheenzuur (vitamine B5), vitamine B6, biotine (vitamine B8), vitamine B12.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "5.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "1.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.38",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "0.9",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "15.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:52:45"
+}

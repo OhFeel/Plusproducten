@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Toxic Apple Sour Slushy",
+  "brand": "Toxic",
+  "price": "1.59",
+  "base_unit_price": "6.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/565170_M/2d47f44d5d3e33d14d6f22d8f127131b/565170.png",
+  "ingredients": "Ingrediënten: water, bevochtigingsmiddel (glycerine), zuur (citroenzuur), natuurlijk aroma, kleurstoffen (saffloerextract, groen S), stabilisator (natriumcarboxymethylcellulose), verdikkingsmiddel (sint-jansbroodgom), zoetstoffen (sucralose, acesulfaam k), conserveringsmiddel (kaliumsorbaat, dimethyldicarbonaat).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "144.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "34.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:35"
+}

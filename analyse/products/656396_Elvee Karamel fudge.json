@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Karamel fudge",
+  "brand": "Elvee",
+  "price": "4.59",
+  "base_unit_price": "20.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/656396_M/6d240863e09fb49b83a548acd19948ff/656396.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, plantaardige vetten (palm, kokos), magere MELKPOEDER, zout, emulgator (E322 (SOJA)), natuurlijke aroma's, vanille-extract. Gemaakt in een bedrijf waar ook NOTEN, PINDA's en EI worden verwerkt.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1855.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "438.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:13"
+}

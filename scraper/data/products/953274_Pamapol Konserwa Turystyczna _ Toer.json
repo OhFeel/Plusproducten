@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Pamapol Konserwa Turystyczna / Toer",
+  "brand": "Pamapol",
+  "price": "2.49",
+  "base_unit_price": "8.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/953274_M/70cac073e540ff1e98226b8501629870/953274.png",
+  "ingredients": "varkensvlees 63%, water, varkensvet, zout, stabilisator: trifosfaat; verdikkingsstof - verwerkte zeewieren uit de soort eucheuma; diereneiwit varkenscollageen, antioxidant: natriumisoascorbaat, aroma, conserveermiddel: natriumnitriet. het product kan spoorhoeveelheden van selderij, soja, gluten (van tarwe, van rogge), melk waaronder lactose, eieren, mosterdzaad, sesam.",
+  "allergens": "Tarwe, Rogge, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1081.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "261.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:36"
+}

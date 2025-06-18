@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "La Morena Mayo met jalapeño",
+  "brand": "La Morena",
+  "price": "3.59",
+  "base_unit_price": "14.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/785649_M/de0706fdac82967e52cfac80b814396d/785649.png",
+  "ingredients": "Ingrediënten: water, raapolie, suiker, rode jalapeño peper (6%), groene jalapeño peper (6%), tarwezetmeel, azijn, scharreleigeel, mosterd, aardappelzetmeel, verdikkingsmiddel (guargom, xanthaangom), antioxidant (citroenzuur, kaliumlactaat), conserveermiddel (kaliumsorbaat, natriumbenzoaat, natrium(di)acetaat, sorbinezuur), zout, kleurstof (caroteen), aroma, voedingszuur (calcium dinatrium-EDTA). Kan noten, pinda’s, schaaldieren, sesamzaad en soja bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1098.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "265.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:42"
+}

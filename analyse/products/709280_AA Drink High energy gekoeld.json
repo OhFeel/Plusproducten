@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "AA Drink High energy gekoeld",
+  "brand": "AA Drink",
+  "price": "1.59",
+  "base_unit_price": "3.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709280_M/c4cebbb787c1e8c23c9128eb153f9caa/709280.png",
+  "ingredients": "water, sacharose, fructose, glucose-fructosestroop, dextrose, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, aroma, antioxidant: ascorbinezuur, stabilisator: e415, e445, kleurstof: bètacaroteen, natriumchloride.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "172.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "41.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:07"
+}

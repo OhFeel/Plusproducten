@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Neleman Signature Organic Monastrell",
+  "brand": "Neleman",
+  "price": "38.94",
+  "base_unit_price": "8.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/235223_M/2fd994b8492eb078b771289e4caefb02/235223.png",
+  "ingredients": "Bevat sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "320.03",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.44",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:33:02"
+}

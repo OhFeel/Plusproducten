@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Bananas",
+  "brand": "Haribo",
+  "price": "1.99",
+  "base_unit_price": "8.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/212792_M/555cabb5db4b868e874d452704e7b38b/212792.png",
+  "ingredients": "Ingrediënten: Suiker; glucosestroop; gelatine; voedingszuur: citroenzuur; vruchten- en plantenconcentraten: saffloer, citroen; aroma. Kan sporen bevatten van MELK, TARWE.",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1603.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "377.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "91.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:22:39"
+}

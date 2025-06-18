@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Woksaus Zoete Soja",
+  "brand": "Conimex",
+  "price": "2.69",
+  "base_unit_price": "15.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/996342_M/cb8ed400161587fa6b47dd13138ce0a5/996342.png",
+  "ingredients": "Ingrediënten: Glucosestroop, water, suiker, maltodextrine, sojasaus 6,5% (water, SOJABOON, TARWE, zout), aroma, azijn, gemodificeerd zetmeel, melasse, gebrande suikerstroop, gistextract, voedingszuur E270, zout, raapzaadolie, conserveermiddel E202, verdikkingsmiddel E415, specerijen (anijs, kaneel), gemberextract.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "514.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "123.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.41",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:27:16"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Fruit mix",
+  "brand": "Elvee",
+  "price": "3.29",
+  "base_unit_price": "20.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469045_M/38a49a44c912cd43e1226457e36b35bb/469045.png",
+  "ingredients": "suiker, glucosestroop, dextrose, voedingszuur (e330), aroma’s, kleurextracten (saffloer, spirulina, citroen, vlierbes), verdikkingsmiddel (arabische gom), kleurstoffen (e100, e120, e132, e141, e153, e160a), glansmiddel (e901), plantaardig vet (palm). gemaakt in een bedrijf waar ook pinda's worden verwerkt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1618.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "381.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "94.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "84.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:23"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Lunchsalade Gerookte Kip en Appel",
+  "brand": "PLUS",
+  "price": "4.39",
+  "base_unit_price": "17.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952830_M/c5808062f3a5baaa812fbb7303955b13/952830.png",
+  "ingredients": "Ingrediënten :20% slamix met witte kool (krulsla, lollo rosso, 20% witte kool, radicchio rosso), 20% gekookte volkoren pasta (water, volkoren DURUMTARWEGRIESMEEL, koolzaadolie, voedingszuur: azijnzuur, zout), 20% komkommer, 18% rode appel (rode appel, antioxidant: E300/E302), 12% gerookte gesneden kipfilet (96% kipfilet*, zout, conserveermiddel: E250/E261, kaliumchloride, rook), 10% MOSTERD-HONINGDRESSING (water, raapzaadolie, 10% MOSTERD (water, natuurazijn, MOSTERDZAAD, zout, kurkuma), natuurazijn, 4% honing, suiker, geconcentreerd citroensap, stabilisator: xanthaangom, gemodificeerd aardappelzetmeel, SCHARRELKIPPENEI-EIGEEL, zout, zwarte peperextract, kurkuma, conserveermiddel: E202). *= Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "378.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.342",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.352",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.812",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.934",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.908",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.452",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "6.456",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.476",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.388",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.155",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:22"
+}

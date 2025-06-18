@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Glutenvrije haverkoek chocolade",
+  "brand": "Damhert",
+  "price": "3.69",
+  "base_unit_price": "22.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/726039_M/7f532eb293c10dccc54de7ef839baf36/726039.png",
+  "ingredients": "glutenvrije HAVERvlokken (40%), kokosvet, suiker, pure chocoladestukjes (11%) (suiker, cacaomassa, cacaoboter, emulgator (zonnebloemlecithine) natuurlijk vanillearoma), rijstmeel, maïsmeel, cacaopoeder (4%), suikerbietenstroop, glucosestroop, rijstzetmeel, rijsmiddel (natriumwaterstofcarbonaat), emulgator (zonnebloemlecithine), aroma.",
+  "allergens": "Cacao, Maïs, Haver en haverproducten (gluten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2034.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "485.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.51",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:43"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Chupa Chups The best of blik",
+  "brand": "Chupa Chups",
+  "price": "24.39",
+  "base_unit_price": "13.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/470266_M/0907a3e6bbcbf8376617396e3b939ea0/470266.png",
+  "ingredients": "Ingrediënten (voor fruitsmaken): suiker, glucosestroop, vruchtenpuree (appel, kers, framboos, ananas, limoen, citroen, aardbei, perzik, banaan, sinaasappel, bosbes, braam, mango, watermeloen, kiwi) (3%), voedingszuren (melkzuur, appelzuur, citroenzuur), aroma's, concentraten (rode biet, saffloer, citroen, spirulina). \nIngrediënten (voor colasmaak): suiker, glucosestroop, voedingszuren (melkzuur, appelzuur, citroenzuur), aroma's, karamelsuikersiroop. \nIngrediënten (Voor roomsmaken): suiker, glucosestroop, WEIPERMEAAT, vruchtenpuree (appel, kers, framboos, ananas, limoen, citroen, aardbei, perzik, banaan, sinaasappel, bosbes, braam, mango, watermeloen, kiwi) (3%), volle MELKPOEDER (1,6%), voedingszuren (melkzuur, appelzuur, citroenzuur), cacaoboter, concentraten (rode biet, saffloer, radijs, appel, zoete aardappel, kers, citroen), aroma's. ",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1640.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "386.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "95.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "82.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:25"
+}

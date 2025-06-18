@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Maison Castel Sauvignon Blanc AOC",
+  "brand": "Maison Castel",
+  "price": "38.94",
+  "base_unit_price": "8.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/614661_M/a4c341d8cb68e8074b93e25603c4890b/614661.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "0.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "0.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:35"
+}

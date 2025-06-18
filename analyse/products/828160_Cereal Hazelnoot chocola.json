@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Cereal Hazelnoot chocola",
+  "brand": "Cereal",
+  "price": "2.09",
+  "base_unit_price": "26.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/828160_M/364698bd67fa3cf0a79c9a77d0b1fc00/828160.png",
+  "ingredients": "Ingrediënten: Zoetstof: maltitolen, magere MELKpoeder, cacaoboter^1, HAZELNOTEN 11,5%, cacaomassa^1, inuline, BOTERvet, HAZELNOOTpasta 1,8%, emulgator: SOJAlecithinen, natuurlijk vanillearoma, ^1Rainforest Alliance Certified. Lees meer op ra.org.\n\nKan sporen van eieren, aardnoten, andere noten (amandelen, cashewnoten), sesamzaad en lupine bevatten.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "484.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:53:29"
+}

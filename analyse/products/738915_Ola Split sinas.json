@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ola Split sinas",
+  "brand": "Ola",
+  "price": "1",
+  "base_unit_price": "1.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/738915_M/46fb305ceb3f8c009744f38a6a01ef51/738915.png",
+  "ingredients": "Ingrediënten: water, gerehydrateerde magere MELK, suiker, sinaasappelsap op basis van geconcentreerd sap (12%), glucose-fructosestroop, kokosolie, LACTOSE en MELKEIWITTEN, stabilisatoren (johannesbroodpitmeel, guargom, taragom), zuurteregelaar (citroenzuur), emulgator (mono- en diglyceriden van vetzuren), aroma, kleurstoffen (paprikaextract, curcumine), natuurlijk vanille aroma. Kan soja bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "482.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "115.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:48"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Boursin Roomkaas truffelsmaak",
+  "brand": "Boursin",
+  "price": "3.49",
+  "base_unit_price": "23.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/615357_M/c16657571cf5fe0bed2ab8ad2ea592e5/615357.png",
+  "ingredients": "Ingrediënten: Gepasteuriseerde MELK en ROOM, truffelzout 1.15% (zout, zomertruffel (Tuber astivum Vitt), natuurlijke truffelaroma), paddenstoel, telicherry peper 0.3%, natuurlijke aroma, conserveermiddel (kaliumsorbaat), zuursel (bevat MELK)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1613.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "391.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "25.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:57"
+}

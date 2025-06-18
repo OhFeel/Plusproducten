@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nestlé Choclait Chips melk chocolade",
+  "brand": "Nestlé",
+  "price": "3.49",
+  "base_unit_price": "30.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/160006_M/6c2e375394b4c88face020d51404df27/160006.png",
+  "ingredients": "Ingrediënten: suiker, maïsgriesmeel, cacaomassa¹, cacaoboter¹, plantaardige vetten (palm karité), maïszetmeel, magere MELKpoeder, cacaopoeder¹, WEIpoeder, watervrij MELKvet, emulgator (lecithinen), natuurlijk vanillearoma, zout. Bevat mogelijk: GLUTENBEVATTENDE GRANEN, SESAMZAAD en NOTEN. ¹Rainforest Alliance gecertificeerd. www.ra.org.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2132.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "510.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:01:11"
+}

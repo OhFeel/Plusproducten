@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Beckers Rundvleeskroket",
+  "brand": "Beckers",
+  "price": "3.99",
+  "base_unit_price": "7.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/735332_M/6bf3a6258b5648395107e7a71ed0359c/735332.png",
+  "ingredients": "Ingrediënten: water, paneermeel (TARWEBLOEM, zout, gist), gegaard rundvlees (15% rundvlees, water, zout, vleesextract), TARWEBLOEM, raapzaadolie, rundergelatine, zout, zetmeel (tapioca, aardappel), aroma (TARWE), gedroogde glucosestroop), basterdsuiker (suiker, invertsuikerstroop), specerijen, dextrose, ui, emulgator (E466), smaakversterker (E621), kruiden, TARWEGLUTEN, stabilisator (E450), zuurteregelaar (natriumcarbonaten). Kan sporen van pinda bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "739.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "176.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:31"
+}

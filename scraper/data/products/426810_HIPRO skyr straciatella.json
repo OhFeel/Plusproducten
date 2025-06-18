@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "HIPRO skyr straciatella",
+  "brand": "HIPRO",
+  "price": "2.99",
+  "base_unit_price": "6.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/426810_M/ee0b5948f55da8e198603c193b8fc94e/426810.png",
+  "ingredients": "magere melk, water, cacaovlokjes (0,5%) (cacaoboter, cacaopoeder, magere cacaopoeder), gemodificeerd zetmeel, zuurteregelaars (melkzuur, calciumcitraten, natriumcitraten), aroma, melkfermenten, verdikkingsmiddel (pectinen), zoetstoffen (acesulfaam-K, sucralose), magnesium, vitamine B9 (foliumzuur).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "239.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "56.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "30.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "56.3",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:48:40"
+}

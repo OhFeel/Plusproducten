@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Jack Daniels Tennessee",
+  "brand": "Jack Daniels",
+  "price": "28.99",
+  "base_unit_price": "41.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119444_M/fedd938a794a9f027d3f7be4a0a18b51/119444.png",
+  "ingredients": "",
+  "allergens": "Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "916.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "219.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:23"
+}

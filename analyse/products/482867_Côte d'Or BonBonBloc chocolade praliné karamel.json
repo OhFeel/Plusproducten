@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Côte d'Or BonBonBloc chocolade praliné karamel",
+  "brand": "Côte d'Or",
+  "price": "5.29",
+  "base_unit_price": "26.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482867_M/78c3ca8485c30246f2583484d3c7686c/482867.png",
+  "ingredients": "Ingrediënten: Suiker, praliné (14%) (suiker, HAZELNOTEN (7%)), cacaomassa, glucosestroop, cacaoboter, magere MELKPOEDER, plantaardige vetten (palm, shea), weipoeder (van MELK), glucose-fructosestroop, MELKVET, emulgatoren (SOJALECITHINEN, E471), aroma's, zout. KAN BEVATTEN : ANDERE NOTEN.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "507.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:45"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Katja Mixmatjes",
+  "brand": "Katja",
+  "price": "2.59",
+  "base_unit_price": "10.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/235179_M/46c119b6c1a2a12038d44a944f4e2cec/235179.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, suiker, TARWEBLOEM, voedingszuren (appelzuur, citroenzuur), dextrose, concentraten (saffloer, spirulina, appel, pompoen, tomaat, radijs, wortel, hibiscus), aroma, antioxidanten (tocoferolrijke extracten, ascorbinezuur).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1511.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "356.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:32:50"
+}

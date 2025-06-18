@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Limbourgois Oerbal Mini",
+  "brand": "Limbourgois",
+  "price": "4.99",
+  "base_unit_price": "16.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/298291_M/e31e84744603679a2824fef6ac65c1b9/298291.png",
+  "ingredients": "Ingrediënten: 72% varkensvlees°, ui, TARWEbloem, TARWEmeel, zout, zonnebloemolie, voedingszuur: E326/E262, specerijen (o.a. MOSTERD, SELDERIJ), aroma, azijn, suiker, gebrande suiker, natuurlijk aroma, conserveermiddel: E202. °Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1114.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "267.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:03:16"
+}

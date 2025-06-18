@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "GIJS Forelfilet",
+  "brand": "GIJS",
+  "price": "2.65",
+  "base_unit_price": "2.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/918851_M/2b97d7503642dcc83a066f2d78749d9c/918851.png",
+  "ingredients": "Ingrediënten: 98% Regenboogforel* (VIS), zout, conserveermiddel: E267, rook. * = Regenboogforel (Oncorhynchus Mykiss), gekweekt in Griekenland, kweekmethode: gesloten kooien, vis afkomstig van een ASC-gecertificeerde, verantwoorde kwekerij, www.asc-aqua.org, ASC-C-00101.",
+  "allergens": "Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "521.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "120.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:25"
+}

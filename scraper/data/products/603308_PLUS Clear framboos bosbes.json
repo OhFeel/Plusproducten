@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "PLUS Clear framboos bosbes",
+  "brand": "PLUS",
+  "price": "1.29",
+  "base_unit_price": "0.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/603308_M/561742fc8338c914397d574a6a025497/603308.png",
+  "ingredients": "water, 0,2% vruchtensap uit concentraat en puree (0,09% sinaasappel, 0,03% passievrucht, 0,03% mandarijn, 0,02% abrikoos, 0,02% ananas, <lt/>0,1% banaan, <lt/>0,1% mango, <lt/>0,1% guave, <lt/>0,1% limoen), voedingszuur (citroenzuur), natuurlijke aroma's, zuurteregelaar (natriumcitraten), stabilisator (arabische gom, pectinen), zoetstof (sucralose, acesulfaam-k), vitaminen (a [uit provitamine a], c).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "5.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "1.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "116.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "11.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:01:45"
+}

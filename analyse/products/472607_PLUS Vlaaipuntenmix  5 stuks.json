@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Vlaaipuntenmix  5 stuks",
+  "brand": "PLUS",
+  "price": "5.99",
+  "base_unit_price": "1.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/472607_M/d98f169a78f5268e0afdadc8f0c25a42/472607.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, water, suiker, 10% appel, 9% kersen, 6% abrikoos, plantaardige oliën (palm, raapzaad, zonnebloem), gemodificeerd zetmeel (maïs, aardappel), witte basterdsuiker (suiker, invertsuikerstroop), roomboter (MELK), dextrose, glucosestroop, rozijnen, bakkersgist, weipoeder (MELK), bakkerszout, TARWEZETMEEL, palmvet, voedingszuur: citroenzuur, kaneel, aroma, rijsmiddel: E500, zout, citroensapconcentraat, citroenschil, geleermiddel: E407/E440, zuurteregelaar: E331/E332/E509/E508, natuurlijke aroma's (MELK), citroensap, conserveermiddel: E202/E223, verdikkingsmiddel: johannesbroodpitmeel, geïnactiveerde gist, kleurstof: E161b, MELKEIWITTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1039.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "247.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "19.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "21.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.124",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "16.44",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:10"
+}

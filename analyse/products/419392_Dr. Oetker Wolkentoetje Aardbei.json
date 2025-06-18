@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Wolkentoetje Aardbei",
+  "brand": "Dr. Oetker",
+  "price": "0.79",
+  "base_unit_price": "6.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/419392_M/10ca96e7bc8fb88d3e8e65884e91c09a/419392.png",
+  "ingredients": "Ingrediënten: volle MELK, 16% ROOM, magere MELK, suiker, gemodificeerd zetmeel, 1,8% aardbeipuree, invertsuikerstroop, gelatine, voedingszuur (citroenzuur), verdikkingsmiddelen (pectinen, guarpitmeel, carrageen), 0,4% aardbeiensapconcentraat, magere MELKPOEDER, emulgatoren (E 471 (bevat MELKBESTANDDELEN), E 472b), aroma (bevat MELKBESTANDDELEN), kleurende levensmiddelen (rode bietensapconcentraat, wortelsapconcentraat).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "550.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "131.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:45:02"
+}

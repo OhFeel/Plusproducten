@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verstegen Mix voor aardappel",
+  "brand": "Verstegen",
+  "price": "4.99",
+  "base_unit_price": "22.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/322202_M/41e59a972d581541dcd6e3f426a5375e/322202.png",
+  "ingredients": "Ingrediënten: zout, maltodextrine, groenten (12% ui, 2% knoflook), specerijen (peper, chillies, kurkuma, komijn), suiker, aroma (bevat smaakversterker: mononatriumglutamaat, SOJA), rookaroma, kruiden.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "929.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "219.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "40.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:11:21"
+}

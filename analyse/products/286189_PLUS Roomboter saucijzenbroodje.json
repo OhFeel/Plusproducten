@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Roomboter saucijzenbroodje",
+  "brand": "PLUS",
+  "price": "0.99",
+  "base_unit_price": "0.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/286189_M/61852e8a96dc18f49764d19cbaed4537/286189.png",
+  "ingredients": "Ingrediënten :water, TARWEBLOEM, 11% varkensvlees, 10% roomboter (MELK), 10% margarine (plantaardige oliën (palm, raapzaad), water, zout, emulgator: E471, voedingszuur: citroenzuur), 7% rundvlees, paneermeel (TARWEBLOEM, water, gist, zout), SCHARRELKIPPENEI, TARWEZETMEEL, SOJA-EIWIT, zout, gehydrolyseerd plantaardig eiwit (gehydrolyseerd TARWE-EIWIT, water, zout), SOJAVEZEL, specerijen, weipoeder (MELK), smaakversterker: E621/E631/E627, dextrose, aroma (bevat TARWE), gedeeltelijk geharde palmolie, suiker, stabilisator: E450/E451, voedingszuur: E270, SCHARRELKIPPENEIPOEDER, aroma, ui, knoflook.\n\nDit product kan sporen van MOSTERD, NOTEN, SELDERIJ en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1183.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "284.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.15",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.18",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.03",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "20.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.49",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.52",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:55:56"
+}

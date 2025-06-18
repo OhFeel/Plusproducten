@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Knackebrod pro-fit proteine",
+  "brand": "Bolletje",
+  "price": "2.19",
+  "base_unit_price": "8.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/926784_M/ba8d8e27fc5011033112ea051920c1f9/926784.png",
+  "ingredients": "Ingrediënten: 83% TARWEBLOEM, 14% pompoenpitmeel, raapolie, gist, TARWEGLUTEN, plantaardige vezels (oligofructose), suiker, zout, meelverbeteraar (ascorbinezuur), SESAMZAAD. Kan andere glutenbevattende granen en lupine bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1786.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "423.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.89",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:35"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Grand Sud Merlot 0%",
+  "brand": "Grand Sud",
+  "price": "2.29",
+  "base_unit_price": "9.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/487252_M/9b47a15b3d1a95d38695958351f69392/487252.png",
+  "ingredients": "Ingredients: Grapes,Concentrated Grape Must / Rectified Concentrated Must,SULFITES,DMDC - Dimethyl dicarbonate,Potassium sorbate,Tartaric acid,Metatartaric acid,Acacia gum,Argon / Nitrogen / Carbon dioxide,rectified concentrated grape must,preservatives (potassium sorbate,SULPHITES,dimethyl dicarbonate)",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "126.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "30.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:13:28"
+}

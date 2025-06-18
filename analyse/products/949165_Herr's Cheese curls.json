@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Herr's Cheese curls",
+  "brand": "Herr's",
+  "price": "2.49",
+  "base_unit_price": "22.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949165_M/01003c5c2383bd4ef00691f9e2544af0/949165.png",
+  "ingredients": "Ingrediënten: Maïsgrutten, zonnebloemolie, kaasaroma, [WEIpoeder, maltodextrine, plantaardige olie (palm), zout, KAAS (MELK)  (2%), aroma's, MELKeiwit, zuurteregelaars (melkzuur, citroenzuur), smaakversterkers (mononatriumglutamaat), kleurstoffen (paprika-extract, carotenen)] en bamboe vezel. Bevat MELK- en zuivelproducten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2234.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "536.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:11"
+}

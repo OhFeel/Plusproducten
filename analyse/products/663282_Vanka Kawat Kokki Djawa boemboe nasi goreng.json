@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vanka Kawat Kokki Djawa boemboe nasi goreng",
+  "brand": "Vanka Kawat",
+  "price": "1.19",
+  "base_unit_price": "11.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/663282_M/78c262eaf1131ed4917d778e9355f2b2/663282.png",
+  "ingredients": "Ingrediënten: water, uien, zout, gemalen rode chili pepers, paprika, natuurlijk aroma, knoflook, GARNALEN, MAISMEEL, voedingszuren (E330, E270). conserveermiddelen (E260, E202, E211). Glutenvrij.",
+  "allergens": "Maïs, Schaaldieren",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "307.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "15.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:15"
+}

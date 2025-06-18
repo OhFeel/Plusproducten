@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Cheetos Partypack Chipito chips kaas",
+  "brand": "Cheetos",
+  "price": "2.69",
+  "base_unit_price": "15.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/471892_M/e75d7fe92a94b7f4d55eb68fe1a4d4c1/471892.png",
+  "ingredients": "Ingrediënten: maïs, koolzaadolie, kaassmaak [weipoeder (van MELK), zout, natuurlijk aroma (bevat MELK, KAAS, lactose (van MELK)), smaakversterker (mononatriumglutamaat), kaliumchloride, suiker, MELKbestanddelen, zuurteregelaar (citroenzuur), kleurstof (paprika-extract)]. Dit product kan soja en tarwe (gluten) bevatten.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2004.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "488.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:46"
+}

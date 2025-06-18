@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Alaska Koolvisfilet gepaneerd",
+  "brand": "PLUS",
+  "price": "4.19",
+  "base_unit_price": "14.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/675942_M/a02d0980cdd093469461779e3de19164/675942.png",
+  "ingredients": "67% Alaska KOOLVIS*, paneer (TARWEBLOEM, raapzaadolie, TARWEZETMEEL, gemodificeerd maiszetmeel, zout, maisbloem, specerijen (bevat MOSTERD), dextrose (TARWE), zuurteregelaar: natriumcarbonaten, verdikkingsmiddel: xanthaangom, stabillisator: cellulosegom). *Theragra chalcogramma, vangstgebied Noordoost Stille Oceaan (FAO 67), vangstmethode: trawlnetten.",
+  "allergens": "Glutenbevattende granen, Vis, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "832.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "199.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.63",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:19:30"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Starbucks Ijskoffie Caramel Macchiato (grande)",
+  "brand": "Starbucks",
+  "price": "2.99",
+  "base_unit_price": "9.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/276585_M/b92bb5e4afc8ea1ca3feaf4b674499c1/276585.png",
+  "ingredients": "Ingrediënten: MELK (1,8% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (20%), suiker (4,7%), natuurlijk aroma (bevat MELK), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "259.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "61.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:52:39"
+}

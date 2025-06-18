@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nescafe Dolce Gusto chococino 16 cups",
+  "brand": "Nescafe",
+  "price": "6.49",
+  "base_unit_price": "0.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/539705_M/1fa0ae58c6e8bf82860ac0aa50e17fac/539705.png",
+  "ingredients": "Ingredienten: volle MELKpoeder, suiker (10%), emulgator (SOJAlecithine), chocoladepoeder 98% (suiker cacao), aroma (vanilline), kaneel",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "282.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "67.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:31:25"
+}

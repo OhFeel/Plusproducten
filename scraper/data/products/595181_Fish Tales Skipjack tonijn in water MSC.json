@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fish Tales Skipjack tonijn in water MSC",
+  "brand": "Fish Tales",
+  "price": "3.79",
+  "base_unit_price": "23.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/595181_M/6b486a5682460bf1c71b8a3456a21a37/595181.png",
+  "ingredients": "Ingrediënten: Skipjack tonijn* (VIS) (70%) (katsuwonus pelamis), water, zout.",
+  "allergens": "Vis, Tonijn en producten op basis van tonijn",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "422.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "101.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:14"
+}

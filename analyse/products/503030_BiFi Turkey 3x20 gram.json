@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "BiFi Turkey 3x20 gram",
+  "brand": "BiFi",
+  "price": "1.99",
+  "base_unit_price": "0.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/503030_M/efa534f6acd4718294b1a3d41026c7be/503030.png",
+  "ingredients": "Ingrediënten: kalkoenvlees, palmvet, gejodeerd zout (zout, kaliumjodaat), raapzaadolie, dextrose, specerijen (peper, koriander, knoflookpoeder), antioxidant (natriumascorbaat), conserveermiddel (natriumnitriet), houtrook.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2155.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "520.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:20:58"
+}

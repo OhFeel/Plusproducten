@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "PLUS Hamburger varken-rund 4st",
+  "brand": "PLUS",
+  "price": "3.99",
+  "base_unit_price": "12.47",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/358092_M/ee9e9b72dfd82cc30639e2d1e46a230e/358092.png",
+  "ingredients": "47% rundvlees, 47% varkensvlees, water, specerijen (witte peper, foelie, cayennepeper, kurkuma, kruidnagel, nootmuskaat, knoflookpoeder, paprikapoeder, uienpoeder), kruiden (peterselie, tijm), vezels (aardappel, bamboe), zout, gedroogde groenten (ui, paprika, prei), aardappelzetmeel, gedroogde aardappel, rijstebloem, maltodextrine, extract van paprika, gistextract, zonnebloemolie, natuurlijk uienaroma, antioxidant: E300/E301, voedingszuur: E331/E330.Kan MELK, SOJA, MOSTERD en SELDERIJ bevatten.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1015.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "245.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.195",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.478",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:21:52"
+}

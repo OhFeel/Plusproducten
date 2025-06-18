@@ -1,0 +1,103 @@
+{
+  "sku": "",
+  "name": "PLUS Chocolade Croissant Fairtrade Cacao",
+  "brand": "PLUS",
+  "price": "1.29",
+  "base_unit_price": "1.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/849019_M/7233776193c4fd4950bfc284fb60dba9/849019.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, water, plantaardige oliën (palm, zonnebloem, raapzaad, kokos), suiker, gist, 2% chocolade (suiker, cacaomassa, cacaoboter, emulgator: SOJALECITHINE), 1,8% HAZELNOOT*, 1,5% magere cacaopoeder, geconcentreerde boter (MELK), gejodeerd zout (zout, kaliumjodaat), TARWEGLUTEN, AMANDELEN, erwteneiwit, zout, zure weipoeder (MELK), TARWEZETMEEL, zuurteregelaar: citroenzuur, meelverbeteraar: E300, emulgator: E322 (SOJA)/E471, natuurlijk aroma, natuurlijk vanillearoma, kleurstof: carotenen, enzymen. \n\n*Rainforest Alliance gecertificeerd. Lees meer op www.ra.org. \n\nDit product kan sporen van EI en NOTEN bevatten",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Noten, Lactose, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1780.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "426.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "9.13",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.401",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:56:05"
+}

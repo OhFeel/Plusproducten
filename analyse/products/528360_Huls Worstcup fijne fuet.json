@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Worstcup fijne fuet",
+  "brand": "Huls",
+  "price": "2.79",
+  "base_unit_price": "31.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/528360_M/f8e5e4f6fb0b33c9df76d5135fdc857f/528360.png",
+  "ingredients": "Ingrediënten: varkensvlees, LACTOSE, MELKPOEDER, dextrose, aroma's, specerijen, antioxidant: natriumascorbaat, conserveermiddelen: natriumnitriet, E252. Voor 100 gram droge worst is 160 gram vlees gebruikt.  ",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1725.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "415.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:28:32"
+}

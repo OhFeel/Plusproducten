@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Woksaus hoisin all natural",
+  "brand": "Go-Tan",
+  "price": "2.59",
+  "base_unit_price": "10.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/513259_M/acc5ba66e18c760396c0cba0aeb65579/513259.png",
+  "ingredients": "Ingrediënten: water, suiker, zwarte bonen (SOJA), zout, sojasaus (water, SOJABONEN, TARWE, zout), maiszetmeel, gember, SESAMOLIE, rijstazijn, kleurstof (karamel), natuurazijn, knoflook, specerijen, voedingszuur (citroenzuur), citroensapconcentraat.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "631.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "149.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:24:06"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Woksaus sweet sour",
+  "brand": "Go-Tan",
+  "price": "2.59",
+  "base_unit_price": "10.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/732861_M/ee6c2f62de750d8014410fc54a7a5070/732861.png",
+  "ingredients": "Ingrediënten: water, suiker, tomatenpuree, sojasaus (water, SOJABONEN, TARWE, zout), maiszetmeel, zout, natuurazijn, rode pepers, natuurlijk aroma, specerijen, zonnebloemolie, paprika, knoflookpoeder, verdikkingsmiddel (xanthaangom), voedingszuur (azijnzuur).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "409.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "96.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:01"
+}

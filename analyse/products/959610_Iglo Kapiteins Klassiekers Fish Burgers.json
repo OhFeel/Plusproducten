@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Iglo Kapiteins Klassiekers Fish Burgers",
+  "brand": "Iglo",
+  "price": "4.29",
+  "base_unit_price": "18.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/959610_M/f5978e9ce9f4f847a6ee5401dc3f21f5/959610.png",
+  "ingredients": "Ingrediënten: Alaska koolVIS 58%, paneermeel 17% (TARWEbloem (TARWE, calciumcarbonaat, ijzer, niacine, thiamine), gist, suiker, zout, dextrose, TARWEgluten, koolzaadolie, paprikapoeder), water, TARWEbloem (TARWE, calciumcarbonaat, ijzer, niacine, thiamine), koolzaadolie, TARWEzetmeel, zout, MOSTERD, kurkuma. Kan MELK bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "810.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "193.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.86",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:10"
+}

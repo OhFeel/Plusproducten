@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Hero B'tween Mueslireep Zero Pinda Chocolade",
+  "brand": "Hero B'tween",
+  "price": "2.39",
+  "base_unit_price": "19.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639185_M/8ec16a5ec8e5a54d1b87060cd0abed36/639185.png",
+  "ingredients": "Ingrediënten: zoetstof (maltitolstroop), volkoren TARWEcrispies (volkoren TARWEmeel 27%, TARWEGLUTEN, GERSTmoutextract), oligofructose, volkoren graanvlokken 10% (TARWE, GERST), geroosterde PINDA’s 10%, volle MELKchocolade met zoetstoﬀen 9% (zoetstof (maltitol), cacaoboter**, volle MELKpoeder, cacaomassa**, emulgator (ammoniumfosfatiden, polyglycerolpolyricinoleaat)), PINDApasta 4%, kokosvet, stabilisator (glycerol), zout, cacaopoeder met verminderd vetgehalte**, natuurlijk aroma, emulgator (lecithinen). Kan andere NOTEN bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Aardnoten (pinda's), Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1552.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "372.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:12"
+}

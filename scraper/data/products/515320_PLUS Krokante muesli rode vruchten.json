@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Krokante muesli rode vruchten",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "4.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/515320_M/8131bed1cf740d6ca9aeba55071fa2ae/515320.png",
+  "ingredients": "Ingrediënten :47% volkoren HAVERVLOKKEN, 15% volkoren TARWEVLOKKEN, zonnebloemolie, oligofructose, suiker, rijstkrokant (rijstgries, TARWEBLOEM, suiker, GERSTEMOUT, zout), 4% gevriesdroogde rode vruchten (aardbei, kers, framboos, zonnebloemolie), geraspte kokos, volkoren HAVERMEEL, glucosestroop, GERSTEMOUTEXTRACT, honing, vanille-extract, gekaramelliseerde suiker, natuurlijk aroma, antioxidant: E306. \n\nDit product kan sporen van andere GLUTENBEVATTENDE GRANEN, MELK, NOTEN en SOJA bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1783.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "425.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "44.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "13.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.036",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:24:54"
+}

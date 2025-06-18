@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Iglo Kapitein Klassiekers schatzoekers",
+  "brand": "Iglo",
+  "price": "5.99",
+  "base_unit_price": "17.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/812340_M/69495882d9d8c3793a860ac2ded1e070/812340.png",
+  "ingredients": "Ingrediënten: Alaska koolVIS 52%, paneermeel 20% (TARWEbloem, water, paprikapoeder, gist, kurkuma), water, koolzaadolie, TARWEbloem, aardappelzetmeel, zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Koolvis en producten op basis van koolvis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "867.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "207.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.62",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:47"
+}

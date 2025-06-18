@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Bacardi Mango",
+  "brand": "Bacardi",
+  "price": "20.99",
+  "base_unit_price": "29.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/288784_M/22e8677b865190f8a8b3f09c18015686/288784.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "32",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:26"
+}

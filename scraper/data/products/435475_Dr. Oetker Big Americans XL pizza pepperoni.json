@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Big Americans XL pizza pepperoni",
+  "brand": "Dr. Oetker",
+  "price": "5.99",
+  "base_unit_price": "10.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435475_M/8deefc92d7675d93a25d58d816ad1f3f/435475.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 9,3% MOZZARELLA KAAS, 9,2% gezeefde tomaten, 7,8% pepperoni-salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidant (extract van rozemarijn), rook), 6,2% CHEDDAR KAAS (MELK, zout, kleurstof (carotenen)), 6,0% mini-pepperoni-salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidant (extract van rozemarijn), rook), tomatenconcentraat, raapzaadolie, bakkersgist, specerijen ketchup (water, suiker, tomatenpuree, brandewijnazijn, gemodificeerd zetmeel, zout, aroma, karamelsuikerstroop, specerijen, rookaroma), zout, suiker, SOJASAUS (water, SOJABONEN, zout, TARWEBLOEM), oregano, specerijen, knoflook. Kan bevatten: MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1138.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "272.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:10"
+}

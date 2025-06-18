@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Eat Natural Proteïne packed repen",
+  "brand": "Eat Natural",
+  "price": "3.39",
+  "base_unit_price": "28.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/180102_M/fb742d0cd6b7b7644447c23ea0397859/180102.png",
+  "ingredients": "Ingrediënten: Pinda's (aardnoten) 45%, glucosestroop, pure chocolade 11% (cacaomassa, suiker, dextrose, emulgator: lecithines (soja)), soja proteïne crispies 8% (soja-proteïne isolaat, tapiocazetmeel, zout), geraspte kokosnoot 7%, honing 7%, gepofte rijst (rijstbloem, rijstzemelen, suiker), cacaopoeder, zout\nKan melk, amandelen, hazelnoten, walnoten, cashewnoten, pecannoten, paranoten, pistachenoten, macadamianoten bevatten.",
+  "allergens": "Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2126.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "510.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.32",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:09:35"
+}

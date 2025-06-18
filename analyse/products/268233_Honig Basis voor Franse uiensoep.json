@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Franse uiensoep",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "31.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/268233_M/aa89437424a037896b19f8c0823a1d4b/268233.png",
+  "ingredients": "Ingrediënten: Ui 38%, zetmeel, zout, aroma's (bevatten TARWE, GERST, MELK, SOJA, SELDERIJ), knoflook, smaakversterkers (E621, E627, E631, E635), gehydrolyseerd SOJA-eiwit, gekarameliseerde suiker, zonnebloemolie, palmvet, suiker, sojasauspoeder (zout, maltodextrine, SOJABONEN, TARWE), kruiden (bieslook, peterselie), specerijen (SELDERIJZAAD, peper), antiklontermiddel (E551), voedingszuur (citroenzuur). Kan MOSTERD en KIPPENEI bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1218.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "289.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "21.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:47:23"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Wijko Satésaus kant en klaar mini",
+  "brand": "Wijko",
+  "price": "1.55",
+  "base_unit_price": "12.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/899811_M/1ffd0c87a9c9b6d37f0bf4770bdc399f/899811.png",
+  "ingredients": "Ingrediënten: Water, PINDA'S 26%, suiker, sojasaus (water, SOJABONEN, zout, TARWE, conserveermiddel (kaliumsorbaat)), azijn, weipoeder (MELK), gehydrolyseerd SOJA-eiwit, raapzaadolie, gemodificeerd zetmeel, specerijen, sambal (rode pepers, zout, voedingszuur (azijnzuur), conserveermiddel (benzoëzuur)), zout, gember, ui, conserveermiddel (kaliumsorbaat), voedingszuur (melkzuur), zuurteregelaar (natriumlactaat), emulgator (SOJALECITHINE), kleurstof (E150d), aroma's, paprikaconcentraat, antioxidant (E385), verdikkingsmiddelen (guargom, xanthaangom)",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1040.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "249.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:50"
+}

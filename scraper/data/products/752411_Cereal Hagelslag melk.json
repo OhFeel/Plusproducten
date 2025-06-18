@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Cereal Hagelslag melk",
+  "brand": "Cereal",
+  "price": "3.29",
+  "base_unit_price": "16.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/752411_M/c2c224a91906795d038162fedd3f6c88/752411.png",
+  "ingredients": "Ingrediënten: Zoetstof: maltitolen, cacaomassa^1 20%, volle MELKpoeder 20%, magere cacaopoeder^1 5%, suiker, emulgator: SOJAlecithinen, glansmiddelen: schellak en arabische gom, ^1Rainforest Alliance gecertificeerd. Lees meer op ra.org.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1744.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "417.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:37:07"
+}

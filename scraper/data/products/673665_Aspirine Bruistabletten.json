@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Aspirine Bruistabletten",
+  "brand": "Aspirine",
+  "price": "5.89",
+  "base_unit_price": "0.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/673665_M/455d34a8cddeb879abfee4e065f42bff/673665.png",
+  "ingredients": "Bevat o.a. natrium; lees de bijsluiter voor verdere informatie.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "Per bruistablet 400 mg acetylsalicylzuur en 240 mg vitamine C",
+  "extracted_at": "2025-04-25 16:18:58"
+}

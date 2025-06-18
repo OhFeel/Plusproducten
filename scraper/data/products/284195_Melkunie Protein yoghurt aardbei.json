@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Melkunie Protein yoghurt aardbei",
+  "brand": "Melkunie",
+  "price": "1.79",
+  "base_unit_price": "8.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/284195_M/c059101dca95bce969cf0394c852bb5b/284195.png",
+  "ingredients": "Ingrediënten: YOGHURT 0,6% vet, MELKeiwitten, 5% aardbei, geconcentreerd druivensap, maïszetmeel, geconcentreerd citroensap, natuurlijk aroma, lactase, zoetstof: steviolglycosiden uit Stevia",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "303.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:55:25"
+}

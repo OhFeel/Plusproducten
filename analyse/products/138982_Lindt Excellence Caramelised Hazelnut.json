@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Excellence Caramelised Hazelnut",
+  "brand": "Lindt",
+  "price": "3.89",
+  "base_unit_price": "38.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/138982_M/faf8ecf48f7fa525735f0495121c3a48/138982.png",
+  "ingredients": "Ingrediënten: suiker, cacaopasta, gekarameliseerde HAZELNOTEN 12% (HAZELNOTEN, suiker), cacaoboter, watervrij MELKvet, stukjes karamel 3% (suiker, watervrij MELKvet, LACTOSE, magere MELKpoeder, emulgator (lecithinen), zout, aroma), emulgator (SOJAlecithine). Kan andere NOTEN en SESAMZAADJES bevatten.",
+  "allergens": "Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2232.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:53:43"
+}

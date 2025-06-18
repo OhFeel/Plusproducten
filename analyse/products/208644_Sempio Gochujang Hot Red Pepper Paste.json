@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Sempio Gochujang Hot Red Pepper Paste",
+  "brand": "Sempio",
+  "price": "2.69",
+  "base_unit_price": "10.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/208644_M/774ea177b90a7d936503062899cdab45/208644.png",
+  "ingredients": "Ingrediënten: Rijstpasta 47% (rijst, zout, koji, water), maïssiroop, rode peperpoeder 11%, water, SOJAbonenpasta (SOJAbonen, water, zout, koji), alcohol, zout, TARWE-extract, SOJAkruiden (SOJAbonen, water, zout, TARWE-extract, alcohol, gistextract), geconcentreerd knoflooksap.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "844.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "200.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:21:16"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gevulde brie bieslook 60+",
+  "brand": "PLUS",
+  "price": "3.15",
+  "base_unit_price": "17.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/792664_M/5831ec793841feb3087f43c970e20f35/792664.png",
+  "ingredients": "Ingrediënten :67% brie (gepasteuriseerde KOEMELK, zout, zuursel, microbieel stremsel, schimmelcultuur), 14% verse roomkaas (gepasteuriseerde KOEMELK, zout, zuursel, microbieel stremsel), zure room (MELK), plantaardige oliën (zonnebloem, raapzaad, in wisselende verhoudingen), gemodificeerd zetmeel (aardappel, maïs), 1,2% kruiden (99% bieslook, peterselie), voedingszuur: E330, zout, conserveermiddel: E202, suiker, groenten (ui, pastinaak, wortelpeterselie), specerijen (peper, lavaswortel), dextrose, specerijenextracten (foelie, knoflook), natuurlijk aroma.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1458.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "353.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.42",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.48",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.015",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "2.09",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:44:53"
+}

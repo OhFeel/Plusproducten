@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wasa Sandwich Tomato & Basil  3x2 stuks",
+  "brand": "Wasa",
+  "price": "2.49",
+  "base_unit_price": "0.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/787994_M/ca5666a6d11b8573af6d063a76d2b17e/787994.png",
+  "ingredients": "Ingrediënten: TARWEMEEL 58%, plantaardig vet (koolzaad, shea), KAASPOEDER 9,0%, maltodextrine, KARNEMELKPOEDER, gist, suiker, aroma (MELK), zout, gedroogde tomaten 0,7% en gedroogde basilicum 0,02%. Kan sporen van sesamzaad, soja en lupine bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1985.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "474.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:44:01"
+}

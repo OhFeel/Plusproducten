@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Hokkien Noedels",
+  "brand": "Knorr",
+  "price": "4.69",
+  "base_unit_price": "21.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/282384_M/69c1fc2026613e79405d40d2b7006017/282384.png",
+  "ingredients": "Ingrediënten mie: Noedels (TARWEBLOEM, TARWEGRIESMEEL, zout, aroma (bevat SELDERIJ, SOJABOON), rookaroma, smaakversterker (E621, E635), kleurstof: curcumine). Kan ei bevatten.\nIngrediënten mihoen: Mihoen (rijstebloem, tapiocazetmeel).\nIngrediënten specerijenmix: Sojasauspoeder (sojasaus (SOJABOON, TARWE), zout, maltodextrine), aroma, zetmeel, knoflookpoeder¹ 10%, cayennepeper, gejodeerd zout, peper. Kan andere\nglutenbevattende granen, ei, melk, mosterd, selderij bevatten.\nIngrediënten kruidenmix: Zetmeel, gejodeerd zout, gistextract, mineraalzout (kalium), aroma, suiker, uipoeder¹ 3%, citroensappoeder (maltodextrine, citroensap), maïsolie, knoflookpoeder¹ 1,5%, korianderblad, kardemom, peterseliewortelpoeder¹. Kan ei, glutenbevattende granen, melk, mosterd, selderij, soja bevatten.\n¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2170.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "519.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:54:49"
+}

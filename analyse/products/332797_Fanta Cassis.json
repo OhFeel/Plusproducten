@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fanta Cassis",
+  "brand": "Fanta",
+  "price": "0.79",
+  "base_unit_price": "3.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/332797_M/bbd341cad9e2700f522392467829946b/332797.png",
+  "ingredients": "Ingrediënten: Sprankelend water; suiker; zwarte bessensap uit sapconcentraat (5%); voedingszuur: citroenzuur; kleurstof: anthocyanen; natuurlijke zwarte bessenaroma's; conserveermiddel: kaliumsorbaat.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "191.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "45.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:15:23"
+}

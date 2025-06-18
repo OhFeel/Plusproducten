@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Schär Digestive landtaler glutenvrij",
+  "brand": "Schär",
+  "price": "2.19",
+  "base_unit_price": "14.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/621284_M/ef345f7baa1df4218ffdac953e493ac6/621284.png",
+  "ingredients": "INGREDIËNTEN: maïszetmeel, palmvet, rietsuiker 16%,\nmaïsmeel, SOJAMEEL, SOJAZEMELEN 7%, boekweitmeel 4%, suikerbietstroop,\ngemodificeerd tapiocazetmeel, zout, rijsmiddelen: ammoniumbicarbonaat,\nnatriumbicarbonaat. Kan sporen van LUPINE bevatten. LACTOSEVRIJ",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2021.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "483.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.63",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:14"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Kanelly",
+  "brand": "Bolletje",
+  "price": "2.69",
+  "base_unit_price": "15.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/696457_M/a0833dfabb13f58bf412c59c9357de20/696457.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, suiker, raapolie, invertsuikerstroop, 2% kaneel, glucosestroop, rijsmiddelen (E500, E450), zout, aroma (bevat MELK), magere MELKPOEDER. Kan andere glutenbevattende granen, eieren, soja, noten, sesamzaad en lupine bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1841.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "436.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.78",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:24:29"
+}

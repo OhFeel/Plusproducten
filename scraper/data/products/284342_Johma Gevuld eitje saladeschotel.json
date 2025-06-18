@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Gevuld eitje saladeschotel",
+  "brand": "Johma",
+  "price": "3.49",
+  "base_unit_price": "9.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/284342_M/478c045b8109c44eea98ef2f4418a102/284342.png",
+  "ingredients": "Ingrediënten: koolzaadolie, 25% gestoomde aardappel, 19% gekookte EIEREN Beter Leven 2 sterren, water, 6% paprika, natuurazijn, suiker, gebakken ui, peterselie, gepasteuriseerd EIGEEL, zout, specerijen (MOSTERD), uigranulaat, paprikavlokken, pastinaakwortel, uipoeder, paprikagranulaat, gemodificeerd zetmeel, palmolie, TARWEBLOEM, kerriepoeder (specerijen [MOSTERD], knoflookpoeder, zout), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), tomatenpuree, natuurlijke aroma's (SELDERIJ), gistpoeder, voedingszuren (citroenzuur, melkzuur), verdikkingsmiddelen (guarpitmeel, xanthaangom), zuurteregelaar (calciumchloride), kleurstof (carotenen). \n\nKan sporen bevatten van melk, noten, pinda's, sesamzaad, schaaldieren, soja en vis.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1397.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "338.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:55:27"
+}

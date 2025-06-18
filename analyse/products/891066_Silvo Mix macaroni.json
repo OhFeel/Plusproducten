@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix macaroni",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "42.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/891066_M/c08076aae0e70ce988d9cf185867d830/891066.png",
+  "ingredients": "Ingrediënten: Specerijen 25.5% (uienpoeder 10%, korianderzaad, paprika 5%, mosterdzaad 3%, gember, chilipeper), zout 22%, suiker, smaakversterker: mononatirumglutamaat, aroma (bevat gerst, tarwe), gemodificeerd zetmeel, gedroogde gist, basilicum, tomatenpoeder, rode paprika, zuur: citroenzuur, antiklontermiddel: siliciumdioxide, palmolie. Totale gehalte aan kruiden en specerijen: 27.5%",
+  "allergens": "Glutenbevattende granen, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1088.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "260.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "28.67",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:35"
+}

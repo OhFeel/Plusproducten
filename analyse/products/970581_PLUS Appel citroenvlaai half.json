@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Appel citroenvlaai half",
+  "brand": "PLUS",
+  "price": "7.99",
+  "base_unit_price": "7.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/970581_M/7b1d256a51cf7281cfbc31871558704d/970581.png",
+  "ingredients": "Ingrediënten :29% Appel, TARWEBLOEM, magere MELK, suiker, water, plantaardige oliën (palm, raapzaad, zonnebloem), AMANDELEN, dextrose, palmolie (geheel gehard), witte basterdsuiker (suiker, invertsuikerstroop), lactose (MELK), gemodificeerd maïszetmeel, rozijnen, bakkersgist, rundergelatine, weipoeder (MELK), natuurlijk aroma, bakkerszout, SCHARRELKIPPENEI-EIGEEL, TARWEZETMEEL, emulgator: E471/E433, stabilisator: E407/E420, palmvet, aroma, kleurstof: 160a/E153, voedingszuur: citroenzuur, citroenolie, sinaasappelsapconcentraat, citroensapconcentraat, verdikkingsmiddel: xanthaangom, MELKEIWITTEN, rum, geinactiveerde gist, citroensap.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1094.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "261.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.092",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "16.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:21"
+}

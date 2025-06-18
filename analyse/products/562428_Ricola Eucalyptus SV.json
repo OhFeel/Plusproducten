@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ricola Eucalyptus SV",
+  "brand": "Ricola",
+  "price": "2.45",
+  "base_unit_price": "32.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/562428_M/789aca2d2e5b0a04d1b982b1ddb94589/562428.png",
+  "ingredients": "Ingrediënten: Zoetstof (isomalt), pepermuntolie, muntolie, eucalyptus olie, extract (0,2%) van eucalyptus en Ricola 13 kruiden-mix, menthol, concentraten (spirulina, wortel), zoetstof (steviolglycosiden uit Stevia).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "986.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "237.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "98.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "98.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:40:57"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Peijnenburg Dubbel lekker naturel 4-pack",
+  "brand": "Peijnenburg",
+  "price": "2.39",
+  "base_unit_price": "12.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/667688_M/cb8b7faf58374b93fa3f3e2798aa1625/667688.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, ROGGEbloem 31%, water, plantaardige oliën (palm*, zonnebloem), glucosestroop, suiker, gecondenseerde magere MELK met suiker, bevochtigingsmiddel (glycerol), rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), specerijen, zetmeel, emulgatoren (E472c, sucrose-esters van vetzuren), natuurlijk aroma, voedingszuur (wijnsteenzuur), conserveermiddel (kaliumsorbaat), zout. *Palmolie van duurzame en gecertificeerde plantages Kan NOTEN bevatten.",
+  "allergens": "Rogge, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1392.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "329.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:17:48"
+}

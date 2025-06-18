@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Venz Chocoladehagelslag XXL melk",
+  "brand": "Venz",
+  "price": "3.99",
+  "base_unit_price": "10.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639857_M/ed1420c02d879fed63d773fe757e43e2/639857.png",
+  "ingredients": "Ingrediënten: Suiker, cacaoboter*, magere cacaopoeder*, LACTOSE, WEIPOEDER, emulgator (SOJALECITHINE), aroma (bevat MELK), magere MELKPOEDER 0,01%, *Rainforest Alliance gecertificeerd.ra.org.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1919.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "455.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:16"
+}

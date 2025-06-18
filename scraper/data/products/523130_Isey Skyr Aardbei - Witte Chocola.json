@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Isey Skyr Aardbei - Witte Chocola",
+  "brand": "Isey Skyr",
+  "price": "2.99",
+  "base_unit_price": "7.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/523130_M/1849c908840e9a94b440e2155b3cecd2/523130.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde magere MELK (dk), aardbeien (8,6%), water, ROOM (5%), stukjes witte chocolade (2,8%) (cacaoboter, magere MELKPOEDER, BOTERconcentraat, suiker, vanilline), gemodificeerd maïszetmeel, verdikkingsmiddel (pectine), aroma, zoetstoffen (sucralose, acesulfaam-K), skyr-culturen.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "377.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:27:36"
+}

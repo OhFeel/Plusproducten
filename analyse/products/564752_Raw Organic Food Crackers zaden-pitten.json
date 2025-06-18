@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Raw Organic Food Crackers zaden-pitten",
+  "brand": "Raw Organic Food",
+  "price": "5.39",
+  "base_unit_price": "43.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/564752_M/ff39d265da07693859b44ef140a3833f/564752.png",
+  "ingredients": "Ingrediënten: Water, lijnzaad* 15%, zonnebloempitten* 15%, SESAMZAAD* 10%, pompoenpitten* 5%, maanzaad* 5%, zout, chilipeper* 0,4%, basilicum*, oregano*, kardemomzaad*, *=biologisch",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2214.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:41:56"
+}

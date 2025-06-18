@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Starbucks Cafe Latte no added sugar",
+  "brand": "Starbucks",
+  "price": "3.99",
+  "base_unit_price": "5.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/487462_M/bfac3a9a2e48ac54561fdbb1cf11048f/487462.png",
+  "ingredients": "Ingrediënten: MELK (1,1% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (24,8%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen), enzym (lactase), zoetstof (acesulfaam-K)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "154.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "37.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:13:34"
+}

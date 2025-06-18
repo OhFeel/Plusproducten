@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Knoflook tafelsaus",
+  "brand": "Remia",
+  "price": "1.75",
+  "base_unit_price": "7.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/965049_M/56cc1e9a3e036c32799fd786e7a25998/965049.png",
+  "ingredients": "Ingrediënten: water, raapolie, suiker, natuurazijn, gemodificeerd zetmeel (mais en aardappel), ui, MOSTERD (water, MOSTERDZADEN, natuurazijn, specerijen), peterselie 1,4%, knoflookpuree 1,4%, zout en zeezout, ui concentraat, voedingszuren: melkzuur en citroenzuur, natuurlijk aroma (MOSTERD), verdikkingsmiddel: guarpitmeel, conserveermiddel: kaliumsorbaat, specerijen, antioxidant: E385.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1361.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "329.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:22"
+}

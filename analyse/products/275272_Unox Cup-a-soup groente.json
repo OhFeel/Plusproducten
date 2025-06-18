@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Cup-a-soup groente",
+  "brand": "Unox",
+  "price": "1.89",
+  "base_unit_price": "39.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/275272_M/5d5171612150665f97c9ca92e513e2f8/275272.png",
+  "ingredients": "Ingrediënten: Dextrose, aardappelzetmeel, deegwaar 17% (harde TARWEGRIES, zout), groenten 16% (ui, wortel¹, erwt¹, prei¹, KNOLSELDERIJ¹, rode paprika¹), croutons 10% (witbrood (TARWEBLOEM, zout, gist, raapzaadolie), palmolie, antioxidant: rozemarijnextract), gejodeerd zout, palmvet, gistextract, zout, suiker, aroma, maïsolie, mineraalzout (kalium), peterselie¹, specerijen (kurkuma¹, peper, nootmuskaat). Kan ei, melk, mosterd, soja bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "143.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "34.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.72",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:51:10"
+}

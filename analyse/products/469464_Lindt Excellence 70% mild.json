@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Excellence 70% mild",
+  "brand": "Lindt",
+  "price": "3.89",
+  "base_unit_price": "38.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469464_M/d3e15376467b706044a14602dadd1e8c/469464.png",
+  "ingredients": "ingrediënten:cacaomassa, suiker, cacaoboter, emulgator (SOJA-lecithine), vanille. Kan HAZELNOTEN, andere NOTEN en MELK bevatten.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2528.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "610.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:48"
+}

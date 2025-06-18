@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "John West Tonijnstukken met groente",
+  "brand": "John West",
+  "price": "2.59",
+  "base_unit_price": "17.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/215043_M/df5e714b7e08a5fc64a06f14aa99ae9b/215043.png",
+  "ingredients": "Ingrediënten: Skipjack TONIJN (42%), water, uien (13%), azijn, baby mais (4,8%), suiker, zonnebloemolie, doperwten (2,6%), geconcentreerd tomatenpuree, rijstmeel, zout, witte peper, verdikkingsmiddel: xanthaangom, kleuren: paprika extract.",
+  "allergens": "Vis, Tonijn en producten op basis van tonijn",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "479.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "114.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:33"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Planet Deli Naanbrood naturel",
+  "brand": "Planet Deli",
+  "price": "1.95",
+  "base_unit_price": "8.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/466341_M/8095c02b46edfd97557a3eb63af15bd5/466341.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM (TARWEBLOEM, calcium (carbonaat), ijzer, niacine, thiamine), water, koolzaadolie, gist, alcoholazijn, rijsmiddelen (dinatriumdifosfaat, natriumbicarbonaat, calciumfosfaat), kalonij zaden, zout, gemalen venkel, conserveermiddel (calciumpropionaat), aroma, magere MELKpoeder, TARWEZETMEEL. Oorsprong EU en niet EU.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1066.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "252.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.78",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:04:23"
+}

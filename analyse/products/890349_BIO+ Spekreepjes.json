@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "BIO+ Spekreepjes",
+  "brand": "BIO+",
+  "price": "4.99",
+  "base_unit_price": "24.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/890349_M/dcdd58c3394e9cfa781ba0836ab6ef69/890349.png",
+  "ingredients": "ingrediënten: biologisch varkensvlees (85%), water, zout, biologische kruiden, biologische specerijen, biologische glucose, antioxidant (e300), rook, conserveermiddel (e250).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1348.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "322.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:28"
+}

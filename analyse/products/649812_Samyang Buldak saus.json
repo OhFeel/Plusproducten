@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Samyang Buldak saus",
+  "brand": "Samyang",
+  "price": "5.49",
+  "base_unit_price": "27.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/649812_M/19371edbb03d9da857ea1ff066e15c42/649812.png",
+  "ingredients": "Ingrediënten: water, smaakverfijner-poeder(kiparoma, suiker, chilipoeder, gistpoeder, chilipeper, gemodificeerd aardappelzetmeel, zuurteregelaar: E330,gemalen zwarte peper, currypoeder (EI, MELK, SELDERIJ), maissiroop, SOJA-saus (water, SOJABONEN, zout, TARWE,glucose-fructose-siroop, zuurteregelaars: E500, E524, smaakversterker: E635, knoflookconcentraat), SOJA-olie, ui,chili-extract, knoflook, paprika-extract, emulgator: E471, thee catechine, dextrine.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "976.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "233.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:19"
+}

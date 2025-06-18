@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "De Ruijter Feestmuisjes",
+  "brand": "De Ruijter",
+  "price": "2.99",
+  "base_unit_price": "9.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/798251_M/00ee8a9d6c39225b9d6f009bc7c8bc85/798251.png",
+  "ingredients": "Ingrediënten: Suiker, anijszaad, TARWEZETMEEL, glucosestroop, saffloerextract, kleurstoffen (paprika-extract, karmijn, indigotine), glansmiddel (carnaubawas).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1683.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "397.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "91.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:21"
+}

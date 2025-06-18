@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Redefine Meat Gehakt",
+  "brand": "Redefine Meat",
+  "price": "3.69",
+  "base_unit_price": "14.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/177102_M/511b9dce7de26bdc244df2045c95f87c/177102.png",
+  "ingredients": "Ingrediënten: Water, plantaardig eiwit (SOJA, erwt) (17%), geraffineerd kokosvet, geraffineerde raapzaadolie, verdikkingsmiddelen (methylcellulose, glycerol), aroma's (bevatten MOSTERD), zuurteregelaar (kaliumlactaat), maltodextrine, fruit-en kruidenextract (antioxidant), azijn, frambozensap, geconcentreerd gekarameliseerd perensap, antioxidant (ascorbinezuur), specerijen, gerookt zout, kleurstof (bietenrood), rijstmeel, niacine, vitamine B6, vitamine B12, ijzer, zink\nKan selderij en lupine bevatten.\nALLERGENEN: zijn HOOFDLETTERS.",
+  "allergens": "Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "780.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "188.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "5.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "2.8",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "4.5",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:08:36"
+}

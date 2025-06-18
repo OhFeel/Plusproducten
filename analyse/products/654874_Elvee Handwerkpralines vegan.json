@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Handwerkpralines vegan",
+  "brand": "Elvee",
+  "price": "5.59",
+  "base_unit_price": "37.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654874_M/36071f2e52739c565989f5a8592e1927/654874.png",
+  "ingredients": "Ingrediënten: suiker, 8% AMANDELEN, cacaomassa, cacaoboter, 8% HAZELNOTEN, inuline, rijstsiroop, linzeneiwit, water, plantaardige oliën (zonnebloem, koolzaad), maïs, plantaardige vetten (zonnebloem, palm), rijst, glucosestroop, emulgatoren (SOJALECITHINE, E410, E471), natuurlijke vanille-aroma, gemodificeerd maïszetmeel, zout, GERSTEMOUT-aroma, sacharose, stabilisator (E412), vanille-extract, ijzer, vitamine (B1, B12, B2, B6, D, foliumzuur, niacine), kleurstoffen (carotenen, E101, E171). Gemaakt in een bedrijf waar ook andere noten, melk, pinda’s en ei worden verwerkt.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2073.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "497.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:57"
+}

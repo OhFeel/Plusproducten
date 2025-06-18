@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Monte Tessa Appassimento IGP Puglia",
+  "brand": "Monte Tessa",
+  "price": "3.99",
+  "base_unit_price": "10.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/168705_M/82bc0a33f9246c3655a08b4f1ff52004/168705.png",
+  "ingredients": "Ingrediënten: KALIUMMETABISULFIET, Dimethyldicarbonaat (DMDC), Arabische gom, Kaliumpolyaspartaat. Bevat SULFIETEN.",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "4.3",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "96.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "14",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:05:19"
+}

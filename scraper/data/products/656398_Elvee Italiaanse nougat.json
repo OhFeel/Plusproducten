@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Italiaanse nougat",
+  "brand": "Elvee",
+  "price": "4.99",
+  "base_unit_price": "35.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/656398_M/b0ac426f8b7532f11218d759cfc83f19/656398.png",
+  "ingredients": "Ingrediënten: suiker, 25% PINDA's, glucosestroop, 10% HAZELNOTEN, honing, EIWIT, natuurlijk vanille-aroma, ouwel [aardappelzetmeel, water, plantaardige olie (olijf)]. Gemaakt in een bedrijf waar ook andere noten, gluten bevattende granen, melk en sesam verwerkt worden.",
+  "allergens": "Ei, Aardnoten (pinda's), Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "479.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:14"
+}

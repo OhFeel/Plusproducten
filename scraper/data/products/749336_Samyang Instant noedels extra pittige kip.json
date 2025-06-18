@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Samyang Instant noedels extra pittige kip",
+  "brand": "Samyang",
+  "price": "1.79",
+  "base_unit_price": "12.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749336_M/b686a1eed5f4779edbf3b77f25882c55/749336.png",
+  "ingredients": "Ingrediënten: Noedels 76,7%: TARWE-meel, gemodificeerd tapiocazetmeel, palmolie, TARWEGLUTEN, zout, SOJA-olie, water, zuurteregelaars: E501, E500, E339, E452, E330, verdikkingsmiddel: E412, emulgator: SOJA-lecithine, kleurstof: E101. Vloeibare smaakverfijner 22,7%: water, kiparomapoeder (dextrine, kip-smaakverfijner [zout, gebraden rijst poeder, kiparoma, glycine, uienpoeder], gistextract, zonnebloemolie, suiker, knoflookpoeder [gedroogde knoflook, dextrine, zuurteregelaar: E341]), suiker, SOJA-saus [gebrouwen SOJA-saus [SOJABONEN, water, zout, TARWE], water, zout, maisstroop, knoflookconcentraat, dextrine, suiker), chilipoeder, SOJA-olie, uienpoeder, chili-extract, zout, knoflookpoeder, gemodificeerd aardappelzetmeel, gistextractpoeder, gemalen zwarte peper, currypoeder (komijnpoeder, zout, rode chilipeper, klaverpoeder, nootmuskaatpoeder, rozemarijnpoeder, paprika oleoresine, laurierbladpoeder, knoflookpoeder, uienpoeder, curry-aroma, rozemarijnolie, gember oleoresine). Vlokken 0,6%: geroosterd SESAMZAAD, geroosterd zeewier. Gemaakt in een bedrijf waar ook schaaldieren, ei, vis, melk, pinda’s, noten, selderij, mosterd & weekdieren worden verwerkt.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1629.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "389.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:36:07"
+}

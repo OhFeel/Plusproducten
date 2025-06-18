@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Knoflooksaus Topdown",
+  "brand": "Remia",
+  "price": "2.19",
+  "base_unit_price": "4.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/688107_M/6a3b29114d11e6f82f59fc8a2c8c48e7/688107.png",
+  "ingredients": "Ingrediënten: water, raapolie, biologische MAGERE YOGHURT, natuurazijn, gemodificeerd maiszetmeel, vrije uitloop EIGEEL1, kruiden, MOSTERD (water, MOSTERDZADEN, azijn, specerijen), zout en zeezout, knoflookpuree 1,3%, voedingszuren: melkzuur en citroenzuur, ui concentraat, verdikkingsmiddel: guarpitmeel, natuurlijk aroma, conserveermiddel: kaliumsorbaat, specerijen, zoetstoffen: acesulfaam-K en aspartaam2, antioxidant: E385. 1=Beter Levenkeurmerk 2 sterren. 2=Bevat een bron van fenylalanine.",
+  "allergens": "Ei, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1003.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "242.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:24"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verstegen Mix voor gehakt lekkerste balletje",
+  "brand": "Verstegen",
+  "price": "1.59",
+  "base_unit_price": "39.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/341949_M/d7ecf534b205c15c01d4dc578e0e6a91/341949.png",
+  "ingredients": "Ingrediënten: PANEERMELEN (bevat TARWE, GERST, ROGGE), specerijen (5% paprika, 2% peper, gember, 2% koriander, SELDERIJZAAD, foelie, kardemom, chilies), groenten (ui, paprika, prei, 1% geroosterde knoflook), zout, kruiden.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1336.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "316.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:17:45"
+}

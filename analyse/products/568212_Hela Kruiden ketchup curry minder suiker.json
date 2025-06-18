@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hela Kruiden ketchup curry minder suiker",
+  "brand": "Hela",
+  "price": "2.69",
+  "base_unit_price": "8.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/568212_M/26991b1d1a8d42f2109b52c7a1490a55/568212.png",
+  "ingredients": "Ingrediënten: tomatenbereiding (water, tomatenpuree, azijn), suiker, fructose, kerrie (bevat MOSTERD), gemodificeerd zetmeel, zout, verdikkingsmiddel (guarpitmeel), karamelstroop, smaakversterker (mononatriumglutamaat), voedingszuur (citroenzuur). Kan sporen bevatten van selderij.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "450.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "106.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:56"
+}

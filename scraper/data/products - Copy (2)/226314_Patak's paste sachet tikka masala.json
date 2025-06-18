@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's paste sachet tikka masala",
+  "brand": "Patak's",
+  "price": "2.39",
+  "base_unit_price": "29.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/226314_M/00cba8a64643929f236a1772682b96f3/226314.png",
+  "ingredients": "water, gemengde specerijen (21%) (specerijen (5%), komijn (4,5%), paprika (4,5%), kurkuma (4%), koriander (3%)), plantaardige olie, maïszetmeel, tamarinde pasta (tamarinde, water), zout, voedingszuur (azijnzuur, citroenzuur), knoflookpoeder, kleurstof (paprika-extract), gedroogd korianderblad (<lt/>1%). allergeneninformatie: voor allergenen zie vetgedrukte ingrediënten. kan noten, aardnoten (pinda's), gluten en soja bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1217.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "294.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:29:29"
+}

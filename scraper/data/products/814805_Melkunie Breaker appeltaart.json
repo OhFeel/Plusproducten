@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Melkunie Breaker appeltaart",
+  "brand": "Melkunie",
+  "price": "1.69",
+  "base_unit_price": "8.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/814805_M/4f6236c132c1fdd3d057147280076f2e/814805.png",
+  "ingredients": "Ingrediënten: YOGHURT (3,6% vet), suiker, 6% appel, gemodificeerd maïszetmeel, 0,5% gemalen koekjes (maïsmeel, suiker, BOTER, rijstmeel, zout), natuurlijk aroma, verdikkingsmiddel: pectine, kaneel, aroma, lactase. ",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "379.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:23"
+}

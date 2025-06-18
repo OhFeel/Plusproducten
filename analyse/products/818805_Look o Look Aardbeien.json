@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Aardbeien",
+  "brand": "Look o Look",
+  "price": "2.19",
+  "base_unit_price": "16.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/818805_M/302deacbab81a1df330da12c71161984/818805.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, gemodificeerd zetmeel, TARWEZETMEEL, water, voedingszuren (appelzuur, citroenzuur, melkzuur), concentraten (zwarte wortel, saffloer, spirulina), aroma. ",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1458.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:27"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Praliné repen glutenvrij",
+  "brand": "Damhert",
+  "price": "3.99",
+  "base_unit_price": "39.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/298872_M/1a76724dae86eca7a7cc3ac66e648e0f/298872.png",
+  "ingredients": "glucosestroop*, pure chocolade* (20%) (cacaomassa*, ruwe rietsuiker*, cacaoboter*, emulgator (zonnebloemlecithine*)), gedroogde glucosestroop*, tapiocazetmeel*, HAZELNOOTpraliné (8%) (ruwe rietsuiker*, HAZELNOTEN* (3,2%), cacaoboter*, cacaomassa*), SOJAbloem*, cacaoboter*. *Van gecontroleerde biologische teelt. Cacaobestanddelen: minimaal 54%. Kan MELK**, PINDA'S, en andere NOTEN bevatten. **Bevat minstens 0,5g lactose per 100g.",
+  "allergens": "Soja, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1769.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "423.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:03:40"
+}

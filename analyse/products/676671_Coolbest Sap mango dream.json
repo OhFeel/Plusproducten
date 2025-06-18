@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Coolbest Sap mango dream",
+  "brand": "Coolbest",
+  "price": "1.79",
+  "base_unit_price": "5.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/676671_M/a061d087b4d1b892b46d98ff96c00d12/676671.png",
+  "ingredients": "Ingrediënten: Vruchtensap uit concentraat (appel 55%, sinaasappel 33%. mango 10%, witte druif), natuurlijk aroma",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "194.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "46.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.003",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "9.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:19:41"
+}

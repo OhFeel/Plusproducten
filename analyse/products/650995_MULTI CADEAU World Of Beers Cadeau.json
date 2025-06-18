@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "MULTI CADEAU World Of Beers Cadeau",
+  "brand": "MULTI CADEAU",
+  "price": "13.99",
+  "base_unit_price": "2.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/650995_M/4cffbda78e7da62bb3f70c172611b8bc/650995.png",
+  "ingredients": "Ingrediënten: Bud: water, GERSTEMOUT, rijst, hop. Krombacher: water, GERSTEMOUT, hop, hopextract.\nBevat: Estrella: GERSTEMOUT. Hop House 13: GERST.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "209.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "50.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:03"
+}

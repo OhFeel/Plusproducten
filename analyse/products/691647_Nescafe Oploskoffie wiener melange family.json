@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nescafe Oploskoffie wiener melange family",
+  "brand": "Nescafe",
+  "price": "3.99",
+  "base_unit_price": "14.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/691647_M/472eac37bcc46bc6c8abc3a324581a93/691647.png",
+  "ingredients": "Ingrediënten: LACTOSE, suiker, magere MELKpoeder (18%), instantkoffie (8,6%), plantaardig vet (kokos), cacaopoeder (3%), stabilisatoren (E339, E331), verdikkingsmiddel (E415), zout, aroma. Mogelijk sporen van SOJA.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1699.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "403.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:34"
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Iglo Spinazie Boursin",
+  "brand": "Iglo",
+  "price": "3.29",
+  "base_unit_price": "7.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/888655_M/e8173e8c1b4b6d1a7900734f9203504e/888655.png",
+  "ingredients": "Ingrediënten: Spinazie 67%, water, Boursin knoflook en fijne kruiden roomkaas 7,9% (MELK, room (MELK), zuursel, zout, knoflook, witte peper, peterselie, bieslook), roomkaas (room (MELK), zout, zuursel), room (MELK), rijstzetmeel, knoflookpasta (knoflook, zout), groentebouillon (dextrose, zout, wortelen, uien, prei, sjalotten, tomatenpoeder, paprikapoeder), zout, peterselie, bieslook, witte peper.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "369.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "89.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.72",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "472.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine K",
+      "value": "560.0",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:15"
+}

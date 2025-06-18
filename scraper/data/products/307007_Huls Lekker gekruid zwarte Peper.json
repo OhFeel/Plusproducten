@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Lekker gekruid zwarte Peper",
+  "brand": "Huls",
+  "price": "3.19",
+  "base_unit_price": "31.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/307007_M/7d303fcb0bbb1a3c507952d937aa1c3f/307007.png",
+  "ingredients": "varkensvlees, varkensseparatorvlees, varkensspek, zwarte peper 8%, zout, specerijen, varkensgelatine, dextrose, antioxidant (natriumascorbaat), kleurstof (karmijn), bevochtigingsmiddel (e422), specerij-extract, voedingszuur (citroenzuur), fermenten, conserveermiddelen (natriumnitriet, e202), worstomhulsel: varkensdarm. voor 100 gram droge worst is 68 gram varkensvlees en 56 gram varkensseparatorvlees gebruikt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1959.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "474.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "42.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:07:09"
+}

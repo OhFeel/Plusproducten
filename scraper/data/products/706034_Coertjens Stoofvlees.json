@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Coertjens Stoofvlees",
+  "brand": "Coertjens",
+  "price": "4.99",
+  "base_unit_price": "11.74",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/706034_M/b9565ed68b5c54770f901ec7862d3047/706034.png",
+  "ingredients": "Ingrediënten: Vleesnat, paardenvlees* (35% gekookt), water, gemodificeerd maïszetmeel, uien, gera neerd rundvet, zout, maïszetmeel, suiker, azijn, kleurstof (E150c), kruiden en specerijen (bevat mosterd), wijn. *Het vlees is niet aomstig van België. Kan sporen bevatten van aardnoten, eieren, gluten, melk, noten, selderij en soja.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "426.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "101.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:25:59"
+}

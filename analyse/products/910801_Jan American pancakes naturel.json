@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Jan American pancakes naturel",
+  "brand": "Jan",
+  "price": "2.49",
+  "base_unit_price": "8.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/910801_M/9625efb6ecfbfa071863923a8c57e6fb/910801.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, plantaardige olie (raapzaad), 13% SCHARRELEI, suiker, TARWEVEZELS, weipoeder (MELK), zuurteregelaars (E326, E330, E262), magere MELKpoeder, rijsmiddelen (E500, E341), zout, emulgator (lecithine), aroma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1435.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "345.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:49"
+}

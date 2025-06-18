@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Alpro Kokosnootdrink Houdbaar",
+  "brand": "Alpro",
+  "price": "3.19",
+  "base_unit_price": "3.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/388267_M/94112d3a5f49de6dd4131c815d3a1950/388267.png",
+  "ingredients": "Ingrediënten: Water, kokosmelk (8,6%) (water, kokosroom (4%)), rijst (3,3%), calcium (tricalciumfosfaat), stabilisatoren (guarpitmeel, gellangom, xanthaangom), zeezout, aroma's, vitaminen B12, D2. Kan sporen van noten (geen pindanoten) bevatten. Vrij van zuivel en gluten. Van nature lactosevrij.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "84.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "20.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.38",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:16"
+}

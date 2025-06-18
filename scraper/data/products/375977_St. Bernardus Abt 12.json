@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "St. Bernardus Abt 12",
+  "brand": "St. Bernardus",
+  "price": "2.89",
+  "base_unit_price": "8.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375977_M/2dfb78de8c2c56850edf10e02bb350c1/375977.png",
+  "ingredients": "Ingrediënten: Water, GERSTEmout, suiker, hop, gist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "10",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:41"
+}

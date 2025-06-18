@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Vezelrijk beschuit meerzaden",
+  "brand": "Bolletje",
+  "price": "1.99",
+  "base_unit_price": "12.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/287389_M/a5d269b3871b8de538128f281e53c2ec/287389.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 12% zonnebloempitten, suiker, gist, TARWEZEMELEN, plantaardige vezels (oligofructose), TARWEGLUTEN, 3,4 % lijnzaad, 2,7% (geroosterd) SESAMZAAD, glucosestroop, 1,5% pompoenpitten, emulgator (lecithine), zout, raapolie, meelverbeteraar (ascorbinezuur). Kan andere glutenbevattende granen bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1881.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "448.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.51",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:57:10"
+}

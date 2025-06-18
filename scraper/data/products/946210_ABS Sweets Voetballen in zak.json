@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "ABS Sweets Voetballen in zak",
+  "brand": "ABS Sweets",
+  "price": "1.99",
+  "base_unit_price": "18.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946210_M/7a9d6407e27809fa3193ce63dff98c91/946210.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter¹, cacaomassa¹, magere MELKpoeder, weipoeder (MELK), MELKvet, emulgatoren: lecithinen (SOJA), E476; vanille extract. Melkchocolade: ten minste 31% cacaobestanddelen. Kan sporen van sesamzaad, pinda's en hazelnoot bevatten. ¹Rainforest Alliance Certified. Find out more at ra.org",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2174.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "523.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "59.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:17"
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Unox Party knaks vegetarisch",
+  "brand": "Unox",
+  "price": "5.25",
+  "base_unit_price": "13.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/162708_M/b26c95cc364c21db1c00c68b59a733ff/162708.png",
+  "ingredients": "Ingrediënten: Vegetarische worstjes: water, zonnebloemolie 13%, gemodificeerd zetmeel, KIPPENEI-EIWITPOEDER 5,3%, rijstebloem, inuline, verdikkingsmiddel (E461, E415), specerijen, aroma, zout, suiker, tomatenpuree, gehydrolyseerd maïseiwit, natuurlijk aroma, rookaroma, gistextract, voedingszuur (E330), geleermiddel (E401), antioxidant (E301), vitamine B12, ijzer, gekarameliseerde suiker, specerij-extracten, kleurstof (E172). Opgiet: Water, zout, rookaroma.",
+  "allergens": "Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "756.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "181.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.478",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:49"
+}

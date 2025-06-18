@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Starbucks Chilled ijskoffie Vanilla macchiato",
+  "brand": "Starbucks",
+  "price": "1.99",
+  "base_unit_price": "9.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/474881_M/2e35b704714ad58668845cee691049ea/474881.png",
+  "ingredients": "Ingrediënten: MELK (1,8% vet)(75%), Starbucks® Arabica koffie (water, koffie-extract) (20,3%), suiker (4,5%), natuurlijk aroma, stabilisatoren (gellangom, carrageen), zuurteregelaar (kaliumcarbonaat), ",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "248.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "59.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:47"
+}

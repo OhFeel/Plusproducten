@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Tagatese sprits chocolade",
+  "brand": "Damhert",
+  "price": "3.89",
+  "base_unit_price": "32.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/765691_M/3f7c6ba71df3baa677626b06654c408d/765691.png",
+  "ingredients": "TARWEbloem, chocolade (17%), (cacaomassa, zoetstof (maltitol), cacaoboter, lecithine, natuurlijk vanille aroma), zoetstof (maltitol), palmvet**, water, raapzaadolie, EI, roomBOTER (MELK), EI-EIwit, zout, natuurlijk bourbon vanille aroma. Kan NOTEN, PINDA en SESAM bevatten.**van duurzame teelt.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2059.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "494.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "25.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:20"
+}

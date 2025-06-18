@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Consenza Choco teff fingers",
+  "brand": "Consenza",
+  "price": "3.99",
+  "base_unit_price": "39.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/784466_M/0d092db7810748c730882ef6b334c046/784466.png",
+  "ingredients": "Ingrediënten: Melkchocolade 88% (suiker, cacaoboter, volle MELKpoeder, cacaomassa, emulgator: SOJAlecithine, natuurlijk vanille aroma), rijstebloem, aardappelzetmeel, teffmeel, SOJAbloem, rijsmiddel: natriumcarbonaten, kokosolie, EIGEEL (eieren), emulgator: SOJAlecithine, zout\nKAN SPOREN BEVATTEN VAN NOTEN.",
+  "allergens": "Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2198.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "524.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:30"
+}

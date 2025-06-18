@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Selezione Ristorante Gevulde pasta paddenstoelen mozzarella",
+  "brand": "Selezione Ristorante",
+  "price": "2.99",
+  "base_unit_price": "11.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/298308_M/55ec90c9ecb434ed34fa90eb3b542cc4/298308.png",
+  "ingredients": "Vulling (60%): gebakken paddenstoelen 34% (champignon 36% (agaricus bisporus), eekhoorntjesbrood 26% (boletus edulis en verwante soorten), ui, zonnebloemolie, peterselie, zout, gedroogde eekhoorntjesbrood 0,2% (boletus edulis en verwante soorten), knoflook, zwarte peper), ricotta (melk), zout, voedingszuur: citroenzuur), paneermeel (tarwe, gist, zout), mozzarella kaas 10% (melk), zonnebloemolie, boter (melk), harde geraspte kaas (melk), zout, gedroogde eekhoorntjesbrood 0,4% (boletus edulis en verwante soorten). Eierpasta (40%) tarwebloem, eieren 28,5%, griesmeel van harde tarwe.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1113.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "266.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:03:20"
+}

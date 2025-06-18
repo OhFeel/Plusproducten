@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Sapori Cantuccini almond",
+  "brand": "Sapori",
+  "price": "3.09",
+  "base_unit_price": "17.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435323_M/f181420172d99a915bbec485442e31e6/435323.png",
+  "ingredients": "Ingrediënten: TARWEmeel - suiker 30% - AMANDELEN 20% - dooier van gepasteuriseerde verse scharrelEIEREN 4,8% - gepasteuriseerde verse scharrelEIEREN 4,8% - gepasteuriseerde verse volle MELK 4,8% - BOTER - honing 0,5% - rijsmiddelen: dinatriumdifosfaat, natriumwaterstofcarbonaat - zout - aroma's. Kan SOJA, MOSTERD en andere NOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1945.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "463.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:52:59"
+}

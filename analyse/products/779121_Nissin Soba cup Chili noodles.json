@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nissin Soba cup Chili noodles",
+  "brand": "Nissin",
+  "price": "2.49",
+  "base_unit_price": "27.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/779121_M/9d12fd469f09bd9cc6e00551509dd7b6/779121.png",
+  "ingredients": "Ingrediënten: Noedels 71,7% [TARWEMEEL, palmolie, zout, smaakversterker (E621), zuurteregelaars (natriumcarbonaat, citroenzuur), stabilisator (E451), antioxidant (E306)], Kruidensaus 20,7% [suiker, water, dextrose, koolzaadolie, smaakversterkers (E621, E635), azijn, sojasaus (water, SOJABONEN, zout, TARWE), melasse, kleurstof (E150c), zout, specerijen, gehydrolyseerd maïseiwit, tomaatpoeder, aroma's, zuurteregelaar (citroenzuur), chilipoeder (0,5% in kruidensaus)], kool, rode paprika. Kan sporen van SELDERIJ, SCHAALDIEREN, VIS, MELK, WEEKDIEREN, MOSTERD en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "872.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "208.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:29"
+}

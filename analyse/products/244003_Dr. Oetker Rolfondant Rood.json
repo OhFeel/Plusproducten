@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Rolfondant Rood",
+  "brand": "Dr. Oetker",
+  "price": "1.99",
+  "base_unit_price": "9.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/244003_M/34aa77bf552dcf5358c94d55a4d50aab/244003.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, plantaardig vet (palm), kleurstof (anthocyanen), bevochtigingsmiddel (glycerol), kleurende levensmiddelen (concentraten van (citroen, saffloer)), emulgator (mono- en diglyceriden van vetzuren veresterd met citroenzuur), verdikkingsmiddelen (traganth, cellulosegom), natuurlijk  aroma, zuurteregelaar (citroenzuur), conserveermiddel (kaliumsorbaat). Kan bevatten: (SCHAALVRUCHTEN (NOTEN)).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1674.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "395.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "88.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "82.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:39:33"
+}

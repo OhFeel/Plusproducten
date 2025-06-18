@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Rio Mare Tonijn in olijfolie duo-pack",
+  "brand": "Rio Mare",
+  "price": "7.99",
+  "base_unit_price": "24.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/449697_M/1b55ea2105f0b0d793d800e7f4642d33/449697.png",
+  "ingredients": "Ingrediënten: TONIJN**, olijfolie, zout.  **Euthynnus (Katsuwonus) pelamis",
+  "allergens": "Vis, Tonijn en producten op basis van tonijn",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1667.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "403.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:59:41"
+}

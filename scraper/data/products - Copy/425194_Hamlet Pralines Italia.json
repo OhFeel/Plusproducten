@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hamlet Pralines Italia",
+  "brand": "Hamlet",
+  "price": "6.99",
+  "base_unit_price": "27.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/425194_M/24b0bf125b58f65432fa89a2a09ac65c/425194.png",
+  "ingredients": "Ingrediënten: suiker, volle MELKpoeder, cacaomassa, cacaoboter, HAZELNOTEN 6%, gesuikerde gecondenseerde volle MELK, palmvet, glucosestroop, boterolie (MELK), MELKsuiker, dextrose, alcohol, koffie-extract 0,04%, emulgator: SOJAlecithine, stabilisator: E420ii, aroma's: karamel, framboos, sinaasappel en vanille. Kan sporen van andere NOTEN bevatten",
+  "allergens": "Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2200.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "526.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:47:50"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans Hartige taartmix",
+  "brand": "Koopmans",
+  "price": "2.39",
+  "base_unit_price": "9.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/150148_M/c177eee2357002ea3e61d20a9b652aa2/150148.png",
+  "ingredients": "Ingrediënten: bodemmix (TARWEBLOEM, rijsmiddelen (E 575, E 500, E 450), dextrose, zout, TARWEZUURDESEMCONCENTRAAT, aroma, Kan bevatten: (EI, MELK)), sausmix (TARWEBLOEM, WEIPOEDER, glucosestroop, plantaardige oliën (palmpit, gefractioneerde palmolie, raapzaadolie), verdikkingsmiddel (E 461), emulgator E 472b, kaliumchloride (zoutvervanger), zout, natuurlijke aroma's (bevat SELDERIJ), MELKEIWITTEN, gejodeerd zout, knoflookpoeder, gedroogde gist, uienpoeder, specerijen, maltodextrine, Kan bevatten: (EI)).",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "746.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "178.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:04"
+}

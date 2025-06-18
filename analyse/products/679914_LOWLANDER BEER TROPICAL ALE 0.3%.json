@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "LOWLANDER BEER TROPICAL ALE 0.3%",
+  "brand": "LOWLANDER BEER",
+  "price": "2.49",
+  "base_unit_price": "7.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/679914_M/d0005d8d6cfd3774a7a4425891fd8ca5/679914.png",
+  "ingredients": "Bevat: Water, GERSTEMOUT, hop, gist, grapefruit, guave. Contains: GLUTEN.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "102.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "24.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0.3",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:18"
+}

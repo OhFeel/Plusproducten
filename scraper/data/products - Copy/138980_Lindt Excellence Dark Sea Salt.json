@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Excellence Dark Sea Salt",
+  "brand": "Lindt",
+  "price": "3.89",
+  "base_unit_price": "38.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/138980_M/61a2ccfc26d3e92c53121ca4e2a77d8d/138980.png",
+  "ingredients": "ingrediënten:suiker, cacaomassa, cacaoboter, watervrij MELKvet, emulgator (SOJAlecithine), zout (0,3%), vanilline aroma. kan HAZELNOTEN en andere NOTEN, MELK bevatte. Bevat: pure chocolade cacao bestanddelen: 47% minstens.",
+  "allergens": "Cacao, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2205.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "529.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:53:42"
+}

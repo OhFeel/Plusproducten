@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vegetarische Slager Little Willies",
+  "brand": "Vegetarische Slager",
+  "price": "4.15",
+  "base_unit_price": "25.94",
+  "image_url": "",
+  "ingredients": "Ingrediënten: SOJASTRUCTUUR 39% (water, SOJA-EIWIT, TARWEGLUTEN, SOJAMEEL, zetmeel (bevat TARWE)), water, zonnebloemolie, ui, verdikkingsmiddel (methylcellulose, verwerkt eucheumawier), specerijen (ui, peper, knoflook, foelie), citrusvezel, gistextract, dextrose, zout, natuurlijk aroma, azijn, vegan eetbare darm (stabilisator (calciumchloride, natriumalginaat)), kruiden (salie, peterselie, rozemarijn), zuurteregelaar (kaliumacetaat), mineraalzout (kalium), voedingszuur (melkzuur), aroma, ijzerpyrofosfaat, vitamine B12. Kan EI, MELK, MOSTERD, SELDERIJ bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "835.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "203.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "4.9",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "1.2",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:31"
+}

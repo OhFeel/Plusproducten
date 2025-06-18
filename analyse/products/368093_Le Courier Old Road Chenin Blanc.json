@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Le Courier Old Road Chenin Blanc",
+  "brand": "Le Courier",
+  "price": "7.99",
+  "base_unit_price": "10.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/368093_M/000a6142476f9792c1e1b802998bbd10/368093.png",
+  "ingredients": "Ingrediënten: Druiven, zuurteregelaar: wijnsteenzuur; conserveringsmiddel: SULFIETEN; stabilisator: kaliumpolyaspartaat. Bevat sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "318.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:25:51"
+}

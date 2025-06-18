@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Bouillon kippen 12 blokjes",
+  "brand": "Maggi",
+  "price": "1.55",
+  "base_unit_price": "12.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/471955_M/e2061d4d5bead7967daa41156cecde8e/471955.png",
+  "ingredients": "gejodeerd zout. smaakversterker (e621). aroma's. palmvet. glucosestroop. gistextract. kippenvleespoeder 1.3%. kippenvet 0.7%. zuurteregelaar (citroenzuur). peterselie. kleurstof (riboflavine). antioxidant (rozemarijnextract). bevat mogelijk: melk. eieren. gluten. selderij. vis. soja.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "11.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:00"
+}

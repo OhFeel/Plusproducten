@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Goedhart Zout verlaagd bruin half",
+  "brand": "Goedhart",
+  "price": "1.25",
+  "base_unit_price": "3.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/508443_M/b2c2e24b651107a344f8ba86afc597b4/508443.png",
+  "ingredients": "Ingrediënten: 53% volkoren TARWEMEEL, water, TARWEGLUTEN, 3,5% moutmeel (GERST, TARWE), gedroogde gist, SESAMZAAD, 0,9% HAVERGRUTTEN, zonnebloempitten, 0,9% gierst, 0,7% volkoren ROGGEMEEL, enzymen (TARWE), meelverbeteraar: E300, lijnzaad, 0,6% TARWEBLOEM, 0,5% maisgries, 0,5% bakkerszout, raapzaadolie, 0,3% geïnactiveerd ROGGEDESEMPOEDER, gist, aroma.\nKan bevatten: soja, melk.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "990.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "237.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:22:29"
+}

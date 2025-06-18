@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Woksaus teriyaki",
+  "brand": "Go-Tan",
+  "price": "2.59",
+  "base_unit_price": "10.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/732863_M/15e94be0f7747b9d3e17567d6dae2b33/732863.png",
+  "ingredients": "Ingrediënten: water, sojasaus (water, SOJABONEN, TARWE, zout), suiker, maiszetmeel, witte wijn, natuurazijn, natuurlijk aroma, zout, ui, kleurstof (karamel), specerijen, voedingszuur (citroenzuur), knoflook.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "347.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "82.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:01"
+}

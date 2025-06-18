@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Hertog Jan Pilsener mono",
+  "brand": "Hertog Jan",
+  "price": "1.17",
+  "base_unit_price": "4.68",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/632158_M/a8c4ce1945a94844f337027264f5a9d4/632158.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, maïs, GERST, hop",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "5.1",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:09:05"
+}

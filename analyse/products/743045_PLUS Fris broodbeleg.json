@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Fris broodbeleg",
+  "brand": "PLUS",
+  "price": "1.69",
+  "base_unit_price": "3.28",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/743045_M/53cfee272ae58e68119216e4de8a8a5a/743045.png",
+  "ingredients": "Ingrediënten: Water, 19% witte kool, raapolie, suiker, azijn, 9% augurk, magere MELKPOEDER , 2,0% wortel, 1,0% tomatenpuree, 1,0% ui, zout, MOSTERDMEEL , specerijen (MOSTERD), voedingszuur: E270, gemodificeerd maïszetmeel, verdikkingsmiddel: guarpitmeel/xanthaangom, specerijenextract, kleurstof: paprika-extract, kruidenextract, aroma, E = door E.U. goedgekeurde hulpstof.",
+  "allergens": "Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "822.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "198.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:29"
+}

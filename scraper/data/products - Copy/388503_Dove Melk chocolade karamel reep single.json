@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dove Melk chocolade karamel reep single",
+  "brand": "Dove",
+  "price": "1.19",
+  "base_unit_price": "23.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/388503_M/51c72cee6236ccad3938fcee76dd0594/388503.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, magere MELKPOEDER, cacaoboter, palmvet, cacaomassa, botervet (MELK), weipermeaat (MELK), emulgator (SOJALECITHINE), zout. (Kan bevatten: PINDA'S, AMANDELEN, HAZELNOTEN, TARWE).",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2026.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "484.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:21"
+}

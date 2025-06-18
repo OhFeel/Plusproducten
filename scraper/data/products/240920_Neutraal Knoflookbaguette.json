@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Neutraal Knoflookbaguette",
+  "brand": "Neutraal",
+  "price": "1.19",
+  "base_unit_price": "6.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/240920_M/090e6a70f5602403ae125ec1760689d3/240920.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 15% knoflookboter bereiding (75%* BOTER, water, 2%** knoflook, zout, ui, peterselie, aardappelzetmeel, specerijen [zwarte peper, lavas], zuurteregelaar: citroenzuur; natuurlijk knoflookaroma, vloeibare kruiden [water, SOJA, TARWE, zout]), zuurdesem (water, TARWEBLOEM, ROGGEMEEL), gist, keukenzout, ROGGEMEEL, TARWEGLUTEN. * komt overeen met 11% boter in het totale product. ** komt overeen met 0,7% knoflook in het totale product. Dit product kan sporen van EI, SESAM, LUPINEN en MOSTERD bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1280.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "305.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:36:48"
+}

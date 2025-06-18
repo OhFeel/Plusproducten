@@ -1,0 +1,49 @@
+{
+  "sku": "",
+  "name": "Singleton of Dufftown 12 Years",
+  "brand": "Singleton",
+  "price": "36.99",
+  "base_unit_price": "52.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/415078_M/b6c5fbc6622d5abd6c35726836869d54/415078.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "919.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "222.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:44:08"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Limoenen",
+  "brand": "PLUS",
+  "price": "1.35",
+  "base_unit_price": "0.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/211887_M/8523f933647f5e14b07c760d9a347803/211887.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:22:15"
+}

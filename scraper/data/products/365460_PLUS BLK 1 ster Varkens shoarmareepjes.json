@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS BLK 1 ster Varkens shoarmareepjes",
+  "brand": "PLUS",
+  "price": "7.35",
+  "base_unit_price": "7.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/365460_M/74ad0e8ac8579fc751a28be5848e1220/365460.png",
+  "ingredients": "varkensvlees* (98%), specerijen, zout, natuurlijk aroma, maltodextrine, aardappelzetmeel, kruiden, gehydroliseerd koolzaadeiwit, plantaardige oliën (zonnebloemolie), paprikaconcentraat, gistextract, * beter leven 1 ster varkensvlees.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "700.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:24:55"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Jos Poell Krokant Cupje",
+  "brand": "Jos Poell",
+  "price": "2.79",
+  "base_unit_price": "38.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/800194_M/59ded9dddcb48e0d755aed6d75506c12/800194.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, plantaardige oliën en vetten (palm, raap), LUPINEMEEL, zout.\n\n\n\nKan sporen bevatten van melk, sesam en ei",
+  "allergens": "Lupine, Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2285.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "550.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:55"
+}

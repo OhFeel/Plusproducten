@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Erdinger Hefe",
+  "brand": "Erdinger",
+  "price": "1.89",
+  "base_unit_price": "3.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/344110_M/df5689828a552d2d0002c3d6301e6373/344110.png",
+  "ingredients": "Ingrediënten: water, TARWEMOUT, GERSTEMOUT, hop, gist",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "185.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "44.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5.3",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:27"
+}

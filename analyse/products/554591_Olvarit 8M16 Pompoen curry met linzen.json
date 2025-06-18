@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 8M16 Pompoen curry met linzen",
+  "brand": "Olvarit",
+  "price": "1.49",
+  "base_unit_price": "7.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/554591_M/9ca6c4c14d935d2489cf971c94dd38e1/554591.png",
+  "ingredients": "ingrediënten :  38,5% groenten (20% pompoen, 15% wortel, 3,5% ui), water, 8% kokosmelk (7,2% kokosnootkern, water), 6% bulgur (TARWE), 4% rode linzen, 4% volkoren speltmeel (TARWE), rijstebloem, magere MELKpoeder, koolzaadolie, gemberwortel, knoflook, kurkuma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "294.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.025",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:37:54"
+}

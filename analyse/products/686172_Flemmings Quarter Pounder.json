@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Flemmings Quarter Pounder",
+  "brand": "Flemmings",
+  "price": "2.99",
+  "base_unit_price": "2.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/686172_M/bdfc3452bde64d87e609448639f1423e/686172.png",
+  "ingredients": "Ingrediënten: 42.9% BROOD (TARWEBLOEM, water, bakkersgist, raapzaadolie, suiker, 2% SESAMZAAD, bakkerszout, gedroogd TARWEDESEM, conserveermiddel (calciumpropionaat, sorbinezuur), emulgator (mono- en diglyceriden van vetzuren, veresterd met monoacetyl- en diacetylwijnsteenzuur, mono- en diglyceriden van vetzuren), meelverbeteraar (ascorbinezuur, L-cysteïne)). * KAN SPOREN VAN EI BEVATTEN. 42.9% BURGER (94% rundvlees, SOJA, bouillon (zout, zetmeel, maltodextrine, suiker, gistextract, SELDERIJ, plantaardig olie (zonnebloemolie, raapzaadolie), kleurstof (ammonia caramel), kruiden en specerijen)), natuurlijk aroma, zout, conserveermiddel (natriumdiacetaat)). 10.1% SMELTKAAS (kaas (KOEMELK, zout, zuursel, stremsel, conserveermiddel (natriumnitraat), kleurstof (annatto, norbixine, caroteen)), water, plantaardig vet, gemodificeerd zetmeel, smeltzout (natriumcitraten), caseïnaten (MELK), zout, kleurstof (paprika extract, carotenen)). 4.1% TOMATENKETCHUP (tomaat (148g per 100g tomatenketchup), azijn, suiker, zout, kruiden en specerijen extract (bevat SELDERIJ), specerijen). Ondanks alle zorgvuldigheid kunnen harde deeltjes in het product aanwezig zijn.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Selderij, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1071.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "256.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:07"
+}

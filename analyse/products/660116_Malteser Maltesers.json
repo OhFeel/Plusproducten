@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Malteser Maltesers",
+  "brand": "Malteser",
+  "price": "2.49",
+  "base_unit_price": "26.77",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/660116_M/a9d81805c9df12e52be3856097897edb/660116.png",
+  "ingredients": "Ingrediënten: suiker, magere MELKPOEDER, cacaoboter, glucosestroop, GERSTEMOUTEXTRACT, cacaomassa, palmvet, weipermeaat (MELK), botervet (MELK), emulgatoren (SOJALECITHINE, E492), palmpitvet, TARWEMEEL, rijsmiddelen (E341, E501, E500), TARWEGLUTEN, weipoeder (MELK), zout, glansmiddel (pectinen).",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2106.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "503.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.39",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:15:15"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Magische mix",
+  "brand": "Redband",
+  "price": "2.99",
+  "base_unit_price": "9.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/959045_M/07ea2f6236074e3100bf0b82f28e5e16/959045.png",
+  "ingredients": "suiker, glucosestroop, zetmeel, gemodificeerd zetmeel, gelatine, voedingszuren (melkzuur, appelzuur, citroenzuur), invertsuikerstroop, zuurteregelaars (e350, e331), natuurlijke aroma's, concentraat van (zwarte wortel, wortel, zwarte bes, saffloer, spirulina, citroen), plantaardige oliën (kokos, koolzaad), glansmiddel (carnaubawas), kleurstoffen (karmijn, paprika extract, curcumine).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1530.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "361.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:21:57"
+}

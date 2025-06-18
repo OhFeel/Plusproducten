@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hak Gevulde paprika",
+  "brand": "Hak",
+  "price": "3.09",
+  "base_unit_price": "5.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/679082_M/2561ec70ff0f31038e1b4eac0f3c46d7/679082.png",
+  "ingredients": "groenten 60% (tomaat 21%, courgette 14%, rode paprika 7%, aubergine, gele wortel 6%, ui), linzen 19%, water, flageolets 4%, knoflook, extra olijfolie van de eerste persing, maiszetmeel, balsamico azijn (wijnazijn, druivenmost), zeezout, rode chilipeper, natuurlijke aroma's, uienpoeder, paprikapoeder, rozemarijn, oregano, cayennepeper, natuurazijn, citrusvezel. kan sporen bevatten van gluten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "234.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "56.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:12"
+}

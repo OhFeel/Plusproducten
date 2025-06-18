@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Arla Skyr coconut",
+  "brand": "Arla",
+  "price": "2.19",
+  "base_unit_price": "4.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/299107_M/ea62a7d73603bf086459b235b19c49a5/299107.png",
+  "ingredients": "magere YOGHURT, water, suiker, maïszetmeel, 0,4% gedroogde kokos, 0,2% kokosroom, 0,1% kokosmelk, natuurlijk aroma, citroensap uit concentraat.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "303.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:03:59"
+}

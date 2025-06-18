@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hellmann's Vegan mayonaise",
+  "brand": "Hellmann's",
+  "price": "4.29",
+  "base_unit_price": "9.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/571269_M/c7d3449ddeda4e1f846307422c19a584/571269.png",
+  "ingredients": "Ingrediënten: Raapzaadolie 72%, water, azijn, suiker, zout, gemodificeerd zetmeel, natuurlijk aroma (bevat MOSTERD), geconcentreerd citroensap, kleurstof (paprika-extract), antioxidant (Calciumdinatrium EDTA).",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2636.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "630.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:45:35"
+}

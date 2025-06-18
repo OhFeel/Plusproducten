@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerechten Spaanse paella",
+  "brand": "Knorr",
+  "price": "4.69",
+  "base_unit_price": "23.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/495615_M/0cd5a4aa8a3a712a22192ed11ba60b46/495615.png",
+  "ingredients": "ingrediënten rijst: rijst. kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten. ingrediënten kruidenmix: geroosterd uipoeder¹ 22%, zout, suiker, knoflookpoeder¹ 12%, tomaat¹ 9,7%, kabeljauwpoeder, garnalenpoeder, citroensappoeder¹ 5% (suiker, citroensap, zout), tomatenpoeder¹ 2,9%, kurkuma¹, extra olijfolie verkregen bij de eerste persing, gerookt chilipoeder (chili, rook), peterselie¹, rozemarijn, peper, tijm¹, piment, laurierblad, cayennepeper. kan glutenbevattende granen, weekdieren, ei, soja, melk, selderij, mosterd bevatten. ingrediënten groentemix: geroosterde ui (ui¹ 31%, zonnebloemolie), groene paprika, wortel¹ 21%, prei¹ 20%, extra olijfolie verkregen bij de eerste persing. kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "378.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:16:43"
+}

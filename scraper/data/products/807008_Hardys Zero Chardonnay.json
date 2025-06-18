@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Hardys Zero Chardonnay",
+  "brand": "Hardys",
+  "price": "5.29",
+  "base_unit_price": "7.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/807008_M/2592d7772fccc5515dbebf30c5916fd9/807008.png",
+  "ingredients": "De-Alcoholised Wine (93%) (Chardonnay Grapes (87%), other Grapes (13%)) (SULPHITES, MILK, EGG), Grape Concentrate (SULPHITES), Sugar, Natural Flavourings, Acid (Citric Acid), Preservatives (E220 (SULPHITES), E242), Carbon Dioxide",
+  "allergens": "Ei, Vis, Aardnoten (pinda's), Melk, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:48:27"
+}

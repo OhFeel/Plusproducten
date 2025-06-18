@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Soep in zak Indiase curry extra gevuld",
+  "brand": "Unox",
+  "price": "4.59",
+  "base_unit_price": "8.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/406103_M/1b58c37f4882bf27fba3bc415e84e03a/406103.png",
+  "ingredients": "Ingrediënten: Water, groenten 20% (wortel¹ 5,7%, ui¹ 3,4%, tomaat¹, waterkastanje 2,6%, lente-ui¹ 2%, rode paprika¹ 1,7%, taugé¹ 1,7%), kippenvlees 4,3%, deegwaar 3,8% (noedels (water, durum TARWEGRIES, EI-EIWIT)), kokosmelk, raapzaadolie, KARNEMELKPOEDER, gemodificeerd maïszetmeel, TARWEBLOEM, natuurlijk aroma (bevat TARWE, MOSTERD, SELDERIJ), mineraalzout (kalium),  specerijen (curry 0,2% (kurkuma, cayennepeper, gember, komijn, zwarte peper, korianderzaad, laurierblad, lavas), knoflook, komijn, gember, nootmuskaat, kurkuma, zwarte peper), gistextract, gejodeerd zout, stabilisator (E451, E452), zout, witte wijnextract, balsamico-azijn (druivenmost, wijnazijn). Kan soja bevatten.  ¹ op duurzame wijze geteeld.",
+  "allergens": "Glutenbevattende granen, Ei, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "234.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "56.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:41:14"
+}

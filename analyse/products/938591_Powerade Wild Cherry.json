@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Powerade Wild Cherry",
+  "brand": "Powerade",
+  "price": "1.75",
+  "base_unit_price": "3.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/938591_M/afff804606e37ff60d54454dee7bd96f/938591.png",
+  "ingredients": "Ingrediënten: Water; glucose; fructose; voedingszuur: citroenzuur; natriumchloride; fruit- en groenteconcentraten (wortel, zoete aardappel, kers, bosbes); zuurteregelaars: kaliumcitraat; magnesiumchloride; calciumchloride; kaliumfosfaat; stabilisatoren: arabische gom, glycerolesters van houthars; zoetstoffen: sucralose, acesulfaam-K; aroma’s; antischuimmiddel: E900; vitamine B6.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "70.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "16.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.11",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:37"
+}

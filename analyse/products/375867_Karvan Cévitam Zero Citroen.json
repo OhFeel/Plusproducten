@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Karvan Cévitam Zero Citroen",
+  "brand": "Karvan Cévitam",
+  "price": "3.99",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375867_M/de8b205093e01d272c7c92356bdd3b31/375867.png",
+  "ingredients": "Ingrediënten: Ingrediënten:, Water, citroensap uit vruchtensapconcentraat 4%, voedingszuur (citroenzuur), natuurlijk citroenaroma, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), vitamine C, zoetstoffen (sucralose, steviolglycosiden uit stevia), natuurlijk aroma, appelextract",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "53.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "13.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "60.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:37"
+}

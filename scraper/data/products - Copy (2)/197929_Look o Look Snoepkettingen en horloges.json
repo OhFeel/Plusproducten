@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Snoepkettingen en horloges",
+  "brand": "Look o Look",
+  "price": "2.49",
+  "base_unit_price": "16.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/197929_M/8b89756bbe51cee69c451261729ecf9c/197929.png",
+  "ingredients": "dextrose, glucosestroop, voedingszuur (citroenzuur), maltodextrine, antiklontermiddelen (magnesiumzouten van vetzuren, mono- en diglyceriden van vetzuren), aroma's, kleurstoffen (bietenrood, paprika-extract, bèta-caroteen, anthocyanen), kokosolie.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1552.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "366.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "88.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:17:52"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Tagatesse koffiewafels",
+  "brand": "Damhert",
+  "price": "2.65",
+  "base_unit_price": "26.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/292140_M/8099ad98558c93877da353ddb962bec9/292140.png",
+  "ingredients": "zoetstof (29%)(maltitol), palmvet, TARWEbloem, oligofructose, magere MELKpoeder, kleurstof (karamel), natuurlijk koffiearoma (0,6%), kokosolie,\nemulgator (lecithine), EIgeel van vrije uitloop, zout, rijsmiddelen\n(natriumcarbonaten, ammoniumcarbonaat), meelbehandelingsmiddel (ascorbinezuur). Kan SOJA en NOTEN bevatten",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1947.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "465.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:00:04"
+}

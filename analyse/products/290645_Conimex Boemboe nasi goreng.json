@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Boemboe nasi goreng",
+  "brand": "Conimex",
+  "price": "1.99",
+  "base_unit_price": "20.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/290645_M/50aa870d2b439af869768453951382fa/290645.png",
+  "ingredients": "Ingrediënten: Ui, plantaardige oliën (raapzaad, zonnebloem), glucosestroop, water, galangawortel, koriander, aroma, zout, sambal (rode peper, zout, voedingszuur E270), knoflook, suiker, sojasaus (water, SOJABOON, TARWE, zout), komijnzaad, azijn, gemodificeerd zetmeel, tomatenpuree, smaakversterker E621, volledig geharde palmolie, mineraalzout (kalium), GARNALENPOEDER, kurkuma, conserveermiddel E202.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Zeegarnaal en producten op basis van zeegarnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "473.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "113.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:59:23"
+}

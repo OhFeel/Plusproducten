@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Tortellini met tomaat en kaas",
+  "brand": "PLUS",
+  "price": "2.89",
+  "base_unit_price": "11.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/220283_M/18fd1daa51cded231b214a4052ade49c/220283.png",
+  "ingredients": "Ingrediënten :57% pasta (TARWEBLOEM, 21% SCHARRELKIPPENEI, griesmeel van DURUMTARWE, water), 43% vulling (paneermeel (TARWEBLOEM, water, gist, zout), 22% tomatenpuree, 18% ricotta (wei (MELK), zout, room (MELK), zuurteregelaar: citroenzuur), zonnebloemolie, 7% mozzarella (MELK, zout, microbieel stremsel), lactose (MELK), water, 3% basilicumpuree (89% basilicum, zonnebloemolie, zout, stabilisator: E500), weipoeder (MELK), geraspte kaas (MELK, microbieel stremsel, zout), 2% gedroogde tomaat, zout).\n\nDit product kan sporen van SOJA en MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1160.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "275.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "36.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.372",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:26:10"
+}

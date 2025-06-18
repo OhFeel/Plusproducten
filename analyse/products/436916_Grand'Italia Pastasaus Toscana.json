@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Pastasaus Toscana",
+  "brand": "Grand'Italia",
+  "price": "3.29",
+  "base_unit_price": "12.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436916_M/4970868ba83cec24df75a88b9b023425/436916.png",
+  "ingredients": "Ingrediënten: Water, tomaten (26%), geconcentreerde tomaat (23%), ui, zongedroogde tomaten (4%), zonnebloemolie, balsamico azijn, knoflook, gemodificeerd maïszetmeel, suiker, zout, peterselie (0,5%), gistextract, chilipeper, aroma's, oregano.\n\nKan sporen bevatten van melk, ei en selderij.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "371.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "89.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:46"
+}

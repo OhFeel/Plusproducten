@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Villa Maria Privat Bin East Coast Chardonnay",
+  "brand": "Villa Maria",
+  "price": "9.99",
+  "base_unit_price": "13.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/542013_M/6e3d5ad093f9184decb1fc973fc0070a/542013.png",
+  "ingredients": "Bevat Sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "328.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:32:16"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BeKind Notenreep glutenvrij chocolade zout",
+  "brand": "BeKind",
+  "price": "1.99",
+  "base_unit_price": "49.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/271588_M/f28c836fe588f6b8a1532981184526cb/271588.png",
+  "ingredients": "Ingrediënten: AMANDELEN, PINDA'S, donkere chocolade (suiker, cacaomassa, cacaoboter, emulgator SOJALECITHINE, vanille-extract), cichoreiwortelvezel, honing, glucosestroop, rijst krispies (rijstemeel), cacaomassa, zeezout, emulgator SOJALECITHINE. (Kan bevatten: MELK, andere NOTEN).",
+  "allergens": "Aardnoten (pinda's), Soja, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2170.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "523.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:49:06"
+}

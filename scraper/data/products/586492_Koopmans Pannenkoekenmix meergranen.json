@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans Pannenkoekenmix meergranen",
+  "brand": "Koopmans",
+  "price": "1.79",
+  "base_unit_price": "4.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/586492_M/c243ae6be8cbe54c24c215bd12cd2b32/586492.png",
+  "ingredients": "Ingrediënten: 78% TARWEMEEL, 5,0% ROGGEMEEL, 4,0% maïsmeel, 4,0% volkoren HAVERMEEL, 4,0% volkoren gerstmeel, 3,0% boekweitmeel, rijsmiddelen (E 341, E 501), zout, kaliumchloride (zoutvervanger). Kan bevatten (EI, MELK).",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "716.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "170.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:44"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Leev Bio Linzenwafels rozemarijn 2-pack",
+  "brand": "Leev",
+  "price": "2.29",
+  "base_unit_price": "42.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/926786_M/166d126fad71ba94d2c5b39fb062a93c/926786.png",
+  "ingredients": "Ingrediënten: Linzenmeel* 83%, plantaardige olie* (zonnebloem), maltodextrine*, zout, rozemarijn* 0,8%, emulgator (lecithine*), antioxidant (extract van rozemarijn*), *Ingrediënten afkomstig van biologische landbouw.\nKAN SPOREN BEVATTEN VAN SOJA EN MELK.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1753.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "417.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:36"
+}

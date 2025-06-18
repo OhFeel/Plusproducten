@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Pastasaus Sugocasa Aglio",
+  "brand": "Grand'Italia",
+  "price": "3.59",
+  "base_unit_price": "5.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/419435_M/5c6008db4ed08d2cfcf9515fb5065156/419435.png",
+  "ingredients": "Ingrediënten: Tomaat (77%), tomatenconcentraat (16%), gedroogde ui (1%), zout, knoflook (0,2%), natuurlijke uien- en knoflookaroma's, geconcentreerd citroensap",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "162.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "38.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.52",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:45:04"
+}

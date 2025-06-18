@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Quaker Cruesli rood fruit",
+  "brand": "Quaker",
+  "price": "3.99",
+  "base_unit_price": "8.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/969705_M/f20948e43f542338f7c37767006a745b/969705.png",
+  "ingredients": "Ingrediënten: Volkoren HAVERMOUT (36%), volkoren TARWE (21%), glucosesiroop, zonnebloemolie, suiker, rijstebloem (1,5%), TARWEBLOEM (1,4%), gevriesdroogd fruit (aardbeien (0,8%), frambozen (0,7%)), oligofructose, honing (0,5%), natuurlijk frambozen aroma en andere natuurlijke aroma's (TARWE). Kan melk en verschillende soorten noten bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1884.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "449.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.3",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "239.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:05"
+}

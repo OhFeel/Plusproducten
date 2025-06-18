@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Kloppudding aardbeiensmaak",
+  "brand": "Dr. Oetker",
+  "price": "0.85",
+  "base_unit_price": "11.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/265258_M/d4b0416db99d3c2942c80ce035dc7ba1/265258.png",
+  "ingredients": "Ingrediënten: suiker, gemodificeerd aardappelzetmeel, stabilisatoren (E 450, E 263, E 339), emulgatoren (lecithinen, E 472b), kleurend levensmiddel rode bieten sappoeder, aroma, glucosestroop, palmvet, MELKEIWITTEN, kleurstof (carotenen).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "388.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "92.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:45:58"
+}

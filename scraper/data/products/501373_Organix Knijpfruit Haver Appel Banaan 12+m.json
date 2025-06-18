@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Organix Knijpfruit Haver Appel Banaan 12+m",
+  "brand": "Organix",
+  "price": "1.45",
+  "base_unit_price": "14.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/501373_M/aed400f2dea562b3a08201eb0b2a4e16/501373.png",
+  "ingredients": "Ingrediënten: Bio ingrediënten: water* 44%, appelpuree 18%, bananenpuree 14%, frambozenpuree 14%, rijstmeel 4%, HAVERmeel 3%, HAVERvlokken 1,5%, bosbes 1,5%. *Niet biologisch",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "265.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "62.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.004",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:20:01"
+}

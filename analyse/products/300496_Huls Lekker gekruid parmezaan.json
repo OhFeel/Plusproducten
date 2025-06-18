@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Lekker gekruid parmezaan",
+  "brand": "Huls",
+  "price": "3.19",
+  "base_unit_price": "31.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/300496_M/12cffb2c37c541f21ab25c485c6f2e19/300496.png",
+  "ingredients": "Ingrediënten: varkensvlees, varkensseparatorvlees, varkensspek, KAAS 6%, zout, PARMEZAANSE KAAS 2%, specerijen, varkensgelatine, dextrose, antioxidant (natriumascorbaat), kleurstof (karmijn), bevochtigingsmiddel (E422), specerij-extract, voedingszuur (citroenzuur), fermenten, conserveermiddelen (natriumnitriet, E202), worstomhulsel: varkensdarm. Voor 100 gram droge worst is 68 gram varkensvlees en 56 gram varkensseparatorvlees gebruikt.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1990.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "481.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "44.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "19.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:05:10"
+}

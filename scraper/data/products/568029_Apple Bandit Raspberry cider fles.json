@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Apple Bandit Raspberry cider fles",
+  "brand": "Apple Bandit",
+  "price": "1.27",
+  "base_unit_price": "4.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/568029_M/26d37620ab5d31b0f7e19df272a8c5c0/568029.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, appelsap uit concentraat (25%), suiker, vruchtensap uit concentraat (waarvan 0,4% framboos en 0,4% aardbei), zuurteregelaar: appelzuur, kleurstof: karamel, zwarte wortelconcentraat, antioxidant: SULFIET, natuurlijke aroma's",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "201.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "48.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:45"
+}

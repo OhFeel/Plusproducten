@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "John West Tonijn Twist Honing & Mosterd",
+  "brand": "John West",
+  "price": "3.29",
+  "base_unit_price": "38.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/812156_M/a7e5820052450dc058859a172bb6f8e6/812156.png",
+  "ingredients": "Ingrediënten: TONIJN 62% (Katsuwonus Pelamis), water sojaolie, MOSTERDpasta (azijn, water, MOSTERDzaad (1,1%), zout, kurkuma, paprika, kruiden, natuurlijk aroma, knoflookpoeder) (3,9%), honing (2,8%), suiker, bruin MOSTERDzaad, gemodificeerd zetmeel, zout, gistextract, verdikkingsmiddel: guargom.",
+  "allergens": "Vis, Mosterd, Tonijn en producten op basis van tonijn",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "526.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "125.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:44"
+}

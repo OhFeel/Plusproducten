@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nescafe Dolce Gusto koffiecups flat white",
+  "brand": "Nescafe",
+  "price": "6.49",
+  "base_unit_price": "0.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/425056_M/fef4c22215673adc6ba78e23e758e3b5/425056.png",
+  "ingredients": "Ingrediënten: Volle MELKpoeder (73,5%), oploskoffie (13,7%), suiker (12,8%), stabilisatoren (kaliumfosfaten, natriumcitraten), emulgator (SOJAlecithine)",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "208.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "50.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:47:43"
+}

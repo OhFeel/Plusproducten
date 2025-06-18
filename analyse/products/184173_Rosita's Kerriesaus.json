@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Rosita's Kerriesaus",
+  "brand": "Rosita's",
+  "price": "2.69",
+  "base_unit_price": "9.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/184173_M/0fdfbab838d0d0414c1ad68e2be26dbd/184173.png",
+  "ingredients": "Ingrediënten: water, raapolie, suiker, uien, karneMELKpoeder, bouillonpoeder (gehydroliseerd maïs- en SOJA-eiwit), kerriepoeder (koriander, komijn, kurkuma, fenegriek, nigella, MOSTERDzaad, zwarte peper), sojasaus (water, SOJAbonen, TARWE, zout), dextrose, zout, alcoholazijn, knoflook, paprikagranulaat, gemodificeerd maiszetmeel, kurkuma, kleurstof (curcumine), verdikkingsmiddel (xanthaangom), peper wit, komijn, koriander, chili.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "681.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "164.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:11:52"
+}

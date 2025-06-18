@@ -1,0 +1,49 @@
+{
+  "sku": "",
+  "name": "Sheridan's Double",
+  "brand": "Sheridan's",
+  "price": "16.49",
+  "base_unit_price": "32.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119852_M/68744bcac47e06537576e8e1800abd17/119852.png",
+  "ingredients": "",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1319.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "315.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "15.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:45"
+}

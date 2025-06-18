@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Crackers protein low carb",
+  "brand": "Bolletje",
+  "price": "2.99",
+  "base_unit_price": "15.74",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/926782_M/7a9fa6a21b5ece233754627fdbc42055/926782.png",
+  "ingredients": "Ingrediënten: 25% zonnebloempitmeel, TARWEGLUTEN, 13% lijnzaad, 13% geroosterd SESAMZAAD, 12% volkoren TARWEMEEL, 10% pompoenpitten, raapolie, plantaardige vezels (oligofructose), mineraalzout (kalium), gist, zout. Kan andere glutenbevattende granen, eieren, melk en noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2016.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "484.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:35"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Brewdog Hazy Jane NEIPA",
+  "brand": "Brewdog",
+  "price": "2.59",
+  "base_unit_price": "7.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/545071_M/4628508b6fef8ebb948966f6c12612a7/545071.png",
+  "ingredients": "Bevat: GERST, HAVER, TARWE",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:33:16"
+}

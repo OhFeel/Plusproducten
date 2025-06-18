@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Viper Variety pack tropical & cherry",
+  "brand": "Viper",
+  "price": "9.55",
+  "base_unit_price": "2.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/609216_M/9e8b09d379226d3855cd48a87766f576/609216.png",
+  "ingredients": "Ingrediënten: Viper Hard Seltzer Tropical Ingrediënten: koolzuurhoudend water, alcohol, fructosestroop en natuurlijke aroma's. Viper Hard Seltzer Cherry Ingrediënten: koolzuurhoudend water, alcohol, fructosestroop en natuurlijke aroma's",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "100.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "24.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:54"
+}

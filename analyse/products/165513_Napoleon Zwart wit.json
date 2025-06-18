@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Napoleon Zwart wit",
+  "brand": "Napoleon",
+  "price": "2.19",
+  "base_unit_price": "9.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/165513_M/11e0dc5e82aca0a68b0b1b9aa1efbfb3/165513.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, salmiakzout (4.5%), zoethoutpoeder, zoethoutwortelextract, caramelsuikerstroop, dextrose",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1557.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "366.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "91.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:51"
+}

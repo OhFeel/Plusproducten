@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans Fijne cake bakmix",
+  "brand": "Koopmans",
+  "price": "1.89",
+  "base_unit_price": "4.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/610987_M/952946844018469cf9039bb660d978ac/610987.png",
+  "ingredients": "Ingrediënten: suiker, TARWEBLOEM, maïszetmeel, rijstzetmeel, ROGGEMEEL, aardappelzetmeel, rijsmiddelen (E 450, E 500), emulgatoren (E 475, E 471), zout, natuurlijk citroenaroma, aroma. Kan bevatten: (EI, MELK).",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1604.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "383.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.77",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:21"
+}

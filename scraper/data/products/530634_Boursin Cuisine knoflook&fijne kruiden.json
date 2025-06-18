@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Boursin Cuisine knoflook&fijne kruiden",
+  "brand": "Boursin",
+  "price": "2.85",
+  "base_unit_price": "12.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/530634_M/1b8966ea42e9e003351cfba7f0a8575d/530634.png",
+  "ingredients": "Ingrediënten: Volle MELK, ROOM 38%, zuursel (bevat MELK), knoflook en fijne kruiden 1,8%, zout, magere MELKpoeder, verdikkingsmiddelen: carrageen en johannesbroodpitmeel, peper, conserveermiddel kaliumsorbaat",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "850.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "205.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:29:09"
+}

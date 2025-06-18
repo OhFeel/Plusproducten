@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "After Eight pralines pepermunt",
+  "brand": "After Eight",
+  "price": "2.69",
+  "base_unit_price": "13.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/962194_M/47fe881a23e56186dec64611eab0221a/962194.png",
+  "ingredients": "Ingrediënten: suiker, cacaomassa¹, gluosestroop, plantaardige vetten (palm, karité), cacaoboter¹, watervrij MELKvet, magere MELKpoeder, WEIpoeder, stabilisator (invertase), emulgator (lecithinen), pepermuntolie, zout, voedingszuur (citroenzuur). ¹ Rainforest Alliance Certified. Find out more at ra.org.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1792.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "426.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "67.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:41"
+}

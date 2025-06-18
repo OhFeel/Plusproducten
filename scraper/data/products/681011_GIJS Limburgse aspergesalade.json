@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "GIJS Limburgse aspergesalade",
+  "brand": "GIJS",
+  "price": "4.49",
+  "base_unit_price": "11.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681011_M/72fcfdb369fdd7850aee3eb194bb6162/681011.png",
+  "ingredients": "Ingrediënten: asperges (37%), aardappel, plantaardige olie (raapzaad), scharrelkippenei (EI), varkensvlees (5%), water, aroma (GLUTEN), zout, specerijen, conserveermiddel (E211, E202, E250), kruiden, voedingszuur (E330, E385), azijn, glucose-fructosestroop, mosterd (MOSTERD) (water, mosterdzaad (MOSTERD), azijn, specerijen), suiker, gemodificeerd zetmeel (maïs), verdikkingsmiddel (E412, E407), kleurstof (E160a), dextrose, stabilisator (E451, E452), antioxidant (E316), glucosestroop, zetmeel (aardappel).",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "527.93",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "126.85",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.91",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.18",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.05",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.36",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:36"
+}

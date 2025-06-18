@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Tyrrells Lentil Paprika",
+  "brand": "Tyrrells",
+  "price": "2.49",
+  "base_unit_price": "31.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780509_M/a9b12ef7d718a32f4efa2db22586f22f/780509.png",
+  "ingredients": "Ingrediënten: Linzenbloem 36%, zonnebloemolie, rijstbloem, maïsbloem, erwtenzetmeel, aardappelzetmeel, suiker, zout, uienpoeder, zure roompoeder (MELK), kaliumchloride, gistextract, paprikapoeder, natuurlijk aroma, specerijen, knoflookpoeder.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1970.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "470.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.61",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:55"
+}

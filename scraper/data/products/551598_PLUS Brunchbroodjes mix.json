@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Brunchbroodjes mix",
+  "brand": "PLUS",
+  "price": "1.99",
+  "base_unit_price": "6.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/551598_M/e6a0fe5a71fb51b89c906c3d64963c21/551598.png",
+  "ingredients": "Ingrediënten :Witte tarwe broodjes: TARWEBLOEM, water, gist, gejodeerd zout, raapolie, erwteiwit, maïszetmeel, meelverbeteraar: E300, enzym (TARWE).\nDit product kan sporen van MELK, EI, SOJA en SESAM bevatten. \n\nWitte tarwe broodjes met sesam: TARWEBLOEM, water, gist, 2% SESAMZAAD, gejodeerd zout, raapolie, erwteiwit, maïszetmeel,  meelverbeteraar: E300, enzym (TARWE).\nDit product kan sporen van MELK, EI en SOJA bevatten.\n\nCroissantjes: TARWEBLOEM, 27% roomboter (MELK), water, gist, glucose-fructosestroop, gejodeerd zout, raapzaadolie, invertsuiker, emulgator: E471/E472e, palmvet, dextrose, aroma, enzym (TARWE).\nDit product kan sporen van EI, SOJA en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Sesamzaad, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1337.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "318.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "47.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:36:22"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good pasta romige kaassaus",
+  "brand": "Unox",
+  "price": "2.09",
+  "base_unit_price": "30.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/964894_M/7fd6aaed25d79fb8ee34416f5836e208/964894.png",
+  "ingredients": "Ingrediënten: Deegwaar 64% (harde TARWEGRIES, TARWEBLOEM), zetmeel, zonnebloemolie, kaaspoeder 5,4% (KAAS, weiproduct (bevat MELK)), magere MELKPOEDER, aroma (bevat MELK), uienpoeder, broccoli¹ 1,6%, MELKSUIKER, zout, mineraalzout (kalium), gistextract, suiker, MELKEIWITTEN, bloemkoolpoeder 0,4%, peterselie, gejodeerd zout, glucosestroop, maltodextrine, specerijen (kurkuma, peper), peterseliewortelpoeder¹. Kan rogge, gerst, haver, ei, soja, selderij, mosterd bevatten. ¹op duurzame wijze geteeld. Kijk voor meer informatie op: www.unox.nl.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "450.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "108.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:13"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Trattoria kipfilet romana",
+  "brand": "Knorr",
+  "price": "4.99",
+  "base_unit_price": "19.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/446886_M/58c954e9d1bec96ace48b91ecff7c0e9/446886.png",
+  "ingredients": "Ingrediënten gnocchetti pasta: Harde TARWEGRIES. Kan ei, soja, melk, selderij, mosterd bevatten.\nIngrediënten saus: Zonnebloemolie, maltodextrine, zout, paddenstoel¹ 5,8% (eekhoorntjesbrood, champignon), extra olijfolie verkregen bij de eerste persing, zetmeel, geroosterd uipoeder¹ 3,9%, knoflookpoeder¹, geconcentreerd champignonsap¹ 3,8%, volledig geharde raapzaadolie, kruiden¹ 2,5% (tijm, basilicum, peterselie), prei¹ 2%, gehydrolyseerde plantaardige eiwitten, gistextract, tomaat¹ 0,8%, peper, witte wijnextract, paprikapoeder¹. Kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten.\nIngrediënten dressingmix: Maltodextrine, suiker, zout, zuurteregelaar E262ii, voedingszuur: citroenzuur, zetmeel, MELKSUIKER, peterselie¹, ui¹ 3,5%, aroma, tomaat¹ 1,8%, gistextract, knoflookpoeder¹ 0,9%, citroensappoeder, MOSTERDMEEL, paprikapoeder¹, peper, lavas¹, tijm¹. Kan glutenbevattende granen, ei, soja, selderij bevatten.\n¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1725.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "412.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:14"
+}

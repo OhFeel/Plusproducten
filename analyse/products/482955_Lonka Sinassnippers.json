@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lonka Sinassnippers",
+  "brand": "Lonka",
+  "price": "2.99",
+  "base_unit_price": "12.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482955_M/38a6bcb1d56b995d2c42b92d8002968b/482955.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, chocolade 16% (suiker, cacaomassa¹, cacaoboter¹, emulgator (SOJALECITHINE)), water, concentraat van (appel, sinaasappel 0,04%), geleermiddel (pektine), voedingszuur (citroenzuur), natuurlijk aroma. Kan MELK bevatten.\n¹Rainforest Alliance Certifed™. Find out more at ra.org.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1496.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "354.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:52"
+}

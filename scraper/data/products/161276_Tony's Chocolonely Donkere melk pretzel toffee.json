@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely Donkere melk pretzel toffee",
+  "brand": "Tony's Chocolonely",
+  "price": "2.49",
+  "base_unit_price": "27.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/161276_M/9e041ee89e629ade56515acaccddf8e5/161276.png",
+  "ingredients": "Ingrediënten: Suiker, cacaomassa, 17% volle MELKpoeder, cacaoboter, 7% pretzel (TARWEbloem, zout, zonnebloemolie, TARWEmoutmeel, gist, zuurteregelaar: natriumhydroxide), 2,8% karamelstukjes (suiker, glucosestroop), zeezout, emulgator: (lecithines (SOJA)). KAN EI EN NOTEN BEVATTEN.",
+  "allergens": "Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2242.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:12"
+}

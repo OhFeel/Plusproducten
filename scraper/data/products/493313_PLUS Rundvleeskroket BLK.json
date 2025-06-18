@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Rundvleeskroket BLK",
+  "brand": "PLUS",
+  "price": "3.79",
+  "base_unit_price": "0.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/493313_M/3ff28274be03f706f40747a96870a0fe/493313.png",
+  "ingredients": "Ingrediënten :water, paneermeel (TARWEBLOEM, zout, gist), 15% gekookt draadjesrundvlees (98% rundvlees*, zout, verdikkingsmiddel: E415/E412, water, kleurstof: E150a), TARWEBLOEM,  raapzaadolie, ui, rundergelatine, zout, zetmeel (tapioca, aardappel), SELDERIJ, champignonconcentraat, gedroogde glucosestroop, basterdsuiker (suiker, invertsuikerstroop), dextrose, natuurlijk aroma, emulgator: E466, bruine basterdsuiker (suiker, invertsuikersiroop, karamel), gistextract, zeezout, aroma, peterselie, rundvleesextract, TARWEGLUTEN, SOJASAUS (maltodextrine, zout, SOJABONEN, TARWE, water), palmvet, rundvleespoeder, stabilisator: E450, gekaramelliseerde suiker, zuurteregelaar: natriumcarbonaten.\n\n* = Beter Leven keurmerk 2 sterren",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "749.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "178.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.96",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.314",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "19.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.108",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.443",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:15:58"
+}

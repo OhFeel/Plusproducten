@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Leffe Blond Belgisch abdijbier",
+  "brand": "Leffe",
+  "price": "8.65",
+  "base_unit_price": "4.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/80007_M/928807b817b23568dc4bd83edea2842f/80007.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, maïs, GERST, suiker, hop",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "240.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "58.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.6",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:48"
+}

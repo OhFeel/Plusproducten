@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Royal Club Mocktails ginger mule 0%",
+  "brand": "Royal Club",
+  "price": "0.99",
+  "base_unit_price": "3.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/295756_M/60cb7f0e0bc196fbb23b09a4f890b5c2/295756.png",
+  "ingredients": "koolzuurhoudend water, voedingszuur (citroenzuur), natuurlijk aroma, zoetstoffen (cyclaamzuur, acesulfaam-k, sacharine), conserveermiddel (kaliumsorbaat), kleurstof (sulfiet-ammoniakkaramel).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "7.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "2.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:25"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Vis Marine Kibbeling",
+  "brand": "Vis Marine",
+  "price": "2.99",
+  "base_unit_price": "8.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/746628_M/8d45677e351d52a526c19fcfd8a56746/746628.png",
+  "ingredients": "Ingrediënten :58% Alaska koolvis* (VIS), TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem, in wisselende verhoudingen), TARWEZETMEEL, maïsbloem, zout, gemodificeerd tapiocazetmeel, gemodificeerd maïszetmeel, aardappelzetmeel, dextrose, gist, peper, rijsmiddel: E450/E500, uipoeder, suiker, knoflookpoeder, paprikapoeder, zonnebloemolie, tomatenpoeder, preipoeder, lavaswortel, pastinaak, peterseliewortel, foelie-extract, knoflookextract. \n\n*Theragra chalcogramma, vangstgebied: noordwestelijk deel van de Stille Oceaan (FAO61) of in het noordoostelijk deel van de Stille Oceaan (FAO67). Gevangen met trawlnetten",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "915.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "218.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.97",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.13",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.04",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "5.35",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.46",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.85",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "15.44",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.98",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.391",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.011",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.85",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:15"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Cookie haver cranberry",
+  "brand": "PLUS",
+  "price": "1.19",
+  "base_unit_price": "0.02",
+  "image_url": "",
+  "ingredients": "Ingrediënten: 23% HAVERvlokken, TARWEbloem, 17% roomboter (MELK), suiker, rozijnen, donkere basterdsuiker (suiker, invertsuikerstroop, kleurstof (E150c, E150d)), scharrelKIPPENEI, rijsmiddel (E450, E500), cranberry, magere MELKpoeder, invertsuikerstroop, zetmeel (TARWE), Bourbonvanille extract (vanille extract), zonnebloemolie. Kan sporen van pinda, soja, noten, mosterd en lupine bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1705.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "408.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.76",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:14:46"
+}

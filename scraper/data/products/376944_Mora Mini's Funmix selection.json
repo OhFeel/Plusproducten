@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Mini's Funmix selection",
+  "brand": "Mora",
+  "price": "7.29",
+  "base_unit_price": "14.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/376944_M/86d4d233c3abf8293b77b208aece8098/376944.png",
+  "ingredients": "Ingrediënten: Viandel: kippenseparatorvlees, bloem (bevat TARWE, SOJA), water, plantaardige oliën (palm, raapzaad, zonnebloem), kippencollageen, ui, zout, WEIpoeder (MELK), gehydrolyseerd SOJA-eiwit, gemodificeerd zetmeel, maltodextrine, glucosestroop, zetmeel, SOJA-eiwit, kruiden, specerijen, dextrose, emulgatoren: E451 en E452, gist, gistextract, rijsmiddel: E450, voedingszuren: ascorbinezuur en citroenzuur. Kipkorn: kippenseparatorvlees 22%, bloem (bevat TARWE, SOJA, ROGGE), kippencollageen, plantaardige oliën (palm, raapzaad), cornflakes 12% (mais, GERSTEmoutextract, suiker, zout), water, kippenvlees 7%, zout, SOJA-eiwit, emulgatoren: E451, E450 en E452, natuurlijke aroma's, zetmeel (bevat TARWE), specerijen, gist, kruiden, rijsmiddel: E500, TARWEgluten, antioxidant: ascorbinezuur, WEI-eiwitconcentraat (MELK), MELKeiwit. Ribster: varkensseparatorvlees, kippenseparatorvlees, varkensspek, water, sweet barbecue-specerijenmix (suiker, zout, specerijen, rookaroma's, specerijenextracten, rode peper, kruiden, water, SOJAbonen), plantaardige oliën (raapzaad, palm), bloem (bevat TARWE, SOJA), ui, plantaardige eiwitten (TARWE, SOJA), glucosestroop, gemodificeerd zetmeel, melasse, gistextract, emulgatoren: E451 en E450, verdikkingsmiddelen: xanthaangom en E464, gehydrolyseerd SOJA-eiwit, gist, citrusvezel, antioxidant: ascorbinezuur, stabilisator: E452, GERSTEmoutextract, kleurstof: karamel, voedingszuur: citroenzuur, natuurlijke aroma's, zuurteregelaar: azijnzuur, maltodextrine. Carrero: kippenseparatorvlees, kippencollageen, bloem (bevat TARWE), groenten 7% (ui, paprika, prei), water, specerijen, zetmeel, zout, gehydrolyseerd TARWE-eiwit, melasse, natuurlijke aroma's, dextrose, stabilisatoren: E450 en E452, suiker, gist, SOJAbonen, TARWE, suikerstroop, gistextract, maltodextrine, antioxidant: E316, specerij-extracten, zuurteregelaar: azijnzuur, voedingszuur: citroenzuur, azijn. Dit produkt kan sporen van EI bevatten.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1257.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "302.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:30:06"
+}

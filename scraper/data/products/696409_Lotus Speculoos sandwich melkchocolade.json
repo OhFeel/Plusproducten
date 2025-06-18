@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lotus Speculoos sandwich melkchocolade",
+  "brand": "Lotus",
+  "price": "1.99",
+  "base_unit_price": "13.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/696409_M/dc3a033760f33a63ab7c9a26bf909cb6/696409.png",
+  "ingredients": "Ingrediënten: Suiker, TARWEbloem, plantaardige oliën (palm*, raap), magere cacaopoeder, magere MELKpoeder, weipoeder (MELK), kandijstroop, rijsmiddel (natriumwaterstofcarbonaat), SOJAbloem, emulgator (lecithinen (SOJA)), zout, kaneel. *Palmolie van duurzame en gecertificeerde plantages. Kan sporen bevatten van: EI.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "505.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:24:25"
+}

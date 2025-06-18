@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Yopokki Instant Topokki",
+  "brand": "Yopokki",
+  "price": "2.59",
+  "base_unit_price": "18.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/650086_M/4b000b5f8a2e685db318533fbda49598/650086.png",
+  "ingredients": "Ingrediënten: Rijstcake: Rijst 70% (verenigde Staten van Amerika), geraffineerd zout, zuurteregelaar: E330, graanalcohol. Smaakmaker: Tomatenketchup (Water, tomatenpasta, suiker, azijn, zout, gemodificeerd zetmeel, fructose, ketchup kruiden), water, suiker, zetmeel siroop, rode peperpasta (zetmeelsiroop, TARWEmeel, water, rode peperpoeder, ontvet SOJApoeder, zout, rijstmeel, graan alcohol, smaakversterker: E621, rijst zaden), fructose, kruidenmengsel, appelpuree, ui, geraffineerde rijstwijn, graan alcohol, knoflook, rode peperpoeder, zout, chili olie, citroenextract, kleurstof: E160c, zuurtreregelaar: E501; E500; E339, E450, smaakversterker: E635, zwarte peperpoeder, verdikkingsmiddel: E415.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "962.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "230.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:39"
+}

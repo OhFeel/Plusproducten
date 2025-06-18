@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "van Melle Drop toffees",
+  "brand": "van Melle",
+  "price": "2.39",
+  "base_unit_price": "10.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/752654_M/c58a79309a1b05d6f23118dc43d193ad/752654.png",
+  "ingredients": "Ingrediënten: Glucosestroop, suiker, kokosolie, salmiakzout, melasse, maltodextrine, zoethoutwortelextract, kleurstof (plantaardige koolstof), emulgatoren (mono- en diglyceriden van vetzuren, sucrose-esters van vetzuren), bevochtigingsmiddel (glycerol), geleermiddel (arabische gom), cacaoboter, verdikkingsmiddel (gellangom), aroma's",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1593.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "376.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:37:19"
+}

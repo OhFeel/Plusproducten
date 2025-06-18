@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Amandel-cashewnotenpasta biologisch",
+  "brand": "BioToday",
+  "price": "5.69",
+  "base_unit_price": "33.47",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/490663_M/c00473ab6a1fab8c19940ca7602121da/490663.png",
+  "ingredients": "Ingrediënten: AMANDELEN* 80%, CASHEWNOTEN* 20%, *=biologisch\nKan sporen bevatten van: pinda's (aardnoten), andere noten, sesamzaad.",
+  "allergens": "Noten, amandelen, cashewnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2481.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "593.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:15:11"
+}

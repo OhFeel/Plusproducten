@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "RAW Organic Sports Protein Lucuma Powder Bio",
+  "brand": "RAW Organic Sports",
+  "price": "7.99",
+  "base_unit_price": "31.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/575923_M/c0e2e20d2488ecef7ade75cf3b5e3e0b/575923.png",
+  "ingredients": "Ingrediënten: Pompoenpiteiwitpoeder* 70%, hennepzaadeiwitpoeder*, zonnebloempiteiwitpoeder*, lucuma* 5%, *=biologisch.\nKAN SPOREN BEVATTEN VAN glutenbevattende granen, soja, melk, selderij, mosterd, sesamzaad, zwaveldioxiden en sulfieten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1568.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "375.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:52"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bertolli Pastasaus Aglio zak",
+  "brand": "Bertolli",
+  "price": "3.65",
+  "base_unit_price": "7.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/276577_M/f3baff63aefeffefd8621e95d6fcfab2/276577.png",
+  "ingredients": "tomaten (56%), tomatenpuree (36%), ui, suiker, knoflook (eu) (0,9%), zeezout, extra olijfolie van de eerste persing (eu) (0,5%), peterselie (0,5%), knoflookpoeder (niet-eu) (0,5%), geconcentreerd citroensap.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "205.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "49.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:52:38"
+}

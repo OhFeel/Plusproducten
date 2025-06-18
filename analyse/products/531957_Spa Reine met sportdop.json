@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Spa Reine met sportdop",
+  "brand": "Spa",
+  "price": "0.95",
+  "base_unit_price": "1.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/531957_M/530c75aefa76f0643b4e54018e082daf/531957.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "liter",
+    "value": 1
+  },
+  "nutrients": [
+    {
+      "name": "Calcium",
+      "value": "5.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "0.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chloride",
+      "value": "5.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "2.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "3.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Nitraten",
+      "value": "1.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Bicarbonaat",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Droogrest/Droogstof",
+      "value": "38.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Sulfaat (SO4)",
+      "value": "4.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Siliciumdioxode (SIO2)",
+      "value": "7.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:29:35"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Trolli Sour dinorex",
+  "brand": "Trolli",
+  "price": "1.49",
+  "base_unit_price": "7.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/565689_M/20920161c7e294096950103dd96bfb80/565689.png",
+  "ingredients": "Ingrediënten: suiker; invertsuikerstroop; glucosestroop; maiszetmeel; voedingszuren: appelzuur, citroenzuur, melkzuur; zuurteregelaars: calciumcitraat, natriummalaten; aroma's; kleurende levensmiddelen (zwarte aalbessen, zwarte wortel, rode radijs, rode druiven, kers, saffloer, kurkuma); kleurstof: curcumine, briljantblauw FCF.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1472.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "346.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "84.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:53"
+}

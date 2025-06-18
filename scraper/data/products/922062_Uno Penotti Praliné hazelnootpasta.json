@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uno Penotti Praliné hazelnootpasta",
+  "brand": "Uno Penotti",
+  "price": "3.39",
+  "base_unit_price": "8.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/922062_M/8e38b6ba826448f49be2a9ab127e86a3/922062.png",
+  "ingredients": "INGREDIËNTEN: suiker, raapolie, 13,3% HAZELNOTEN, lactose (MELK), cacaoboter¹, 5% magere MELKpoeder, magere cacaopoeder¹, emulgator (lecithine), vanille-extract. Kan andere noten en gluten bevatten.",
+  "allergens": "Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2438.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "585.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:09"
+}

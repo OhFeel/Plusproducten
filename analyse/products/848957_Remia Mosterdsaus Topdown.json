@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Mosterdsaus Topdown",
+  "brand": "Remia",
+  "price": "2.15",
+  "base_unit_price": "4.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/848957_M/0c32aea5fdd7d49d350d5ffc13f91bdc/848957.png",
+  "ingredients": "Ingrediënten: water, raapolie, MOSTERD 10% (water, MOSTERDZADEN, natuurazijn, specerijen), suiker, MOSTERDMEEL 4,8%, natuurazijn, vrije uitloop EIGEEL1, gemodificeerd maiszetmeel, maiszetmeel, zout, aroma, voedingszuur: melkzuur, verdikkingsmiddel: guarpitmeel, kleurstof: betacaroteen, conserveermiddel: kaliumsorbaat, antioxidant: E385.  1=Beter Levenkeurmerk 2 sterren.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1625.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "393.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:56:04"
+}

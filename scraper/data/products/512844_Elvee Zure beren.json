@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Zure beren",
+  "brand": "Elvee",
+  "price": "3.35",
+  "base_unit_price": "16.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/512844_M/5ef790f2434ae1f723ad330c45d85ed3/512844.png",
+  "ingredients": "suiker, glucosestroop, water, gelatine (varken), voedingszuren (e330, e270, e296, e350), aroma’s, kleurende levensmiddelen (concentraat van spirulina, concentraat van saffloer), zwarte wortelsapconcentraat, kleurstoffen (e160c, e100)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1414.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:23:49"
+}

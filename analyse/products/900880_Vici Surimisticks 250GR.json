@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vici Surimisticks 250GR",
+  "brand": "Vici",
+  "price": "1.39",
+  "base_unit_price": "5.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/900880_M/7db4a4ae9d5e99b843cdda267f1d0793/900880.png",
+  "ingredients": "Ingrediënten: Water, surimi 35% (VISvlees (Alaska Pollak en/of Pacifische Heek), stabilisatoren: sorbitol, difosfaat, trifosfaat, polyfosfaat; suiker), zetmeel (bevat TARWE), EIwit, koolzaadolie, aroma (bevat SCHAALDIEREN), zout, suiker, EIgeel, smaakversterkers: mononatriumglutamaat, dinatrium-5'-ribonucleotide; kleurstoffen: karmijn, paprika extract.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Ei, Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "522.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:02:35"
+}

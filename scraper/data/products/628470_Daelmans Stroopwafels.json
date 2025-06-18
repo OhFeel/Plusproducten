@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Daelmans Stroopwafels",
+  "brand": "Daelmans",
+  "price": "2.99",
+  "base_unit_price": "0.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/628470_M/ee5bd438ebeab1c3dac827ee33936519/628470.png",
+  "ingredients": "Ingrediënten: glucose-fructosestroop, TARWEBLOEM, suiker, palmvet, 6% geconcentreerde boter (MELK), suikerstroop, SOJABLOEM, raapolie, zout, emulgator (SOJALECITHINE, E471), rijsmiddel (E500), kaneel, voedingszuur (citroenzuur), bourbon vanille.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1803.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "429.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:08:04"
+}

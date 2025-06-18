@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Old Amsterdam 48+ stuk",
+  "brand": "Old Amsterdam",
+  "price": "9.23",
+  "base_unit_price": "23.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/847609_M/bbf420562e5dd9841a365f1be2da26cd/847609.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde KOEMELK, zout, zuursel, microbieel stremsel, conserveermiddel (E251, E235), kleurstof (E160a)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1663.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "431.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "23.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:54"
+}

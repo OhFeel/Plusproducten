@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mentos Gum sour strawberry",
+  "brand": "Mentos",
+  "price": "2.79",
+  "base_unit_price": "49.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/295901_M/ee5e9d0b6a5ec302271b091975c387e1/295901.png",
+  "ingredients": "Ingrediënten: Zoetstoffen (xylitol, sorbitol, maltitolstroop, mannitol, aspartaam, acesulfaam-K, sucralose), gombasis, voedingszuren (wijnsteenzuur, appelzuur, citroenzuur), zetmeel, maltodextrine, stabilisator (glycerol), aroma's, kokosvet, emulgatoren (SOJALECITHINE, sucrose-esters van vetzuren), concentraten (zoete aardappel, wortel), aardbeiensappoeder (0,21%*), verdikkingsmiddel (cellulosegom), glansmiddel (carnaubawas), antioxidant (E321), *Komt overeen met 3% vruchtensap.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "834.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "199.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:30"
+}

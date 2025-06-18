@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Apple Bandit Cider Juicy Apple 0.0",
+  "brand": "Apple Bandit",
+  "price": "1.27",
+  "base_unit_price": "4.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/566558_M/771c20736fff7ab9b84f742876c89d6e/566558.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, appelsap uit concentraat (26%), suiker, zuurteregelaar: appelzuur, kleurstof: karamel, antioxidant: SULFIET, natuurlijke aroma's,",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "82.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "19.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:22"
+}

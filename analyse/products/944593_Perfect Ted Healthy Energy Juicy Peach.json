@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Perfect Ted Healthy Energy Juicy Peach",
+  "brand": "Perfect Ted",
+  "price": "1.69",
+  "base_unit_price": "6.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/944593_M/eea046595ec2f3e8b2704ed1a6f6016a/944593.png",
+  "ingredients": "koolzuurhoudend water, perziksap uit concentraat, mangosap uit concentraat, citroensap, groene thee-extract, ceremoniële kwaliteit matcha, natuurlijke smaakstoffen, vitamine b, vitamine b3, vitamine b5, vitamine b6, vitamine b2, vitamine b1, vitamine b12, vitamine b9, vitamine b7",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "72.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "17.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:15:19"
+}

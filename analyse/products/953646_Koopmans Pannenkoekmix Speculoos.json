@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans Pannenkoekmix Speculoos",
+  "brand": "Koopmans",
+  "price": "1.99",
+  "base_unit_price": "6.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/953646_M/bd3b55dfcd9fbcde1a05f8ac71cb4d52/953646.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 20% speculoos stukjes (TARWEBLOEM, suiker, plantaardige oliën (palm, raapzaad, in wisselende verhoudingen), kandijstroop, kaneel, rijsmiddel (E 500), natuurlijk  aroma, zout), suiker, karamel, rijsmiddelen (E 501, E 341), zout, kruiden, kaneel. Kan bevatten: (EI, MELK).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "858.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "203.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:50"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 15M15 Stoofpot aardappel linzen",
+  "brand": "Olvarit",
+  "price": "1.75",
+  "base_unit_price": "7.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/260986_M/a4a333bd6aedf3955e63ca6f2d896f04/260986.png",
+  "ingredients": "ingrediënten : 42,2% groenten (18,2% tomaat, 11% wortel, 5% pastinaak, 5% paprika, 3% ui), water, 8% zoete aardappel, 8% aardappel, 4% volkoren speltmeel (TARWE), 3,5% groene linzen, 2,5% rode linzen, rijstebloem, koolzaadolie, basilicum, knoflook",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "271.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "64.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:45:07"
+}

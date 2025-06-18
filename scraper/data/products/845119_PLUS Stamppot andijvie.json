@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Stamppot andijvie",
+  "brand": "PLUS",
+  "price": "4.49",
+  "base_unit_price": "8.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/845119_M/896552f8815ad4133bae6b3608ae0cb5/845119.png",
+  "ingredients": "Ingrediënten :70% andijviestamppot met gebakken spekreepjes (64% gekookte aardappel, 27% gekookte andijvie, volle MELK, 2% gebakken spekreepjes (82% varkensvlees*, aardappelzetmeel, nitrietpekelzout (zout, conserveermiddel: E250), antioxidant: E301, specerijenextracten (witte peper, zwarte peper, kardemom), dextrose, stabilisator: E450, rozemarijnextract, rook), raapzaadolie, varkensspek*, water, zout, kaliumchloride, natuurlijk aroma, specerijen, gistextract, rookaroma), 18% gehaktbal (35% varkensvlees*, 34% rundvlees*, TARWEZETMEEL, paneermeel (TARWEBLOEM, ROGGE, gist, zout), VRIJE-UITLOOPKIPPENEI, gedroogde groenten (geroosterde uien, gedroogde paprika, gedroogde ui), ui, MOSTERD (water, specerijen, MOSTERDZAAD, natuurazijn, zout, natuurlijk kruidenaroma), water, raapzaadolie, peterselie, varkensvet, gekaramelliseerde suiker, zout, dextrose, kaliumchloride, specerijen, suiker, melasse, knoflookpuree, sojasaus (water, SOJABONEN, TARWE, zout), natuurlijke aroma's (TARWE), azijn, conserveermiddel: E261), 12% jus (water, gemodificeerd maïszetmeel, natuurlijke aroma's (bevat SELDERIJ), raapzaadolie, suiker, tomatenpuree, zout, rode wijnextract, kaliumchloride, wijnazijn, gekaramelliseerde suiker, conserveermiddel: E202 verdikkingsmiddel: E406, specerijen, druivenmostconcentraat, geroosterd uienpoeder, gistextract, kleurstof: E150d).\n\n* = Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Ei, Soja, Melk, Selderij, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "507.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "121.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.65",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.34",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.67",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.13",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "9.54",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.46",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.75",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.248",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:35"
+}

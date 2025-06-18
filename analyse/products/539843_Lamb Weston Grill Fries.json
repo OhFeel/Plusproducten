@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lamb Weston Grill Fries",
+  "brand": "Lamb Weston",
+  "price": "2.99",
+  "base_unit_price": "5.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/539843_M/7891ce66841e9496e61b40526402f06a/539843.png",
+  "ingredients": "Ingrediënten: Aardappel (79%), Coating (12%) [Gemodificeerd aardappelzetmeel, Maïsmeel, Rijstmeel, Zout,\nAardappelzetmeel, Specerijen (Zwarte peper, Gember), Suiker, Uienpoeder, Knoflookpoeder, Rijsmiddelen\n(Dinatriumdifosfaat, Natriumbicarbonaat ), Natuurlijk zwarte peperaroma, Natuurlijk uienaroma, Kruidenextract,\nVerdikkingsmiddel (Xanthaangom)], Plantaardige oliën (Zonnebloem, Raapzaad, in wisselende verhoudingen), Dextrose.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "173.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "772.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:31:32"
+}

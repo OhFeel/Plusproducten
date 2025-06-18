@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Iglo Stoom & klaar groente-idee mediterraan",
+  "brand": "Iglo",
+  "price": "3.79",
+  "base_unit_price": "12.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/812352_M/5f4ac19c0a506bfad8ce9db31ec13d40/812352.png",
+  "ingredients": "groentemix in wisselende verhoudingen 62% (courgette, pompoen, groene asperges, cherry tomaten, gele paprika, rode paprika, rode ui), gegrilde aardappel 33%, extra vergine olijfolie, water, citroensap, knoflook, zout, ui, tijm 0,2%, peterselie 0,2%, tapiocazetmeel, witte peper.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "248.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "59.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.51",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:49"
+}

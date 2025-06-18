@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Beckers Frikandel",
+  "brand": "Beckers",
+  "price": "2.49",
+  "base_unit_price": "7.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/299603_M/15455f00892679da6135b62cfc959e77/299603.png",
+  "ingredients": "Ingrediënten: 58% kipseparatorvlees, water, varkensspek, paneermeel, (TARWE), zout, specerijen, gedroogde uien, dextrose smaakversterker: E621, antioxidant: E316, voedingszuur:E331,  stabilisatoren:E451,E450; SOJA",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "897.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "215.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.39",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:16"
+}

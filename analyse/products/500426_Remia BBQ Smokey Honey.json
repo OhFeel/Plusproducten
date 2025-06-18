@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia BBQ Smokey Honey",
+  "brand": "Remia",
+  "price": "3.85",
+  "base_unit_price": "8.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/500426_M/9e9326ab70bfc3d16ea2cb9e3dd2a50d/500426.png",
+  "ingredients": "Ingrediënten: tomatenpuree, water, natuurazijn, suiker, melasse, honing 4%, gemodificeerd maiszetmeel, MOSTERD (water, MOSTERDZADEN, azijn, specerijen), zout, citroensap, ui-extract, specerijen (MOSTERD), kleurstof: karamel, knoflookpoeder, rookaroma.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "613.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "144.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:18:51"
+}

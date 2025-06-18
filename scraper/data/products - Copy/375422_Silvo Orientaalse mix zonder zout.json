@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Orientaalse mix zonder zout",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "93.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375422_M/7dce32b9b7b99a6fa65c549ab443ffb6/375422.png",
+  "ingredients": "specerijen 66% (gedroogde ui, knoflookgranulaat, komijn 11%, paprika, sjalot, zwarte peper, gember), kruiden 15% (peterselie 9%, rozemarijn, bonenkruid, basilicum, marjolein, oregano, tijm), wortel, gedroogde rode paprika's, tomatenpoeder, zonnebloemolie, antiklontermiddel: siliciumdioxide, totale gehalte aan kruiden en specerijen: 81%.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1388.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "332.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:12"
+}

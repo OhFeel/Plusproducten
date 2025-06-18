@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Roze koeken met glazuur bakmix",
+  "brand": "Dr. Oetker",
+  "price": "2.99",
+  "base_unit_price": "7.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/178251_M/b9b6468d4e45280b421e880efe7c068d/178251.png",
+  "ingredients": "Ingrediënten: koekenmix (TARWEBLOEM, suiker, KIPPENEIWITPOEDER, rijsmiddelen (E 450, E 500), zout, aroma, kleurstof (bèta-caroteen)), glazuurmix (poedersuiker, gemodificeerd maïszetmeel, kleurstof (bietenrood), anti-klontermiddel E 341), Kan bevatten: (MELK).",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1783.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "425.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.77",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:09:08"
+}

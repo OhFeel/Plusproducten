@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Swiet Moffo Surinaamse Marinade",
+  "brand": "Swiet Moffo",
+  "price": "2.09",
+  "base_unit_price": "13.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/447350_M/b4cc43ce844d8856db97dafb8cdc8486/447350.png",
+  "ingredients": "Ingrediënten: Water, suiker, melasse, zout, MAÏSzetmeel, kruiden (laos) en specerijen, KORIANDER, ui, SOJAmeel, SOJA-olie, knoflookpoeder, citroenzuur: E300, conserveermiddel: E211, natuurlijk aroma.",
+  "allergens": "Koriander, Maïs, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "322.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.3",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:41"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Croky Rings Bolognese",
+  "brand": "Croky",
+  "price": "1.59",
+  "base_unit_price": "21.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/620599_M/3d4ec4618cf68d11fbc16fc8d8388711/620599.png",
+  "ingredients": "Ingrediënten: 36% aardappelpoeder (EU en non-EU), 15% aardappelzetmeel (EU), zonnebloemolie, rijstbloem, maïsbloem, zout, aroma, gehydrolyseerd SOJA-eiwit, dextrose, smaakversterker (mononatriumglutamaat), specerijen, tomatenpoeder, zuurteregelaars (citroenzuur).",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1981.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "473.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:57"
+}

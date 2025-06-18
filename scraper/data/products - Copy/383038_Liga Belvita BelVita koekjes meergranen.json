@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Liga Belvita BelVita koekjes meergranen",
+  "brand": "Liga Belvita",
+  "price": "3.59",
+  "base_unit_price": "11.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/383038_M/af188305fd6b79e09b3aab1546210fe2/383038.png",
+  "ingredients": "Ingrediënten: Granen 69,5 % [volkorengranen 42,4 % (ROGGEVLOKKEN 17,5 %, HAVERVLOKKEN 15,3 %, HAVERGRUTTEN 6,7 %, volkorenspeltmeel (TARWE) 1 %, VOLKORENGERSTEMEEL 1 %, VOLKORENTARWEMEEL 0,9 %), TARWEBLOEM 27,1 %], suiker, koolzaadolie, rietsuiker, rijsmiddelen (natriumcarbonaten, ammoniumcarbonaten, difosfaten), mineralen (calciumcarbonaat, magnesiumcarbonaat, elementair ijzer), zout, invertsuikerstroop, GERSTEMOUTSTROOP, emulgator (SOJALECITHINEN), magere MELKPOEDER. KAN EI EN NOTEN BEVATTEN.",
+  "allergens": "Tarwe, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1839.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "438.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "282.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "4.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "135.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:33:16"
+}

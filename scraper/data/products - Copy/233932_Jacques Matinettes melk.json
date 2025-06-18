@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Jacques Matinettes melk",
+  "brand": "Jacques",
+  "price": "3.49",
+  "base_unit_price": "27.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/233932_M/84b49c0bdfac49cae17878ededbb0afd/233932.png",
+  "ingredients": "Ingrediënten: suiker, volle MELKpoeder, cacaoboter, cacaomassa, emulgator (SOJAlecithinen), vanilline. Bevat mogelijk sporen van gerstgluten en hazelnoten.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2329.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "559.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "22.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:31:23"
+}

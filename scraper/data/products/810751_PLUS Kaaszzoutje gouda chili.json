@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Kaaszzoutje gouda chili",
+  "brand": "PLUS",
+  "price": "1.75",
+  "base_unit_price": "23.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/810751_M/cd364a241d983ba33e932ffde4f52805/810751.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 33% roomboter (MELK), 19% Goudse kaas (gepasteuriseerde MELK, aardappelzetmeel, zout, zuursel, dierlijk stremsel, kleurstof: E160a/E160b(ii), conserveermiddel: E251), zongedroogde tomaat (zongedroogde tomaat, zonnebloemolie, azijn, zout, specerijen, voedingszuur: citroenzuur, antioxidant: E300), VRIJE-UITLOOPKIPPENEI, bakkersgist, MELKPOEDER, 1% chilipoeder, paprikagranulaat, ui, tomatenpoeder, zeezout, peterselie, gistextract, specerijen, gefermenteerde TARWEBLOEM, GERSTEMOUTEXTRACT, paddenstoelenpoeder, zout, kleurstof: paprika-extract.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2303.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "553.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "23.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "42.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.325",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.53",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:21"
+}

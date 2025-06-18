@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Mini baguette rustiek bruin meergranen",
+  "brand": "PLUS",
+  "price": "0.79",
+  "base_unit_price": "6.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/186773_M/c76d9940c027675582903f11a5a4325a/186773.png",
+  "ingredients": "Ingrediënten :28% VOLKORENTARWEMEEL, 21% TARWEBLOEM, water, 11% TARWEZUURDESEM (water, TARWEBLOEM, desemcultuur), 5% HAVERVLOKKEN, TARWEGLUTEN, zonnebloempitten, 3% ROGGEVLOKKEN, lijnzaad (bruin), 1,4% gierst, bakkerszout, lijnzaad (geel/blond), bakkersgist, 0,4% rijstmeel, GERSTEMOUTEXRACT, 0,3% TARWEZEMELEN, 0,1% TARWEMOUTMEEL, 0,1% voorverstijfseld VOLKORENTARWEMEEL, aardappelzetmeel, meelverbeteraar: E300, 0,01% TARWEKIEMEN.\n\nDit product kan sporen van NOTEN en SESAM bevattten",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1106.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "262.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "42.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.968",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.387",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:13:11"
+}

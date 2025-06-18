@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "El Picu Cocos",
+  "brand": "El Picu",
+  "price": "8.99",
+  "base_unit_price": "12.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/842029_M/9710d60419f257022d2ae94589b07e2d/842029.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "708.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "169.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "14.9",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:13"
+}

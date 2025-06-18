@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hero B'tween BIG Mueslireep hazelnoot",
+  "brand": "Hero B'tween",
+  "price": "1.39",
+  "base_unit_price": "27.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/295360_M/936ca0c6ecf44745c8b15eeebd21a694/295360.png",
+  "ingredients": "Ingrediënten: volkoren granenvlokken 27%, (HAVER, GERST, TARWE), glucose-fructosestroop, glucosestroop, geroosterde HAZELNOTEN 10%, granencrispies (TARWEmeel, suiker, rijstmeel, maïsmeel, GERSTmoutextract, zout, karamelsuikerstroop), kokosvet, cornflakes (mais, zout, GERSTmoutextract), kokosvlokken, honing, zout, karamelsuikerstroop, natuurlijk aroma, emulgator (lecithinen). Kan andere NOTEN en PINDA's bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1801.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "429.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.58",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:10"
+}

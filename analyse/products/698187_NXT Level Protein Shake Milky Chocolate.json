@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "NXT Level Protein Shake Milky Chocolate",
+  "brand": "NXT Level",
+  "price": "3.1",
+  "base_unit_price": "6.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/698187_M/1e6ed4b3141ad869584bbbe1c02806f2/698187.png",
+  "ingredients": "magere MELK (69%), water, MELKeiwit (8%), magere cacaopoeder (1,5%), stabilisatoren: cellulose, cellulose gum, polyfosfaten, carrageen; zout, zoetstof: sucralose.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "257.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "61.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:24:50"
+}

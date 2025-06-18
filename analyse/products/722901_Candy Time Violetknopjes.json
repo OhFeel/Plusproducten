@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Candy Time Violetknopjes",
+  "brand": "Candy Time",
+  "price": "2.05",
+  "base_unit_price": "11.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/722901_M/69e5d4ba1b00864dbce64e8932b0ebe7/722901.png",
+  "ingredients": "gemodificeerd zetmeel, suiker, glucosestroop,kleurstoffen (karmijn, briljantblauw fcf), aroma, plantaardige oliën (kokos, palmpit), glansmiddelen (bijenwas wit en geel, carnaubawas).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1482.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "349.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:30:54"
+}

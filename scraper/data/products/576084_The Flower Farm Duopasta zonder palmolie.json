@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "The Flower Farm Duopasta zonder palmolie",
+  "brand": "The Flower Farm",
+  "price": "3.79",
+  "base_unit_price": "10.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/576084_M/e97377e0d1452894ddf57d64f03b3a10/576084.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige oliën en vetten (raapolie, sheaboter (11%)), magere MELKpoeder (8,3%), HAZELNOTEN (6,3%), magere cacaopoeder* (3,3%)*, lactose (MELK), zoete WEIpoeder, emulgator: raapzaadlecithine, natuurlijke aroma's (HAZELNOOT, vanille). * Ingekocht via Tony's Open Chain. Kan soja en noten (amandel, pistasche, cashew) bevatten.",
+  "allergens": "Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2313.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "553.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:46:57"
+}

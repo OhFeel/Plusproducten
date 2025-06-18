@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Pariba Exotic Vanilla",
+  "brand": "Pariba",
+  "price": "1.39",
+  "base_unit_price": "4.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/150789_M/3eb836b44b708e16631d1895bb8d040c/150789.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, 6,4% sinaasappelsap uit sinaasappelsapconcentraat, 5,5% appelsap uit appelsapconcentraat, 0,7% mangosap uit mangosapconcentraat, voedingszuren: E330, E300; 0,1% passievruchtensap uit passievruchtensapconcentraat, aroma's, consereermiddelen: E202, E211; zoetstoffen: E960, E995; kleurstof: E160a.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "34.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "8.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:12"
+}

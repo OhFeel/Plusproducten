@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lipton Ice tea peach zero",
+  "brand": "Lipton",
+  "price": "1.89",
+  "base_unit_price": "3.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/487589_M/64b84f24e0f4f20d4e13c5d37e854528/487589.png",
+  "ingredients": "Ingrediënten: Water, voedingszuren (citroenzuur, appelzuur), thee-extract⁽¹⁾ (0,12%), perziksap van geconcentreerd sap (0,1%),  zuurteregelaar (trinatriumcitraat), aroma's, antioxidant (ascorbinezuur), zoetstoffen (sucralose, acesulfaam-K).\n⁽¹⁾ Rainforest Alliance Certified. More information on ra.org.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "12.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:13:46"
+}

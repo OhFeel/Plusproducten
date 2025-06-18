@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bounty Melk Chocolade Kokos Mini's",
+  "brand": "Bounty",
+  "price": "2.59",
+  "base_unit_price": "11.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/595301_M/217714df86b7304ebe65edf104c0924c/595301.png",
+  "ingredients": "Ingrediënten: suiker, kokos, glucosestroop, cacaoboter, cacaomassa, magere MELKPOEDER, weipermeaat (MELK), emulgatoren (E471, SOJALECITHINE), botervet (MELK), bevochtigingsmiddel (glycerol), palmvet, zout.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2036.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "487.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:20"
+}

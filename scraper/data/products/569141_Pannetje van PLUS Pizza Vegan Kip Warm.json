@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Pannetje van PLUS Pizza Vegan Kip Warm",
+  "brand": "Pannetje van PLUS",
+  "price": "6.99",
+  "base_unit_price": "6.99",
+  "image_url": "",
+  "ingredients": "Pizzabodem met tomatenpassata (TARWEBLOEM, water, tomatenpassata, pomace olijfolie, zout, gist, meelverbeteraar: E300, zuurteregelaar: citroenzuur), tomatensaus (tomaat, water, zonnebloemolie, kruiden, specerijen, zout, pomace olijfolie, knoflook, voedingszuur: citroenzuur), gegrilde groenten (aubergine, courgette, rode ui, gele paprika, groene paprika, rode paprika, olijfolie, zout, tijm, peper, conserveermiddel: E221), veganistische mozzarella (water, kokosolie, gemodificeerd zetmeel, zetmeel, zeezout, mozzarella aroma, olijfextract, kleurstof: bètacaroteen, vitamine B12), veganistische gekruide kipstukjes (gerehydrateerde plantaardige eiwitten (TARWE, erwt, SOJA), TARWEGLUTEN, zonnebloemolie, aardappelzetmeel, verdikkingsmiddel: E461, specerijen, natuurlijk aroma, gebufferd azijnpoeder (conserverend ingrediënt), zout, antioxidant: E300, ijzer, vitamine B12, maltodextrine).Vegetarisch? Ja.Veganistisch? Ja.",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "864.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "206.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:44:29"
+}

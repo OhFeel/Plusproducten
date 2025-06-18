@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Abc Chicken curry noodles cup",
+  "brand": "Abc",
+  "price": "1.69",
+  "base_unit_price": "28.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/476526_M/e0ea128e6175a4bb175668572f53d96f/476526.png",
+  "ingredients": "Ingrediënten: Noedels: TARWEmeel, palmolie, zout, zuurteregelaar (E500, E501), verdikkingsmiddel (E412). stabilisator (E452, kleurstof (E160a). Kruidenpoeder: zout, suiker, smaakversterker (E621), kumstmatige kiparoma( bevat SOJA), peperpoeder, knoflookpoeder, uipoeder, chilipoeder. Gedehydrateerde groenten: kool, prei, wortel, gemodificeerd SOJA-eiwit. Olie: SOJAolie, kerriekruiden.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1959.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "467.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:08:23"
+}

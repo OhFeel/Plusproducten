@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Heinz Tomaten ketchup biologisch",
+  "brand": "Heinz",
+  "price": "4.29",
+  "base_unit_price": "8.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/786031_M/325933b6be7982fc9cce422d99b982db/786031.png",
+  "ingredients": "Ingrediënten: Tomaten¹ (180 g per 100 g Ketchup), suiker¹, azijn¹, zout, specerijen¹ (bevatten SELDERIJ), uipoeder¹, knoflookpoeder¹, ¹Ingrediënten van biologische oorsprong.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "476.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "112.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:44"
+}

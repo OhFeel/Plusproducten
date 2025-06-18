@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hot Chip Beef Jerky Spicy Bacon",
+  "brand": "Hot Chip",
+  "price": "3.79",
+  "base_unit_price": "151.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/562675_M/072d089233fdbdd626fb7fa5086da0a3/562675.png",
+  "ingredients": "rundvlees (100 g van het product is gemaakt van 270 g rundvlees), kruidenmengsel: (zout, mengsel van kruiden en gedroogde groenten: chili (1,2%), ui, knoflook, smaakstoffen (spek 1,8%), rookaroma, zuurteregelaar: wijnsteenzuur.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1250.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "299.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "50.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:41:17"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Namli Tavuk sosis",
+  "brand": "Namli",
+  "price": "2.59",
+  "base_unit_price": "6.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/438013_M/fcee478012348043e28b7a8b85d3f339/438013.png",
+  "ingredients": "Ingrediënten: kippenseperatorvlees 85%, water, zout, aardappelzetmeel, kippeneiwit, specerijen, gehydrolyseerd maïs eiwit, stabilisatoren: E451, E452, dextrose, trehalose, antioxidant: E316, specerij-extracten, rookaroma, conserveermideel: E250.",
+  "allergens": "Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "788.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "189.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.93",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:54:24"
+}

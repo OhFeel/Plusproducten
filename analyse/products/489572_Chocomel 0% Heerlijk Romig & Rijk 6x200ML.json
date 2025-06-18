@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Chocomel 0% Heerlijk Romig & Rijk 6x200ML",
+  "brand": "Chocomel",
+  "price": "3.89",
+  "base_unit_price": "3.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/489572_M/fde90d38e1cbd1b0ca23f574295e2c12/489572.png",
+  "ingredients": "Ingrediënten: MELK (1,3% vet), 2,1% cacao^1, WEI eiwit, stabilisatoren: cellulose, cellulosegom, carrageen, smaakversterker: erythritol, zoetstoffen: acesulfaam-K, sucralose, ^1Rainforest Alliance Certified. Find out more at ra.org",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "224.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "53.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "110.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:14:14"
+}

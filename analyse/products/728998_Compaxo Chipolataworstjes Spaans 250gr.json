@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Compaxo Chipolataworstjes Spaans 250gr",
+  "brand": "Compaxo",
+  "price": "2.59",
+  "base_unit_price": "10.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/728998_M/9be87ecbdab950c6dd0474487c0e69cd/728998.png",
+  "ingredients": "Ingrediënten: 92% varkensvlees, zuurteregelaar: kaliumlactat, aardappelzetmeel, zout, 1% rundercollageen, stabilisatoren: difosfaten/polyfosfaten, natuurlijk aroma, voedingszuur: citroenzuur, dextrose, conserveermiddelen: kaliumacetaat/natriumnitriet, rookaroma, 0,15% kruiden en specerijen, antioxidant: natriumascorbaat.",
+  "allergens": "Rundvlees en rundvleesproducten, Varkensvlees en varkensvleesproducten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1325.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "320.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:27"
+}

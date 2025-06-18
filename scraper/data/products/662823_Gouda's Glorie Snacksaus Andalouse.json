@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Gouda's Glorie Snacksaus Andalouse",
+  "brand": "Gouda's Glorie",
+  "price": "2.99",
+  "base_unit_price": "5.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/662823_M/e0073f5b92fc2027a9946259d697a5c0/662823.png",
+  "ingredients": "Ingrediënten: water, raapolie, suiker, natuurazijn, vrije uitloop EI en EIGEEL, MOSTERD (water, MOSTERDZADEN, azijn, specerijen), tomatenpoeder 2%, zout, citroensap, gemodificeerd maiszetmeel, maiszetmeel, specerijen (MOSTERD), uipoeder, kruiden, verdikkingsmiddel: guarpitmeel, natuurlijk aroma, voedingszuur: citroenzuur, kleurstof: paprika-extract, conserveermiddel: kaliumsorbaat, antioxidant: E385.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1562.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "378.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:09"
+}

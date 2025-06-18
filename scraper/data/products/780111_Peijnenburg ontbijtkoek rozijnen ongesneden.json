@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Peijnenburg ontbijtkoek rozijnen ongesneden",
+  "brand": "Peijnenburg",
+  "price": "2.69",
+  "base_unit_price": "5.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780111_M/af97b294b4e1464cdd848c4ec36a1eed/780111.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, ROGGEbloem 29%, rozijnen 17%, water, parelsuiker, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), kaneel, specerijen, zonnebloemolie, citroenextract. Kan NOTEN en MELK bevatten.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1318.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "311.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:42"
+}

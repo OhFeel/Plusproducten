@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Herr's Honey Cheese Curls",
+  "brand": "Herr's",
+  "price": "1.05",
+  "base_unit_price": "37.50",
+  "image_url": "",
+  "ingredients": "Ingrediënten: Maïsmeel, plantaardige olie (maïs-, katoenzaad-, palm-, zonnebloemolie), kaasmelange [WEI (MELK), zonnebloemolie, maltodextrine, cheddarkaas (MELK, MELKBESTANDDELEN, zout, enzymen), zout, zuurteregelaars: E339, E330), boter (MELK, zout), antioxidant: E270; kleurstof: E160c; natuurlijk aroma, enzymen], kruidenmix (suiker, dextrose, fructose, maltodextrine, uienpoeder, honing, zout, tomatenpoeder, kleurstof: E160c; knoflookpoeder, mierikswortelpoeder, gistextract, natuurlijk en kunstmatig aroma), zout.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2241.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "536.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:15:15"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hable Ijswafels",
+  "brand": "Hable",
+  "price": "2.99",
+  "base_unit_price": "27.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/140869_M/b9067b356211214ed5cc5c1126cb687a/140869.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, koolzaadolie, emulgator: SOJALECITHINE, zout, SOJABLOEM, rijsmiddel: natriumcarbonaat, zoetstof: saccharine. Kan sporen van MELK, EI, NOTEN en PINDA'S bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1702.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "403.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.79",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:54:42"
+}

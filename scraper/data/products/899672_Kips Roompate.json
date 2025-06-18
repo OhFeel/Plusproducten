@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kips Roompate",
+  "brand": "Kips",
+  "price": "2.19",
+  "base_unit_price": "17.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/899672_M/8a4edbcd2472762e103051211ddec090/899672.png",
+  "ingredients": "Ingrediënten: varkensspek*, varkenslever* 28%, water, TARWEBLOEM, zonnebloemolie, zout, geconcentreerde tomatenpuree, suiker, gebakken uien (uien, palmolie, TARWEMEEL, zout), specerijen, ROOM (BEVAT MELK) 0,3%, varkenszwoerd*, aroma, gemodificeerd maïszetmeel, antioxidant (E316), conserveermiddel (E250). * = Beter Leven keurmerk 1 ster. E = Door de EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1258.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "304.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.81",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:48"
+}

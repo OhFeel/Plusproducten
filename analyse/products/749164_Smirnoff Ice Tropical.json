@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Smirnoff Ice Tropical",
+  "brand": "Smirnoff",
+  "price": "2.29",
+  "base_unit_price": "9.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749164_M/da6e249e8de7ca71ad222b3099f99b4c/749164.png",
+  "ingredients": "Ingredienten: Wodkadrankje gemaakt met sodawaterm smirnoff no. 21 premium wodka, mango, guave en passievrucht en andere aroma's en kleurstoffen",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "193.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "46.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:36:02"
+}

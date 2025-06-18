@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Seizoenbonbons",
+  "brand": "Elvee",
+  "price": "4.99",
+  "base_unit_price": "30.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654701_M/e14db28eeb0c6bb1b38c7742308d37f6/654701.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, cacaomassa, volle MELKPOEDER, 6% HAZELNOTEN, plantaardige oliën (palm, raap, zonnebloemolie), plantaardige vetten (kokos, palm), weipoeder (MELK), MELKPOEDER, cacaopoeder, glucosestroop, magere MELKPOEDER, LACTOSE, 1% ROOM, emulgator (SOJALECITHINE), invertsuikerstroop, concentraten (aardbei, kers), natuurlijk aroma’s, kleurstoffen (paprika-extract, E100, E120, E150c, E160e), aroma, zuurteregelaars (citroenzuur, E331), verdikkingsmiddelen (pectine, E1442), trehalose, spirulina, vanille zaadjes, kaneelpoeder. Gemaakt in een bedrijf waar ook gluten bevattende granen, ei en andere noten worden verwerkt.",
+  "allergens": "Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2249.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "539.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.56999999999999",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:47"
+}

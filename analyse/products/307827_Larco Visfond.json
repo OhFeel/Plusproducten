@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Larco Visfond",
+  "brand": "Larco",
+  "price": "2.66",
+  "base_unit_price": "7.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/307827_M/a2acb441f5ba84da7f1e4afab42a0906/307827.png",
+  "ingredients": "96% visbouillon (water, schol (VIS), ﻿﻿koolvis (VIS)), maltodextrine, wittewijnextract, zout, zonnebloemolie,natuurlijk aroma, uien concentraat, witte peperolie, citroensapconcentraat.",
+  "allergens": "Vis",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "80.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "19.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:07:38"
+}

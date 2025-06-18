@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Ella's Kitchen 6+ Maize puffs carrot parsnip",
+  "brand": "Ella's Kitchen",
+  "price": "1.59",
+  "base_unit_price": "79.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435321_M/0ff303d2c2fcc9dda7a0d3c7f30aaa14/435321.png",
+  "ingredients": "Ingrediënten: 72% maïsmeel*, 15% zonnebloemolie*, 6% gedroogde wortels*, 4% gedroogde pastinaken*, 2% rijstmeel*, <lt/>1% TARWE zemelen*, <lt/>1% gedroogde uien*, <lt/>0,1% thiamine (Vitamine B1). * = biologisch. Kan melk en soja bevatten.\n\n\n\nKan melk en soja bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1834.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "436.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:52:58"
+}

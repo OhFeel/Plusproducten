@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Casa di Mama pizza Salame",
+  "brand": "Dr. Oetker",
+  "price": "4.29",
+  "base_unit_price": "11.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/156740_M/04f9926d00c0ec7ddbada0db6df10349/156740.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 15% tomatenpuree, 12% KAAS (MOZZARELLA, EDAMMER), 10% salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), gist, zout, palmvet, suiker, zuurteregelaars (calciumfosfaten, calciumcitraten), raapzaadolie, rijsmiddel (natriumwaterstofcarbonaat), emulgator (mono- en diglyceriden van vetzuren veresterd met mono- en diacetylwijnsteenzuur), peterselie, oregano, dextrose, specerijen. Kan bevatten: SOJA, MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "955.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "227.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:59:28"
+}

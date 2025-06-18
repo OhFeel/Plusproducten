@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Pizza quattro formaggi",
+  "brand": "PLUS",
+  "price": "2.49",
+  "base_unit_price": "7.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/245775_M/1dd3b45c853d9d94246027a6d71a2c30/245775.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 21% tomatenpuree, 11% Edammer kaas (MELK), 11% mozzarella (MELK), water, crème fraîche (MELK), 4,4% Emmentaler (MELK), raapzaadolie, room (MELK), 1,0% blauwe kaas (MELK), gist, zout, suiker, zetmeel (aardappel, erwt), 0,3% kruiden (0,27% basilicum, 0,04% oregano), specerijen, TARWEZETMEEL, dextrose, knoflook. Kan sporen van SELDERIJ bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1052.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "251.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.94",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:40:30"
+}

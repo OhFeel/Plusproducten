@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Jelly Belly Very cherry",
+  "brand": "Jelly Belly",
+  "price": "1.55",
+  "base_unit_price": "3.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952078_M/d8646d06792e1637e7ca9ba871e3d37f/952078.png",
+  "ingredients": "water, suiker, vruchtensap uit concentraat 20% (appel 16,6%, kers 2,4%, zwarte hibiscuswortel 1%), zuurteregelaars (citroenzuur, natriumcitraat), natuurlijk kersenaroma, conserveermiddelen (natriumbenzoaat, kaliumsorbaat, dimethyldicarbonaat), kleurstof (bèta-caroteen), vitaminemix (a, c, e), zoetstof (sucralose).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "86.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "20.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "60.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "11.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "0.9",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:19:36"
+}

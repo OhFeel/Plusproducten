@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Empanada kip",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "0.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/577490_M/44983d26017ea8eacf55bdd9ab14b17d/577490.png",
+  "ingredients": "Ingrediënten :36% TARWEBLOEM, water, 10% kippenvlees, paprika, ui, kwark (MELK), room (MELK), sheavet, plantaardige oliën (kokos, koolzaad, rode paprika, zonnebloem), knoflook, zout, SCHARRELEI-EIWITPOEDER, SCHARRELEI-EIGEELPOEDER, specerijen, zuurteregelaar: E261, kleurend wortelconcentraat, gemodificeerd maïszetmeel, emulgator: E322/E471, voedingszuur: E330, MELKEIWIT, lactose (MELK), natuurazijn, natuurlijk aroma, rijstebloem, dextrose, rijstzetmeel, stabilisator: E407, TARWEMOUTMEEL, meelverbeteraar: E300, peterselie, glucosestroop, maltodextrine.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "979.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "233.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "25.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.168",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.467",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:47:15"
+}

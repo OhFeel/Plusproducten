@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Pindasaus",
+  "brand": "Remia",
+  "price": "1.89",
+  "base_unit_price": "7.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902087_M/858a00f422e4db2069e2a7f62c95c3fc/902087.png",
+  "ingredients": "Ingrediënten: water, suiker, gemalen PINDA'S 13%, paprika, natuurazijn, knoflook 5%, SOJASAUS (water, SOJABONEN, zout, natuurazijn), gemodificeerd zetmeel (mais en aardappel), sambal 1,3% (chili peper, zout), raapolie, zout, specerijen, voedingszuur: melkzuur, kleurstoffen: E150c en paprika-extract, natuurlijk aroma, conserveermiddelen: kaliumsorbaat en E211, verdikkingsmiddel: guarpitmeel, kruiden.",
+  "allergens": "Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "796.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "190.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:04"
+}

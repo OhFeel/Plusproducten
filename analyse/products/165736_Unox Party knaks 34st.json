@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Unox Party knaks 34st",
+  "brand": "Unox",
+  "price": "4.49",
+  "base_unit_price": "11.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/165736_M/8e4289fa1506289ebc19735e3ba2bcc3/165736.png",
+  "ingredients": "Ingrediënten: Worstjes: Varkensvlees¹ 68%, water, aardappelzetmeel, zout, stabilisator (E451, E452), specerijen (witte peper, paprikapoeder), natuurlijk nootmuskaataroma, antioxidant (E301, E392), rookaroma, rundercollageen, conserveermiddel (E250). Opgiet: water, zout. ¹ Beter Leven keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "806.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "193.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:02"
+}

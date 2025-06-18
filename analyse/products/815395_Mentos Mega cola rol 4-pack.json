@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mentos Mega cola rol 4-pack",
+  "brand": "Mentos",
+  "price": "4.99",
+  "base_unit_price": "33.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/815395_M/b7197d15e54159ff2eeb8a3bf263cc0b/815395.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, kokosolie, voedingszuur (citroenzuur), zetmeel, maltodextrine, cacaoboter, aroma, kleurstof (karamel), verdikkingsmiddelen (gellangom, cellulosegom, arabische gom), emulgator (sucrose-esters van vetzuren), glansmiddel (carnaubawas). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1651.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "389.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "92.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:35"
+}

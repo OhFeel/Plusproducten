@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Ontbijtkoek naturel gesneden",
+  "brand": "Bolletje",
+  "price": "2.79",
+  "base_unit_price": "5.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/386109_M/1895de8a406bf7b586c749f2ecb2d36f/386109.png",
+  "ingredients": "Ingrediënten: glucose-fructosestroop, ROGGEBLOEM, water, suiker, LUPINEMEEL, 0,5% kaneel, 01% kruidnagel, sinaasappelschil, specerijen, rijsmiddel (E500), conserveermiddel (E202), TARWEZEMELEN, zuurteregelaar (appelzuur), zout, TARWEBLOEM. Kan andere glutenbevattende granen en noten bevatten.",
+  "allergens": "Lupine, Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1227.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "289.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:34:34"
+}

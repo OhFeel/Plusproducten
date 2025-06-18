@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Muesli rijkgevuld",
+  "brand": "Zonnatura",
+  "price": "2.99",
+  "base_unit_price": "5.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/919246_M/ae5d1ec95caa43cf6cedbfb6c9579a5b/919246.png",
+  "ingredients": "Ingrediënten: volkoren granen* 75% (HAVER*, TARWE* [GLUTEN], GERST*, ROGGE*, geroosterde TARWEvlokken*, TARWEvlokken* (volkoren TARWEmeel*)), rozijnen* 14% (rozijnen*, zonnebloemolie*), bananenchips* 6% (banaan*, kokosolie*), SOJAvlokken*, zonnebloempitten* 2%, HAZELNOTEN* 2%. *Ingrediënt van biologische teelt. Kan sporen bevatten van andere noten, melk en sesamzaad. ",
+  "allergens": "Glutenbevattende granen, Soja, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1523.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "364.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:38"
+}

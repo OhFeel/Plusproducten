@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Liga Noten en Granenreep Sinaasappel",
+  "brand": "Liga",
+  "price": "2.99",
+  "base_unit_price": "18.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/903216_M/50a6f3d778c219f3c45081ba6a5469ed/903216.png",
+  "ingredients": "Ingrediënten: Meel 33,8 % [TARWE 16 %, VOLKORENTARWE 15 %, VOLKORENGERST 1,4 %, spelt (TARWE) 1,4 %], suiker, plantaardige oliën (koolzaad, zonnebloem, palm), stabilisator (glycerol), gemodificeerd zetmeel, cichoreiwortelvezels, chocoladestukjes 5 % [cacaomassa, suiker, dextrose, emulgator (SOJALECITHINEN)], HAVERVLOKKEN 5 %, isomaltulose***, gebroken boekweitkorrels 3,5 %, emulgatoren (SOJALECITHINEN, lecithinen), fructose-glucosestroop, glucosestroop, maïszetmeel, fruitbereiding 0,5 % (geconcentreerde appelpuree, geconcentreerde abrikozenpuree, geconcentreerde peerpuree, geconcentreerd sinaasappelsap 0,05 %), mineraal (magnesiumcarbonaat), TARWEVEZELS, aroma's, rijsmiddel (natriumcarbonaten), sinaasappelschilstukjes 0,2 %, honing, zout, magere MELKPOEDER, glucose-fructosestroop, zuurteregelaar (citroenzuur), geleermiddel (pectinen), verdikkingsmiddel (xanthaangom), antioxidant (ascorbinezuur). KAN BEVATTEN: NOTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1629.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "388.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "153.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:29"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bieze Rauwkost 4 seizoenen",
+  "brand": "Bieze",
+  "price": "1.99",
+  "base_unit_price": "7.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/452214_M/223bc1d70a5caeb2e3f0f8d0b4931b0b/452214.png",
+  "ingredients": "Ingrediënten: komkommer 35%, raapolie, SELDERIJ 13%, water, wortel 7%, prei 5%, ui 4%, suiker, azijn, maïszetmeel, scharrelEIgeel, kruiden en specerijen, zout, MOSTERDzaad, dextrose, voedingszuur: citroenzuur, verdikkingsmiddel: guarpitmeel/xanthaangom, zoetstof: sacharinen, conserveermiddel: E202/E211.",
+  "allergens": "Ei, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "697.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "169.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:00:49"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely Proeverijtje chocolade Fairtrade",
+  "brand": "Tony's Chocolonely",
+  "price": "9.99",
+  "base_unit_price": "34.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/446241_M/1b356926de6eda640a10a7118598f2c4/446241.png",
+  "ingredients": "Ingrediënten: suiker*, cacaomassa*, volle MELKpoeder, cacaoboter*, karamel (suiker, glucosestroop, ROOM, BOTER), HAZELNOOT, noga (suiker*, glucosestroop, AMANDEL, honing*, cacaoboter, aardappelzetmeel, KIPPENEI-EIWIT,\n\nnatuurlijk vanillearoma*), AMANDEL, zeezout, emulgator: (lecithines (SOJA)). KAN  BEVATTEN EN SPOREN VAN GLUTEN EN ANDERE NOTEN.",
+  "allergens": "Ei, Soja, Melk, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2286.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "547.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:57:49"
+}

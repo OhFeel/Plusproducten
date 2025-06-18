@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nissin Soba noodles chili",
+  "brand": "Nissin",
+  "price": "1.39",
+  "base_unit_price": "12.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/765517_M/ae22205a6f8bbbb2887244c58e31e77d/765517.png",
+  "ingredients": "Ingrediënten: noedels 82,2% [TARWEMEEL, palmolie, zout, zuurteregelaars (natriumcarbonaten, kaliumcarbonaten), stabilisator (trifosfaten), verdikkingsmiddel (guarpitmeel), antioxidant (tocoferolrijk extrakt)], kruidensaus 17,1% [suiker, water, dextrose, koolzaadolie, smaakversterkers (mononatriumglutamaat, dinatrium-5’-ribonucleotiden), azijn, sojasaus (water, SOJABONEN, zout, TARWE), melasse, kleurstof (ammoniakkaramel), zout, specerijen, gehydrolyseerd maïseiwit, tomaatpoeder, aroma’s, zuurteregelaar (citroenzuur), chilipoeder (0,1% in het product)], prei. Kan sporen van SELDERIJ, SCHAALDIEREN, VIS, MELK, WEEKDIEREN, MOSTERD en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "837.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "200.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:17"
+}

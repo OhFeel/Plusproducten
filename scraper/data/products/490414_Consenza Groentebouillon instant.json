@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Consenza Groentebouillon instant",
+  "brand": "Consenza",
+  "price": "2.99",
+  "base_unit_price": "90.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/490414_M/ecf79f1b8cc6201535230d602f40d6ad/490414.png",
+  "ingredients": "maltodextrine, zetmeel (aardappel), gedroogde groente 14% (ui, prei, paprika, uipoeder, spinaziepoeder), zout, gistextract, kruiden en specerijen (peterselie, peper, laurier), plantaardige olie (raapzaad, zonnebloem), gebrande suiker, aroma, natuurlijk ui aroma",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1371.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "324.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:14:53"
+}

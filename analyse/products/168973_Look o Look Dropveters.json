@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Dropveters",
+  "brand": "Look o Look",
+  "price": "2.49",
+  "base_unit_price": "19.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/168973_M/325a5f4204f8bd54ab0a5b0755debb83/168973.png",
+  "ingredients": "Ingrediënten: rietsuikermelasse, TARWEBLOEM, suiker, glucose-fructosestroop, dextrose, zoethoutwortelextract (2,5%), kokosolie, zout, aroma, zonnebloemolie, cacaoboter, emulgator (mono- en diglyceriden van vetzuren), glansmiddel (carnaubawas). ",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1415.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "334.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:05:26"
+}

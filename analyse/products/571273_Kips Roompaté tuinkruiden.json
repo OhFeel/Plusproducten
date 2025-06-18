@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kips Roompaté tuinkruiden",
+  "brand": "Kips",
+  "price": "2.19",
+  "base_unit_price": "17.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/571273_M/b99e542dacf0c39469063c0b9409e5f1/571273.png",
+  "ingredients": "Ingrediënten: varkensspek*, water, varkenslever* 28%, TARWEBLOEM, zout, specerijen, suiker, tuinkruiden 0,3% (peterselie, rozemarijn, salie), ROOM (bevat MELK) 0.3%, varkenszwoerd*, aroma, bospaddenstoelen, tomaat, zonnebloemolie, gemodificeerd maïszetmeel, antioxidant (E316), conserveermiddel (E250).   * = Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1158.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "280.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:45:38"
+}

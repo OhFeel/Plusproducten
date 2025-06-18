@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Hollands pannetje champignonsaus",
+  "brand": "Maggi",
+  "price": "1.79",
+  "base_unit_price": "44.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/760756_M/848a43a0b65309f3c49622af5e07c4e8/760756.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel, gejodeerd zout , TARWEmeel, uien  , WEI, gistextract , plantaardige eiwitten (TARWE-eiwitten, zout), witte wijnextract, boleten , paprika-extract, aroma's, kruiden en specerijen (SELDERIJ, nootmuskaat, kerrie (koriander, kurkuma, karwijzaad, gember, cayennepeper, witte peper, kardemom, lavas)), zonnebloemolie, gekarameliseerde suiker , suiker, azijnextract, voedingszuur (citroenzuur). Bevat mogelijk: ei, soja, mosterd.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1250.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "295.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "20.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:36"
+}

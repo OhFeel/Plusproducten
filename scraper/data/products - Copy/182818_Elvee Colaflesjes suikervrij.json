@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Colaflesjes suikervrij",
+  "brand": "Elvee",
+  "price": "2.95",
+  "base_unit_price": "13.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/182818_M/69095ac584372691a53ae41021b127b5/182818.png",
+  "ingredients": "zoetstoffen (maltitolstroop, steviolglycosiden), water, gelatine (varken), voedingszuur (citroenzuur), karamelstroop, aroma, plantaardige olie (kokos), glansmiddelen (bijenwas, e903).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "848.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "203.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:11:15"
+}

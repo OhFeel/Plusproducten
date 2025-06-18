@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Dropmix Gekleurd",
+  "brand": "Haribo",
+  "price": "2.19",
+  "base_unit_price": "8.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/313739_M/f00c49baf0ba8f147b01a206a9ac8f22/313739.png",
+  "ingredients": "Ingrediënten: Suiker; bruine suikerstroop; glucosestroop; TARWEMEEL; zetmeel; zoethoutextract (3 % in het dropaandeel); MELKSUIKER; aroma; dextrose; kookzout; geraspte kokos; magere MELKPOEDER; palmvet; vruchten- en plantenconcentraten: rammenas, appel, saffloer, wortel, rode biet, paprika, zwarte bes, spirulina, citroen, tomaat, pompoen, hibiscus; gelatine; voedingszuur: citroenzuur; glansmiddelen: bijenwas wit en geel, carnaubawas.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1441.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "339.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "81.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.89",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:08:59"
+}

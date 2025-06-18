@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Roomboter appelpencees",
+  "brand": "PLUS Korenlanders",
+  "price": "3.39",
+  "base_unit_price": "0.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/919793_M/a1f244bf4b1ffc56d97792ded2d7907e/919793.png",
+  "ingredients": "Ingrediënten :Suiker, TARWEBLOEM, roomboter (MELK), 4,6% appelpuree, 5% SOJABONEN, rozijnen, plantaardige oliën (palm, raapzaad, kokos), SCHARRELEI, glucosestroop, gemodificeerd zetmeel (aardappel, mais), dextrose, invertsuikerstroop, aardappelzetmeel, rijsmiddel: E500/E450, TARWEMEEL, maiszetmeel, stabilisator: sorbitolen, geleermiddel: pectinen, AMANDEL, zout, verdikkingsmiddel: guarpitmeel, citrusvezel, 0,2% abrikozenpitten, SCHARRELKIPPENEI-EIGEEL, antioxidant: E300, zuurteregelaar: citroenzuur, conserveermiddel: E202, kleurstof: E160a/E101.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1708.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "408.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "33.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "21.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.088",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "29.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:48"
+}

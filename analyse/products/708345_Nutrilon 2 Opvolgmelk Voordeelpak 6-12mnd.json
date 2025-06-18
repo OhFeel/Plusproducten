@@ -1,0 +1,325 @@
+{
+  "sku": "",
+  "name": "Nutrilon 2 Opvolgmelk Voordeelpak 6-12mnd",
+  "brand": "Nutrilon",
+  "price": "21.69",
+  "base_unit_price": "18.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/708345_M/47673a123fbd445ece06fed58eb876c7/708345.png",
+  "ingredients": "Ingrediënten: Lactose (MELK), plantaardige oliën (high oleic zonnebloemolie, kokosolie, koolzaadolie, zonnebloemolie), magere MELK, gedemineraliseerd wei (MELK), galacto-oligosachariden (MELK), wei concentraat (MELK), fructo-oligosachariden, tricalciumfosfaat, VISolie, eiwit (koeMELK), kaliumchloride, kaliumcitraat, magnesiumwaterstoffosfaat, cholinechloride, olie van Mortierella alpina, natriumcitraat, calciumcarbonaat, emulgator (SOJAlecithine), natriumchloride, L-ascorbinezuur, natrium L-ascorbaat, inositol, L-tryptofaan, magnesiumchloride, ijzersulfaat, zinksulfaat, L-carnitine, DL-α-tocoferylacetaat, antioxidant (ascorbylpalmitaat), calcium D-pantothenaat, nicotinamide, kopersulfaat, thiaminehydrochloride, retinylpalmitaat, riboflavine, pyridoxinehydrochloride, pteroylmonoglutaminezuur, kaliumjodide, mangaansulfaat, natriumseleniet, fytomenadion, cholecalciferol, D-biotine, cyanocobalamine.",
+  "allergens": "Vis, Soja, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "285.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "68.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.19999999999999",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "59.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "9.3",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "73.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "1.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "1.7",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "1.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine K",
+      "value": "5.8",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.1",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.14",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "0.46",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.056",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "14.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.16",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "1.8",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "0.496",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "84.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chloride",
+      "value": "54.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "50.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "0.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koper",
+      "value": "0.05399999999999",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Mangaan",
+      "value": "0.005",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Seleen",
+      "value": "3.1",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "0.013",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "6.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "23.6",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Lactose",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Choline",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Linolzuur",
+      "value": "435.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Alfa-linoleenzuur",
+      "value": "52.3",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Arachidonzuur",
+      "value": "8.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Docosahexaeenzuur",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fructose in voedingsvezel",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Galactose in voedingsvezel",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Glucose",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Inositol/vitamine B7",
+      "value": "6.6",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Carnitine",
+      "value": "2.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Nucleotide",
+      "value": "0.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Taurine",
+      "value": "0.12",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Weiproteïne",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Caseïne",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:50"
+}

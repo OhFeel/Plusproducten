@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Knoppers Coconut bar",
+  "brand": "Knoppers",
+  "price": "2.79",
+  "base_unit_price": "13.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/138970_M/78c0aae63a7d7678ae2b68aa64d668ce/138970.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige vetten (palm, shea), glucosestroop, geraspte kokos (7,8%), VOLLEMELKPOEDER (6,2%), cacaoboter, MAGEREMELKPOEDER (5,8%), MELKSUIKER, gecondenseerde magere MELK, TARWEMEEL (4,1%), cacaomassa, VOLKORENTARWEMEEL (2,2%), bevochtigingsmiddel: sorbitolstroop, KARNEMELKPOEDER, ROOM, HAZELNOTEN, BOTERVET, gedroogde kokosmelk, gecondenseerde WEI, BOTER, WEIPOEDER, emulgator: lecithinen (SOJA), zout, natuurlijke aroma's, rietsuikerstroop, magere cacao, TARWEZETMEEL, rijsmiddel: natriumwaterstofcarbonaat, stabilisator: carrageen, MELKEIWIT, natuurlijk vanille-aroma, gemalen AARDNOTEN/PINDA'S. KAN OOK AMANDEL, ANDERE NOTEN EN EI BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2163.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "518.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:53:36"
+}

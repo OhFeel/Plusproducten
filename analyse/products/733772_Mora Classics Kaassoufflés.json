@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mora Classics Kaassoufflés",
+  "brand": "Mora",
+  "price": "2.99",
+  "base_unit_price": "8.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/733772_M/8af70fbb3720e0151e4eb666553be5f5/733772.png",
+  "ingredients": "Ingrediënten: bloem (TARWE), water, 19% Goudse kaas (MELK), plantaardige oliën (palm, raapzaad), zetmeel, zout, boter (MELK), voedingszuur: citroenzuur, smeltzout: E452, gist, kurkumapoeder, stabilisator: E461, emulgator: E471, gemodificeerd zetmeel, kleurstof: curcumine, rijsmiddelen: E500, E451, E450, verdikkingsmiddel: E401. \"E\"-nummers zijn door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1259.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "301.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:12"
+}

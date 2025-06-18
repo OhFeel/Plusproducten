@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Koopmans Kruidcake bakmix",
+  "brand": "Koopmans",
+  "price": "2.09",
+  "base_unit_price": "5.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/396083_M/2d452a09d8ec98d81ee55768ca60270d/396083.png",
+  "ingredients": "Ingrediënten: suiker, TARWEBLOEM, dextrose, ROGGEMEEL, kruiden & specerijen (o.a. kaneel, steranijs, kruidnagels), rijsmiddelen (E500, E450), rijstzetmeel, emulgatoren (E471, E475), gebrande suiker, zout, verdikkingsmiddel (xanthaangom). Kan EI en MELK bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1362.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "324.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:38:27"
+}

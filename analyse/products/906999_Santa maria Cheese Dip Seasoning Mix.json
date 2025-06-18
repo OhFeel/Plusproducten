@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Santa maria Cheese Dip Seasoning Mix",
+  "brand": "Santa maria",
+  "price": "0.99",
+  "base_unit_price": "61.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/906999_M/b7eb99771d352e2b276106b76f3a1e64/906999.png",
+  "ingredients": "Ingrediënten: Zout, maltodextrine, MELKPOEDER, ui, KAASPOEDER (12%), kruiden (chilipeper, kurkuma, jalapeño), natuurlijk aroma (bevat MELK), suiker, druivensuiker, verdikkingsmiddel (guarpitmeel), paprika-extract, antiklontermiddel (siliciumdioxide), kleurstof (paprika-extract).",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1439.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "17.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:04:29"
+}

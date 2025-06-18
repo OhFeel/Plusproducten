@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Unox Vegetarische knaks",
+  "brand": "Unox",
+  "price": "4.19",
+  "base_unit_price": "10.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/960791_M/2e2e2d0de0c987fe4b7ec202b0d61a55/960791.png",
+  "ingredients": "Ingrediënten: Vegetarische worstjes: water, zonnebloemolie 13%, gemodificeerd zetmeel, KIPPENEI-EIWITPOEDER 5,4%, rijstebloem, inuline, verdikkingsmiddel (E461, E415), specerijen, aroma, zout, suiker, tomatenpuree, gehydrolyseerd maïseiwit, natuurlijk aroma, rookaroma, gistextract, voedingszuur (E330), geleermiddel (E401), antioxidant (E301), vitamine B12,  ijzer, gekarameliseerde suiker, specerij-extracten, kleurstof (E172). Opgiet: Water, zout, rookaroma.",
+  "allergens": "Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "784.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "187.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.478",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:30"
+}

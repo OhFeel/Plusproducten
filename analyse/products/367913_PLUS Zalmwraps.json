@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Zalmwraps",
+  "brand": "PLUS",
+  "price": "2.79",
+  "base_unit_price": "27.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/367913_M/83a703a9a026ea04b90bc05bb6c99b4d/367913.png",
+  "ingredients": "Ingrediënten :45% roomkaasbereiding (67% verse roomkaas (MELK, zout, zuursel, microbieel stremsel), room (MELK), water, zure room (MELK), plantaardige oliën (zonnebloem, raapzaad, in wisselende verhouding), gemodificeerd zetmeel, peterselie, voedingszuur: E330, 0,2% rundergelatine, zout, conserveermiddel: E202), 36% wrap (TARWEBLOEM, water, raapzaadolie, bevochtigingsmiddel: E422, stabilisator: E412/E466, TARWEGLUTEN, gejodeerd zout, dextrose, rijsmiddel: E500, zuurteregelaar: E330, emulgator: E471), 19% gerookte zalm (97% zalm (VIS), zout, azijn, gebufferd azijnpoeder (conserverend ingrediënt), rook).\n\nZalm (Salmo salar), gekweekt in Noorwegen, kweekmethode: aquacultuur.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1088.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "261.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "18.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.432",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:25:36"
+}

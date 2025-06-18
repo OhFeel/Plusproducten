@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Leentjes Koek Kruimels Chocolade",
+  "brand": "Leentjes",
+  "price": "2.91",
+  "base_unit_price": "14.55",
+  "image_url": "",
+  "ingredients": "TARWEbloem, kristalsuiker, margarine (palmvet, raapzaadolie), emulgatoren (mono- en diglyceriden van vetzuren), zonnebloemlecithine, citroenzuur, kleurstof (bètacaroteen), natuurlijke aroma's, cacaopoeder, zuurteregelaar (kaliumcarbonaat), rijsmiddelen (natriumbicarbonaat, ammoniumbicarbonaat); glucosestroop, volle MELKpoeder, zout, natuurlijke chocoladesmaakstof.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1622.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "386.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:14:00"
+}

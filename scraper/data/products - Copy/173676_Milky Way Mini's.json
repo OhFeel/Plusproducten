@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Milky Way Mini's",
+  "brand": "Milky Way",
+  "price": "3.79",
+  "base_unit_price": "11.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/173676_M/db2617584006c69df08bfe296f611401/173676.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, magere MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, weipermeaat (MELK), botervet (MELK), GERSTEMOUTEXTRACT, palmvet, zout, KIPPENEI-EIWITPOEDER, emulgator (SOJALECITHINE). (Kan bevatten: PINDA'S, NOTEN).",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1854.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "441.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:07:19"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Marmercake plakjes 6 plakjes",
+  "brand": "PLUS Korenlanders",
+  "price": "3.19",
+  "base_unit_price": "14.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/919799_M/3d33182bbfc13720e4a462f5ae2c24aa/919799.png",
+  "ingredients": "Ingrediënten: suiker, TARWEbloem, scharrelEI, 20% roomboter (MELK), glucosestroop (TARWE), magere cacaopoeder, rijsmiddelen: E450; E500, conserveermiddelen: E282; E202, emulgatoren: E471; E475; E477; E472b, magere MELKpoeder, zout, verdikkingsmiddel: E415, vanillearoma, kleurstof: E160a. Kan sporen van soja en noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1669.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "397.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.77",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:49"
+}

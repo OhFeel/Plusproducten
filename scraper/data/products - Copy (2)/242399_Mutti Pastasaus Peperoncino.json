@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mutti Pastasaus Peperoncino",
+  "brand": "Mutti",
+  "price": "3.89",
+  "base_unit_price": "9.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/242399_M/633de2c9b588c3673da79df6293d8662/242399.png",
+  "ingredients": "Ingrediënten: Tomatenpulp 60%, passata van gezeefde \"Pizzutello\" tomaten 20%, tomatenconcentraat 7,5%, rode paprika, olijfolie, ui, peterselie, chilipeper uit Calabrië 0,5%, basilicum, zout, natuurlijke aroma's, knoflook, chilipeper extract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "216.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.94",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:38:37"
+}

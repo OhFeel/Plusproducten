@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Rond Waldkorn half",
+  "brand": "PLUS Korenlanders",
+  "price": "1.49",
+  "base_unit_price": "3.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/170781_M/b3fa3d2a84329b9b604adf7151295e2f/170781.png",
+  "ingredients": "Ingrediënten :Ingrediënten: 25% VOLKORENTARWEMEEL, 24% TARWEBLOEM, water, SOJASTUKJES, TARWEGLUTEN, 3,2% HAVERVLOKKEN, bakkersgist, lijnzaad, 2,4% ROGGEBLOEM, zonnebloempitten, GERSTEMOUTEXTRACT, bakkerszout, 0,9% GERSTEKORRELS, 0,9% GERSTEVLOKKEN, 0,7% moutmeel (TARWE, GERST), 0,6% zuurdesem (TARWE, ROGGE), raapzaadolie, SESAMZAAD, dextrose, SOJABLOEM, emulgator: E482, natuurlijk aroma, 0,1% TARWEKIEMEN, 0,1% TARWEZEMELEN, enzym (TARWE), meelverbeteraar: E300.   \n\nKan sporen bevatten van: EI, MELK, NOTEN en LUPINE.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "271.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "37.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.095",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.438",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:06:22"
+}

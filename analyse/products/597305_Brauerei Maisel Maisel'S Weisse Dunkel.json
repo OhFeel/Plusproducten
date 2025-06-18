@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Brauerei Maisel Maisel'S Weisse Dunkel",
+  "brand": "Brauerei Maisel",
+  "price": "1.99",
+  "base_unit_price": "3.98",
+  "image_url": "",
+  "ingredients": "Zutaten: Wasser, WEIZEN- und GERSTEN-MALZ, Röstmalzbier, Hefe, Hopfen.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "167.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "40.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5.1",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:58:33"
+}

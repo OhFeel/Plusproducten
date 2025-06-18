@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Bobby's Gin & Tonic",
+  "brand": "Bobby's",
+  "price": "3.09",
+  "base_unit_price": "12.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/648511_M/0e4bcd1d4cf29d73d3c708103b154f63/648511.png",
+  "ingredients": "koolzuurhoudend water, bobby's dry gin (21,4%), suiker, voedingszuur: citroenzuur, natriumcitraat, natuurlijk tonic aroma (kinine), natuurlijk sinaasappelaroma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "327.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "9",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:11:52"
+}

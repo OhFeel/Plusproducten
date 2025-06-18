@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Vanka Kawat Kokki Djawa Rijsttafelmix",
+  "brand": "Vanka Kawat",
+  "price": "4.29",
+  "base_unit_price": "17.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/664262_M/fe09ac5f48fe2b471f71abfd913aa1b2/664262.png",
+  "ingredients": "Ingrediënten: Kentang Pikant: 35% aardappel, witte en bruine basterdsuiker (suiker, karamel, (invert)suikerstroop), ui, 2% PINDA, TARWEBLOEM, paprikapoeder, zout, kruiden en specerijen, plantaardige olië (zonnebloem, SOJA, palm, koolzaad). Seroendeng: 44% kokos, 44% gebakken PINDA'S (PINDA, palmolie), gele basterdsuiker (suiker, invertsuikerstroop, kleurstof (E150a)), paprikapoeder, knoflookpoeder, chilipoeder, zout, aroma van djeroek vrucht, sereh. Katjan Pedis: 75% PINDA'S, TARWEMEEL, aardappelzetmeel, 2% Katjang Pedis kruiden, kleurstof (E160c), antioxidant (E306), Palmolie, zout, suiker, ui. Bawang Goreng: 75% ui, palmolie, TARWEMEEL, zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2076.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "493.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:37"
+}

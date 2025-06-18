@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Consenza Glutenvrij bitterballen",
+  "brand": "Consenza",
+  "price": "5.99",
+  "base_unit_price": "24.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/334782_M/0dcf9cee52991ce5f9a4b21582ac734a/334782.png",
+  "ingredients": "Ingrediënten: Bouillon (water, kruiden, specerijen, uien), scharrelrundvlees 20%, maïszetmeel, aardappelzetmeel, dextrose, LUPINEmeel, paneermeel (rijstmeel, water, plantaardige vezels, zout, emulgator [E471]), plantaardige oliën (palm, raap en kokos in wisselende verhouding), gelatine (rund), kruiden (SELDERIJ), zout, uien, bouillonpoeder (zeezout, gistextract, gejodeerd zout, rundvleesextract, natuurlijk aroma, maltodextrine, wortelpoeder, specerijen), specerijen (MOSTERD), verdikkingsmiddelen (E412-E464)\nKan sporen bevatten van pinda's (aardnoten).",
+  "allergens": "Lupine, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "612.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "146.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:15:38"
+}

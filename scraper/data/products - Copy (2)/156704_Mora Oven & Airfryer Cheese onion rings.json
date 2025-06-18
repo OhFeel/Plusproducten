@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer Cheese onion rings",
+  "brand": "Mora",
+  "price": "4.59",
+  "base_unit_price": "0.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/156704_M/64dae604937a063236d44214c6a2adda/156704.png",
+  "ingredients": "Ingrediënten: KAASvulling (KAAS 56% (Goudse KAAS 57%, MOZZARELLA 23%, CHEDDAR 20%), water, rode ui 7%, bamboevezel, smeltzouten: E341, E450 en E452, MELKeiwit, gemodificeerd zetmeel, stabilisator: E461, zout, groente-extracten, zuurteregelaar: melkzuur, verdikkingsmiddel: guarpitmeel, kleurstoffen: caroteen en paprika-extract), paneermeel (bloem (bevat TARWE), volkorenTARWEmeel, gist, zout, zonnebloemolie), plantaardige oliën (raapzaad, palm, zonnebloem), water, bloem (bevat TARWE), zetmeel (bevat TARWE), MELKeiwit, zout, verdikkingsmiddel: arabische gom, witte basterdsuiker (suiker, invertsuikerstroop), glucosestroop, stabilisatoren: E466 en E464, magere MELKpoeder, dextrose, rijsmiddelen: E500 en E450, TARWE-eiwit.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1441.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "345.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:59:27"
+}

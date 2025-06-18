@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Holie's Crunchy Bar Protein Chocolate Chip",
+  "brand": "Holie's",
+  "price": "3.29",
+  "base_unit_price": "27.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/634912_M/c96300f3fa78b4afb34e974e0f69ba91/634912.png",
+  "ingredients": "Ingrediënten: Volkoren SPELTVLOKKEN 27,5%, Cichoreiwortelvezel 17,8%, TARWE-EIWIT 12%, Zonnebloempitten 10,9%, Zonnebloemolie 7,9%, HAZELNOTEN 5,7%, AMANDELMEEL 5,4%, Cacaomassa 4,3%, Geroosterde PINDA 4,0%, Water 4,0%, Emulgator (lecithinen) 0,3%, Zout 0,1%, Natuurlijk aroma 0,1%. Kan sporen bevatten van andere glutenbevattende granen, sulfiet, andere noten, melk, soja en sesamzaad.",
+  "allergens": "Tarwe, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Aardnoten (pinda's), Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2093.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "499.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "19.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:09:34"
+}

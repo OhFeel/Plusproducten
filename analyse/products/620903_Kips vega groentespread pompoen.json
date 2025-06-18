@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kips vega groentespread pompoen",
+  "brand": "Kips",
+  "price": "2.49",
+  "base_unit_price": "19.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/620903_M/b574d9028b48beda235b6a54f949d764/620903.png",
+  "ingredients": "groenten 72% (pompoen 24%, rode paprika 20%, wortelpuree 12%, pastinaak 9,3%, ui), zonnebloemolie, quinoa 8.0%, kokos, geconcentreerde tomatenpuree, specerijen, aroma, gember, suiker, zout, natuurlijk aroma, verdikkingsmiddel (e415), conserveermiddel (gebufferde azijn). e = door de eu goedgekeurde hulpstof.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "651.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "157.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:13"
+}

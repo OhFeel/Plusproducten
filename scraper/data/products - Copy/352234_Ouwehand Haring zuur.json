@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ouwehand Haring zuur",
+  "brand": "Ouwehand",
+  "price": "3.99",
+  "base_unit_price": "7.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/352234_M/b3975d9c507d49cfe940aeab6481d382/352234.png",
+  "ingredients": "Ingrediënten: haring (VIS) (88% van het uitlekgewicht), opgiet (zout, natuurazijn, voedingszuur: melkzuur, natuurlijk aroma, zoetstof: sucralose), ui, MOSTERDZAAD, pimentkorrels, witte peperkorrels, gedroogde wortel.",
+  "allergens": "Vis, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "876.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "211.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:19:50"
+}

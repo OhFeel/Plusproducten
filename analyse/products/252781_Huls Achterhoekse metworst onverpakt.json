@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Achterhoekse metworst onverpakt",
+  "brand": "Huls",
+  "price": "3.49",
+  "base_unit_price": "19.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/252781_M/c495d303386a39c6516797ef569ecb2c/252781.png",
+  "ingredients": "varkensvlees*, varkensspek*, zouten (keukenzout, kaliumchloride), specerijen, natuurlijk aroma, antioxidant: natriumascorbaat, dextrose, kleurstof: karmijn, fermenten, conserveermiddel: e250, worstomhulsel: varkensdarm. voor 100 gram droge worst is 145 gram varkensvlees gebruikt. * = beter leven keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2436.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "589.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "55.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.81",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:43:32"
+}

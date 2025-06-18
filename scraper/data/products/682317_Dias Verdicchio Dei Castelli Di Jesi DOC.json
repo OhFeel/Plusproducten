@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dias Verdicchio Dei Castelli Di Jesi DOC",
+  "brand": "Dias",
+  "price": "5.99",
+  "base_unit_price": "7.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/682317_M/3894eebbdd26e0946fa2e3386f2ebbf0/682317.png",
+  "ingredients": "Ingrediënten: druif, conserveermiddel (SULFIETEN), stabilisator (arabische gom, carbomethylcellulose), bentomiet, tannines, GISTEN.",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "290.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:25"
+}

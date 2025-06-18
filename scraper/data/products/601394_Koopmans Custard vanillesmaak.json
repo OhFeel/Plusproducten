@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Koopmans Custard vanillesmaak",
+  "brand": "Koopmans",
+  "price": "0.99",
+  "base_unit_price": "3.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/601394_M/22ff94e26a1e2c9c0e1478b6db9bb671/601394.png",
+  "ingredients": "Ingrediënten: maïszetmeel, zout, kleurstoffen (E 160a, E 160b(ii)), aroma. Kan bevatten: (TARWE (GLUTEN), EI, MELK).",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "361.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "85.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:00:13"
+}

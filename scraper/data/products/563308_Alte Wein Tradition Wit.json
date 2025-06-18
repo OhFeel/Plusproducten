@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Alte Wein Tradition Wit",
+  "brand": "Alte Wein Tradition",
+  "price": "3.99",
+  "base_unit_price": "3.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/563308_M/4c75a2a153ba66bc6b4c26abab8e3697/563308.png",
+  "ingredients": "Bevat sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "8.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:41:33"
+}

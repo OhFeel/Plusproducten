@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ehrmann Grand dessert choc noir",
+  "brand": "Ehrmann",
+  "price": "1.19",
+  "base_unit_price": "6.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435551_M/ed4e7296d0b6a460a4489c8d1e605134/435551.png",
+  "ingredients": "Ingrediënten: magere MELK, ROOM 20%, vloeibare MELKBESTANDDELEN, glucose-fructosesiroop, suiker, gemodificeerd zetmeel, donkere chocolade 2,7% (magere cacaopoeder, suiker, cacaoboter), magere cacaopoeder 1,1%, verdikkings-middelen (carrageen, guarpitmeel), gelatine (rund), emulgator (E 472b). Roomtopping opgeklopt met stikstof.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "508.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "121.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:12"
+}

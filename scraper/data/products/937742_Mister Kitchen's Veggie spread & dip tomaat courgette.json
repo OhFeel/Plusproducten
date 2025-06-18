@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mister Kitchen's Veggie spread & dip tomaat courgette",
+  "brand": "Mister Kitchen's",
+  "price": "3.09",
+  "base_unit_price": "11.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/937742_M/0c86e29da538ec6aba17e2ce0c66e965/937742.png",
+  "ingredients": "Ingrediënten: witte bonen, tomaat 15%, paprika, courgette 9%, water, azijn, ui, raapzaadolie, wortel, zongedroogde tomaat 3,5% (tomaat, raapzaadolie, azijn),  kappertjes, prei, agavesiroop, zout, specerijen (venkelzaad, zwarte peper en tijm),  SOJA-eiwit, stabilisatoren: guargom, xanthaangom, voedingszuur (citroenzuur).",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "433.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "104.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:16"
+}

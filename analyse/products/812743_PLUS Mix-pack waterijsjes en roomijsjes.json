@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Mix-pack waterijsjes en roomijsjes",
+  "brand": "PLUS",
+  "price": "2.29",
+  "base_unit_price": "0.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/812743_M/da8771278b23a7619e2fcb02a345f073/812743.png",
+  "ingredients": "Ingrediënten :2x Waterijs met kers-, citroen- en colasmaak\nwater, suiker, glucose-fructosestroop, voedingszuur: citroenzuur, stabilisator: guarpitmeel/johannesbroodpitmeel/pectinen, spirulina-extract, bietenconcentraat, natuurlijke aroma's, kleurstof: carotenen/curcumine.\nKan PINDA, MELK, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT en MACADAMIANOOT bevatten.\n \n2x Ijs met vanillesmaak met een coating van cacaofantasie en gekleurd suikerwerk\nwater, 25% suikerwerk (suiker, TARWEZETMEEL, water, glucosestroop, kokosolie, concentraat (radijs, citroen, zwarte bes, spirulina, saffloer), kleurstof: curcumine, glansmiddel: bijenwas), 16% cacaofantasie (plantaardig vet in wisselende verhoudingen (kokos, zonnebloem, raapzaad), suiker, magere cacaopoeder, emulgator: SOJALECITHINE, natuurlijk vanille-aroma), glucosestroop, magere MELK, suiker, MELKEIWITTEN, kokosolie, emulgator: E471, stabilisator: guarpitmeel/johannesbroodpitmeel, natuurlijk aroma.\nKan PINDA, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT en MACADAMIANOOT bevatten.\n \n2x Citroenvruchtenijs, sinaasappelvruchtenijs en citroenvruchtenijs met limoensmaak met een coating met bubblegumsmaak en knetterend suikerwerk.\nwater, suiker, glucosestroop, 10% citroensap uit concentraat, 5% sinaasappelsap uit concentraat, 5% bubblegumsmaakcoating (plantaardige oliën (kokos, raapzaad, shea), suiker, kleurstof: bietenrood/paprika-extract, emulgator: lecithinen, natuurlijk aroma), 0,5% knetterend suikerwerk (suiker, glucosestroop, cacaoboter, lactose (MELK), zuurteregelaar: appelzuur, kooldioxide), stabilisator: guarpitmeel/johannesbroodpitmeel/pectinen, voedingszuur: citroenzuur, kleurstof: karamel/carotenen, extract van paprika, saffloerextract, spirulinaconcentraat, natuurlijke aroma's.\nKan PINDA, MELK, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT en MACADAMIANOOT bevatten.\n \n2x Ijs met ananassmaak met waterijs met citroen-limoensmaak en waterijs met aardbeiensmaak.\nwater, suiker, glucosestroop, magere MELKPOEDER, kokosolie, 2% citroensap uit concentraat, 1,2% aardbeiensap uit concentraat, 0,5% ananassap uit concentraat, concentraat (passievrucht, mango, kiwi, grapefruit, druif), voedingszuur: citroenzuur, emulgator: E471, stabilisator: guarpitmeel/johannesbroodpitmeel/carrageen/pectinen, zwarte wortelconcentraat, spirulina-extract, wortelconcentraat, kleurstof: curcumine, natuurlijke aroma's.\nKan EI, AMANDEL, HAZELNOOT, PISTACHENOOT en PECANNOOT bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "321.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.038",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.015",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "18.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:54"
+}

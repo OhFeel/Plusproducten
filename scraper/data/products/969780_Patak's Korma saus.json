@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's Korma saus",
+  "brand": "Patak's",
+  "price": "3.49",
+  "base_unit_price": "7.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/969780_M/3316d6ba9c0b9d4eff27291a1b6bc835/969780.png",
+  "ingredients": "Ingrediënten: Water, suiker, gedroogde kokosnoot (4%), kokosnootcréme (4%) room (MELK)(4%), gemodificeerd maïszetmeel, raapzaadolie, geconcentreerde tomatenpuree, gemberpuree, knoflookpuree, specerijen (1%) (specerijen, komijn, venkel, kurkuma), gedroogde ui, zout, wei-eiwitconcentraat (MELK), conserveermiddel, (melkzuur) geconcentreerd citroensap, gedroogd korianderblad. Kan ook sporen van pinda's en noten bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "543.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "131.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:08"
+}

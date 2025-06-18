@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Santa maria Dip Nacho Cheese",
+  "brand": "Santa maria",
+  "price": "3.49",
+  "base_unit_price": "14.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/272154_M/2a2684773bc20b36f83ba3234ec9d13e/272154.png",
+  "ingredients": "Ingrediënten : Magere MELK, water, zonnebloemolie, gemodificeerd zetmeel (E1442) (tapioca), aroma (3,0%) (MELK), zout, CHEDDARKAAS (1,0%), emulgator (E339, E471), zuurteregelaar (E270, E331, E330), gistextract, colour (E160e, E160a).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "540.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:49:42"
+}

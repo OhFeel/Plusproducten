@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "8.6 Extreme",
+  "brand": "8.6",
+  "price": "2.11",
+  "base_unit_price": "4.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/613862_M/be9f147403d3fabc3a8584d407fa2068/613862.png",
+  "ingredients": "Ingrediënten: natuurlijk mineraalwater, GERSTEMOUT, glucosestroop, hopextract, natuurlijk aroma",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "344.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "82.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "10.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:16"
+}

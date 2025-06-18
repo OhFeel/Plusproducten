@@ -1,0 +1,61 @@
+{
+  "sku": "",
+  "name": "PLUS Sorbetijs mango-passievrucht",
+  "brand": "PLUS",
+  "price": "1.79",
+  "base_unit_price": "3.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/963478_M/c80cbd97170202d07ff6bdc00feeea72/963478.png",
+  "ingredients": "Water, 28% mangopuree, suiker, 8% passievruchtsap, glucose-fructosestroop, inuline, stabilisator: E410/E440/E466, emulgator: E473. E = door EU goedgekeurde hulpstof. Kan MELK en NOTEN bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "472.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "112.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:59"
+}

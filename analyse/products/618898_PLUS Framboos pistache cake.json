@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Framboos pistache cake",
+  "brand": "PLUS",
+  "price": "0.99",
+  "base_unit_price": "0.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/618898_M/951fb87493c712ccd68177b057c5753c/618898.png",
+  "ingredients": "Ingrediënten: frambozen, water, bloem (TARWE), suiker, EI, plantaardige oliën en vetten (koolzaad, zonnebloem), gemodificeerd zetmeel, zoet weipoeder (MELK), PISTACHENOTEN, rijsmiddel (E450, E500), roompoeder (MELK), glucosestroop, magere MELKpoeder, natuurlijk aroma, zout, dextrose, zuurteregelaar (citroenzuur, E331), geleermiddel (pectinen), wortelextract.",
+  "allergens": "Glutenbevattende granen, Ei, Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1186.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "284.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.59",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:33"
+}

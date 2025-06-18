@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Tabasco Habanero hot",
+  "brand": "Tabasco",
+  "price": "2.99",
+  "base_unit_price": "49.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/495296_M/6d8e4c2454d00d3d5e46d8c1c68bf836/495296.png",
+  "ingredients": "Ingrediënten: gedistilleerde azijn, habanero peper (28.4%), rietsuiker, Tabasco pepersaus (gedistilleerde azijn, rode peper, zout), zout, mangopuree, gedroogde ui, bananenpuree, tomatenpuree, tamarindepuree, papayapuree, kruiden, knoflook, Tabasco peperpuree (gerijpte rode peper, zout).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "419.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "100.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:16:38"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Tuinkruidenbouillon bio",
+  "brand": "Zonnatura",
+  "price": "1.79",
+  "base_unit_price": "29.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/726387_M/16ecf8e12a61efba53694ffaeab7ce7c/726387.png",
+  "ingredients": "aardappelzetmeel*, zeezout, palmolie*, kruiden* 15% (oregano*, tijm*, marjolein*, peterselie*, basilicum*), spinazie*, specerijen* (kurkuma*, zwarte peper*, laurierblad*), knoflook* 0,2%.  *ingrediënt van biologische teelt. kan sporen bevatten van selderij.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "31.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "7.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.52",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:58"
+}

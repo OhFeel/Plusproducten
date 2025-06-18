@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lamb Weston Ziggy fries",
+  "brand": "Lamb Weston",
+  "price": "2.99",
+  "base_unit_price": "3.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/722719_M/8092b467cc9530ca4690fabbddc8c950/722719.png",
+  "ingredients": "Ingrediënten: Aardappel (87%), Coating (7%) [Gemodificeerd \naardappelzetmeel, Rijstmeel, Aardappelzetmeel, Zout, Rijsmiddelen (Dinatriumdifosfaat, Natriumbicarbonaat), Dextrose, Verdikkingsmiddel (Xanthaangom), Kruidenextract], Plantaardige oliën (Zonnebloem, Raapzaad, In verschillende verhoudingen). Dextrose",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "677.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "164.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:30:49"
+}

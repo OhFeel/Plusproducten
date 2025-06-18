@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Pizza quattro formaggi",
+  "brand": "Uit de keuken van",
+  "price": "5.99",
+  "base_unit_price": "14.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/562315_M/89074354befa8c87c05917444b79ce70/562315.png",
+  "ingredients": "Ingrediënten :Pizzabodem (TARWEBLOEM, water, tomatenpassata, pomace olijfolie, zout, gist, meelverbeteraar: E300, zuurteregelaar: E330), 16% mozzarella (MELK, zout, zuursel, vegetarisch stremsel), 7% mascarponecrème (water, 20% mascarpone (room (MELK), zuurteregelaar: citroenzuur), raapolie, room (MELK), gemodificeerd maïszetmeel, gistextract, zout, voedingszuur: E270, verdikkingsmiddel: E415, knoflook, witte peper, natuurlijk aroma (MELK)), 6% blauwschimmelkaas (MELK, zuursel, zout, dierlijk stremsel, Penicillium roqueforti), 5% kaas (MELK, zout, zuursel, microbieel stremsel), kruiden, rijstzetmeel, aardappelzetmeel.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1149.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "274.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.182",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.473",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:40:54"
+}

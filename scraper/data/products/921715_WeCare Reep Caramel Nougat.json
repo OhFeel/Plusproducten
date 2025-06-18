@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "WeCare Reep Caramel Nougat",
+  "brand": "WeCare",
+  "price": "2.29",
+  "base_unit_price": "65.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/921715_M/3234dedb9c0aa34b3ce201b3bfb08cde/921715.png",
+  "ingredients": "Ingrediënten: Melkchocolade met zoetstof 34,8% (zoetstof: maltitolen, cacaoboter, volle MELKpoeder, cacaomassa, emulgator: lecithinen (SOJA), aroma's), vulstof: polydextrose, MELKeiwitten, bevochtigingsmiddel: glycerol, watervrij MELKvet, sojaolie, zoetstoffen: xylitol en sucralose, zonnebloemolie, gehydrolyseerd TARWEgluten, aroma's (bevat MELK), magere cacaopoeder, cacaomassa, zout, emulgator: lecithinen (SOJA), zeezout, gehydrolyseerd collageen\n\nKan sporen van eieren, noten, aardnoten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1588.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "384.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.68",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:07"
+}

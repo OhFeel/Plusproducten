@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fernandes Cherry bouquet",
+  "brand": "Fernandes",
+  "price": "3.95",
+  "base_unit_price": "3.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/338692_M/4dae7822155a9e4f609bf9f644243637/338692.png",
+  "ingredients": "Ingrediënten: Koolzuurhoudend water, suiker, aroma's, zwarte wortelconcentraat, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, zoetstoffen: acesulfaam K, sucralose",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "179.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "42.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:16:43"
+}

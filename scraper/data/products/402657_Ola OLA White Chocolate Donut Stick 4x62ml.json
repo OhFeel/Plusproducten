@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ola OLA White Chocolate Donut Stick 4x62ml",
+  "brand": "Ola",
+  "price": "2.99",
+  "base_unit_price": "12.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/402657_M/ccb7b927c32b70f769478d0f3feb6189/402657.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, suiker, plantaardige vetten (kokos, shea), volle MELKPOEDER, TARWEBLOEM, vulstof (polydextrose), LACTOSE en MELKEIWITTEN, fructose, zonnebloemolie, emulgatoren (mono- en diglyceriden van vetzuren, lecithines (bevat SOJA)), magere MELKPOEDER, aroma's, glucose-fructosestroop, stabilisatoren (johannesbroodpitmeel, guargom, carrageen), magere cacaopoeder, rijsmiddelen (natriumcarbonaten, ammoniumcarbonaten), zout, kleurstof (luteïne). Kan ROGGE, GERST, HAVER, EI, PINDA, AMANDEL, HAZELNOOT, WALNOOT, CASHEWNOOT, PECANNOOT, PISTACHENOOT, MACADAMIANOOT, MOSTERD en LUPINE bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1435.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:05"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Verkade Sultana havermout sticks chocolade",
+  "brand": "Verkade",
+  "price": "2.29",
+  "base_unit_price": "15.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946794_M/7a85b3f3739734c743d6cfdb6ed9c8a1/946794.png",
+  "ingredients": "Ingrediënten: HAVERvlokken 31,7%, TARWEbloem 31,3%, plantaardige vetten (palm, raapzaad), suiker, chocoladestukjes 7% [suiker, cacaomassa, cacaoboter, dextrose, emulgator (SOJAlecithinen)], invertsuikerstroop, gepofte rijst (rijst, suiker, TARWEgluten, HAVER, GERSTEmoutstroop, zout), rijsmiddel (natriumcarbonaten), zout, emulgator (E472e), natuurlijk aroma, vitamines [niacine (B3), riboflavin (B2), B12, D3, B6, thiamine (B1)], ijzer\n\nKan noten, melk en ei bevatten.\n",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1947.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "464.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "6.77",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.55",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.68",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "7.74",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.68",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "1.22",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D3",
+      "value": "2.41",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:44"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mutti Pastasaus Basilico",
+  "brand": "Mutti",
+  "price": "3.79",
+  "base_unit_price": "9.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/242393_M/2c868f2c779eaeb8622037a372924bc5/242393.png",
+  "ingredients": "Ingrediënten: Tomatenpulp 60%, passata van gezeefde \"Rossoro\" tomaten 21%, tomatenconcentraat 10,2%, olijfolie, ui, basilicum \"Basilico Genovese BOB\" 1,5%, wortel, natuurlijke aroma's, zout.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "234.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "56.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.81",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:38:33"
+}

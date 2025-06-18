@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Mix bami goreng",
+  "brand": "Conimex",
+  "price": "0.99",
+  "base_unit_price": "23.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/818813_M/07aec954fca516516c6770f82f71c63c/818813.png",
+  "ingredients": "Ingrediënten: Groenten 51% (ui, wortel, prei, KNOLSELDERIJ), zout, natuurlijk aroma (bevat TARWE, SOJABOON, SELDERIJ), knoflookpoeder, gember, koriander, komijn, raapzaadolie, zetmeel, kurkuma, peper, natuurlijk citroengras aroma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1166.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "279.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "20.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:29"
+}

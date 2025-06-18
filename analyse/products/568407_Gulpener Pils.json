@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Gulpener Pils",
+  "brand": "Gulpener",
+  "price": "18.76",
+  "base_unit_price": "2.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/568407_M/2145e79a644b57420005bf4d81027eed/568407.png",
+  "ingredients": "Ingrediënten: water, GERSTEmout en hop.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "174.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "42.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:44:01"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Glutenvrije koeken rikkies",
+  "brand": "Damhert",
+  "price": "3.09",
+  "base_unit_price": "24.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/162652_M/51165f1a4ff14753cbb7d7d4721ef0ed/162652.png",
+  "ingredients": "rijstmeel, suiker, kokosvet, maïszetmeel, cacaopoeder (7,9%), maïsmeel, glucosestroop, dextrose, geraffineerde zonnebloemolie, aardappelzetmeel, inuline, verdikkingsmiddel (xanthaangom), rijsmiddel (natriumwaterstofcarbonaat), emulgator (zonnebloemlecithine), tafelzout, natuurlijk, aroma, aroma. dit product is allergeenvrij.\n",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1976.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "471.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:40"
+}

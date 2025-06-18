@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "PLUS Kip Tandoori Indiase stijl",
+  "brand": "PLUS",
+  "price": "5.49",
+  "base_unit_price": "12.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/818155_M/293ad56110e1655f91fe2efa6be03269/818155.png",
+  "ingredients": "Ingrediënten :47% rijstmix met sperziebonen (41% basmatirijst, water, 8% sperzieboon, paprika, kikkererwt, raapzaadolie, zout, antioxidant: E300), 38% tandoori saus (28% ui, water, 14% tomatenpuree, 12% tomaat, yoghurtbereiding (yoghurt (MELK), gemodificeerd maïszetmeel, verdikkingsmiddel: E406/E440, rundergelatine), zonnebloemolie, raapzaadolie, suiker, kokosmelk (water, kokosmelkpoeder), glucosestroop, specerijen, gemodificeerd maïszetmeel, knoflookpuree, zout, specerijenextract (kardemom, koriander, paprika, zwarte peper), MELKEIWITTEN, gemberpuree, brandewijnazijn), 16% kipfiletstukjes (94% kipfilet*, water, maïszetmeel, dextrose, zout).\n\n* = Beter Leven keurmerk 1 ster",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "586.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "139.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.68",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.68",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.17",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.07",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "16.33",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.46",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.31",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.224",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.86",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:12"
+}

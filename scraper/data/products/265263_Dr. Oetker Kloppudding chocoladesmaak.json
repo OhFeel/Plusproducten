@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Kloppudding chocoladesmaak",
+  "brand": "Dr. Oetker",
+  "price": "1.09",
+  "base_unit_price": "13.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/265263_M/4c1925826f66a62fa93d3ff52f6584af/265263.png",
+  "ingredients": "Ingrediënten: suiker, gemodificeerd aardappelzetmeel, 14% magere cacaopoeder, stabilisatoren (E 450, E 263, E 339), emulgator (lecithinen).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "388.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "92.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:46:00"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Wolkentoetje Vanille",
+  "brand": "Dr. Oetker",
+  "price": "0.79",
+  "base_unit_price": "6.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/871833_M/f9dadd787c273c8c21c74b61104d5191/871833.png",
+  "ingredients": "Ingrediënten: halfvolle MELK, 16% ROOM, suiker, gemodificeerd zetmeel, invertsuikerstroop, geheel gehard kokosvet, zetmeel, gelatine, emulgatoren (E 471 (bevat MELKBESTANDDELEN), E 472b), MELKEIWITTEN, verdikkingsmiddelen (carrageen, guarpitmeel), natuurlijk  Bourbon vanille aroma, zout, kleurstof (carotenen), stabilisatoren (natriumcarbonaten, natriumfosfaten).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "538.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "128.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:58:09"
+}

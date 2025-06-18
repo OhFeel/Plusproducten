@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Kropsla",
+  "brand": "PLUS",
+  "price": "1.05",
+  "base_unit_price": "1.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/114020_M/de39835b974625e04169bb596c84f161/114020.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:46"
+}

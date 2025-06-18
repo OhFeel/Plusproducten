@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans Brood uit de pan Midden-Oosters bakmix",
+  "brand": "Koopmans",
+  "price": "2.69",
+  "base_unit_price": "6.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/480742_M/4775bddc9d9e1c0d9181ed78ba074be0/480742.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, rijsmiddelen (E575, E500ii), TARWEGLUTEN, dextrose, zout, kruiden en specerijen, gist, kaliumchloride (zoutvervanger), emulgator (E472e), TARWEZUURDESEMCONCENTRAAT, meelverbetermiddel (ascorbinezuur), kaneel, enzym. Kan EI en MELK bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1007.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "238.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:10:38"
+}

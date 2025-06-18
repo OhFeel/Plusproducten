@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patria Cream crackers",
+  "brand": "Patria",
+  "price": "1.19",
+  "base_unit_price": "5.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/689016_M/6640851a2da7ce139b638b1f68e1d844/689016.png",
+  "ingredients": "Ingrediënten: TARWEbloem, plantaardige palmolie, zout, gist, rijsmiddel (natriumcarbonaat). Bevat GLUTEN. Kan sporen bevatten van EIEREN, MELK, SOJA, NOTEN en SULFIET.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1850.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "440.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:41"
+}

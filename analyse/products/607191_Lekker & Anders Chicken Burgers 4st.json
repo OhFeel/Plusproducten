@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lekker & Anders Chicken Burgers 4st",
+  "brand": "Lekker & Anders",
+  "price": "4.39",
+  "base_unit_price": "12.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/607191_M/58b51409f195063cdf24ad2f800d744d/607191.png",
+  "ingredients": "Ingrediënten: kippenvlees 46%, cornflakes (maïs, tafelzout, GERSTEMOUTEXTRACT), koolzaadolie, kippenvel, water, TARWEBLOEM, zetmeel, tafelzout, specerijenextracten, aroma (bevat EIEREN, smaakversterker (mononatriumglutamaat, dinatriuminosinaat, natriumguanylaat)), uienpoeder, magere MELKPOEDER, specerijen, kruiden, gist, stabilisator (difosfaten, polyfosfaten), rijsmiddel (natriumcarbonaten). Kan sporen bevatten van: SOJA.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1204.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "289.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:31"
+}

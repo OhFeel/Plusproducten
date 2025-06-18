@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Maaltijdmix Hollands Stoofpotje",
+  "brand": "Knorr",
+  "price": "1.75",
+  "base_unit_price": "34.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/885511_M/22decf1a6cfbeb81309ad208761ca507/885511.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, aardappelzetmeel, groenten¹ 16,9% (tomatenpoeder, champignon 2,6%, uipoeder, wortel, lente-ui), aroma, gejodeerd zout, gerookt varkensvlees (varkensvlees, zout, stabilisator E250, rook), knoflookpoeder¹, spekvet (spek, antioxidant (rozemarijnextract, rook), gehydrolyseerde plantaardig eiwitten, rode wijnextract, citroensappoeder¹ 0,8% (suiker, citroensap, zout), gistextract, karamelstroop, specerijen (peper, kruidnagel), sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), maltodextrine, laurierblad, fructose. Kan andere glutenbevattende granen, ei, melk, mosterd, selderij bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "329.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.34",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:59:49"
+}

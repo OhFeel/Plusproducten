@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fairtrade Original Kruidenpasta Indonesische Bami Goreng",
+  "brand": "Fairtrade Original",
+  "price": "2.09",
+  "base_unit_price": "27.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/673286_M/8f74ac66978cadd2041887f37ceb934e/673286.png",
+  "ingredients": "Ingrediënten: Specerijen (citroengras (3,9%), gember, korianderzaad, laos, rode chilipepers (1,7%), komijn, kurkuma (1,4%), kaneel), water, kokosolie, SOJAsaus (13,9%) (water, SOJAbonen, zout, TARWE), ui (8,0%), azijn, rietsuiker, knoflook (4,5%), zout, rijstbloem, tomatenpuree",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1035.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "249.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:48"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Groentesoep",
+  "brand": "Honig",
+  "price": "1.55",
+  "base_unit_price": "31.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/267130_M/1bd9c11f6a4e459205b9d5bc7315ba09/267130.png",
+  "ingredients": "Ingrediënten: Vermicelli 43% (TARWEBLOEM), groenten 20% (ui, wortel, tomaat, prei), zout, zetmeel, smaakversterkers (E621, E635), glucosestroop, specerijen (SELDERIJZAAD, kurkuma, nootmuskaat, peper, foelie), peterselie, gistextract, zonnebloemolie, antiklontermiddel (E551) Kan MELK, SOJA, MOSTERD en KIPPEEI bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1251.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "296.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "16.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:46:44"
+}

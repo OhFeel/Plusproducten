@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Magnum Pint double seasalt caramel",
+  "brand": "Magnum",
+  "price": "6.89",
+  "base_unit_price": "15.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/197846_M/384c4005f2a7c4f0167b77f38bec1863/197846.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, suiker, ROOM (16%), glucose-fructosestroop, cacaoboter¹, cacaomassa¹, magere MELKPOEDER, glucosestroop, volle MELKPOEDER, BOTERCONCENTRAAT, kokosolie, gekarameliseerde suikerstroop, emulgatoren (E471, lecithines), zout, stabilisatoren (guargom, carrageen, johannesbroodpitmeel, taragom), uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma¹ (bevat MELK), maïszetmeel, aroma, natuurlijk vanille aroma, kleurstof (E160b(ii)). Kan TARWE, GERST, HAVER, SOJA, AMANDEL, HAZELNOOT, WALNOOT, CASHEWNOOT, PECANNOOT, PARANOOT, PISTACHENOOT en MACADAMIANOOT bevatten. ¹Rainforest Alliance gecertificeerd.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1324.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "317.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.38",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:17:44"
+}

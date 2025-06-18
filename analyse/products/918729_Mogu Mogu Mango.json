@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mogu Mogu Mango",
+  "brand": "Mogu Mogu",
+  "price": "1.69",
+  "base_unit_price": "5.28",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/918729_M/87b94bfaf3edd6cd49397f6bda9c8191/918729.png",
+  "ingredients": "water, 25% nata de coco (kokoswater, suiker, e260, azijnzuur), suiker, fructose, voedingszuur (citroenzuur, calcium lactate), aroma, conserveermiddel: (e211), geleermiddel: gellangom, kleurstof: (e160a(ii)) e = door de e.g. goedgekeurde hulpstof",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "153.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "36.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:23"
+}

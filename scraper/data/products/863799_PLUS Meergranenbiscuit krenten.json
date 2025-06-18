@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Meergranenbiscuit krenten",
+  "brand": "PLUS",
+  "price": "1.09",
+  "base_unit_price": "4.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/863799_M/283da94db80d38528c399d13cf5879dd/863799.png",
+  "ingredients": "Ingrediënten :23% TARWEBLOEM, 14% krenten, 14% rozijnen, 10% volkoren HAVERMEEL, 10% volkoren TARWEMEEL, suiker, plantaardige oliën (palm, raapzaad), inuline, 3% HAVERVLOKKEN, GERSTEMOUTEXTRACT, calciumcarbonaat, rijsmiddel: E500/E503, MELKEIWIT, emulgator: E472e, invertsuikerstroop, zout, aroma (MELK), vitamine B6, dextrose, antioxidant: E392, ijzer(II)fumaraat, GERSTEMOUTMEEL. \n\nDit product kan sporen van andere GLUTENBEVATTENDE GRANEN, EI, PINDA, NOTEN, SESAM en SOJA bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1623.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "385.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.183",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.622",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.026",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.536",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.81",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "33.301",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "33.509",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "8.743",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.76",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.236",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.094",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "11.064",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:57:30"
+}

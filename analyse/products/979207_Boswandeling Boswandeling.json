@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Boswandeling Boswandeling",
+  "brand": "Boswandeling",
+  "price": "16.49",
+  "base_unit_price": "23.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/979207_M/9d8e409e484d5bd8cb21209119b5326e/979207.png",
+  "ingredients": "Ingrediënten: E202 en E131 kleurstoffen, melkproducten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "786.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "188.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "15",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:25:26"
+}

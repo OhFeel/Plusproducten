@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Croma Bak & braad",
+  "brand": "Croma",
+  "price": "3.85",
+  "base_unit_price": "7.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/271329_M/f2f4539684f88394d4ced86645412ed7/271329.png",
+  "ingredients": "Ingrediënten: plantaardige oliën (palm, koolzaad, zonnebloem, in wisselende verhoudingen), zout (1,2%), weipoeder (MELK), emulgator (SOJALECITHINE), smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), magere MELKPOEDER, natuurlijke aroma's, vitamines A en D.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3578.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "870.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "97.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "800.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "7.5",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:48:58"
+}

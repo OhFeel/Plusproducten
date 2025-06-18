@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BOON Kikkererwten in curry - mini",
+  "brand": "BOON",
+  "price": "1.19",
+  "base_unit_price": "6.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/955707_M/2bbd73cf55645cf657878f1ecd1f6794/955707.png",
+  "ingredients": "60% currysaus (water, tomatenpuree, raapzaadolie, kokosmelk (kokosnootextract, water), ui, specerijen (kurkuma, 0,4% koriander, komijn, zwarte peper, kaneel, kardemom, kruidnagel), gember, 1,2% knoflook, zeezout, gemodificeerd maiszetmeel, chili stukjes), 40% kikkererwten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "500.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "120.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:21:08"
+}

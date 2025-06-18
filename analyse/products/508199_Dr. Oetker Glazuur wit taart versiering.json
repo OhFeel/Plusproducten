@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Glazuur wit taart versiering",
+  "brand": "Dr. Oetker",
+  "price": "1.79",
+  "base_unit_price": "14.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/508199_M/de3b214468e5de85ecc610d88368d737/508199.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, water, conserveermiddel (kaliumsorbaat), emulgator (suikerester uit vetzuren uit levensmiddelen).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1462.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "344.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "76.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:22:16"
+}

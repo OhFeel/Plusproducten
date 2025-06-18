@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good Noodles Cup Teriyaki",
+  "brand": "Unox",
+  "price": "2.09",
+  "base_unit_price": "32.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/800227_M/fa682862bca511c9b0e26f32a47806de/800227.png",
+  "ingredients": "Ingrediënten: Deegwaar (noedels) 84% (TARWEBLOEM, zonnebloemolie, zout, gemodificeerd zetmeel, suiker, rijsmiddelen (E500i, E501i), kurkuma-extract), suiker, zetmeel, sojasauspoeder (sojasaus (SOJABOON, TARWE), zout, maltodextrine), smaakversterkers (E621, E631, E627), verdikkingsmiddel E412, karamelstroop, aroma, maltodextrine, kruiden¹ (peterselie 0,31%, bieslook 0,15%), specerijen (gember 0,23%, knoflookpoeder 0,08%, cayennepeper, peper), gistextract, zout, zuurteregelaar E330, groentesapconcentraten¹ (SELDERIJ, wortel, prei, ui). Kan rogge, gerst, haver, ei, melk, mosterd bevatten. ¹op duurzame wijze geteeld. Kijk voor meer informatie op: www.unox.nl.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "353.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "84.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:01"
+}

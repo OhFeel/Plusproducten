@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "HIPRO Protein Pudding Chocolade Hazelnoot",
+  "brand": "HIPRO",
+  "price": "1.99",
+  "base_unit_price": "9.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/792999_M/0d812eff66fb4bc65e2dcab1fb7dabc7/792999.png",
+  "ingredients": "Ingrediënten: Magere MELK, MELKeiwitten, room (MELK), gemodificeerd zetmeel, magere cacaopoeder (1,5%), magnesium (trimagnesiumcitraat), stabilisator (natriumfosfaten), emulgator (polyfosfaten), chocolade-hazelnoot aroma, zout, zoetstof (sucralose)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "322.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "57.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:03"
+}

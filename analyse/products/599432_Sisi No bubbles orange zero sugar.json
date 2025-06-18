@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Sisi No bubbles orange zero sugar",
+  "brand": "Sisi",
+  "price": "2.59",
+  "base_unit_price": "1.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/599432_M/8a0436767d10c89ab85652c279b522f2/599432.png",
+  "ingredients": "Ingrediënten: water, 5,4% vruchtensap uit concentraat (sinaasappelsap 5,1%, mandarijnsap), voedingszuur (appelzuur, citroenzuur), natuurlijk sinaasappel aroma met andere natuurlijke aroma's, sinaasappel extract, antioxidant (ascorbinezuur), conserveermiddel (kaliumsorbaat), zoetstoffen (sucralose, acesulfaam-K), stabilisator (guar gom), kleurstof (bèta-caroteen).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "13.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:59:32"
+}

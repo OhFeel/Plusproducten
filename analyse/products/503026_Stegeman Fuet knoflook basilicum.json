@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Stegeman Fuet knoflook basilicum",
+  "brand": "Stegeman",
+  "price": "3.99",
+  "base_unit_price": "30.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/503026_M/f7312ee2d2711ea1721bad598d99f7f6/503026.png",
+  "ingredients": "varkensvlees*, zout, specerijen, dextrose, basilicum (1%), varkenseiwit, knoflook (0,4%), rietsuiker, glucosestroop, aroma, antioxidant (e301), conserveermiddel:\n(e250). eetbaar omhulsel: rundercollageen.\n* beter leven keurmerk 1ster. \n100g product bereid uit 174g vlees.\ngemaakt in een fabriek waar walnoten verwerkt worden. kan sporen bevatten van: melk.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2046.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "494.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:20:56"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lee kum kee Smaakmaker Spicy garlic stir-fry sauce",
+  "brand": "Lee kum kee",
+  "price": "1.49",
+  "base_unit_price": "18.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/277358_M/4128fbff05e474280ae1254d5c73f58f/277358.png",
+  "ingredients": "Ingrediënten: Water, gefermenteerde sojapasta (water, zout, SOJABONEN, TARWEBLOEM), suiker, gezouten chilipepers 12% (chilipepers 80%, zout) sojasaus (water, zout, SOJABONEN, TARWEBLOEM), tomatenpuree, gemodificeerd maïszetmeel, gedehydrateerde knoflook 1%, SOJABONEN olie, zout, specerijen, voedingszuur (melkzuur), smaakverbeteraars (dinatriuminosinaat, dinatriumguanylaat).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "469.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "111.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:53:13"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Icemac amandel",
+  "brand": "PLUS",
+  "price": "3.79",
+  "base_unit_price": "0.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/492627_M/34fc0d24d161556eca7c4c4f1f08adb6/492627.png",
+  "ingredients": "Ingrediënten :magere MELK, 30% MELKCHOCOLADE (suiker, cacaoboter, weipoeder (MELK), MELKVET, cacaomassa, kokosvet, magere MELKPOEDER, emulgator: E322/E476, natuurlijk vanille-aroma), wei-eiwitconcentraat (MELK), glucose-fructosestroop, 7% AMANDELEN, kokosvet, water, suiker, magere MELKPOEDER, emulgator: E471, wortelconcentraat, stabilisator: johannesbroodpitmeel/guarpitmeel, natuurlijk vanille-aroma, gemalen en geëxtraheerde vanillestokjes.\n\nDit product kan sporen van andere NOTEN bevatten.",
+  "allergens": "Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1402.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.33",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.03",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.67",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.89",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.81",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.248",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.099",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "24.282",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:15:38"
+}

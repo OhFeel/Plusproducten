@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Peijnenburg ontbijtkoek gember ongesneden",
+  "brand": "Peijnenburg",
+  "price": "2.89",
+  "base_unit_price": "6.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780109_M/507aa01f13c0f262f03693a231045561/780109.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, ROGGEbloem 31%, gember 14%, water, suiker, parelsuiker, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), zonnebloemolie, specerijen, conserveermiddel (kaliumsorbaat). Kan NOTEN en MELK bevatten.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1265.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "299.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:41"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "GIJS Boerenkoolstamppot",
+  "brand": "GIJS",
+  "price": "2.39",
+  "base_unit_price": "7.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/725477_M/1dafe854246de4d055c3b2f5238b291a/725477.png",
+  "ingredients": "aardappel (52%), boerenkool (33%), water, zout, azijn, specerijen, plantaardige oliën (raapzaad, palm, raapzaad volledig gehard), emulgator (e322), aroma, antioxidant (e306), kleurstof (e160a), glucosestroop, aardappelzetmeel.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "409.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "98.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:28"
+}

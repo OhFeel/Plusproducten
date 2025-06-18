@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Big Americans XL pizza triple meat",
+  "brand": "Dr. Oetker",
+  "price": "5.99",
+  "base_unit_price": "10.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/518052_M/fa9abf753b93bef58bb1ca6f3879e7a9/518052.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 10% gezeefde tomaten, 6,5% EDAMMER KAAS, 6,5% CHEDDAR KAAS (MELK, zout, kleurstof (carotenen)), tomatenconcentraat, 6,0% gerookte ham (varkensvlees, zout, stabilisator (natriumnitriet), specerijenextract, rook), 5,2% pepperoni-salami (varkensvlees, spek, zout, specerijen, dextrose, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidant (extract van rozemarijn), rook), 4,1% rundvlees, raapzaadolie, bakkersgist, zout, suiker, SOJASAUS (water, SOJABONEN, zout, TARWEBLOEM), kruiden, specerijen, uien. Kan bevatten: MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1037.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "247.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:25:38"
+}

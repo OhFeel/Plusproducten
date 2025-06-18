@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Pizzakruiden",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "249.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898845_M/60e8a97ad70aa5d3ab179910beb04fb2/898845.png",
+  "ingredients": "kruiden 79% (oregano 58%, basilicum 15,9%, bieslook), zout 9%, rode paprika 6,9%, ui, totale gehalte aan kruiden en specerijen: 83,9%.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1197.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "285.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:43"
+}

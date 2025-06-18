@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Jan Pannenkoeken naturel",
+  "brand": "Jan",
+  "price": "2.99",
+  "base_unit_price": "5.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/719277_M/a769b58ea06c4e52c7233d012ed1517b/719277.png",
+  "ingredients": "Ingrediënten: magere MELK, 29% TARWEBLOEM, 14% SCHARRELEI, raapzaadolie, boekweitmeel, suiker, boterolie (MELK), ROGGEBLOEM, aroma, azijn, zout, conserveermiddel (E202).",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "855.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "205.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.68",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:46"
+}

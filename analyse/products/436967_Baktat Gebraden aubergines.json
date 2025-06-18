@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Baktat Gebraden aubergines",
+  "brand": "Baktat",
+  "price": "2.39",
+  "base_unit_price": "7.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436967_M/d416c27be5b93537955152cc244de0e8/436967.png",
+  "ingredients": "aubergine(60%), zonnebloemolie, tomaten, tomatenpuree, paprika, knoflook, gemodificeerd maïszetmeel, zout, voedingszuur: citroenzuur, suiker, antioxidant: ascorbinzuur.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "594.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "142.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:58"
+}

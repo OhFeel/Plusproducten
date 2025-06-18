@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Soep in Blik Champignonsoep",
+  "brand": "Unox",
+  "price": "2.89",
+  "base_unit_price": "5.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898467_M/d6fbef785e36c9105bb4451ee00ab553/898467.png",
+  "ingredients": "Ingrediënten na bereiding: Water, champignon 3,8%, raapzaadolie, gemodificeerd maïszetmeel, TARWEBLOEM, magere MELKPOEDER, zout, gistextract, stabilisator (E451, E452), smaakversterker E621, specerijen (ui, nootmuskaat), knoflookpasta, aroma, kleurstof E160a.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "163.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "40.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:27"
+}

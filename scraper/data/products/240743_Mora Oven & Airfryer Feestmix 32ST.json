@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer Feestmix 32ST",
+  "brand": "Mora",
+  "price": "6.49",
+  "base_unit_price": "12.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/240743_M/aa2347b2bebc9dfeeac06d566d729df4/240743.png",
+  "ingredients": "Ingrediënten: Kaassoufflé: KAASvulling 24% (Goudse KAAS 22%, BOTER, zetmeel, smeltzouten: E330 en E452, zout), water, bloem (bevat TARWE), plantaardige oliën (palm, raapzaad), paneermeel (bloem (bevat TARWE), zout, kleurstoffen: annatto norbixine, paprika-extract en curcumine, gist, water), bloem (bevat TARWE), zetmeel, TARWEgluten, zout, glucosestroop, gemodificeerd zetmeel, stabilisator: E466, dextrose, verdikkingsmiddel: E461, suiker, invertsuikerstroop, voedingszuur: citroenzuur, emulgator: E471, TARWE-eiwit. Rundvlees Bitterbal: water, paneermeel (bloem (bevat TARWE), volkorenmeel (bevat TARWE), gist, zout, zonnebloemolie, water), plantaardige oliën (palm, raapzaad, zonnebloem), bloem (bevat TARWE), rundvlees 6%*, zout, glucosestroop, TARWE-eiwit, natuurlijk aroma, rundercollageen, dextrose, rundergelatine, specerijen, gistextract, zetmeel (bevat TARWE), kruiden, kleurstoffen: karamel en E150d, rundereiwit, gebrande suiker, invertsuikerstroop, suiker, suikerstroop, stabilisatoren: E466 en E452, emulgator: E450. *komt overeen met 4% gekookt rundvlees. Carrero®: kippenseparatorvlees, kippencollageen, paneermeel (bloem (bevat TARWE), zout, gist, water), ui, water, specerijen, zetmeel, zout, prei, paprika, gehydrolyseerd plantaardig eiwit (bevat TARWE), melasse, champignonpoeder, suiker, natuurlijke aroma's, dextrose, suikerstroop, emulgator: E450, antioxidanten: E316 en extracten van rozemarijn, conserveermiddelen: E250, E211 en E202, stabilisator: E452, maltodextrine, gistextract, SOJAbonen, TARWE, zuurteregelaar: azijnzuur, bloem (bevat TARWE), voedingszuur: citroenzuur, azijn, salmiakzout. Kipfingers®: kippenseparatorvlees 31%, water, paneermeel (bloem (bevat TARWE), zout, gist, water), plantaardige oliën (palm, raapzaad), bloem (bevat ROGGE, SOJA, TARWE), kippencollageen, natuurlijk aroma, zout, WEIpoeder (MELK), SOJA-eiwit, zetmeel (bevat TARWE), emulgator: E451, rijsmiddelen: E450 en E500, TARWEgluten, stabilisator: E452, kleurstof: paprika-extract, WEI-eiwitconcentraat (bevat MELK), MELKeiwit. Kan sporen van PINDA EN EI bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1357.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "326.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:36:10"
+}

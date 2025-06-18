@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Petit melo karamel",
+  "brand": "Elvee",
+  "price": "3.49",
+  "base_unit_price": "34.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/656657_M/90c69ccfbc7765e67c26e888a8bfad1b/656657.png",
+  "ingredients": "Ingrediënten: suiker, invertsuikerstroop, cacaoboter, volle MELKPOEDER, water, karamelpoeder [magere MELKPOEDER, weipoeder (MELK), suiker, MELKVET, natuurlijk vanille-aroma], magere MELKPOEDER, glucosestroop, TARWEBLOEM, gekarameliseerde suiker, gelatine (rund), gecondenseerde BOTER, cacaomassa, plantaardige oliën en vetten (palm, raapzaad, zonnebloem), ROOM, kandijsuikerstroop, rijsmiddel (E500), zout, emulgator (zonnebloemlecithine), kaneel, GERSTEMOUT. Gemaakt in een bedrijf waar ook noten, ei, soja en pinda’s worden verwerkt.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1849.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "440.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.39",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:19"
+}

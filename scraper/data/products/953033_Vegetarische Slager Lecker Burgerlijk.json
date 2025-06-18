@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Vegetarische Slager Lecker Burgerlijk",
+  "brand": "Vegetarische Slager",
+  "price": "3.99",
+  "base_unit_price": "24.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/953033_M/6fbd331b7c0826f823434330d5157d0a/953033.png",
+  "ingredients": "Ingrediënten: Water, SOJASTRUCTUUR 36% (zetmeel (bevat TARWE), water, SOJA-EIWIT, TARWEGLUTEN, SOJAMEEL), plantaardige olie (zonnebloem, raapzaad), ui, zetmeel, verdikkingsmiddel (methylcellulose, verwerkt eucheumawier), citrusvezel, specerijen, gejodeerd zout, natuurlijke aroma's, voedingszuur (melkzuur), aardappeleiwit, dextrose, zuurteregelaar (kaliumacetaat), gistextract, kokosvet, psyllium vezel, azijn, GERSTMOUTEXTRACT, mineraal zout (kalium), aroma's, kruiden, zwarte wortelsapconcentraat, zinkoxide, vitamine B12. Kan ROGGE, HAVER, EI, SELDERIJ, MOSTERD bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "730.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "180.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "4.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.67",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "2.7",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:30"
+}

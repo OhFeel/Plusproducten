@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Zachte harten",
+  "brand": "Elvee",
+  "price": "3.35",
+  "base_unit_price": "19.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/512834_M/9ed64b9d38e7aaa1ff89280d12afa30b/512834.png",
+  "ingredients": "glucosestroop, suiker, gelatine (varken), water, voedingszuur (e330), kokosolie, natuurlijk aroma, kleurend levensmiddel (zwarte bessen-, radijs-, en appelconcentraat), zuurteregelaar (e331), glansmiddel (e903).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1427.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "335.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:23:43"
+}

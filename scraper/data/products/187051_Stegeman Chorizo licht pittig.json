@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Chorizo licht pittig",
+  "brand": "Stegeman",
+  "price": "4.29",
+  "base_unit_price": "19.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/187051_M/594d0466da9d7658f11228904852abf8/187051.png",
+  "ingredients": "varkensvlees(81%)*, varkensspek*, varkenscollageen*, zout, zeezout (zout, dieetzout (kaliumchloride)), specerijen, knoflook, glucosestroop, varkenseiwit, dextrose, geconcentreerd rode bietensap, paprika, azijn, aroma, extract van paprika , antioxidant (e301), conserveermiddelen (e235, e250), rook. *=beter leven keurmerk 1ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2136.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "517.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:13:32"
+}

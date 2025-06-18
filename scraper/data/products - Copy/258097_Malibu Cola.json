@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Malibu Cola",
+  "brand": "Malibu",
+  "price": "2.29",
+  "base_unit_price": "9.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/258097_M/2bf244ca99b691c50672b33d19828dcf/258097.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "361.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "85.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:44:37"
+}

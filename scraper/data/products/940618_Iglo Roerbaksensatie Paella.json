@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Iglo Roerbaksensatie Paella",
+  "brand": "Iglo",
+  "price": "6.99",
+  "base_unit_price": "15.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/940618_M/b9afe702605d6c8d7e2e44046c16ff8b/940618.png",
+  "ingredients": "Ingrediënten: Groenten in wisselende verhoudingen 44% (rode paprika 18%, uien, erwten 11%), gekookte gekruide rijst 40% (water, rijst, zout, kurkuma), gekookte geglansde garnalen 7,6% (SCHAALDIEREN) (garnalen, zout, water), gegaarde kip 4,4% (kipfilet, water, dextrose, zout), saus 3,1% (plantaardig vet (palmvet, kokosolie), groentebouillon (dextrose, zout, in poeder [wortel, ui, prei, sjalot, tomaat, paprika]), zonnebloemolie, tomatenpoeder, kippenbouillon, paprikapoeder, zout, knoflookpoeder, uienpoeder chilipeper, oregano, saffraan). Kan MOSTERD bevatten. Dit product bevat gecertificeerd duurzaam palmvet.",
+  "allergens": "Schaaldieren, Garnaal en producten op basis van garnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "399.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "95.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.68",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:13:14"
+}

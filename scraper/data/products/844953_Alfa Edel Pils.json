@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Alfa Edel Pils",
+  "brand": "Alfa",
+  "price": "0.97",
+  "base_unit_price": "1.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/844953_M/e384dd282ee9a19143661c0534367e9b/844953.png",
+  "ingredients": "Ingrediënten: 100% bronwater, GERSTEmout, hop",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "192.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "46.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:31"
+}

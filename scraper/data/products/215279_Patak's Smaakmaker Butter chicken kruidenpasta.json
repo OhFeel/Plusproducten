@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's Smaakmaker Butter chicken kruidenpasta",
+  "brand": "Patak's",
+  "price": "3.29",
+  "base_unit_price": "19.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/215279_M/666efacc94204dd89bc8495873878c95/215279.png",
+  "ingredients": "water, koolzaadolie, specerijen (16%) [gember (4%), koriander (3%), komijn (3%), paprika (2%), specerijen], maïsmeel, suiker, zout, gemberpuree ( 3%), knoflookpuree, voedingszuur (azijnzuur), uienpoeder, gedroogde ui, paprika-extract, gedroogd fenegriekblad (0,3%). kan mosterd, pinda's en noten bevatten",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1254.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "303.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:48"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Schweppes Agrumes zero",
+  "brand": "Schweppes",
+  "price": "6.89",
+  "base_unit_price": "3.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/187597_M/ebb361c82245ab9c4e38daaa2f0a417a/187597.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, sinaasappelextracten, voedingszuur: citroenzuur, zoetstoffen: acesulfaam K en sucralose, bewaarmiddel: kaliumsorbaat, natuurlijk aroma's van citrusvruchten en andere natuurlijke aroma's, gemodificeerd zetmeel, antioxidant: ascorbinezuur, stabilisator: E445.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "9.8",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "2.3",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:13:57"
+}

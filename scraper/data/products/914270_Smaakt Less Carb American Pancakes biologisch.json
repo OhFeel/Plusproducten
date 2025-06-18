@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Less Carb American Pancakes biologisch",
+  "brand": "Smaakt",
+  "price": "3.69",
+  "base_unit_price": "23.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/914270_M/3fa094ca7c4a7c1d550976e1d8243eac/914270.png",
+  "ingredients": "Ingrediënten: Zonnebloemolie*, water, AMANDELmeel* 8%, maiszetmeel*, LUPINEmeel*, kokosmeel*, kikkererwtenmeel*, kokosbloesemsuiker*, rijstproteine*, verdikkingsmiddel: guarpitmeel*, rijsmiddelen: natriumcarbonaten en ammoniumcarbonaten, citroenpuree*, zout, limoen*, rijststroop*, *=biologisch.\nKan sporen bevatten van eieren, melk.",
+  "allergens": "Lupine, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1927.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "465.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:24"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Wensdoos Bedankt Fairtrade",
+  "brand": "Elvee",
+  "price": "6.99",
+  "base_unit_price": "63.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/363521_M/1b92383a80c25357c7aaeecdc281edb6/363521.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, volle MELKPOEDER, karnemelkcrème [KARNEMELK, plantaardige oliën (palmpit, palm), suiker, dextrose, emulgatoren (E433, E435, E471, E472b), aroma, stabilisator (E407), kleurstof (carotenen)], cacaomassa, geheel geharde plantaardige vetten (palm, kokos, shea), glucosestroop, weipoeder (MELK), plantaardige oliën (zonnebloem, raap, palm, kokos, koolzaad, palmpit), gecondenseerde volle MELK, geheel gehard plantaardig vet (kokos, palm), AMANDELEN, magere MELKPOEDER, water, LACTOSE, emulgatoren (SOJALECITHINE, E471), ROOM, HAZELNOTEN, PISTACHE, aroma’s, kleurstoffen (paprika-extract, karamel, carotenen, E100, E120, E141, E171, E172), TARWEMEEL, natuurlijke aroma’s, voedingszuren (E270, E334), zout, MELKPOEDER, mager cacaopoeder, verdikkingsmiddelen (pectine, E414, E1442), citroen-extract, natriumcaseinaat, MELKVET, conserveermiddelen (E202, E223), zuurteregelaars (citroenzuur, E331), geleerdmiddel (E331), melasse, trehalose, spirulina, gevriesdroogde framboos, BOTERCONCENTRAAT, mager YOGHURTPOEDER, rode biet concentraat, gevriesdroogde aardbei, koffie, koffie-extract, maïszetmeel, cognac, MELKEIWIT, antioxidant (E306), MOUTEXTRACT, rijsmiddel (E500), vitamine A & D3. Gemaakt in een bedrijf waar ook andere noten, pinda’s, gluten bevattende granen, sesam, sulfiet en ei worden verwerkt.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Noten, Lactose, amandelen, hazelnoten, pistachenoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2170.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "520.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:24:02"
+}

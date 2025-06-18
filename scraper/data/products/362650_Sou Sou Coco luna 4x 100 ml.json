@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Sou Sou Coco luna 4x 100 ml",
+  "brand": "Sou Sou",
+  "price": "3.49",
+  "base_unit_price": "0.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/362650_M/91fc0caabc59f3cb14b81c37cc0e8063/362650.png",
+  "ingredients": "Ingrediënten :[NL]\nmagere MELK, 31% witte chocolade  (suiker, cacaoboter*, weipoeder (MELK), watervrij MELKVET, magere MELKPOEDER, kokosvet, emulgator: lecithinen/polyglycerolpolyricinoleaat, natuurlijk vanille-extract), glucose-fructosestroop, suiker, kokosvet, wei-eiwitconcentraat (MELK), 4% mangopuree, water, natuurlijk aroma, 0,8% passievruchtensap uit concentraat, volle MELKPOEDER, cacaoboter*, kokosvlokken, TARWEZETMEEL, emulgator: SOJALECITHINE/mono- en diglyceriden van vetzuren, maïszetmeel, TARWEBLOEM, weipoeder (MELK), stabilisator: johannesbroodpitmeel/guarpitmeel, voedingszuur: natriumcitraten, natuurlijk vanille-extract, rijsmiddel: natriumcarbonaat.\n\n*Rainforest Alliance gecertificeerd. Lees meer op www.ra.org.\n\nKan AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT, PISATACHENOOT en MACADAMIANOOT bevatten. \n\n\n[EN]\nSkimmed MILK, 31% white chocolate (sugar, cocoa butter*, whey powder (MILK), anhydrous MILK fat, skimmed MILK powder, coconut fat, emulsifier: lecithins/polyglycerol polyricinoleate, natural vanilla extract), glucose-fructose syrup, sugar, coconut fat, whey protein concentrate (MILK), 4% mango puree, water, natural flavour, 0.8% passion fruit juice from concentrate, whole MILK powder, cocoa butter*, coconut flakes, WHEAT starch, emulsifier: SOY lecithin/mono- and diglycerides of fatty acids, maize starch, WHEAT flour, whey powder (MILK), stabilizer: locust bean gum/guar gum, food acid: sodium citrates, natural vanilla extract, raising agent: sodium carbonate.\n\n*Rainforest Alliance certified. Learn more at www.ra.org.\n\nMay contain ALMOND, HAZELNUT, WALNUT, PECAN NUT, PISTACHIO NUT and MACADAMIA NUT.\n\n[FR]\nLAIT écrémé, 31% chocolat blanc (sucre, beurre de cacao*, lactosérum en poudre (LAIT), beurre LAITIER concentré, poudre de LAIT écrémé, graisse de coco, émulsifiant: lécithines/polyricinoléate de polyglycérol, extrait naturel de vanille), sirop de glucose-fructose, sucre, graisse de coco, concentré de protéines de lactosérum (LAIT), 4% purée de mangue, eau, arôme naturel, 0.8% passion jus de fruit à base de concentré, LAIT entier en POUDRE, beurre de cacao*, flocons de noix de coco, amidon de BLÉ, émulsifiant : LÉCITHINE DE SOJA/mono- et diglycérides d'acides gras, amidon de maïs, farine de BLÉ, lactosérum en poudre (LAIT), stabilisant: gomme de caroube/gomme guar, acidifiant: citrates de sodium, extrait naturel de vanille, poudre à lever: carbonate de sodium.\n\n*Certifié Rainforest Alliance. En savoir plus sur www.ra.org.\n\nPeut contenir de l'AMANDE, de la NOISETTE, de la NOIX, de la NOIX DE PECAN, de la PISTACHE et de la NOIX DE MACADAMIA.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1369.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "328.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.104",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:23:43"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Van Delft Likkoekjes",
+  "brand": "Van Delft",
+  "price": "2.39",
+  "base_unit_price": "11.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/743791_M/7b71f9bc8a5f64727e26128a624b30c1/743791.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, suiker, plantaardige oliën (palm, raapzaad), glucosestroop, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), volle MELKpoeder, zout, alfa dextrine, natuurlijke aroma's, rundergelatine, L-ascorbinezuur, zuurteregelaar (natriumcitraten), kleurstoffen (carotenen, bietenrood). Kan sporen bevatten van EI, NOTEN, PINDA´S, SESAM en SOJA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1769.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "419.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.83",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "34.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:33"
+}

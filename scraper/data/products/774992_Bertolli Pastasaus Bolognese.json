@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bertolli Pastasaus Bolognese",
+  "brand": "Bertolli",
+  "price": "3.79",
+  "base_unit_price": "9.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/774992_M/93f85248464dc812d0da500c3263426e/774992.png",
+  "ingredients": "ingrediënten: tomaten (36%), geconcentreerde tomatenpuree(19%), tomatenpuree (14%), gegaard gehakt (EU)(10%) (rundvlees, varkensvlees), sofirito (EU) (6,4%) (ui, wortel, BLEEKSELDERIJ), water, courgette (EU)(2,9%), extra olijfolie verkregen bij eerste persing (EU) (1,5%), zonnebloemolie, suiker, zout, gistextract, basilicum, peterselie, knoflook, voedingszuur (citroenzuur), natuurlijk aroma (bevat MELK), oregano, KNOLSELDERIJpoeder.",
+  "allergens": "Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "421.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "101.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:53"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Raw Organic Food Raw crackers linzen-hennep bio",
+  "brand": "Raw Organic Food",
+  "price": "4.79",
+  "base_unit_price": "38.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/557946_M/d70b80e85fb60a7325dd804d24cdbead/557946.png",
+  "ingredients": "Ingrediënten: Water, lijnzaad geel*, linzen rood* 12%, zonnebloempitten*, hennepzaad* 8%, SESAMZAAD*, rijst*, tomatenpuree*, SOJAsaus* (water, SOJAbonen*, zout, Aspergillus Oryzae [koji]), zout, peper*, prei*, basilicum*, *=biologisch.",
+  "allergens": "Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1392.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "335.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.54",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:39:17"
+}

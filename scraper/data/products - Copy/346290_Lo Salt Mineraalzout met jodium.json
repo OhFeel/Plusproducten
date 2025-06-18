@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Lo Salt Mineraalzout met jodium",
+  "brand": "Lo Salt",
+  "price": "2.99",
+  "base_unit_price": "8.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/346290_M/6281438ac4ac3aaed9812c453eb93de6/346290.png",
+  "ingredients": "natriumchloride (33,3% max.), kaliumchloride (66% min.), jodium (50mg/kg(ki)), antiklontermiddel (magnesiumcarb (0,5%))",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "0.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "0.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "34600.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "5.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:47"
+}

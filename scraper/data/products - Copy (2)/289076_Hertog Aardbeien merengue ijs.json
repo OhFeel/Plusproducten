@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hertog Aardbeien merengue ijs",
+  "brand": "Hertog",
+  "price": "1.69",
+  "base_unit_price": "8.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/289076_M/1b31cce6902f65d6a007f5d087ea6934/289076.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, aardbeienpuree (11%), water, kokosolie, glucosestroop, glucose-fructosestroop, dextrose, LACTOSE en MELKEIWITTEN, stabilisatoren (johannesbroodpitmeel, guargom, carrageen), emulgator (mono- en diglyceriden van vetzuren), verdikkingsmiddel (hydroxypropyldizetmeelfosfaat), geconcentreerd citroensap, magere MELKPOEDER, TARWEBLOEM, natuurlijke aroma's, vlierbessenextract, kleurstoffen (caroteneen, curcumine), geconcentreerd rode bietensap, zuurteregelaar (citroenzuur), TARWEZETMEEL, gedroogd EI-EIWIT, MELKEIWIT. Kan PINDA, SOJA, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT, PISTACHENOOT en MACADAMIANOOT bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "766.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "183.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:50"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Leentjes Knutselgezichtjes",
+  "brand": "Leentjes",
+  "price": "4.05",
+  "base_unit_price": "33.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/543759_M/490b38bfce851efdee21ad79dfd0e403/543759.png",
+  "ingredients": "suiker, water, druivensuiker (mais), glucosestroop, plantaardige olie (kokos), zetmeel (aardappel, mais), dextrine, antiklontermiddel (e470b), emulgator (zonnebloemolie), rijstebloem, stabilisator (e414), kleurende levensmiddelen concentraten (saffloer, wortel, spirulina, citroen), kleurstof (bietenrood, curcumine, koolstof), glansmiddel (schellak, carnabauwas)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1635.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "391.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "96.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "88.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten plantaardig",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:32:28"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van Pizza Basis",
+  "brand": "Uit de keuken van",
+  "price": "1.99",
+  "base_unit_price": "1.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/264493_M/3bff86d68797a78f8d2fdf9c6804f50b/264493.png",
+  "ingredients": "Pizzabodem (TARWEBLOEM, water, koolzaadolie, gist, suiker, zout, TARWEGLUTEN), tomatensaus (tomaten, tomatenpuree, azijn, knoflook, suiker, gemodificeerd maïszetmeel, zout, conserveermiddel: E202, peper, oregano, basilicum, tijm).\n",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:45:47"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stove Stoofp.wijn dip",
+  "brand": "Stove",
+  "price": "1",
+  "base_unit_price": "33.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/580179_M/50f4a61c474eca0cdef2d9b794a182f6/580179.png",
+  "ingredients": "Ingrediënten: Peer (49%), suiker, Portugese wijn (SULFIET) (9,8%), fruit pectine, citroensap. Wordt geproduceerd in een bedrijf waar ook sulfiet en noten worden verwerkt.",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1118.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "263.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:48:21"
+}

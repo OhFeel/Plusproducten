@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ouwehand Haringpartjes in roomsaus",
+  "brand": "Ouwehand",
+  "price": "3.39",
+  "base_unit_price": "13.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/589333_M/fc84c9128efc2be634bf740c21963c3a/589333.png",
+  "ingredients": "Ingrediënten: HARING (50%), raapolie, water, suiker, ROOM (7%), ui, invertsuikerstroop, zout, augurk, natuurazijn, azijn, ROOMYOGHURT, EIGEELPOEDER, appel, voedingszuur: melkzuur, citroenzuur, MELKEIWIT, magere MELKPOEDER, conserveermiddel: kaliumsorbaat, E223, verdikkingsmiddel: carrageen, guarpitmeel, MOSTERDZAAD, gedroogde glucose siroop, tapiocazetmeel, natuurlijk aroma (MOSTERD), specerijen: kurkuma.",
+  "allergens": "Ei, Vis, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1344.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "324.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:54:11"
+}

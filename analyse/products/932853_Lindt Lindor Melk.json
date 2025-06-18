@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Lindor Melk",
+  "brand": "Lindt",
+  "price": "9.65",
+  "base_unit_price": "48.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/932853_M/50f631ad324197e86b45b0b69f164b6b/932853.png",
+  "ingredients": "Ingrediënten: suiker, plantaardig vet (kokosnoot, palmpit), cacaoboter, volle MELKpoeder, cacaomassa, MELKsuiker, zuiver botervet, magere MELKpoeder, emulgator (SOJAlecithine), GERSTemoutextract, aroma's. Kan HAZELNOTEN en andere NOTEN bevatten.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2587.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "623.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:07"
+}

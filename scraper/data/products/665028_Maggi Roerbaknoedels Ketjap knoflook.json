@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Roerbaknoedels Ketjap knoflook",
+  "brand": "Maggi",
+  "price": "2.89",
+  "base_unit_price": "15.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/665028_M/ed46509a6106002665c5503234f8f18d/665028.png",
+  "ingredients": "Ingrediënten: Noedels 86,5% (TARWEbloem, zonnebloemolie, zout. stabilisator (E452), TARWEGLUTEN, zuurteregelaar (E501), antioxidant (E319)). Mix 13,5% (suiker, 2,1% SOJAsauspoeder (bevat TARWE), zout, specerĳen (knoflook, gember, chilipeper), aroma's (bevat TARWE, EI, MOSTERD), gekarameliseerde suiker, voedingszuur (citroenzuur), zonnebloemolie). Bevat mogelijk MELK, SELDERIJ, SESAM.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1884.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "449.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:56"
+}

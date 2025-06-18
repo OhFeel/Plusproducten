@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "GIJS Pikante pastasalade",
+  "brand": "GIJS",
+  "price": "4.49",
+  "base_unit_price": "11.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681019_M/17f5139c627e21eed2ede166158d84c2/681019.png",
+  "ingredients": "Ingrediënten: gekookte penne (36%)(water, pasta (durum tarwegries) (GLUTEN)), groente (34%)(SELDERIJ) (paprika, wortel, selderij (SELDERIJ), zilverui, augurk, aubergine, ui, rode peper, knoflook), plantaardige olie (koolzaad, zonnebloem, raapzaad), water, suiker, azijn, scharrelkippenei (EI), specerijen (MOSTERD), aroma, voedingszuur (E270, E385, E330), zuurteregelaar (E575), tomaat, conserveermiddel (E211, E202), zout, lactose (MELK), verdikkingsmiddel (E415, E412), antioxidant (SULFIET) (E223 (SULFIET), E300), kleurstof (E160c), wijnazijn, zoetstof (E954), kruiden .",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Selderij, Mosterd, Zwaveldioxide en sulfieten, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "770.93",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "185.3",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.32",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.08",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.64",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.54",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.91",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:38"
+}

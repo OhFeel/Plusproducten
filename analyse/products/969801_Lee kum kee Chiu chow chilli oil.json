@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lee kum kee Chiu chow chilli oil",
+  "brand": "Lee kum kee",
+  "price": "4.59",
+  "base_unit_price": "27.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/969801_M/4c155aa35c5aab999f963af90e60e2c8/969801.png",
+  "ingredients": "Ingrediënten: SOJAOLIE, gedehydrateerde knoflook 6%,  gedroogde chilipeper 5%, gezouten chilipeper 5%, sojasaus( water, zout, SOJABONEN, TARWE), SESAMOLIE, zout, suiker, Capsicum Oleoresin, smaakversterkers (E631, E627).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2782.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "676.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:11"
+}

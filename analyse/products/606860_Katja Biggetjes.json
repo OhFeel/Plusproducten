@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Katja Biggetjes",
+  "brand": "Katja",
+  "price": "2.59",
+  "base_unit_price": "10.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/606860_M/a62557edc60161d906c4621359386929/606860.png",
+  "ingredients": "Ingrediënten: Glucosestroop, suiker, gemodificeerd zetmeel, dextrose, appelsap uit appelsapconcentraat, voedingszuur (citroenzuur, appelzuur, melkzuur), aardappelproteïne, natuurlijke aroma’s, mandarijnsap uit mandarijnsapconcentraat, geleermiddel (pectine), kleurende fruit- en plantenconcentraten (zwarte wortel, bosbes), vlierbessap uit vlierbessapconcentraat, gekarameliseerd suikersiroop, plantaardige olie (zonnebloem), glansmiddel (carnaubawas). Kan sporen van MELK bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1499.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "353.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:29"
+}

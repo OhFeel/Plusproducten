@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Argeta Kip spread pikant",
+  "brand": "Argeta",
+  "price": "1.79",
+  "base_unit_price": "18.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/805555_M/8e7619d61c9568f51ce97aad83e1fcbe/805555.png",
+  "ingredients": "Ingrediënten: water, gekookt kippenvlees 29%, zonnebloemolie, rode peper, MELKEIWITTEN 3%, aardappelzetmeel, kippenvet, geconcentreerde kippenbouillon, SOJAMEEL, zout, specerijen, chili-extract, gistextract, extract van paprika. Kan sporen van EI bevatten.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1291.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "312.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:48:10"
+}

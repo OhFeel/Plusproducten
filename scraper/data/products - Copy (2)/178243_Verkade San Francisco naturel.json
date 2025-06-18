@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade San Francisco naturel",
+  "brand": "Verkade",
+  "price": "1.99",
+  "base_unit_price": "8.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/178243_M/9d285002345579a287e2961e097a07c1/178243.png",
+  "ingredients": "Ingrediënten: TARWEbloem, suiker, palmolie, rijsmiddelen (natriumcarbonaten, difosfaten, ammoniumcarbonaten), volle MELKpoeder, weipermeaatpoeder (MELK), aroma, zout\n\nKan sporen bevatten van sesamzaad.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1858.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "441.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.99",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:09:06"
+}

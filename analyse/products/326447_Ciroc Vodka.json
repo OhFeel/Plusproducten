@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Ciroc Vodka",
+  "brand": "Ciroc",
+  "price": "35.99",
+  "base_unit_price": "51.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326447_M/d16e492e2bfa07340584210d8d11b181/326447.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:30"
+}

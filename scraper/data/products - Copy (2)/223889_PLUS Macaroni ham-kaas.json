@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Macaroni ham-kaas",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "6.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/223889_M/c3a662fdc8ec0f873d5462e7b69fe3fa/223889.png",
+  "ingredients": "Ingrediënten :50% gekookte macaroni (water, TARWEGRIESMEEL, raapzaadolie), 50% ham-kaassaus (water, 25% gekookte ham (60% varkensvlees*, water, aardappelzetmeel, zout, varkenseiwit, stabilisator: E451/E407/E450, antioxidant: E301, natuurlijk aroma, conserveermiddel: E250), 12% geraspte kaas (MELK**, aardappelzetmeel, zout, zuursel, microbieel stremsel), plantaardige oliën (zonnebloem, raapzaad), 3% geraspte kaas (MELK, aardappelzetmeel, zout, zuursel, microbieel stremsel), maïszetmeel, plantaardig alternatief voor kookroom (linzeneiwit-preparaat (water, linzeneiwit), raapzaadolie, kokosvet, suiker, gemodificeerd aardappelzetmeel, emulgator: E435, stabilisator: E461/E415, zuurteregelaar: E331, natuurlijke aroma's, zout, kleurstof: E160a), 1,9% kaaspoeder (cheddarkaaspoeder (MELK, zout, zuursel, microbieel stremsel), emulgator: E339), glucosestroop, MELKPOEDER, MELKEIWIT, peterselie, zout, kaliumchloride, specerijen, gistextract, verdikkingsmiddel: E415, knoflookpuree, natuurlijk aroma (bevat MELK), kleurstof: E160a).\n\n*= Beter Leven keurmerk 1 ster\n**= Beter Leven keurmerk 3 sterren\n\nKan MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "724.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "173.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.626",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.871",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.621",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.02",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.013",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.066",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "15.947",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.689",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.417",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.673",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.269",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.114",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.95",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:27:30"
+}

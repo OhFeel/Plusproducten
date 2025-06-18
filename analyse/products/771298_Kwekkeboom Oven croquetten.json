@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kwekkeboom Oven croquetten",
+  "brand": "Kwekkeboom",
+  "price": "4.59",
+  "base_unit_price": "16.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/771298_M/65db1fc970c491b99a95f7b10d1db338/771298.png",
+  "ingredients": "Ingrediënten: water, bloem (TARWE, SOJA), 12% gekookt rundvlees, plantaardige oliën en vetten (raapzaadolie, shea boter, zonnebloemolie), 2% room (MELK), gelatine (rund), verdikkingsmiddelen (xanthaangom, guarpitmeel, E466, E461), kleurstof (karamel, E160b(ii)), zetmeel (maïs, aardappel), 0.2 kruiden, zout, gistextract, natuurlijk aroma, dextrose, emulgatoren (zonnebloemlecithine, E471), aroma, specerijen, voedingszuur (citroenzuur, melkzuur), rijsmiddel (E500), gehydrolyseerd plantaardig eiwit (SOJA), maltodextrine, stabilisator (carrageen), MELKpoeder, SOJAbonen, TARWE, SOJA-eiwitisolaat, vezels (citrus, inuline), groenten (ui, wortel), antioxidant (extracten van rozemarijn). E = Door de EU goedgekeurde hulpstof",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1038.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "248.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:11"
+}

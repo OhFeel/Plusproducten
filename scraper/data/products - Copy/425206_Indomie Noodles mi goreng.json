@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Indomie Noodles mi goreng",
+  "brand": "Indomie",
+  "price": "2.69",
+  "base_unit_price": "6.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/425206_M/7394496b5b367ebc51f314431b93993a/425206.png",
+  "ingredients": "Ingrediënten: Noedels 82,5%: TARWE-meel, geraffineerde palmolie (geraffineerde palmolie, antioxidant E319), zout, zuurteregelaar. E452, E501, E500, verdikkingsmiddel: E412, kleurstof: E101; Kruidenolie 7,3%: Geraffineerde palmolie (geraffineerde palmolie, antioxidant E319), ui; Kruidenpoeder 5%: Suiker, zout, smaakversterker: E621, E631, E627, knoflookpoeder, aroma, gistextract, peperpoeder; Zoete sojasaus 4,8%: Suiker, water, zout, TARWE, SOJA, specerijen, SESAMolie; Chilipoeder 0,4%.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1986.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "475.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:47:55"
+}

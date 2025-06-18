@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Valuepack Max paprika",
+  "brand": "Lays",
+  "price": "2.99",
+  "base_unit_price": "10.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/798015_M/65a46d070812cc13df6388b689ace3b2/798015.png",
+  "ingredients": "Ingrediënten: aardappelen, plantaardige oliën (zonnebloem, koolzaad, in wisselende hoeveelheden), paprikasmaak [suiker, zout, paprikapoeder, gerookte zoete paprikapoeder, uienpoeder, knoflookpoeder, aroma's, kleurstof (paprika-extract), fructose,  cayennepeper, voedingszuur (citroenzuur)], antioxidanten (rozemarijnextract, ascorbinezuur, tocoferolrijk extract, citroenzuur).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2148.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "515.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:06"
+}

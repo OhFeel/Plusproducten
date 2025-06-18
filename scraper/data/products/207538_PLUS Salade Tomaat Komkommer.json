@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Salade Tomaat Komkommer",
+  "brand": "PLUS",
+  "price": "3.89",
+  "base_unit_price": "11.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/207538_M/8358ba287db03af7ba564565c772f781/207538.png",
+  "ingredients": "Ingrediënten :23% groene batavia, 18% komkommer, 18% tomaat, 15% spitskool, 15% honing-mosterddressing (water, raapzaadolie, 7% mosterd (water, MOSTERDZAAD, natuurazijn, zout, witte wijnazijn, suiker, sherryazijn, kurkuma, natuurlijk kruidenaroma), 4% honing, suiker, natuurazijn, VRIJE-UITLOOPKIPPENEI-EIGEELPOEDER, maïszetmeel, zout, geconcentreerd citroensap, verdikkingsmiddel: xanthaangom, conserveermiddel: E202, zwarte peperextract), 12% gekookt ei (SCHARRELKIPPENEI*, zout, voedingszuur: E330/E331, conserveermiddel: azijnzuur).\n* = Beter Leven 1 ster.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "284.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "68.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.893",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.758",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.601",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.325",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.864",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.541",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.323",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.056",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.715",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.283",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.113",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:20:44"
+}

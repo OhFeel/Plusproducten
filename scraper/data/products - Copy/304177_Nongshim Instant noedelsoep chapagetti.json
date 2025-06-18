@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nongshim Instant noedelsoep chapagetti",
+  "brand": "Nongshim",
+  "price": "1.69",
+  "base_unit_price": "12.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/304177_M/6626bb37d19d2d3ca383665570dc1cf6/304177.png",
+  "ingredients": "Ingrediënten: Noedels 86%: TARWEbloem, aardappelzetmeel, palmolie, zout, antioxidant: E306, emulgator: E322 (bevat SOJA), zonnebloemolie, zuurteregelaar: E501, E500, E339, kleurstof: E101. Kruiden poeder 9%: Smaakmaker (sojabonen pasta (SOJAbonen, TARWE), ui, maltodextrine, maismeel, zout, gemodificeerd tapioca zetmeel, palmolie, TARWEbloem, GARNAAL), suiker, maltodextrine, kleurstof: E150c, smaakversterkers: E621, E627, E631, zout. Gemengde plantaardige olie 3%: Plantaardige olien (koolzaad, ui, olijf, maïs, SESAMZAAD, MOSTERD). Soja plantaardige vlokken 2%: getextureerde plantaardige eiwitten (SOJA, TARWEGLUTEN), witte kool, wortel, ui. Mag gerst, eieren, vis, pinda's, melk, selderij en weekdieren bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Soja, Mosterd, Sesamzaad, Zeegarnaal en producten op basis van zeegarnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1810.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "430.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:43"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Goedhart Kaastomaat bollen",
+  "brand": "Goedhart",
+  "price": "2.85",
+  "base_unit_price": "0.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/301809_M/6b0ff2c4d4ca7d7d23a262a68f9895ae/301809.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 19% kaas (MELK, zout, stremsel, zuursel, kleurstof: E160a), water, 9% zongedroogde tomaten (tomaten, zonnebloemolie, zout), 4,6% ui, bakkersgist, suiker, weipoeder [MELK], TARWEGLUTEN, SOJABLOEM, bakkerszout, emulgator: E482 en E471, basilicum, raapzaadolie, TARWEMOUTMEEL, enzym [TARWE], meelverbeteraar: E300 en E920, geïnactiveerd TARWEDESEMPOEDER.\nKan bevatten: ei, noten, sesam en lupine.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1153.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "274.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:05:46"
+}

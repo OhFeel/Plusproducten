@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Noord-Hollands Kaasstengels",
+  "brand": "Noord-Hollands",
+  "price": "3.49",
+  "base_unit_price": "41.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/734400_M/cd9bd8320b46da67e952918ce8034495/734400.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 37% roomboter (MELK), 20% geraspte Noord-Hollandse Gouda oud (gepasteuriseerde KOEMELK, aardappelzetmeel, zout, zuursel, dierlijk stremsel, conserveermiddel: E251, kleurstof: E160b(ii)), MELKPOEDER, SCHARRELEI, zout, rijstebloem, bakkersgist, specerijen, gistextract, gemodificeerd aardappelzetmeel, kleurstof: E160c. Kan sporen van noten, sesam, selderij en soja bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2304.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "553.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:18"
+}

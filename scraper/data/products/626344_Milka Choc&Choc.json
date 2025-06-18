@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Choc&Choc",
+  "brand": "Milka",
+  "price": "3.09",
+  "base_unit_price": "17.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/626344_M/2f434ab6852dd5e37a8c93adef17e7f5/626344.png",
+  "ingredients": "Ingrediënten: Suiker, TARWEBLOEM, glucose-fructosestroop, EIEREN, koolzaadolie, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), cacaomassa, stabilisator (glycerol), aardappelzetmeel, magere cacaopoeder (1,5 %), MELKVET, sheavet, emulgatoren (SOJALECITHINEN, E475, E471, E476), rijsmiddelen (difosfaten, natriumcarbonaten), zout, HAZELNOOTPASTA, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom), aroma's.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1901.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "454.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.58",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:29"
+}

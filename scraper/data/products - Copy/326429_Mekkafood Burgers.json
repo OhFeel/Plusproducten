@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mekkafood Burgers",
+  "brand": "Mekkafood",
+  "price": "3.26",
+  "base_unit_price": "4.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326429_M/ab88d5110add699c2ee5e0e5661c8732/326429.png",
+  "ingredients": "Ingrediënten: kippenseparatorvlees 70%, water, TARWEBLOEM, ui, tafelzout, specerijen, kruiden, bouillon (gehydrolyseerd plantaardig eiwit (koolzaad eiwit, maïs eiwit), tafelzout), gistextract, wortel, prei, gist, antioxidant (ascorbinezuur).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "884.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "212.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:28"
+}

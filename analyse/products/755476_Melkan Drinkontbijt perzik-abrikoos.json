@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Melkan Drinkontbijt perzik-abrikoos",
+  "brand": "Melkan",
+  "price": "1.09",
+  "base_unit_price": "2.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/755476_M/5d19c6f49bef42a7de594aafe4f8898e/755476.png",
+  "ingredients": "Ingrediënten :yoghurt (MELK) (0,8% vet), 4% vruchtensap uit concentraat (71% perzik, 29% abrikoos), 1,4% oligofructosesiroop, 0,4% TARWEKIEMEN, 0,2% TARWEZEMELEN, 0,1% HAVERZEMELEN, calciumlactaat, verdikkingsmiddel: E412/E415, zuurteregelaar: E330/E331, natuurlijk aroma, kleurstof: carotenen, zoetstof: E955, vitamines (riboflavine, B6, B12, D, foliumzuur), lactase.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "155.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "37.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.54",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.35",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.12",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.58",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.075",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:38:30"
+}

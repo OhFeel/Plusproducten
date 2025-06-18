@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Zalm salade",
+  "brand": "Johma",
+  "price": "3.89",
+  "base_unit_price": "22.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/737938_M/98b61a7cb9ae564be6752c1a28c47f56/737938.png",
+  "ingredients": "Ingrediënten: koolzaadolie, 34% gekookte zalm (VIS) (95,3% MSC*), gekookte EIEREN, water, natuurazijn, gepasteuriseerd eigeel, suiker, zout, tomatenpuree, zuurteregelaars (natriumacetaten, natriumlactaat), specerijen (MOSTERD), gemodificeerd zetmeel, natuurlijke aroma's, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), voedingszuren (citroenzuur, melkzuur), kleurstof (paprika-extract), zetmeel, rode bietensapconcentraat, verdikkingsmiddelen (guarpitmeel, xanthaangom), gebufferd azijnpoeder (conserverend ingrediënt), natuurlijke rook. Kan sporen bevatten van gluten, melk, noten, pinda's, sesamzaad, schaaldieren, selderij en soja. *Vangst conform de internationale MSC-standaard voor duurzame visserij. MSC-C-52646 www.msc.org/nl",
+  "allergens": "Ei, Vis, Mosterd, Zalm en producten op basis van zalm",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1683.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "408.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "39.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:40"
+}

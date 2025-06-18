@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Consenza GV Rijstwafels choco vegan bio",
+  "brand": "Consenza",
+  "price": "3.19",
+  "base_unit_price": "31.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/950742_M/3d783354f4768717c765d53effb47286/950742.png",
+  "ingredients": "zilvervliesrijst* 50%, chococoating* (rietsuiker*, cacaoboter*, rijstdrankpoeder*, cacaomassa*, emulgator: zonnebloemlecithine*), *=biologisch\nkan sporen bevatten van: soja, melk, noten, sesamzaad.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1940.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "462.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:19:03"
+}

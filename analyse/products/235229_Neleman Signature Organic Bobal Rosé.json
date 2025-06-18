@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Neleman Signature Organic Bobal Rosé",
+  "brand": "Neleman",
+  "price": "6.49",
+  "base_unit_price": "8.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/235229_M/689ffe3b9adbbd887ea2c51354a8de49/235229.png",
+  "ingredients": "Bevat sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "295.42",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.56",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:33:04"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Ristorante piccola salame",
+  "brand": "Dr. Oetker",
+  "price": "4.49",
+  "base_unit_price": "16.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/287401_M/ade6789778960c4037978ac464b55257/287401.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 22% tomatenpuree, 15% KAAS (MOZZARELLA, EDAMMER), 12% salami (varkensvlees, spek, zout, dextrose, specerijen, uienpoeder, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), water, raapzaadolie, bakkersgist, suiker, zout, oregano, basilicum, peterselie, paprika. Kan bevatten: SOJA, MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1095.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "261.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:57:14"
+}

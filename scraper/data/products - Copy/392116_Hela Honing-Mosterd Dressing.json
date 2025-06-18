@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hela Honing-Mosterd Dressing",
+  "brand": "Hela",
+  "price": "2.69",
+  "base_unit_price": "10.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/392116_M/a8e3fba050e293efc402c5ae23753d9e/392116.png",
+  "ingredients": "Ingrediënten: water, suiker, natuurazijn, raapolie, 5,01% MOSTERDZAAD, 2,78% honing, azijn, gemodificeerd maïszetmeel, zout, voedingszuren (melkzuur, citroenzuur), kruiden en specerijen, conserveermiddel (kaliumsorbaat), gemodificeerd aardappelzetmeel, verdikkingsmiddel (xanthaangom), stabilisator (calciumdinatrium edta).",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "775.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "185.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "19.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:36:55"
+}

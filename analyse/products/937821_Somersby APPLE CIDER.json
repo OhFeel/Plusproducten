@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Somersby APPLE CIDER",
+  "brand": "Somersby",
+  "price": "1.79",
+  "base_unit_price": "5.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/937821_M/86271b18ef26ff3c0def7851a2e6fb6d/937821.png",
+  "ingredients": "Ingrediënten: Water, appelwijn, (water, suiker, geconcentreerd appelsap), suiker, geconcentreerd appelsap, koolzuurgas, zuurteregelaar: citroenzuur, natuurlijke aroma's, conserveermiddel: kaliumsorbaat, kleurstof: ammonia karamel.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "250.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "60.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:27"
+}

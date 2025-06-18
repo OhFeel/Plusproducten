@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Doritos Bits Sweet Paprika",
+  "brand": "Doritos",
+  "price": "0.75",
+  "base_unit_price": "22.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/602420_M/f390a96eb2113282f103eed1d6947a8a/602420.png",
+  "ingredients": "Ingrediënten: maïs, plantaardige oliën (koolzaad, zonnebloem, in wisselende hoeveelheden), paprikasmaak [suiker, zout, paprikapoeder, aroma's, uienpoeder, knoflookpoeder, gerookte zoete paprikapoeder, fructose, kleurstof (paprika-extract), cayennepeper, voedingszuur (citroenzuur)]. antioxidanten (extracten van rozemarijn, ascorbinezuur, tocoferolrijk extract, citroenzuur). Kan soja en tarwe (gluten) bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2039.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "487.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:01:35"
+}

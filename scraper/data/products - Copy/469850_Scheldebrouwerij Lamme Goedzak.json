@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Scheldebrouwerij Lamme Goedzak",
+  "brand": "Scheldebrouwerij",
+  "price": "2.59",
+  "base_unit_price": "7.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/469850_M/309e7b89698155c05305a52a14ecee7d/469850.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, suiker, hop en gist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "300.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "72.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "7",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:04"
+}

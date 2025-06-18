@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Linzensoep biologisch",
+  "brand": "Smaakt",
+  "price": "3.99",
+  "base_unit_price": "5.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/502591_M/7d011d5db643ec7e509d4a144cad5649/502591.png",
+  "ingredients": "Ingrediënten: Water, tomaten (uit concentraat)*, linzen (bruin)* 18%, wortel* 6,1%, prei* 5,1%, ui* 4,0%, knolSELDERIJ* 1,0%, rijstzetmeel*, zeezout, maismeel*, uipoeder*, SELDERIJblad* 0,02%, zwarte peper*, knoflook*, nootmuskaat*, curcuma*, laurier*, lavas*, *=biologisch",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "204.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "48.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:20:46"
+}

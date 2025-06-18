@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Sushi Ran Kansai",
+  "brand": "Sushi Ran",
+  "price": "7.99",
+  "base_unit_price": "21.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/129768_M/6fef378ad40d9f868dc65c37c4d6199b/129768.png",
+  "ingredients": "INGREDIËNTEN:  water, rijst, WITVIS, gekookte GARNALEN, avocado, invertsuikerstroop, EI, azijn, TONIJN, raapzaadolie, zonnebloemolie, paprika, raapolie, zout, gerehydrateerde EI- EIwitpoeder (vrije uitloop), zeewier, SESAM, suiker, SOJAbonen, TARWE, TARWEzetmeel, mierikswortel, wasabi, erwtenzetmeel, voedingszuur: E325, aardappelzetmeel, maïszetmeel, pitaya poeder, gemodificeerd aardappelzetmeel, krabaroma (SCHAALDIER), TARWEmeel, gemodificeerd tapiocazetmeel, koolzaadolie, stabilisator: E420, EIgeel, EIgeel, zuurteregelaar: E575, gemodificeerd tapioca zetmeelsiroop, glucose, glucose-fructosestroop, geleermiddel: E425, ui, gemodificeerd maïszetmeel, voedingszuur: E330, MOSTERD(water, MOSTERDzaad, azijn, kruiden, zout), SOJA-eiwit, conserveermiddel: E267, peterselie, specerijen (bevat MOSTERD), conserveermiddel: E202, verdikkingsmiddel: E415, groentenextract, voedingszuur: E270, voedingszuur: E262, citroensap, MOSTERDolie, gember, kurkuma, zuurteregelaar: E509, stabilisatoren: E450, E451, E452, natuurlijk aroma, verdikkingsmiddel: E412, voedingszuur: E300, kleurstof: E160d, TARWEbloem, kleurstof: E160a, antioxidant: E385, gist.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Ei, Vis, Soja, Mosterd, Sesamzaad, Tonijn en producten op basis van tonijn, Krab en producten op basis van krab, Garnaal en producten op basis van garnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "716.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "169.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:50:29"
+}

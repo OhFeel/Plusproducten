@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vifon Hot Beef Kimchi",
+  "brand": "Vifon",
+  "price": "1.79",
+  "base_unit_price": "17.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/188897_M/924778881993a944e3df528e9f20b844/188897.png",
+  "ingredients": "Ingrediënten: noedels (87,6%): TARWEmeel, tapioca, palmvet, gemodificeerd zetmeel, zout, stabilisatoren: E412, E451, E466; emulgator: E322 (uit SOJAbonen); rijsmiddelen: kaliumcarbonaten, natriumcarbonaten; kleurstof: riboflavinen; SMAAKTOEVOEGINGEN (12,4%): suiker, zout, gedroogde groenten: kool (9,2%), wortel (9,2%), groene ui (4,6%); aroma's, niet-zuivel creamer (7,8%) (glucosestroop, palmvet, stabilisatoren: E340, E451; caseïnaten (MELK), emulgator: E471, E472; antiklontermiddel: E551), smaakversterkers: mononatriumglutamaat, natirumguanylaat, dinatriuminosinaat; chilipoeder (3,8%), gemberpoeder, GARNALENpoeder (GARNALEN 80%), zout, smaakversterker: mononatriumglutamaat), maltodextrine, gistextract, antiklontermiddel: E551; zuurtereglaar: citroenzuur; kleurstoffen: karamel, carotenen, paprika-extract. Aroma's kunnen bevatten: EIEREN, VIS.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Soja, Melk, Garnaal en producten op basis van garnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "312.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "74.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.78",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:14:23"
+}

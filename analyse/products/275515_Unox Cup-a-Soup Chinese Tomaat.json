@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Cup-a-Soup Chinese Tomaat",
+  "brand": "Unox",
+  "price": "1.89",
+  "base_unit_price": "37.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/275515_M/5dc38b51a1654620d30a1b20dde7664e/275515.png",
+  "ingredients": "Ingrediënten: Tomaat¹ 27%, suiker, pannenkoekreepjes 11% (TARWEBLOEM, EI, zetmeel, zout, magere MELK, MELKWEI, aroma), aardappelzetmeel, deegwaar 5,6% (harde TARWEGRIES, zout), gistextract, zout, gejodeerd zout, taugé 2,5%, uipoeder¹, ananassap, mineraalzout (kalium), aroma, maïsolie, glucosestroop, citroensappoeder (citroensap, maltodextrine), kruiden (bieslook¹, BLADSELDERIJ), specerijen (kardemom, koriander, kruidnagel, cayennepeper). Kan mosterd, soja bevatten.¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "135.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "32.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:51:39"
+}

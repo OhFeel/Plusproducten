@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bieze Rauwkost coleslaw",
+  "brand": "Bieze",
+  "price": "1.99",
+  "base_unit_price": "7.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/520850_M/3ba7086b4a505f89cde45b6ecc1f8c1c/520850.png",
+  "ingredients": "Ingrediënten: witte kool 60%, raapolie, water, wortel 6%, volle MELK, suiker, ROOM, ui, azijn, maïszetmeel, scharrelEIgeel, limoensapconcentraat, zout, kruiden en specerijen, MOSTERDzaad, dextrose, voedingszuur: wijnsteenzuur, stabilisator: guargom/xanthaangom, conserveermiddel: E202/E211.",
+  "allergens": "Ei, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "581.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "140.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:26:51"
+}

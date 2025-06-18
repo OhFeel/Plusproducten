@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lindahls Lindahls proteine snack cacao",
+  "brand": "Lindahls",
+  "price": "1.19",
+  "base_unit_price": "29.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/584614_M/28b8af5109ed5ef94f0ae516023b54c1/584614.png",
+  "ingredients": "Ingrediënten: Vole melk (32,8%), zoetstoffen (erytritol, maltitol) wei-eiwit (melk), plantaardige oliën (palmolie, zonnebloemolie), TARWEbloem, bevochtigingsmiddel (glycerol) mager cacaopoeder (3%), TARWEvezels, emulgator (mono- en diglyceriden van vetzuren), aroma's, rijsmiddel (ammoniumcarbonaten), zout. Kan bevatten: PINDA, NOOT (NOTEN), EI (EIEREN), SOJA, MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1190.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "285.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:03"
+}

@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "Disney Cars kinder multivitaminen",
+  "brand": "Disney",
+  "price": "14.99",
+  "base_unit_price": "0.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/424927_M/4f142886c79cb50285df64f57ac08738/424927.png",
+  "ingredients": "glucosesiroop, suiker, water, gemodificeerd zetmeel, gelatine\n(rund), vitamine a, vitamine c, vitamine d3, vitamine e, vitamine b6,\nfoliumzuur, vitamine b12, biotine, pantotheenzuur, kaliumjodide, zinkcitraat,\nmagnesiumoxide, zuurteregelaar: citroenzuur; kleurstoffen: curcumine,\nanthocyanen (vlierbes); natuurlijke aroma’s: sinaasappel, kers, citroen;\nglansmiddel: carnaubawas; plantaardige olie: kokosnootolie\n(cocos nucifera l.); emulgatoren: mono- en diglyceriden van vetzuren,\ncitroenzuuresters van mono- en diglyceriden van vetzuren; maltodextrine.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "69.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "16.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vitamine A",
+      "value": "450.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "60.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "5.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "10.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "200.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "2.1",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "45.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "2.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "2.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "30.0",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "Samenstelling per dagdosering (2 gummies): vitamine A 450µg 56%RI/AR, vitamine C 60mg 75%RI/AR, vitamine D3 5µg 100% RI/AR, vitamine E 10mg 83%RI/AR, vitamine B6 0,5mg 36%RI/AR, foliumzuur 200µg 100%RI/AR, vitamine B12 2,1µg 84%RI/AR, biotine 45µg 90%RI/AR, pantotheenzuur 2,5mg 42%RI/AR, kaliumjodide 30µg 20%RI/AR, zinkcitraat 2mg 20%RI/AR. R.I. = Referentie-Inname / A.R. = Apport de référence.",
+  "extracted_at": "2025-04-25 14:47:28"
+}

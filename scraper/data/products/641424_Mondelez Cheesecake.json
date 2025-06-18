@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mondelez Cheesecake",
+  "brand": "Mondelez",
+  "price": "3.99",
+  "base_unit_price": "2.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/641424_M/57961125e4b57c82fdcbf39aed58f866/641424.png",
+  "ingredients": "Ingrediënten: suiker, roomkaas (MELK) (15%), TARWEbloem (verrijkt met calciumcarbonaat, ijzer, niacine, thiamine), plantaardige oliën (zonnebloem, palm, koolzaad), magere MELK, gepasteuriseerd heelEI, invertsuikersiroop, volle MELKpoeder, cacaopasta, cacaoboter, cacaopoeder (0,7%), maïszetmeel, gemodificeerd maïszetmeel, zout, MELKvet, honing (0,5%), AMANDELEN (0,3%), EI-eiwit, Bourbon vanille-extract met zaden, rijsmiddel: natriumcarbonaat, emulgatoren: SOJA lecithine, Mono- en diglyceriden van vetzuren en polysorbate 80, stabilisator: guarpitmeel, kleurstof: basische karamel, aroma. Bevat EI, MELK, GLUTEN, SOJA, AMANDELEN. Kan sporen van andere NOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1697.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "406.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:36"
+}

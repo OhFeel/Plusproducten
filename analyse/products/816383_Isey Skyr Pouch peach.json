@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Isey Skyr Pouch peach",
+  "brand": "Isey Skyr",
+  "price": "1.89",
+  "base_unit_price": "13.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/816383_M/570a0736224853addfebd7e011e96ed6/816383.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde magere MELK (dk), perziken (8%), water, ROOM (5%), gemodifeerd maïszetmeel, verdikkingsmiddel (pectine), zoetstoffen (sucralose, acesulfaam K), groentenconcentraat, aroma, lactase, skyr-culturen.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "300.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:53"
+}

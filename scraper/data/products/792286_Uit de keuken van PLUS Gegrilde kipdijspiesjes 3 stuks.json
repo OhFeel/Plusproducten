@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Gegrilde kipdijspiesjes 3 stuks",
+  "brand": "Uit de keuken van",
+  "price": "2.79",
+  "base_unit_price": "19.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/792286_M/544eea5a4cfd6f3cdd1b2a1b35864997/792286.png",
+  "ingredients": "kipdijfilet, uienextract, suiker, sojasaus (water, soja, zout, azijn), water, azijn, zout, gekarameliseerde suiker, rijstzetmeel, dextrose, suikerstroop, natuurlijk aroma (soja, tarwe), kruiden, specerijen, gebrande suiker, aroma, conserveermiddel: e202, verdikkingsmiddel: xanthaangom.  ",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "752.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "179.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:44:43"
+}

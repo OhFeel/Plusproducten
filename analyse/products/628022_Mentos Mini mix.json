@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mentos Mini mix",
+  "brand": "Mentos",
+  "price": "2.79",
+  "base_unit_price": "13.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/628022_M/7e8aca9c2333791df46c7b99767885a5/628022.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, vruchtensappen (aardbei, sinaasappel, appel, citroen) (2%), kokosolie, voedingszuur (citroenzuur), zetmeel, maltodextrine, aroma's, cacaoboter, verdikkingsmiddelen (gellangom, cellulosegom, arabische gom), emulgator (sucrose-esters van vetzuren), glansmiddel (carnaubawas), kleurstoffen (bèta-caroteen, curcumine, anthocyanen, bietenrood). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1651.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "389.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "92.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:42"
+}

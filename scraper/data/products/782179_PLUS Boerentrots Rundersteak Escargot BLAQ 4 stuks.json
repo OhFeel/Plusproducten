@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Boerentrots Rundersteak Escargot BLAQ 4 stuks",
+  "brand": "PLUS Boerentrots",
+  "price": "13.04",
+  "base_unit_price": "26.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/782179_M/877b088bb16698b32b8577bc470d87d6/782179.png",
+  "ingredients": "rundvlees, plantaardige oliën (raap, palm en zonnebloem), zout, kruiden, maltodextrine, aroma, gedroogde groenten (spinazie, ui), gistextract, kurkuma, natuurlijke aroma's (peper, ui).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "585.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "139.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:13"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hamlet Praline collection",
+  "brand": "Hamlet",
+  "price": "2.89",
+  "base_unit_price": "28.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/174865_M/e7d9e336139f6e533a30413f8bf6e920/174865.png",
+  "ingredients": "Ingrediënten: suiker, volle MELKpoeder, cacaboter1, cacaomassa1, plantaardige oliën (palm, koolzaad) in wisselende verhoudingen, HAZELNOTEN 2.5%, boterolie (MELK), glucosestroop, koffie-extract 0.06%, emulgator: SOJAlecithine, aroma's: aarbei, karamel, PISTACHE, sinaasappel en vanille. Kan sporen van andere NOTEN bevatten. 1Rainforest Alliance Certified cocoa.",
+  "allergens": "Soja, Melk, Noten, hazelnoten, pistachenoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2360.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "565.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:07:42"
+}

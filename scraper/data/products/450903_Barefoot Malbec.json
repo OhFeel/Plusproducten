@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Barefoot Malbec",
+  "brand": "Barefoot",
+  "price": "6.99",
+  "base_unit_price": "9.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/450903_M/30772993a7769d6d3ccf7f84804a0c56/450903.png",
+  "ingredients": "Bevat sulfieten.",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:00:09"
+}

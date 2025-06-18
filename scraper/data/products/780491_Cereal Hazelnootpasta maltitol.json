@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Cereal Hazelnootpasta maltitol",
+  "brand": "Cereal",
+  "price": "4.74",
+  "base_unit_price": "23.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780491_M/09215d36d46a9d4cbe561f66182bfb86/780491.png",
+  "ingredients": "Ingrediënten: Zoetstof: maltitolen, plantaardige vetstoffen (koolzaadolie, cacaoboter^1, zonnebloemolie: in wisselende verhoudingen), HAZELNOOTpasta 13%, magere cacaopoeder^1, magere MELKpoeder, MELKweipoeder, chicoreivezels: inuline, emulgator: koolzaadlecithinen, natuurlijk vanillearoma, ^1Rainforest Alliance gecertificeerd. Lees meer op ra.org.\n\nKan aardnoten, gluten en noten (cashewnoten, pecannoten, macadamianoten, walnoten, pistachenoten en amandelen) bevatten.",
+  "allergens": "Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2099.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "507.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:51"
+}

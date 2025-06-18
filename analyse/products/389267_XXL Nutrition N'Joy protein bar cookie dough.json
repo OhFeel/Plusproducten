@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "XXL Nutrition N'Joy protein bar cookie dough",
+  "brand": "XXL Nutrition",
+  "price": "2.49",
+  "base_unit_price": "45.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/389267_M/3936a05a7f615776e104d0e8e0a8ac7b/389267.png",
+  "ingredients": "26% MELKchocolade met zoetstof (maltitol, cacaoboter, MELKpoeder, cacaomassa, emulgator SOJAlecithine, aroma), bevochtigingsmiddel glycerine, collageenhydrolysaat, MELKeiwit, SOJA eiwit isolaat, witte chocolade met zoetstof (maltitol, cacaoboter, volle MELKpoeder, emulgator SOJAlecithine, natuurlijk aroma), isomalto-oligosaccharide, water, 4% SOJAnuggets (SOJA eiwit isolaat, cacao, tapiocazetmeel), palmvet, magere cacaopoeder, aroma, zoetstof sucralose",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1556.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "371.89",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:34"
+}

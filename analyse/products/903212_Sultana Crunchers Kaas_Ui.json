@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Sultana Crunchers Kaas/Ui",
+  "brand": "Sultana",
+  "price": "2.29",
+  "base_unit_price": "13.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/903212_M/a999fc65e6b925f3b953c074689d06b3/903212.png",
+  "ingredients": "Ingrediënten: TARWEbloem, plantaardige oliën (zonnebloem, palm), suiker, gedroogde ui 5,1%, natuurlijk kaasaroma met andere natuurlijke aroma's (bevat MELK), weipermeaatpoeder (MELK), rijstebloem, kaaspoeder 1,8% (MELK), HAVERvezels, glucosestroop, zout, rijsmiddelen (natriumcarbonaten, difosfaten, ammoniumcarbonaten), maanzaad, gistpoeder, aardappelvlokken [gedroogde aardappel, emulgator (E471), stabilisator (E450), antioxidant (E330, E304i), kurkuma], dextrose, TARWEgluten, cichoreivezel, gemalen HAVER, natuurlijk aroma (bevat MELK), meelverbeteraar (E920), GERSTemoutextract, fructose, zuurteregelaar (E270), volle MELKpoeder\n\nKan noten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1705.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "404.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:27"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Princes Plantaardige tonijn salade couscous",
+  "brand": "Princes",
+  "price": "3.69",
+  "base_unit_price": "23.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/468817_M/08ad82ba55100417d9f607aa3ac81025/468817.png",
+  "ingredients": "Ingrediënten: Water, Couscous (18,7%) (griesmeel van TARWE), Plantaardige tonijnstukjes (15,6%) (Gerehydrateerd plantaardig eiwit (78%) (Water, Eiwit van TARWE, Aardappel en Erwt), Zonnebloemolie, TARWE-gluten, Aardappelzetmeel, Natuurlijk aroma, Knoflook, Ui, Zout, Kaliumchloride, Gistextract, Anti-oxidant: Ascorbinezuur), Koolzaadolie, Kikkererwt (9,4%), Wortel (6,2%), Erwt (6,2%), Rode paprika (4,1%), Tomaat (3,1%), Ui (2,7%), Natuurijk aroma (bevat Ui), Zout, Geconcentreerd citroensap, Suiker, Verdikkingsmiddel: Guarpitmeel, Kruiden, Specerijen, Cayennepepe extract.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "975.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "234.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.63",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:05:11"
+}

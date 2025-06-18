@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Johnnie Walker Black Label",
+  "brand": "Johnnie Walker",
+  "price": "31.99",
+  "base_unit_price": "45.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119435_M/529676b43ea2deee647be7789d6d1f26/119435.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "919.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "222.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:22"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Maaltijdmix chili con carne",
+  "brand": "Knorr",
+  "price": "1.65",
+  "base_unit_price": "39.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/885422_M/3bbf17af8ff26cca36261f3012fd3605/885422.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel, groenten¹ 14% (tomaat 6,1%, geroosterde ui, rode paprika 2,9%), TARWEBLOEM, gejodeerd zout, paprikapoeder¹, mineraalzout (kalium), gehydrolyseerde plantaardige eiwitten, zonnebloemolie, aroma, suiker, knoflookpoeder¹, komijn, kleurstof: paprikaextract, gember, piment, korianderzaad, oregano, cayennepeper, gistextract, fenegriekzaad, citroensappoeder¹ 0,2% (suiker, citroensap, zout), rookaroma, peper. Kan andere glutenbevattende granen, melk, mosterd,\nselderij, soja bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "639.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "153.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.57",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:59:44"
+}

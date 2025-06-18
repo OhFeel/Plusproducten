@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Pulled Chicken",
+  "brand": "Uit de keuken van",
+  "price": "9.5",
+  "base_unit_price": "19.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/629251_M/4025a1851a9dc9c82f69455a3ba64012/629251.png",
+  "ingredients": "53% nieuwe plus kipfilet, 35% nieuwe plus kippendijvlees, water, azijn, natuurlijk aroma, aardappelzetmeel, zout, specerijen, aroma's, gedroogde ui, kippeneiwit, peperextract, bruine suiker, knoflook, rookaroma, maltodextrine, gedroogde paprika, dextrose, citroenschil, voedingszuur: citroenzuur.\n\nondanks zorgvuldig fileren kan het voorkomen dat er onbedoeld een stukje bot is achtergebleven.\n",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "600.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "143.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:08:17"
+}

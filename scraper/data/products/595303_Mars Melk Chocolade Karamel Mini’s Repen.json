@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mars Melk Chocolade Karamel Mini’s Repen",
+  "brand": "Mars",
+  "price": "2.49",
+  "base_unit_price": "10.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/595303_M/692385f98737be3834fddc504e6c0633/595303.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, magere MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, weipermeaat (MELK), palmvet, magere cacao poeder, botervet (MELK), GERSTEMOUTEXTRACT, zout, emulgator (SOJALECITHINE), KIPPENEI-EIWITPOEDER. (Kan bevatten: PINDA'S, NOTEN).",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1846.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "439.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.69",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:21"
+}

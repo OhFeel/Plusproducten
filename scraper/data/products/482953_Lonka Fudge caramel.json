@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lonka Fudge caramel",
+  "brand": "Lonka",
+  "price": "2.49",
+  "base_unit_price": "11.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482953_M/0d7c1cb4519421c9801f6b8f090c2d9e/482953.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, plantaardige vetten (palm, kokos), magere MELKPOEDER, zout, emulgator (lecithinen (SOJA)), natuurlijke aroma's, vanille-extract. Kan EI, PINDA'S, en NOTEN bevatten.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1964.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "465.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:51"
+}

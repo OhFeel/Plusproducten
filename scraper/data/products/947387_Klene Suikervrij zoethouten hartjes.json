@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Klene Suikervrij zoethouten hartjes",
+  "brand": "Klene",
+  "price": "2.49",
+  "base_unit_price": "22.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947387_M/6fb5d380bc2e84400be0310ab0f3ef39/947387.png",
+  "ingredients": "Ingrediënten: zoetstoffen (maltitolstroop, steviolglycosiden), verdikkingsmiddel (arabische gom), zoethoutwortelextract (4%), droppoeder, salmiakzout, kokosolie, natuurlijk aroma, glansmiddel (bijenwas), kleurstof (plantaardige koolstof). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "808.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "195.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:21"
+}

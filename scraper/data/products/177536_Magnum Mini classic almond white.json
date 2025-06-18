@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum Mini classic almond white",
+  "brand": "Magnum",
+  "price": "8.79",
+  "base_unit_price": "19.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/177536_M/6c79715a4d311201ccd609b8898c239d/177536.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, water, cacaoboter¹, cacaomassa¹, kokosolie, glucosestroop, volle MELKPOEDER, glucose-fructosestroop, LACTOSE en MELKEIWITTEN, BOTERCONCENTRAAT, emulgatoren (E471, lecithines), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma¹ (bevat MELK), natuurlijk vanille aroma, kleurstof (carotenen).Kan amandel en pistachenoot bevatten. Glutenvrij.Almond: Ingrediënten: Gerehydrateerde magere MELK, suiker, cacaoboter¹, water, magere MELKPOEDER, kokosolie, AMANDELEN, glucosestroop, BOTERCONCENTRAAT, glucose fructosestroop, cacaomassa¹, LACTOSE en MELKEIWITTEN, emulgatoren (E471, lecithines), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma¹ (bevat MELK), natuurlijk vanille aroma, kleurstof (carotenen).Kan andere noten bevatten. Glutenvrij.White Chocolate: Ingrediënten: Gerehydrateerde magere MELK, suiker, cacaoboter¹, water, magere MELKPOEDER, kokosolie, glucosestroop, BOTERCONCENTRAAT, volle MELKPOEDER, glucose-fructosestroop, LACTOSE en MELKEIWITTEN, emulgatoren (E471, lecithines), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma¹ (bevat MELK), natuurlijk vanille aroma, kleurstof (carotenen).Kan amandel en pistachenoot bevatten. Glutenvrij.¹Rainforest Alliance gecertificeerd. ra.org.",
+  "allergens": "Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1377.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "330.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:08:42"
+}

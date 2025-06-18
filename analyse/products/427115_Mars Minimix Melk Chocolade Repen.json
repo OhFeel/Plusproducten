@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mars Minimix Melk Chocolade Repen",
+  "brand": "Mars",
+  "price": "4.69",
+  "base_unit_price": "11.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/427115_M/9589a48cb230c8a6d11b85687431ed2f/427115.png",
+  "ingredients": "Ingrediënten:MARS - Ingrediënten: suiker, glucosestroop, magere MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, weipermeaat (MELK), palmvet, magere cacao poeder, botervet (MELK), GERSTEMOUTEXTRACT, zout, emulgator (SOJALECITHINE), KIPPENEI-EIWITPOEDER. (Kan bevatten: PINDA'S, NOTEN). # MILKY WAY - Ingrediënten: suiker, glucosestroop, magere MELKPOEDER, cacaoboter, cacaomassa, zonnebloemolie, weipermeaat (MELK), botervet (MELK), GERSTEMOUTEXTRACT, palmvet, zout, KIPPENEI-EIWITPOEDER, emulgator (SOJALECITHINE). (Kan bevatten: PINDA'S, NOTEN). # TWIX - Ingrediënten: suiker, glucosestroop, TARWEMEEL, palmvet, magere MELKPOEDER, cacaoboter, cacaomassa, weipermeaat (MELK), botervet (MELK), magere cacao poeder, zout, emulgator (SOJALECITHINE), rijsmiddel (E500), aroma. (Kan bevatten: NOTEN, andere GLUTEN bevattende granen). # BOUNTY - Ingrediënten: suiker, kokos, glucosestroop, cacaoboter, cacaomassa, magere MELKPOEDER, weipermeaat (MELK), emulgatoren (E471, SOJALECITHINE), botervet (MELK), bevochtigingsmiddel (glycerol), palmvet, zout. # SNICKERS - Ingrediënten: suiker, glucosestroop, PINDA'S, magere MELKPOEDER, cacaoboter, cacaomassa, weipermeaat (MELK), zonnebloemolie, botervet (MELK), palmvet, zout, emulgator (SOJALECITHINE), KIPPENEI-EIWITPOEDER. (Kan bevatten: NOTEN).",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1846.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "439.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.69",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:48:41"
+}

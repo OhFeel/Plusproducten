@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Magere leverpastei",
+  "brand": "Unox",
+  "price": "2.99",
+  "base_unit_price": "1.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/165724_M/ffbf1dfd0d54995950b99b5d235a2dc2/165724.png",
+  "ingredients": "Ingrediënten: Water, varkenslever¹ 26%, varkensvlees¹ 18%, varkenscollageen¹, varkensvet¹, aardappelzetmeel, zout, varkensgelatine, specerijen, stabilisator (E466), verdikkingsmiddel (E460), aroma, antioxidant (E301), specerij-extract, conserveermiddel (E250). ¹ Beter Leven keurmerk 1 ster",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "866.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "207.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:55"
+}

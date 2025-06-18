@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Ristorante pizza Mozzarella glutenvrij",
+  "brand": "Dr. Oetker",
+  "price": "4.99",
+  "base_unit_price": "13.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/358890_M/5066fc85408fadda6f8a274a612baa3f/358890.png",
+  "ingredients": "Ingrediënten: 19% MOZZARELLA KAAS, water, rijstebloem, 10% gezeefde tomaten, zetmeel, 7,8% cherrytomaten, 5,3% tomatenconcentraat, EDAMMER KAAS, aardappelvlokken, raapzaadolie, erwten eiwit, gist, suiker, basilicum, zout, verdikkingsmiddelen (hydroxypropylmethylcellulose, xanthaangom), olijfolie extra vierge, emulgatoren (mono- en diglyceriden van vetzuren veresterd met melkzuur, mono- en diglyceriden van vetzuren veresterd met azijnzuur, mono- en diglyceriden van vetzuren), spinazie, peterselie, gemodificeerd zetmeel, glucosestroop, knoflook, MELKEIWITTEN, specerijen, citroensap, dextrose, oregano. Kan bevatten: (SOJA, MOSTERD).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "963.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "230.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.98",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:22:09"
+}

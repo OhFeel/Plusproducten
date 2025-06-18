@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Drentse paal",
+  "brand": "Huls",
+  "price": "12.49",
+  "base_unit_price": "22.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/324847_M/3f89cc8da84ba8f4613c4b594d4df49a/324847.png",
+  "ingredients": "varkensvlees*, zouten (keukenzout, kaliumchloride), specerijen, dextrose, kleurstof: bietenrood, kruidnagel, antioxidant: natriumascorbaat, rode bietensap concentraat, specerijextract, conserveermiddel: natriumnitriet. voor 100 gram eindproduct is 158 gram vlees gebruikt. * = beter leven keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1799.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "434.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.84",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:12:20"
+}

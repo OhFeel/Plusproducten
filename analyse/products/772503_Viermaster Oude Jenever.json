@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Viermaster Oude Jenever",
+  "brand": "Viermaster",
+  "price": "11.49",
+  "base_unit_price": "11.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/772503_M/51bd867617e917168fc90187128a124b/772503.png",
+  "ingredients": "Ingrediënten :water, ethylalcohol, moutwijn (distillaat van tarwe, maïs, rogge, water), aroma, kleurstof: karamel.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1030.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "247.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "35",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:35"
+}

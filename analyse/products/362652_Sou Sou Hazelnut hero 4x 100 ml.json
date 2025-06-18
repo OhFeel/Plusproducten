@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Sou Sou Hazelnut hero 4x 100 ml",
+  "brand": "Sou Sou",
+  "price": "3.49",
+  "base_unit_price": "0.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/362652_M/09d37bd05233e21e608870d4a0fcb49d/362652.png",
+  "ingredients": "Ingrediënten :[NL]\nIngrediënten: 31% melkchocolade (suiker, cacaoboter*, cacaomassa*, weipoeder (MELK), watervrij MELKVET, magere MELKPOEDER, emulgator: lecithinen/polyglycerolpolyricinoleaat, vanille-extract), magere MELK, suiker, weiproteïneconcentraat (MELK), 6% HAZELNOTEN*, kokosvet, water, glucosestroop, koolzaadolie, 1,7% HAZELNOOTPASTA*, concentraat (appel, wortel, hibiscus, melasse), magere MELKPOEDER, magere cacaopoeder*, emulgator: mono- en diglyceriden van vetzuren/lecithinen, stabilisator: natriumalginaat, natuurlijk aroma (bevat NOTEN).\n\n*Rainforest Alliance gecertificeerd. Lees meer op www.ra.org.\nKan AMANDEL, WALNOOT, PECANNOOT, PISATACHENOOT en MACADAMIANOOT bevatten. \n\n\n[EN]\nIngredients: 31% milk chocolate (sugar, cocoa butter*, cocoa mass*, whey powder (MILK), anhydrous MILK fat, skimmed MILK powder, emulsifier: lecithins/polyglycerol polyricinoleate, vanilla extract), skimmed MILK, sugar, whey protein concentrate (MILK), 6% HAZELNUTS*, coconut fat, water, glucose syrup, rapeseed oil, 1,7% HAZELNUT paste*, concentrate (apple, carrot, hibiscus, molasses), skimmed MILK powder, fat reduced cocoa powder*, emulsifier: mono- and diglycerides of fatty acids/lecithins, stabiliser: sodium alginate, natural flavouring (contains NUTS).\n\n*Rainforest Alliance certified. Learn more at www.ra.org.\nMay contain ALMOND, WALNUT, PECAN NUT, PISTACHIO NUT and MACADAMIA NUT.\n\n[FR]\nIngrédients: 31% chocolat au lait (sucre, beurre de cacao*, pâte de cacao*, lactosérum en poudre (LAIT), matière grasse LAITEIRE anhydre, LAIT écrémé en poudre, émulsifiant: lécithines/polyricinoléate de polyglycérol, vanilla extract), LAIT écrémé, sucre, concentré de protéines de lactosérum (LAIT), 6% NOISETTES*, matière grasse de coprah, eau, sirop de glucose, huile de colza, 1,7% pâte de NOISETTES*, concentré (pomme, carotte, hibiscus, mélasse), LAIT écrémé en poudre, cacao maigre en poudre*, émulsifiant: mono- et diglycérides d’acides gras/lécithins, stabilisant: alginate de sodium, arôme naturel (contient des FRUITS A COQUE).\n\n*Certifié Rainforest Alliance. En savoir plus sur www.ra.org.\nPeut contenir de l'AMANDE, de la NOIX, de la NOIX DE PECAN, de la PISTACHE et de la NOIX DE MACADAMIA.",
+  "allergens": "Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1539.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "370.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.096",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:23:44"
+}

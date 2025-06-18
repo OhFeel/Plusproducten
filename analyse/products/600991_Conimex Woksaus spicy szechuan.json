@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Woksaus spicy szechuan",
+  "brand": "Conimex",
+  "price": "2.69",
+  "base_unit_price": "15.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/600991_M/73cb26825b85123893b0ca3d837dd60e/600991.png",
+  "ingredients": "Ingrediënten: Glucosestroop, water, sambal 12% (rode peper 10%, zout, stabilisator: E270, conserveermiddel E202), suiker, knoflookpuree, sojasaus 5% (water, SOJABOON, TARWE, zout), gemberpuree, azijn, aroma, fenegriek, gistextract, gemodificeerd zetmeel, szechuanpeper 1,1%, uipoeder, voedingszuur E270, chilipeper 0,7%, raapzaadolie, zout, paprika, conserveermiddel E202, verdikkingsmiddel E415.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "429.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "103.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.33",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:00:08"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Faja Lobi Sandhia's roti",
+  "brand": "Faja Lobi",
+  "price": "3.09",
+  "base_unit_price": "11.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/484101_M/57a4eae4db772c3826aacba221f6882a/484101.png",
+  "ingredients": "Ingrediënten: TARWEbloem, water, plantaardige olie, zout, kruiden en specerijen,\nrijsmiddelen: E500, E450, maïszetmeel, conserveermiddel E282, natuurlijke aroma. Kan sporen bevatten van soja, mosterd en melk.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1352.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "321.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:12:17"
+}

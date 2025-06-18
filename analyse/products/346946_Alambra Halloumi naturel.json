@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Alambra Halloumi naturel",
+  "brand": "Alambra",
+  "price": "4.29",
+  "base_unit_price": "19.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/346946_M/743ae9c917be13ef069f3f6af912a2e1/346946.png",
+  "ingredients": "Ingrediënten: Gepasteuriseerde MELK (mengeling van koe- , geiten- en schapenMELK), munt, zout, niet dierlijk stremsel/43% V.G. / D.S. Bevat melk.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1331.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "321.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:57"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good pasta kaas pesto",
+  "brand": "Unox",
+  "price": "2.09",
+  "base_unit_price": "30.74",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749026_M/c4738b3c3317756abfff6145b0fe8176/749026.png",
+  "ingredients": "Ingrediënten: Deegwaar 57% (harde TARWEGRIES, TARWEBLOEM), zetmeel, magere MELKPOEDER, aroma, smeltkaaspoeder 4,2% (KAAS, MOZZARELLA, BLAUWSCHIMMELKAAS, Crescenza KAAS, harde KAAS, weiproduct (bevat MELK), zout, aroma (bevat TARWE)), knoflookpoeder, zonnebloemolie, uienpoeder, palmvet, mineraalzout (kalium), suiker, kruiden (peterselie, basilicum 0,25%), MELKSUIKER, spinaziepoeder¹, citroensappoeder, maltodextrine, zout, gejodeerd zout, MELKEIWITTEN, peper, kurkuma, extra olijfolie verkregen bij de eerste persing 0,05%, gistextract, peterseliewortelpoeder¹. Kan andere glutenbevattende granen, ei, mosterd, selderij, sesam, soja bevatten. ¹op duurzame wijze geteeld. Kijk voor meer informatie op: www.unox.nl.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "448.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "106.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:54"
+}

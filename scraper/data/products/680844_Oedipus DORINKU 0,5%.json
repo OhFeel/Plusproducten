@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Oedipus DORINKU 0,5%",
+  "brand": "Oedipus",
+  "price": "2.69",
+  "base_unit_price": "8.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/680844_M/d0cb2d22b5cf5830988bfa65332c9dd9/680844.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, TARWEMOUT, LACTOSE, hop, sinaasappelschil, limoenschil, gist.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "94.4",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "22.6",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:32"
+}

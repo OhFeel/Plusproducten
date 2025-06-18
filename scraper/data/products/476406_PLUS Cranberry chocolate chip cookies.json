@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Cranberry chocolate chip cookies",
+  "brand": "PLUS",
+  "price": "1.34",
+  "base_unit_price": "8.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/476406_M/185a2a5a597f06662e2e2c07abafb522/476406.png",
+  "ingredients": "Ingrediënten :witte chocolade (suiker, volle MELKPOEDER, cacaoboter, magere MELKPOEDER, emulgator: SOJALECITHINE, natuurlijk vanillearoma), TARWEBLOEM, plantaardige oliën (palm, zonnebloem), suiker, rozijnen (rozijnen, zonnebloemolie), gezoete cranberry (cranberry, suiker, zonnebloemolie), HAVERBLOEM, appelvulling (suiker, rozijnen, gedroogde appel, glucosestroop, krenten, gemodificeerd maïszetmeel, natuurlijk aroma, citroensappoeder), glucose-fructosestroop, zout, rijsmiddel: E450/E500, natuurlijk aroma, gekaramelliseerde suiker.\n\n Dit product kan sporen van EI en NOTEN bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2049.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "489.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "19.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.658",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.263",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "32.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:08:12"
+}

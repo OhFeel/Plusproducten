@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Fruitreep bosvruchten",
+  "brand": "PLUS",
+  "price": "1.69",
+  "base_unit_price": "6.40",
+  "image_url": "",
+  "ingredients": "Ingrediënten :45% fruitvulling (fructo-oligosachariden, bevochtigingsmiddel: glycerol, suiker, glucose-fructosestroop, HAVERMEEL, dextrose, 7% zwarte bessenpuree, rietsuikervezel, 2% braamconcentraat, 2% framboosconcentraat, geleermiddel: pectinen, voedingszuur: citroenzuur, natuurlijke aroma's, zuurteregelaar: E331/E333), 27% TARWEBLOEM, suiker, plantaardige oliën (palm, raapzaad, kokos, zonnebloem), invertsuikerstroop, TARWEZETMEEL, SCHARRELKIPPENEI, MELKEIWIT, zout, magere MELKPOEDER, rijsmiddel: E500, dextrose, voedingszuur: citroenzuur, aroma.\n\nDit product kan sporen van PINDA en NOTEN bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1483.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "353.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "9.45",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.33",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.132",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "27.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:12"
+}

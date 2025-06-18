@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Warka Strong beer",
+  "brand": "Warka",
+  "price": "1.82",
+  "base_unit_price": "3.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436545_M/9578653c9b8ade0b0e92a7f796a42150/436545.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, mais, GERST, glucose siroop, glucose-fructosestroop, hop extract, hop.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "216.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "51.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:36"
+}

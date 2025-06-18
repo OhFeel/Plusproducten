@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Maaltijdsalade kip bacon",
+  "brand": "PLUS",
+  "price": "4.69",
+  "base_unit_price": "11.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/558759_M/5efc79d9bb47e4786a77e3b136642b9d/558759.png",
+  "ingredients": "Ingrediënten :28% slamix (ijsbergsla, romaine sla), 24% gekookte pasta (water, DURUMTARWEGRIESMEEL, raapzaadolie, voedingszuur: citroenzuur), 16% tomaat, 13% yoghurtdressing (raapzaadolie, 28% magere yoghurt (MELK), water, brandewijnazijn, KARNEMELKPOEDER, suiker, VRIJE-UITLOOPKIPPENEI-EIGEELPOEDER, maïszetmeel, zout, citroensap uit concentraat, specerijen (witte peper, knoflookpoeder, uienpoeder), bieslook), 8% gerookt spek (96% varkensvlees*, zout, suiker, aroma, varkenseiwit, antioxidant: E301, voedingszuur: E331, conserveermiddel: E250, rook), 8% gerookte gesneden kipfilet (96% kipfilet*, zout, conserveermiddelen: E250/E261, kaliumchloride, rook), 5% knoflook-kruidencroutons (croutons (TARWEBLOEM, zonnebloemolie, dextrose, gist, zout, weipoeder (MELK), GERSTEMOUTEXTRACT, antioxidant: E300, TARWEGLUTEN), zonnebloemolie, 3% knoflook, 0,7% kruiden (peterselie, rozemarijn, majoraan, basilicum, oregano, tijm), zout).\n*= Beter Leven keurmerk 1 ster\n\nDit product kan sporen van NOTEN en SESAM bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "611.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "146.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.737",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.411",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.12",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.174",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.345",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.143",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "10.202",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.218",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.508",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.203",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.032",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.476",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:39:36"
+}

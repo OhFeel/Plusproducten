@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Duyvis Fijnproevers paprika",
+  "brand": "Duyvis",
+  "price": "3.99",
+  "base_unit_price": "28.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/345143_M/d6d828a39bfb142112541bcdfb7f0d39/345143.png",
+  "ingredients": "Ingrediënten: AMANDELEN (55%), PECANNOTEN (40%), zonnebloemolie, lichte rooksmaak [zout, rijstebloem, suiker, gistextract, gerookt zout, natuurlijk aroma, gerookte maltodextrine]. Kan tarwe, soja, mosterd, melk, pinda's en verschillende soorten noten bevatten.",
+  "allergens": "Noten, amandelen, pecannoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2690.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "645.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:35"
+}

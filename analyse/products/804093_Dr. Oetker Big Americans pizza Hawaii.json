@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Big Americans pizza Hawaii",
+  "brand": "Dr. Oetker",
+  "price": "4.99",
+  "base_unit_price": "10.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/804093_M/afc8272eae691f469060a3441f88fb9b/804093.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 11% KAAS (MOZZARELLA, EDAMMER), 11% ingemaakte ananasstukjes (ananas, water, suiker, voedingszuur (citroenzuur)), 8,3% gezeefde tomaten, 5,3% gekookte achterham (varkensvlees, water, zout, dextrose, stabilisatoren (difosfaten, trifosfaten, natriumnitriet), antioxidant (natriumascorbaat), specerijenextract, rookaroma), tomatenconcentraat, raapzaadolie, suiker, bakkersgist, zout, brandewijnazijn, gemodificeerd zetmeel, peterselie, specerijen. Kan bevatten: SOJA, MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "922.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "219.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.99",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:54"
+}

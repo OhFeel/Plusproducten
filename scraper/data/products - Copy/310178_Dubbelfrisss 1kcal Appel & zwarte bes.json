@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dubbelfrisss 1kcal Appel & zwarte bes",
+  "brand": "Dubbelfrisss",
+  "price": "2.69",
+  "base_unit_price": "1.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/310178_M/5788cd8f9e37b23cebcd051c8ab27d98/310178.png",
+  "ingredients": "Ingrediënten: Bronwater, vruchtensap uit concentraat 2,2% (zwarte bes 1,2%, appel 1,0%), wortelsap uit concentraat, voedingszuur (citroenzuur), aroma's, zoetstof (sucralose), koolzuur (<lt/>0,1%)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "5.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "1.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.003",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:08:05"
+}

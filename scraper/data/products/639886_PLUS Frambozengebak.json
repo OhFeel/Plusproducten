@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Frambozengebak",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "2.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639886_M/3ddece943b590bd4e7828691948a3e6c/639886.png",
+  "ingredients": "Ingrediënten :26% Framboos, magere MELK, suiker, TARWEBLOEM, water, 8% roomboter (MELK), plantaardige oliën (palmpit, palm, raapzaad), 1,7% AMANDEL, SCHARRELEI, dextrose, gemodificeerd aardappelzetmeel, stabilisator: E170/E420/E339/E263/E407, cacaoboter, emulgator: E472b/E477/E471/E433/E322(SOJA), volle MELKPOEDER, kleurstof: E101/E160b(ii)/E160a, verdikkingsmiddel: pectinen/xanthaangom, rijsmiddel: E500/E450, cacaomassa, magere MELKPOEDER, zuurteregelaar: E575/E331/E330, TARWEZETMEEL, weipoeder (MELK), invertsuikerstroop, bakkerszout, plantaardige vetten (kokos, palmpit, palm), gedroogde glucosestroop, natuurlijk citroenaroma, MELKEIWITTEN, zout, glucosestroop, conserveermiddel: E202, limoenvezel, citroenvezel, TARWEMOUTMEEL, aroma's, lactose (MELK), SCHARRELKIPPENEI-EIGEEL, glucose-fructosestroop, natuurlijk aroma, boterolie (MELK), wortelconcentraat, zwarte besextract, natuurlijk vanillearoma, gemodificeerd maïszetmeel.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1118.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "268.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.225",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "16.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:19"
+}

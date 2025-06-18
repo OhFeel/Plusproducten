@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Confina Gechocolateerde hazelnoten",
+  "brand": "Confina",
+  "price": "2.19",
+  "base_unit_price": "10.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/291183_M/adb2f91fbb3a64f34b69ee7aa4421b02/291183.png",
+  "ingredients": "Ingrediënten: suiker, HAZELNOTEN 21%, cacaoboter, cacaomassa, magere MELKpoeder, roompoeder (MELK), watervrij MELKvet, weipoeder (MELK), maltodextrine, emulgator: lecithinen (SOJA), glansmiddel: arabische gom, glucosestroop, natuurlijk vanillearoma. Kan gluten en andere noten bevatten.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2322.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "557.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:59:29"
+}

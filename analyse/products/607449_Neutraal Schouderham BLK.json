@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Neutraal Schouderham BLK",
+  "brand": "Neutraal",
+  "price": "1.79",
+  "base_unit_price": "11.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/607449_M/032f772e51fb0c2dcf0eea2b8726654b/607449.png",
+  "ingredients": "ingerdienten: varkensvlees* (67%), water, aardappelzetmeel, dextrose, voedingszuur (e326, e330), zout, conserveermiddel (e267, e250), varkenseiwit, verdikkingsmiddel (e407), natuurlijk aroma, stabilisator (e451), antioxidant (e301)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "523.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:37"
+}

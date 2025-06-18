@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Monster Energy pacific punch",
+  "brand": "Monster",
+  "price": "2.29",
+  "base_unit_price": "4.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/300339_M/ecfab1c6c2ae13c7da660d0e84df62a1/300339.png",
+  "ingredients": "sprankelend water, suiker, vruchtensap uit concentraten (6%) (sinaasappel, appel, framboos, kers, guave, ananas, passievrucht), glucosestroop, taurine (0.4%), voedingszuur (citroenzuur), maltodextrin, aroma’s, zuurteregelaar (natriumcitraten), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), cafeïne (0.03%), stabilisatoren (arabische gom, glycerolesters van houthars), zoetstof (sucralose), vitamines (niacin, riboflavine, b6, b12), l-carnitine l-tartraat (0.004%), natriumchloride, inositol, kleurstoffen (e129, e133).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "195.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "46.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.56",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "6.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.56",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "1.0",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:44"
+}

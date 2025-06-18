@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Kasteel bier Donker",
+  "brand": "Kasteel bier",
+  "price": "2.25",
+  "base_unit_price": "6.82",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/757827_M/ed4dd755eab05dc6eaec571c47397815/757827.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, suiker, hop.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "11",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:38:58"
+}

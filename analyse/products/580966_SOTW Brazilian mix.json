@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "SOTW Brazilian mix",
+  "brand": "SOTW",
+  "price": "3.79",
+  "base_unit_price": "10.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/580966_M/987f19d7fcc432080a484284c992c7b0/580966.png",
+  "ingredients": "Ingrediënten: 36% PINDA'S, 16% rijst, 12% maïs, plantaardige olie (zonnebloem, paprika), zetmeel (aardappel, kleefmaïs, tapioca, TARWE, maïs), zonnebloempitten, 3% aardappelpoeder, suiker, TARWEmeel, zout, sojasaus (water, SOJAbonen, TARWE, zout), paprika kruiden (poedersuiker, zout, tomatenpoeder, uienpoeder, natuurlijk gerookt paprikapoeder, zoete paprikapoeder, peperpoeder, zuurteregelaar [citroenzuur]), maltodextrine, poedersuiker, natuurlijk aroma, kruiden en specerijen, kleurstof (paprika-extract, karamel, carotenen, E100, E120), gistextract, havervezels, emulgator (E471), voedingszuur (melkzuur), zuurteregelaar (citroenzuur, E262), stabilisator (E466), gerookte dextrose, gemodificeerd tapiocazetmeel, gerookt zout, rozemarijn extract, rode bietensapconcentraat, rozemarijn, natuurlijke oregano aroma, capsicum-extract, rookaroma, glucosestroop. KAN NOTEN EN SESAM BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2157.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "515.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:48:56"
+}

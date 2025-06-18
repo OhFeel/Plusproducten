@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Schär Glutenvrije Digestive chocolate",
+  "brand": "Schär",
+  "price": "2.39",
+  "base_unit_price": "15.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/287691_M/d1576c2532b4294d667c207d5e55cf13/287691.png",
+  "ingredients": "Ingrediënten: MELKCHOCOLADE 29% (cacao 35% - suiker, cacaoboter, VOLLE-MELKPOEDER 17%, cacaomassa 10%, MAGERE-MELKPOEDER 3,8%, emulgator: SOJALECITTHINE, natuurlijk aroma), maïszetmeel, palmvet, rietsuiker, maïsmeel, SOJAMEEL, SOJAZEMELEN, boekweitmeel, suikerbietstroop, gemodificeerd tapiocazetmeel, zout, rijsmiddelen: ammoniumbicarbonaat, natriumbicarbonaat\nKan sporen van LUPINE bevatten",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2144.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "512.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.74",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:57:19"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Kleine salade tomaat mozzarella",
+  "brand": "PLUS",
+  "price": "3.79",
+  "base_unit_price": "18.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/665009_M/285d20f132be1808bbe7340b742714c7/665009.png",
+  "ingredients": "Ingrediënten :25% cherrytomaten, 17% rode paprika, 16% gele cherrytomaten, 15% courgette, 12% mozzarella (MELK, zout, voedingszuur: citroenzuur, stremsel), 12% pestodressing (water, olijfolie, zonnebloemolie, 1,8% groene pesto (basilicum, water, olijfolie, zonnebloemolie, peterselie, pijnboompitten, knoflook, zwarte peper, natuurazijn, zout), natuurazijn, suiker, zout, specerijen (zwarte peper, kurkuma), conserveermiddel: natriumbenzoaat, kaaspoeder (MELK, zout, stremsel, zuursel), natuurlijk aroma, stabilisator: xanthaangom, gemodificeerd maïszetmeel, kruiden (basilicum, peterselie), knoflook, spinazie), 3,5% rucola.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "408.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "98.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.787",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.882",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.71",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.821",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.351",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.988",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.233",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.093",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.064",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:53"
+}

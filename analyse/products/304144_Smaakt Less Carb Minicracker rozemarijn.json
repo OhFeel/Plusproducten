@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Less Carb Minicracker rozemarijn",
+  "brand": "Smaakt",
+  "price": "4.49",
+  "base_unit_price": "22.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/304144_M/1713b7eb3b33ad08368ca346108577bb/304144.png",
+  "ingredients": "Ingrediënten: Volkoren TARWEmeel*, SOJAbloem*, SESAMzaad*, zonnebloempitten*, lijnzaad*, TARWEGLUTEN*, zonnebloemolie*, water, zout, rozemarijn* 0,8%, gist, *=biologisch\nKan sporen bevatten van andere glutenbevattende granen, eieren, melk, noten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2012.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "484.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:38"
+}

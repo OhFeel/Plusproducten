@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Mini's Funmix favorites",
+  "brand": "Mora",
+  "price": "7.49",
+  "base_unit_price": "10.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/376940_M/272b5f0f5c8482479365102813d89ffb/376940.png",
+  "ingredients": "Ingrediënten: Bamihapje: gekookte mie 53% (water, harde TARWEgries), groenten 13% (ui, prei, kool, paprika), paneermeel (TARWEbloem, zout, gist, kleurstoffen: annattobixine en annatto norbixine), plantaardige oliën (palm, raap, zonnebloem), water, doorhaalmiddel (bloem (TARWE, rijste), TARWEzetmeel, zout, dextrose, TARWEgluten, bamikruiden (zout, dextrose, kruiden en specerijen (bevat SELDERIJ), zetmeel (TARWE, aardappel), natuurlijk aroma, knoflookpoeder), rundergelatine, ketjap (water, melasse, suiker, SOJA-eiwithydrolysaat, zout, SOJAsaus (water, SOJAbonen, TARWE, zout, SOJA), TARWEzetmeel, zoethoutwortel-extract, gebrande suikerstroop), sambal (rode pepers, zout), natuurlijk aroma (bevat SELDERIJ). Bitterbal: water, paneermeel (TARWEbloem, volkorenTARWEmeel, zonnebloemolie, gist, zout), TARWEbloem, plantaardige oliën (palm, raap, zonnebloem), scharrel- kippenEI-eiwit, gekookt rundvlees 5%, rundergelatine, natuurlijke aroma's (bevat SELDERIJ), TARWE-eiwit, zout, verdikkingsmiddelen: E464 en guarpitmeel, dextrose, groentepoeder (ui, knoflook), kleurstoffen: karamel en E150d, kruiden en specerijen, emulgator: soja-lecithine, TARWEzetmeel, rundercollageen. Frikandel: kippenseparatorvlees 48%, water, varkensvlees 15%, paneermeel (TARWEbloem, water, gist, zout), varkensvet, ui, zout, kruiden en specerijen, dextrose, knoflook, glucosestroop, emulgatoren: E450 en E452, natuurlijk aroma, maltodextrine, antioxidanten: ascorbinezuur en citroenzuur, TARWE- eiwithydrolysaat, EI. Kipnugget: kippenseparatorvlees 25%, water, TARWEbloem, plant- aardige oliën (palm, raap), paneermeel (TARWEbloem, water, gist, zout), kippen- collageen, SOJA-eiwitconcentraat, zout, dextrose, emulgatoren: E450, E451 en E452, natuurlijke aroma. Kan sporen van EI bevatten. Kan sporen van PINDA bevatten. \"E\"-nummers zijn door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1001.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "240.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:30:05"
+}

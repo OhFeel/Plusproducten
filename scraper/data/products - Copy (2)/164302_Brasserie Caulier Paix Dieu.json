@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Brasserie Caulier Paix Dieu",
+  "brand": "Brasserie Caulier",
+  "price": "2.99",
+  "base_unit_price": "9.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/164302_M/21deb38b0aa39d70ed9e0b2ea05187ac/164302.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, hop, suikers, gist",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "10",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:30"
+}

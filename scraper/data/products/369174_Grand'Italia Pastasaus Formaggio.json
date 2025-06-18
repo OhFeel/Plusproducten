@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Pastasaus Formaggio",
+  "brand": "Grand'Italia",
+  "price": "4.29",
+  "base_unit_price": "10.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/369174_M/10437845be60aa77fcab719622ced533/369174.png",
+  "ingredients": "Ingrediënten: Tomatenpulp (45%), semi-geconcentreerde tomaat (36%), water, KAAS (2,7%) (Grana Padano KAAS met EI-proteïne, Pecorino Romano KAAS), olijfolie, geconcentreerde tomaat (1,6%), magere MELKpoeder, zout, suiker, aroma (bevat MELK), specerijen, zuurteregelaar: melkzuur.\n\nKan sporen bevatten van selderij.",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "293.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.96",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:26:18"
+}

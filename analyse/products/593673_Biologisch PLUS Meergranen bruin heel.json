@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Biologisch PLUS Meergranen bruin heel",
+  "brand": "Biologisch PLUS",
+  "price": "2.89",
+  "base_unit_price": "2.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/593673_M/ae268db10ad8057461775d9667550a72/593673.png",
+  "ingredients": "Ingrediënten :Ingrediënten: 27% VOLKORENTARWEMEEL*, water, 22% TARWEBLOEM*, TARWEGLUTEN*, zonnebloempitten*, bakkersgist, lijnzaad*, 2,6% HAVERVLOKKEN*, 2,5% moutmeel (GERST*, TARWE*), 1,3% speltbloem* (TARWE), 1,3% ROGGEVLOKKEN*, bakkerszout, SESAMZAAD*, plantaardige oliën (raapzaad*, zonnebloem*), 0,6% gierst*, suiker*, gebrande suiker*, 0,4% TARWEGRIES*, 0,3% GERSTEVLOKKEN*, 0,2% maïsgries*, 0,2% rijstevlokken*, meelverbeteraar: E300, enzym (TARWE). * van biologische oorsprong   Kan sporen bevatten van: ANDERE GLUTENBEVATTENDE GRANEN, EI, SOJA, MELK, NOTEN en LUPINE.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1086.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "258.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.82",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "37.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.043",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.417",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.76",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:55:36"
+}

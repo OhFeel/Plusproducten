@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix speklap cajun",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "67.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/300265_M/6cc9dbf4af304bec5222cd34e0f9e2d4/300265.png",
+  "ingredients": "Ingrediënten: Tarwemeel (met calcium, ijzer, niacine, thiamine), specerijen 20% (gedroogde knoflook 11%, piment 4%, gember, zwarte peper, venkelzaad, chilipeper), suiker, gemodificeerd zetmeel, aroma's (bevat gerst, mosterd, tarwe), zout 7%, tomatenpoeder 6.7%, tijm 2%, palmolie, antiklontermiddel: siliciumdioxide, kleurstof: paprika-extract. Totale gehalte aan kruiden en specerijen: 22%",
+  "allergens": "Glutenbevattende granen, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1399.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "334.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "11.34",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:39"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Magnum Pint almond",
+  "brand": "Magnum",
+  "price": "7.59",
+  "base_unit_price": "17.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/312525_M/e855265108f47b10e489da54927ca826/312525.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, suiker, ROOM (18%), glucose-fructosestroop, cacaoboter¹, AMANDELEN, magere MELKPOEDER, BOTERCONCENTRAAT, magere MELKPOEDER of -concentraat, cacaomassa¹, glucosestroop, emulgatoren (E471, lecithines), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma¹ (bevat MELK), gekarameliseerde suikerstroop, natuurlijk vanille aroma, kleurstof (carotenen). Kan HAZELNOOT, WALNOOT, CASHEWNOOT, PECANNOOT, PARANOOT, PISTACHENOOT en MACADAMIANOOT bevatten. Glutenvrij. ¹Rainforest Alliance gecertificeerd.",
+  "allergens": "Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1363.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "326.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:08:43"
+}

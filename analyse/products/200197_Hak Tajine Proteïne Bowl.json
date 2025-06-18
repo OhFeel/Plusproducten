@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hak Tajine Proteïne Bowl",
+  "brand": "Hak",
+  "price": "3.99",
+  "base_unit_price": "7.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/200197_M/a38ce5715d5e2636d830f155f107ab22/200197.png",
+  "ingredients": "Ingrediënten: Groenten 49% (tomaat, oranje wortel 7%, gele wortel 6%, tomatenpuree, pompoen, zoete aardappel 5%, ui), kikkererwten 16%, water, LUPINEgrutten 7%, mangopuree, erwtencouscous (erwtenmeel) 4%, kokosmelk (kokosnootextract, water), tuinbonen-eiwitisolaat, LUPINE-eiwitconcentraat, raapzaadolie, peterselie, zeezout, komijnzaad, knoflook, gember, korianderzaad, kaneel, cayennepeper, natuurazijn, citrusvezel.",
+  "allergens": "Lupine",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "393.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "94.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.59",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:36"
+}

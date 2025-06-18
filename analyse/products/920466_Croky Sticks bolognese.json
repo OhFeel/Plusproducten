@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Croky Sticks bolognese",
+  "brand": "Croky",
+  "price": "0.99",
+  "base_unit_price": "6.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/920466_M/27a33e93f2cf0d2c2f3d4e75af399013/920466.png",
+  "ingredients": "Ingrediënten: aardappelen, zonnebloemolie, bolognesekruiding (maïsbloem, zout, SOJA-eiwithydrolysaat, dextrose, aroma, smaakversterker (mononatriumglutamaat), specerijen, tomaatpoeder, voedingszuur (citroenzuur), rookaroma, wortelpoeder).",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2083.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "499.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:59"
+}

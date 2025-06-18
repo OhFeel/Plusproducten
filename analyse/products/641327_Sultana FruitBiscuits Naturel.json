@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Sultana FruitBiscuits Naturel",
+  "brand": "Sultana",
+  "price": "2.45",
+  "base_unit_price": "11.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/641327_M/ce917488ccba7df47930e2e3d5d54f4d/641327.png",
+  "ingredients": "Ingrediënten: TARWEbloem, gedroogde druiven 35% (rozijnen en krenten in wisselende verhoudingen), zonnebloemolie, suiker, maltodextrine, rijstebloem, inuline, weipermeaatpoeder (MELK), glucosestroop, rijsmiddelen (natriumcarbonaten, difosfaten), zout, magere MELKpoeder, natuurlijke aroma's (bevat MELK)\n\nKan noten, sesamzaad en andere glutenbevattende granen bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1651.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "391.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:33"
+}

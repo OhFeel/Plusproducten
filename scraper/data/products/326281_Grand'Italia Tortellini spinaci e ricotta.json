@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Tortellini spinaci e ricotta",
+  "brand": "Grand'Italia",
+  "price": "2.99",
+  "base_unit_price": "13.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326281_M/86a98791b64f24160054f6cbd1a3ac55/326281.png",
+  "ingredients": "Ingrediënten: PASTA (70%): Durum TARWEGRIES, SCHARRELEI (24% per kg semolina), spinaziepoeder (1,5%). Vulling (30%): paneermeel (TARWEBLOEM type \"0\", zout, gist), spinazie (20%), gedroogde kaas (10,5%) (MELK, zout, stremsel, lysozym van EI), plantaardige margarine (kokosvet, plantaardige oliën (zonnebloem, raapzaad, soja, in wisselende verhouding), water), ricotta (9,3%) (WEI, zout, zuurteregelaar: citroenzuur), gesmolten kaaspoeder (7,5%) (MELK, WEI, zout, enzymen), WEIPOEDER, aroma's, zout, knoflook, peper. Kan sporen bevatten van SOJA en MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1588.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "377.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:25"
+}

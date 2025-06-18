@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Muesli Proteïne",
+  "brand": "Zonnatura",
+  "price": "2.99",
+  "base_unit_price": "7.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/125426_M/74989d0f9469c6f93318d29a379a9e0b/125426.png",
+  "ingredients": "Ingrediënten: SOJAvlokken* 33%, volkoren HAVERvlokken* [GLUTEN] 26%, volkoren TARWEvlokken* [GLUTEN] 25%, rozijnen* 8% (rozijnen*, zonnebloemolie*), dadels* 5% (dadels*, rijstmeel*), boekweit* 1%, gevriesdroogde rode bessen* 0,5%, gevriesdroogde zwarte bessen* 0,5%, gevriesdroogde aardbeien*. *Ingrediënt van biologische teelt. Kan sporen bevatten van melk,noten en sesamzaad.\n\n",
+  "allergens": "Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1602.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "381.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:49:05"
+}

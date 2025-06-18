@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mama's Maaltijden Poké bowl zalm",
+  "brand": "Mama's Maaltijden",
+  "price": "7.99",
+  "base_unit_price": "19.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/613047_M/ccc81be907eb40591b378a65d6ee90a2/613047.png",
+  "ingredients": "54% rijst (water, rijst, invertsuikerstroop, suikerstroop, natuurazijn, zout, smaakversterker (E621)), 9,1% mango, 9,1% SOJABONEN, 8,0% warmgerookte zalm (97% zalm (VIS), zout, gebufferd azijn (conserverend ingrediënt), rook), komkommer (komkommer, natuurazijn, suikerstroop), zeewiersalade (70% zeewier, verdikkingsmiddel (E406), champignons, suiker, SESAMOLIE, SOJABONEN, water, zout, rijstazijn, kleurstoffen (E100, E141), SESAMZAAD, chili), radijs, 1,8% sojasaus (water, SOJABONEN, TARWE, zout, azijn, alcohol, suiker), furikake (SESAMZAAD, zout, maïszetmeel, suiker, glucose, LACTOSE, zeewier, smaakversterkers (E621, E635), gedroogde bonito (VIS), rijst, aroma, mizuna, water, wasabi, dextrine, groene thee poeder, kelp poeder, specerijen (MOSTERD), kelp extract, gistextract, ui poeder, SOJABONEN, TARWE, gist, alcohol), zonnebloemolie, azijn.",
+  "allergens": "Glutenbevattende granen, Vis, Soja, Melk, Mosterd, Sesamzaad, Zalm en producten op basis van zalm, Blauwbaars en producten op basis van blauwbaars",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "533.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "126.3",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:07"
+}

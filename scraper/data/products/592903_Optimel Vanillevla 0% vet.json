@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Optimel Vanillevla 0% vet",
+  "brand": "Optimel",
+  "price": "2.39",
+  "base_unit_price": "2.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/592903_M/5d88f12533a0425490743403909e7a02/592903.png",
+  "ingredients": "Ingrediënten: Magere MELK, gemodificeerd en natief maïszetmeel, verdikkingsmiddel: carrageen, zout , aroma   , kleurend plantenextract (wortel), zoetstof: sucralose",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "213.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "50.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:55:29"
+}

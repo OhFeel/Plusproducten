@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "GIJS Boeren rundvleessalade",
+  "brand": "GIJS",
+  "price": "3.99",
+  "base_unit_price": "9.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681015_M/79479a9d8e3f61477ecd40903270aceb/681015.png",
+  "ingredients": "Ingrediënten: aardappel (34%), groente (23%)(erwten, augurk, zilverui, wortel, bonen, witte bonen, rapen), rundvlees (19%), plantaardige olie (raapzaad), ui*, scharrelkippenei (EI), zout, mosterd (MOSTERD) (water, mosterdzaad (MOSTERD), azijn, specerijen), suiker, azijn, rijstebloem, conserveermiddel (E211, E202), specerijen, dextrose, verdikkingsmiddel (E412), antioxidant (E223), gistextract, water, glucosestroop, aroma, zetmeel (aardappel), glucose-fructosestroop, gemodificeerd zetmeel (maïs), voedingszuur (E330, E385), kleurstof (E160a), zoetstof (E954).",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "803.12",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "193.53",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.84",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.58",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.44",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.83",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:37"
+}

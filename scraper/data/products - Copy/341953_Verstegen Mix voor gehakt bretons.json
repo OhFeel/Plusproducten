@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verstegen Mix voor gehakt bretons",
+  "brand": "Verstegen",
+  "price": "1.69",
+  "base_unit_price": "56.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/341953_M/77d5dd38e1fc221939c13c3f810fa396/341953.png",
+  "ingredients": "Ingrediënten: PANEERMELEN (bevat TARWE, ROGGE), groenten (8% ui, 7% paprika, prei, wortel, 1% geroosterde knoflook, 1% knoflook, 1% geroosterde ui, tomaat), zout, MELKEIWIT, specerijen (3% peper, MOSTERDZAAD, foelie), kruiden (bevat SELDERIJ). ",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1340.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "317.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "10.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:17:47"
+}

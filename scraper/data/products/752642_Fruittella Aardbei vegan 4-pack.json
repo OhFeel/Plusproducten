@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fruittella Aardbei vegan 4-pack",
+  "brand": "Fruittella",
+  "price": "2.49",
+  "base_unit_price": "15.18",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/752642_M/e7f232378adef334e6e52cceb33fbbc3/752642.png",
+  "ingredients": "glucosestroop, suiker, kokosolie, aardbeiensap (3%), voedingszuren (citroenzuur, appelzuur), maltodextrine, emulgatoren (mono- en diglyceriden van vetzuren, sucrose-esters van vetzuren), bevochtigingsmiddel (glycerol), geleermiddel (arabische gom), cacaoboter, natuurlijk aroma, concentraten (zwarte wortel, vlierbes), verdikkingsmiddel (gellangom).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1629.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "384.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:37:16"
+}

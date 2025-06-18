@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Santa maria Chunky wrap salsa medium",
+  "brand": "Santa maria",
+  "price": "2.19",
+  "base_unit_price": "9.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/288413_M/8e73120b7c7fd019d6532349cebf2347/288413.png",
+  "ingredients": "Ingrediënten: Tomaat (81%)(geplette tomaten, tomatenpuree), water, ui (2%), groene paprika, zout, kruiden en specerijen (chilipeper, knoflook, komijn, cayennepeper, koriander, oregano), limoensap, maïszetmeel, rode paprika, jalapeño (0,07%).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "136.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "32.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:04"
+}

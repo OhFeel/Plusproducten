@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Kips Slagersleverworst",
+  "brand": "Kips",
+  "price": "2.19",
+  "base_unit_price": "9.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/197425_M/7bdd13a7abd3d716e08d51bcaad0b9d2/197425.png",
+  "ingredients": "varkenslever* 37%, varkensspek* 25%, water, varkenszwoerd*, aardappelzetmeel, zout, varkenshemoglobine, specerijen, stabilisator: e451, suiker, aroma, kruiden, conserveermiddel: e250. * = beter leven keurmerk 1 ster. e = door de eu goedgekeurde hulpstof.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1132.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "273.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.15",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "6.7",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:17:33"
+}

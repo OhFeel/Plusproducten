@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Elinas Griekse stijl yoghurt honing 4-pack",
+  "brand": "Elinas",
+  "price": "2.19",
+  "base_unit_price": "3.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/842589_M/d5731cac11c8be77b214120d5e5090de/842589.png",
+  "ingredients": "Ingrediënten: YOGHURT, honingpreparaat (honing, water, suiker, gemodificeerd zetmeel, verdikkingsmiddel: E440, E410, aroma, kleurend wortelconcentraat, voedingszuur E330), suiker\nKan sporen van SCHAALVRUCHTEN bevatten",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "612.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "146.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "100.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:16"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Appassimento Rosso Puglia",
+  "brand": "Appassimento",
+  "price": "6.29",
+  "base_unit_price": "8.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/767333_M/c4d2f2e6d52457c2122fd1732954d3f3/767333.png",
+  "ingredients": "Bevat sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "14.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:51"
+}

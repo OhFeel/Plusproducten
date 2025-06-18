@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Coca-Cola Zero sugar 4-pack",
+  "brand": "Coca-Cola",
+  "price": "9.65",
+  "base_unit_price": "1.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/250642_M/4705eb41a63b30bde2f6079cf886a685/250642.png",
+  "ingredients": "sprankelend water; kleurstof: e150d; voedingszuren: e338, e331; zoetstoffen: aspartaam, acesulfaam-k; natuurlijke aroma's (plantenextracten), waaronder cafeïne.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1.4",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "0.3",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:43:05"
+}

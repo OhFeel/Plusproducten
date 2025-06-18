@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Chio Popchips paprika",
+  "brand": "Chio",
+  "price": "1.99",
+  "base_unit_price": "28.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/565046_M/aae6793c480f8235590a33a41e6ef005/565046.png",
+  "ingredients": "Ingrediënten: aardappelpoeder (29%), aardappelzetmeel (26%), rijstbloem, raapzaadolie, suiker, zout, paprikapoeder, zure roompoeder (MELK), zoete weipoeder (MELK), gemalen peper, chilipoeder, gistextract, uipoeder, tomatenpoeder, glucosesiroop, knoflookpoeder, specerijen, maltodextrine, natuurlijk aroma, emulgator (lecithinen), kleurstof (paprika-extract), voedingszuur (citroenzuur). Kan sporen bevatten van TARWE en SESAM.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1892.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "450.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:13"
+}

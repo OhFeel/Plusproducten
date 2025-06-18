@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Mega mix oven&airfryer",
+  "brand": "Mora",
+  "price": "6.89",
+  "base_unit_price": "11.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/351227_M/cfa72fec298165b8d34745679cc00e51/351227.png",
+  "ingredients": "Ingrediënten: Rundvlees bitterbal: water, bloem (bevat TARWE), plantaardige oliën (palm, raapzaad, zonnebloem), volkorenmeel (bevat TARWE), rundvlees 5%*, zout, glucosestroop, gist, TARWE-eiwit, rundercollageen, dextrose, rundergelatine, natuurlijk aroma, specerijen, gistextract, zetmeel (bevat TARWE), kruiden, kleurstoffen: karamel en E150d, rundereiwit, stabilisatoren: E466, E450 en E452, suikerstroop, suiker, invertsuikerstroop, gebrande suiker. *Komt overeen met 4% gekookt rundvlees. Mini frikandel: kippenseparatorvlees 52%, varkensspek, water, bloem (bevat TARWE), zout, ui, specerijen, dextrose, kleurstof: karamel, glucosestroop, maltodextrine, stabilisator: E450 en E452, gistextract, gist, antioxidant: ascorbinezuur, natuurljik aroma, voedingszuur: citroenzuur, specerij-extract. Kipkantje: kippenseparatorvlees 27%, water, bloem (bevat TARWE, SOJA, ROGGE), plantaardige oliën (palm, raapzaad), maïs, kippenvlees 5%, kippenvet, kippencollageen, zout, specerijen, SOJA-eiwit, gistextract, suiker, moutextract (bevat GERST), stabilisatoren: E450 en E451, zetmeel (bevat TARWE), natuurlijk aroma, gist, rijsmiddel: E500, TARWEgluten, WEI-eiwitconcentraat (bevat MELK), MELKeiwit. Bamihapje: water, bloem (bevat TARWE), mie 19% (harde TARWEgries, water), plantaardige oliën (palm, raapzaad, zonnebloem), ui, wortel, suiker, zout, natuurlijk aroma (bevat SOJA), melasse, specerijen, paprika, maltodextrine, prei, glucosestroop, gist, knoflook, zetmeel (bevat TARWE), verdikkingsmiddelen: E406 en E466, dextrose, knoflookpoeder, gemodificeerd zetmeel, azijn, kleurstoffen: annatto bixine en annatto norbixine, kruiden, witte kool, TARWEgluten, champignonpoeder, SOJAbonen, maltodextrine, TARWE, zuurteregelaar: azijnzuur, conserveermiddelen: E202 en E211.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "828.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "197.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:19:37"
+}

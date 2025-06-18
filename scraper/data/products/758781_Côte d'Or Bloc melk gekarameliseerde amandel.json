@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Côte d'Or Bloc melk gekarameliseerde amandel",
+  "brand": "Côte d'Or",
+  "price": "5.49",
+  "base_unit_price": "30.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/758781_M/445a67bc8fa02287d7a2b01dd7175e81/758781.png",
+  "ingredients": "Ingrediënten: Suiker, AMANDELSTUKJES (15%), cacaomassa, cacaoboter, magere MELKPOEDER, weipoeder (van MELK),  MELKVET, zout (0,5%), glucosestroop, emulgator (SOJALECITHINEN), natuurlijk vanillearoma, aroma's. KAN BEVATTEN : ANDERE NOTEN.",
+  "allergens": "Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2191.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "525.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:14"
+}

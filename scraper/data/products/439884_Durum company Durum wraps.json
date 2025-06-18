@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Durum company Durum wraps",
+  "brand": "Durum company",
+  "price": "2.69",
+  "base_unit_price": "4.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/439884_M/819942a1664bc4bff5c87a104bd88010/439884.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM (60%), water, plantaardige vetten, verdikkingsmiddel: E412, rijsmiddelen: E500; E450i, zout, voedingszuur: E296, emulgator: E471, dextrose, konserveringsmiddelen: E202, E282",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1126.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "269.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:07"
+}

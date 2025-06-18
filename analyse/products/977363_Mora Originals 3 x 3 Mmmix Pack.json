@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mora Originals 3 x 3 Mmmix Pack",
+  "brand": "Mora",
+  "price": "6.79",
+  "base_unit_price": "10.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/977363_M/ef33ecc608ef579f8f93c78b2518b70e/977363.png",
+  "ingredients": "Ingrediënten: Kipkorn: kippenvlees 34% (waarvan mechanisch gesepareerd kippenvlees 21%), water, plantaardige oliën (palm, raap), paneermeel (TARWEbloem, water, gist, zout), cornflakes (maïs, GERSTEmoutextract, zout, suiker), TARWEbloem, kippenvet, kippencollageen, SOJA-eiwit concentraat, zout, doorhaalmiddel (meel (TARWE, ROGGE), TARWEzetmeel, rijsmiddelen: E450 en E500, zout, palmolie, weipoeder (MELK), MELKeiwit, TARWEgluten), emulgatoren: E450, E451 en E452, natuurlijke aroma's, specerijen, uipoeder, antioxidant: E300, kruiden. Kan sporen van EI bevatten. Ingrediënten: Carrero: mechanisch gesepareerd kippenvlees 44%, varkensvlees 15%, varkensvet, ui, paneermeel (TARWEbloem, volkorenTARWEmeel, water, gist, zout), varkenscollageen, knoflook, zetmeel, paprika, zout, sambal (rode pepers, zout), prei, kruiden en specerijen, ketjap (SOJAsaus (water, SOJAbonen, zout, TARWE), suiker, water, suikerstroop, melasse, zout, natuurazijn, gistextract, zoethoutwortelextract, laurierextract, salmiaczout), champignon, natuurlijk aroma, gehydrolyseerd TARWE-eiwit, dextrose, emulgatoren: E450, E452, antioxidanten: E316, citroenzuur, rozemarijnextract, zonnebloemolie, conserveermiddel: E250. Ingrediënten: Viandel: mechanisch gesepareerd kippenvlees 31%, water, bloem (TARWE, ROGGE), varkensvet, paneermeel (TARWEbloem, water, gist, zout), plantaardige oliën (palm, raap, zonnebloem), ui, varkenscollageen, varkensvlees 2%, zout, viandelmix (glucosestroop, specerijen, natuurlijk aroma, SOJA-eiwit, zout, raapolie), maltodextrine, natuurlijke aroma, gemodificeerd zetmeel, groentepoeder (ui, knoflook, peterselie, champignon, paprika), glucosestroop, plantaardige vezels, kruiden en specerijen (bevat SELDERIJ), stabilisatoren: E450, E451, dextrose, zetmeel (TARWE), rijsmiddel: E500, emulgator: E339, antioxidant: rozemarijnextract, weipoeder (MELK), MELKeiwit, TARWEgluten, kleurstof: E155. Kan sporen van EI en SESAM bevatten. \"E\"-nummers zijn door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1306.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "314.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:57"
+}

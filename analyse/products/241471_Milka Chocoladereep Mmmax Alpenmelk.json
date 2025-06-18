@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Chocoladereep Mmmax Alpenmelk",
+  "brand": "Milka",
+  "price": "3.29",
+  "base_unit_price": "13.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/241471_M/433c0e9c71de49cdfdabe82ffef94cfe/241471.png",
+  "ingredients": "Ingrediënten: Suiker, cacaoboter, cacaomassa, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), HAZELNOOTPASTA, aroma. Cacao: ten minste 33 %. KAN ANDERE NOTEN EN TARWE BEVATTEN.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2251.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "539.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:37:44"
+}

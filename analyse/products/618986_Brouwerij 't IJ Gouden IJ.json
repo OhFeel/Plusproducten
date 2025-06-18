@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Brouwerij 't IJ Gouden IJ",
+  "brand": "Brouwerij 't IJ",
+  "price": "2.79",
+  "base_unit_price": "8.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/618986_M/dd4f159e353088aad72eac204e69aa25/618986.png",
+  "ingredients": "Bevat: gerstemout, tarwemout, havervlokken, roggemout.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "231.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "55.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.8",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:43"
+}

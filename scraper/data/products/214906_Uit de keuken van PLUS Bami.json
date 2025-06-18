@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Bami",
+  "brand": "Uit de keuken van",
+  "price": "3.99",
+  "base_unit_price": "13.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/214906_M/926e3d124505414cb01314802f7e58fc/214906.png",
+  "ingredients": "57% gekookte noedels (harde TARWEGRIESMEEL, water), 10% ui, 7% wortel, 6% prei, 5% kippenvlees, 4% omelet (SCHARRELKIPPENEI HEELEI, water, koolzaadolie, maismeel, zout, geconcentreerd citroensap, witte peper, paprika, kurkuma), 3% paprika, raapzaadolie, bouillonpoeder (zout, gistextract, glucosestroop, raapzaadolie, aroma, SOJA-EIWITHYDROLISAAT, specerijen, uienolie, aardappelzetmeel), gember, gebufferd azijnpoeder (conserverend ingrediënt), tomatenpuree, SESAMOLIE (SESAMOLIE, raapzaadolie), knoflookpuree, ketjap (melasse, suiker, water, SOJASAUS (water, SOJABONEN, TARWE, zout), zout), suiker, limoensap (limoensap, conserveermiddel: E224), uienpoeder, paprikapoeder, kurkuma, witte peper.\n\n",
+  "allergens": "Tarwe, Ei, Soja, Selderij, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "567.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "135.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:24"
+}

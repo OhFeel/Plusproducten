@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Filet americain carpaccio",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "19.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/137933_M/d2abb2d8d2908935daf45288bbc9b174/137933.png",
+  "ingredients": "Ingrediënten :59% Rundvlees, water, raapzaadolie, 5% Parmezaanse kaas (rauwe MELK, zout, stremsel), 3% pijnboompitten, voedingszuur: E260/E262/E326/E330, SCHARRELKIPPENEI-EIGEEL, tomatenpuree, zout, extract van paprika, specerijen (o.a. MOSTERDZAAD), suiker, glucosestroop, aroma's (MOSTERD, MELK), azijn, gehydrolyseerde plantaardige eiwitten (raapzaad, koolzaad), zetmeel (rijst, aardappel), kaaspoeder (MELK), kruiden, gedroogde groenten (champignon, pastinaak), dextrose, stabilisator: E331, gemodificeerd maïszetmeel, lactose (MELK), verdikkingsmiddel: xanthaangom/guarpitmeel, gistextract, MELKEIWITTEN, conserveermiddel: E202, tomatenpoeder, antioxidant: E300, specerijextracten (SELDERIJ, chilipeper).",
+  "allergens": "Ei, Melk, Selderij, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1279.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "309.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.445",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.578",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:52:58"
+}

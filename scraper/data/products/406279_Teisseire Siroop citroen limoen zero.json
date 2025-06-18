@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Teisseire Siroop citroen limoen zero",
+  "brand": "Teisseire",
+  "price": "4.25",
+  "base_unit_price": "7.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/406279_M/a2520e688294bd9b76bee9b4afc5840a/406279.png",
+  "ingredients": "Ingrediënten: Water, vruchtensap uit concentraat 20% (citroen 10%, limoen 10%), vulstof: polydextrose, voedingszuur: citroenzuur, natuurlijke citroen- en limoenaroma's met andere natuurlijke aroma's, verdikkingsmiddel: xanthaangom, zoetstoffen: sucralose, steviolglycosiden uit Stevia, conserveermiddel: kaliumsorbaat, stabilisator: glycerolesters van houthars",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "100.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "23.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:41:25"
+}

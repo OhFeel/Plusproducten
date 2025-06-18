@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mama Instant Cup Noedels Rundvlees",
+  "brand": "Mama",
+  "price": "1.59",
+  "base_unit_price": "22.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/201398_M/6918c3f3959a39acf69299d6c3c0f600/201398.png",
+  "ingredients": "Ingrediënten: TARWEmeel 78% (oorsprong: niet eu), palm olie, zout, suiker, gedroogde groente (wortel, lente-ui), getextureerd SOJA-eiwit, kruiden, aroma(MELKeiwit) 0,84%, smaakversterker(E621, E635), zuurteregelaar(E500, E501, E451), chili poeder, tapioca zatmeel, kleurstof(karamel), verdikkingsmiddel(E466), SOJA saus (SOJABOON, water, zout). Kan sporen bevatten van ei, schaaldier, vis, sesam, selderij en weekdieren.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "349.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "83.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:19:13"
+}

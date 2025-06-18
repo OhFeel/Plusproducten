@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Iglo Fish Cuisine Broccoli",
+  "brand": "Iglo",
+  "price": "6.59",
+  "base_unit_price": "17.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/547570_M/b48be96644f5b72df86602d272ddab44/547570.png",
+  "ingredients": "Ingrediënten: Alaska koolVIS 52%, broccoli 16%, volle MELK, water, ui 2,6%, kwarkbereiding [kwark (MELK), magere yoghurt (MELK)], zetmeel (mais, rijst), koolzaadolie, paneermeel (TARWEbloem, gist, dextrose, zout), edammer kaas (MELK), geconcentreerd citroensap, MOSTERD 0,5%, zout, MOSTERDzaad, peterselie, nootmuskaat, peper.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "379.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.74",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "223.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Selenium",
+      "value": "10.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Tafelzout gemengd met jodiumbevattende zouten",
+      "value": "50.7",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:33:53"
+}

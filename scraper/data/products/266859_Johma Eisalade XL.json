@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Eisalade XL",
+  "brand": "Johma",
+  "price": "4.79",
+  "base_unit_price": "15.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/266859_M/2a3aca9c02a18c68b64059994384dbb5/266859.png",
+  "ingredients": "Ingrediënten: 62% gekookte EIEREN Beter Leven 2 sterren, koolzaadolie, water, suiker, gepasteuriseerd EIGEEL, bieslook, natuurazijn, zout, gemodificeerd zetmeel, zuurteregelaars (natriumacetaten, natriumlactaat), specerijen (MOSTERD, SELDERIJ), voedingszuren (citroenzuur, melkzuur), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), gistpoeder, aroma, glucosestroop, verdikkingsmiddelen (guarpitmeel, xanthaangom), zetmeel, smaakversterkers (dinatriuminosinaat, mononatriumglutamaat, natriumguanylaat), kleurstoffen (carotenen, ammoniakkaramel), gehydrolyseerde plantaardige eiwitten (koolzaad, maïs, SOJA), melasse, maltodextrine, SOJABONENPOEDER, TARWEMEEL, natuurlijke aroma's (SELDERIJ), palmolie. Kan sporen bevatten van melk, noten, pinda's, sesamzaad, schaaldieren en vis.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1251.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "303.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:46:21"
+}

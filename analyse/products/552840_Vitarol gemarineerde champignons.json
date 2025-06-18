@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vitarol gemarineerde champignons",
+  "brand": "Vitarol",
+  "price": "2.99",
+  "base_unit_price": "9.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/552840_M/d6e9c7e6c2dc91d25685ca51e06c8b75/552840.png",
+  "ingredients": "Ingrediënten: champignons, water, wortel, ui, suiker, azijn, zout, kruiden, MOSTERDZAAD, conserveermiddel: E223 (SULFIET).",
+  "allergens": "Mosterd, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "109.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "26.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:36:57"
+}

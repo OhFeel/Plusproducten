@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Oasis Appel cassis framboos",
+  "brand": "Oasis",
+  "price": "2.39",
+  "base_unit_price": "2.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/363645_M/97cafb0003335bc12bdb05a73954f0fc/363645.png",
+  "ingredients": "Ingrediënten: Bronwater 80%, vruchtensap uit concentraat 12% (appel 7,5%, zwarte bes 2%, vlierbes, acerola, framboos 0,2%), suiker 6,4%, voedingszuur: citroenzuur, natuurlijke aroma's.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "133.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "31.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:24:05"
+}

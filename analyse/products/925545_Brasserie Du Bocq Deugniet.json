@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Brasserie Du Bocq Deugniet",
+  "brand": "Brasserie Du Bocq",
+  "price": "2.49",
+  "base_unit_price": "7.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/925545_M/7f7f984e481162d1d4b99d1c11ff553d/925545.png",
+  "ingredients": "Bevat TARWE en GERSTEmout",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "7.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:07"
+}

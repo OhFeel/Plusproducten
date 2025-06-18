@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Mini frambozengebakjes",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "1.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/944279_M/c63b207adcf56da4a7ef28d4bbb5a85d/944279.png",
+  "ingredients": "Ingrediënten :Magere MELK, suiker, TARWEBLOEM, plantaardige oliën (palmpit, palm, raapzaad), 10% roomboter (MELK), water, framboos, dextrose, SCHARRELEI, 1,0% AMANDEL, gemodificeerd aardappelzetmeel, stabilisator: E450/E170/E339/E263/E407, zuurteregelaar: E500/E575/E331, emulgator: E477/E472b/E433/E471, verdikkingsmiddel: pectinen, voedingszuur: citroenzuur, kleurstof: E160b(ii)/E101/E160a/E162, glucosestroop, glucose-fructosestroop, TARWEZETMEEL, weipoeder (MELK), invertsuikerstroop, volle MELKPOEDER, bakkerszout, plantaardige vetten (kokos, palmpit, palm), natuurlijk citroenaroma, MELKEIWITTEN, zout, aroma's, citrusvezel, magere MELKPOEDER, SCHARRELKIPPENEI-EIWIT, conserveermiddel: E202, SCHARRELKIPPENEI-EIGEEL, natuurlijk aroma, wortelconcentraat, zwarte besextract, gemodificeerd maïszetmeel.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1409.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "338.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.325",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "20.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:14:52"
+}

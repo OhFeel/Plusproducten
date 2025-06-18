@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Chocoladereep melk gebroken hazelnoot",
+  "brand": "Milka",
+  "price": "1.29",
+  "base_unit_price": "14.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/240981_M/0d9460bda50571678eefea7045546ea8/240981.png",
+  "ingredients": "Ingrediënten: Suiker, cacaoboter, cacaomassa, magere MELKPOEDER, HAZELNOOTSTUKJES (9 %), weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), HAZELNOOTPASTA, aroma. KAN ANDERE NOTEN EN TARWE BEVATTEN.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2301.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "552.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:37:04"
+}

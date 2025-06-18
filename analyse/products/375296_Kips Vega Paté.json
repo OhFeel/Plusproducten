@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kips Vega Paté",
+  "brand": "Kips",
+  "price": "2.49",
+  "base_unit_price": "19.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375296_M/e4be595d907f383496a6f38c83e3217a/375296.png",
+  "ingredients": "Ingrediënten: water, plantaardige oliën (zonnebloem, kokos), groenten 16% (uien 6,5%, rode biet 4,8%, wortelpuree 2,8%, rode paprika 1,4%), SOJA-EIWITISOLAAT 4,5%, tomatenpuree, gemodificeerd maïszetmeel, erwteneiwit 2,8%, zout, gehydrolyseerd maïseiwit, specerijen, dextrose, champignonextract, gistextract, antioxidanten (E300, E301). E = een door de EU goedgekeurde hulpstof.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1047.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "253.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:28:58"
+}

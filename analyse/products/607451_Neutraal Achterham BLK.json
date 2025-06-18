@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Neutraal Achterham BLK",
+  "brand": "Neutraal",
+  "price": "1.79",
+  "base_unit_price": "11.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/607451_M/3455b77d19727dc6cb3de783c1f25e15/607451.png",
+  "ingredients": "Ingerdienten: varkensvlees* (78%), water, glucosestroop, zout, voedingszuur (E326, E330), conserveermiddel (E267, E250), aardappelzetmeel, verdikkingsmiddel (E407), rietsuiker, stabilisator (E452, E451), kruidenextract, specerijenextract, aroma, antioxidant (E301), varkenseiwit, gerookt maltodextrine.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "521.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:37"
+}

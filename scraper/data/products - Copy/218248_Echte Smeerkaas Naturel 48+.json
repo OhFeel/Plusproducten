@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Echte Smeerkaas Naturel 48+",
+  "brand": "Echte Smeerkaas",
+  "price": "1.19",
+  "base_unit_price": "11.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/218248_M/d6e0990775158a03849dcbefb7c2462c/218248.png",
+  "ingredients": "Ingrediënten: kaas (MELK), water, boter (MELK), magere MELKpoeder, MELKeiwitten, smeltzouten (E331, E450, E452), weipoeder (MELK).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1060.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "254.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:24:37"
+}

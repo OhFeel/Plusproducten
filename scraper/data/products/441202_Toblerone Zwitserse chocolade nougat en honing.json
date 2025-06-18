@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Toblerone Zwitserse chocolade nougat en honing",
+  "brand": "Toblerone",
+  "price": "1.45",
+  "base_unit_price": "14.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/441202_M/66dac1fac086300d629072ecb6a7e64c/441202.png",
+  "ingredients": "Ingrediënten: Suiker, volle MELKPOEDER, cacaoboter, cacaomassa, honing (3%), MELKVET, AMANDELEN (1,6%), emulgator (SOJALECITHINEN), EIWIT, aroma.",
+  "allergens": "Ei, Soja, Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2209.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "528.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:37"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Chocoladetablet melk minder suikers",
+  "brand": "Damhert",
+  "price": "3.89",
+  "base_unit_price": "45.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/465500_M/d199b68cb6e5b400cb792e33a610905b/465500.png",
+  "ingredients": "melkchocolade (cacao: 38% minimum) (zoetstof maltitol, volle MELKpoeder, cacaoboter, cacaomassa, emulgator: SOJAlecithine, natuurlijk vanillearoma) Overmatig gebruik kan een laxerend effect hebben. Ook glutenvrij!\nKAN SPOREN BEVATTEN VAN NOTEN.",
+  "allergens": "Cacao, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2036.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "491.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "21.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "41.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:04:01"
+}

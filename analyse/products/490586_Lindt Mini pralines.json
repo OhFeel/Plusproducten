@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Mini pralines",
+  "brand": "Lindt",
+  "price": "8.99",
+  "base_unit_price": "89.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/490586_M/271cdc66fda5f88032b42880528e1419/490586.png",
+  "ingredients": "ingrediënten: suiker, cacaoboter, volle MELKpoeder, cacaomassa, AMANDELEN, HAZELNOTEN, watervrij MELKvet, magere MELKpoeder, glucosesiroop, dextrose, glucose-frutosesiroop, PISTACHES, sinaasappelschil, citroenschil, Marc de Champagne, gecondenseerde MELK, LACTOSE, invertsuiker, kirsch, emulgator (SOJA- en zonnebloemlecithine), alcohol. ROOMPOEDER, TARWEbloem, koffie, natuurlijke aroma's, bevochtigingsmiddel (invertase), GERSTEmoutextract, ROOM, aroma's, zuurteregelaar (citroenzuur), magere cacaopoeder, zout, geconcentreerd citroensap, natuurlijk sinaasappelaroma, glansmiddel (arabische gom), kokosvet, karamelsuikersiroop. Kan andere NOTEN bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Noten, Lactose, amandelen, hazelnoten, pistachenoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2233.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "535.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:15:05"
+}

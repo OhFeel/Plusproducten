@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu Prince Cake & Roll",
+  "brand": "Lu",
+  "price": "2.99",
+  "base_unit_price": "19.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/802631_M/e86a0256ee71db53c92d5bff3569b5d8/802631.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, TARWEBLOEM 16 %, EIEREN, suiker, chocolade 10 % [cacaomassa,  suiker,  magere cacaopoeder, emulgator (SOJALECITHINEN)], palmolie, koolzaadolie, weipoeder (van MELK), stabilisator (glycerol), volle MELKPOEDER, TARWEZEMELEN, verdikkingsmiddelen (E1414,  xanthaangom), rijsmiddelen (difosfaten,  natriumcarbonaten), conserveermiddel (kaliumsorbaat), emulgator (E471), zout, zuurteregelaar (citroenzuur), aroma's, antioxidant (rozemarijnextracten).",
+  "allergens": "Tarwe, Ei, Soja, Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1708.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "408.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.49",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:33"
+}

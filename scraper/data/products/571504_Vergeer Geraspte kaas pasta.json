@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vergeer Geraspte kaas pasta",
+  "brand": "Vergeer",
+  "price": "2.79",
+  "base_unit_price": "18.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/571504_M/67202f45bd807477c693daf082c03d52/571504.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde KOEMELK, aardappelzetmeel, zout, zuursel (bevat MELK), dierlijk stremsel, kleurstoffen: annatto/caroteenen), conserveermiddel:(natriumnitraat).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1593.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "384.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:45:41"
+}

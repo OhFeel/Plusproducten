@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Starbucks IJskoffie cappucino (grande)",
+  "brand": "Starbucks",
+  "price": "2.99",
+  "base_unit_price": "9.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/908858_M/03b09623c5c934ccc4fb45c9f936e9e7/908858.png",
+  "ingredients": "Ingrediënten: MELK (3% vet) (75%), Starbucks® Arabica koffie (water, koffie-extract) (19,3%), suiker (4,5%), cichorei inuline, natuurlijke aroma's, magere cacaopoeder (0,1%), zuurteregelaar (kaliumcarbonaat), stabilisatoren (gellangom, carrageen)\n",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "294.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:18"
+}

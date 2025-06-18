@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans Pannenkoekenmix proteine schudfles",
+  "brand": "Koopmans",
+  "price": "2.99",
+  "base_unit_price": "17.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/470285_M/0f13f77eff13ca4ffa46ebf6cba58763/470285.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, WEIEIWITCONCENTRAAT, magere MELKPOEDER, bonenmeel, rijsmiddelen (E341, E501), EIGEELPOEDER, KIPPENEIWITPOEDER, kaliumchloride (zoutvervanger), zout, antiklontermiddel E551. Kan MOSTERD en SOJA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1474.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "348.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:28"
+}

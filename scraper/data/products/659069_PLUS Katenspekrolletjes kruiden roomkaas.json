@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Katenspekrolletjes kruiden roomkaas",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "33.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/659069_M/080b0145b2a05bcaa387ba2d803eca6d/659069.png",
+  "ingredients": "Ingrediënten :55% roomkaasbereiding (79% verse roomkaas (gepasteuriseerde MELK, zout, zuursel, microbieel stremsel), zure room (MELK), gemodificeerd aardappelzetmeel, plantaardige oliën (zonnebloem, raap, in wisselende verhouding), 0,4% peterselie, voedingszuur: E330, zout, conserveermiddel: E202), 45% katenspek (94% varkensvlees, zout, ui-extract, dextrose, varkenseiwit, gebufferd azijnpoeder (conserverend ingrediënt), karamel, aroma, antioxidant: E331/E316, rietsuiker, natuurlijk aroma, peperextract, stabilisator: E451/E450, knoflook, rookaroma, conserveermiddel: E250, beukenhoutrook).",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1421.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "10.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.49",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.596",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:59"
+}

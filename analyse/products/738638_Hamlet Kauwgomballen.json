@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hamlet Kauwgomballen",
+  "brand": "Hamlet",
+  "price": "0.39",
+  "base_unit_price": "5.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/738638_M/7e3e96f406c70e44d4fb22e6b980aa92/738638.png",
+  "ingredients": "suiker, gombasis, glucosestroop, aroma, verdikkingsmiddel: arabische gom, maïszetmeel, kleurstoffen: e120, e133, e141 en e160a, bevochtigingsmiddel: e420, glansmiddelen: e903, e904 en e905. kan sporen van soja bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1440.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "346.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "85.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:44"
+}

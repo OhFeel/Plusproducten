@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Klene Snoepdrop Fruitklappers",
+  "brand": "Klene",
+  "price": "2.59",
+  "base_unit_price": "12.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/200934_M/fb1ab4a21b3c8fd005e1f8b4536f69e2/200934.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, gemodificeerd zetmeel, zoethoutwortelextract, voedingszuren (melkzuur, citroenzuur), salmiakzout, gehydrolyseerd erwteneiwit, natuurlijke aroma's, concentraten (wortel, saffloer, radijs, spirulina, zwarte bes), glansmiddel (carnaubawas), kleurstof (plantaardige koolstof). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1381.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "325.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:56"
+}

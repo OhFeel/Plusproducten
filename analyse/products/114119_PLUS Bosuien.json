@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Bosuien",
+  "brand": "PLUS",
+  "price": "0.85",
+  "base_unit_price": "0.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/114119_M/3de67b0e846a7e42cf15680ba0004679/114119.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:53"
+}

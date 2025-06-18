@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ehrmann High protein pudding karamel",
+  "brand": "Ehrmann",
+  "price": "1.72",
+  "base_unit_price": "8.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/441278_M/611bd09d4725973d4a1a5cd791aad195/441278.png",
+  "ingredients": "Ingrediënten: magere MELK, 8,5% MELKEIWIT, ROOM, gemodificeerd maïszetmeel, lactase,verdikkingsmiddelen: carrageen, carboxymethylcellulose; zoetstoffen: acesulfaam-K, sucralose; natuurlijke aroma,kleurstoffen: 150d, carotenen; zout. Dit product bevat van nature aanwezige suikers. Ongeopend buiten dekoeling houdbaar. Minste houdbaar tot: zie deksel. Na openen direct consumeren.Voedingswaarden per 100g: Energie/Vetten/waarvan verzadigde vetzuren/Koolhydraten/waarvansuikers/Eiwitten/Zout. ",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "319.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:45"
+}

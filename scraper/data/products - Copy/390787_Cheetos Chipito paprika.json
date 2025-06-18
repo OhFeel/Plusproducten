@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Cheetos Chipito paprika",
+  "brand": "Cheetos",
+  "price": "2.29",
+  "base_unit_price": "18.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/390787_M/651b886daa2711c0d0a5e2e601493e25/390787.png",
+  "ingredients": "Ingrediënten: maïs, koolzaadolie, paprikasmaak [suiker, paprikapoeder, zout, weipermeaat (van MELK), uipoeder, kaliumchloride, aroma's (van MELK), kleurstof (paprika-extract), knoflookpoeder, johannesbroodpitmeel, zuurteregelaars (citroenzuur, appelzuur), gerookte zonnebloemolie]. Kan soja en tarwe (gluten) bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2162.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "517.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:36:02"
+}

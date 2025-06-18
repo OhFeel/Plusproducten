@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kwekkeboom Oven Old Amsterdam bitterballen",
+  "brand": "Kwekkeboom",
+  "price": "5.19",
+  "base_unit_price": "20.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/601692_M/c453430744be4d4482c9f0200b6c21e2/601692.png",
+  "ingredients": "Ingrediënten: water, bloem (TARWE, SOJA), plantaardige oliën (raapzaad, palm, zonnebloem), volle MELK, 8% kaas 48+ (gepasteuriseerde MELK, zout, zuursel (MELK), microbieel stremsel, kleurstof (carotenen), conserveermiddel (E251)), room (MELK), zout, gelatine (rund), zetmeel (aardappel, maïs), verdikkingsmiddelen (xanthaangom, guarpitmeel, E466, E461), gistextract, dextrose, aroma (bevat MELK), kleurstof (karamel, E160b(ii)), ui, MELKpoeder, rijsmiddel (E500), stabilisator (carrageen), SOJAbonen, kruiden, specerijen, TARWE, voedingszuur (melkzuur), antioxidant (extracten van rozemarijn), wortel.  E = Door de EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1266.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "304.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:01:20"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Klene Suikervrij ademin",
+  "brand": "Klene",
+  "price": "2.25",
+  "base_unit_price": "20.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947816_M/2b75c1c9b454165449a052369161abee/947816.png",
+  "ingredients": "Ingrediënten: zoetstoffen (maltitolstroop, steviolglycosiden), verdikkingsmiddel (arabische gom), gemodificeerd zetmeel, salmiakzout, natuurlijk mint aroma en natuurlijke aroma's, kokosolie, zoethoutwortelextract, glansmiddel (bijenwas). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "828.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "200.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:30"
+}

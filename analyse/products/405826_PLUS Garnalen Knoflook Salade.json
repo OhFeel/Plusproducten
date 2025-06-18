@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Garnalen Knoflook Salade",
+  "brand": "PLUS",
+  "price": "2.39",
+  "base_unit_price": "15.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/405826_M/39f1878f9cdb30d51cb36818b980a318/405826.png",
+  "ingredients": "Ingrediënten :32% garnaal* (SCHAALDIEREN), raapzaadolie, water, 17% surimi (37% WITVIS**, water, gerehydrateerd VRIJE-UITLOOPKIPPPENEI-EIWITPOEDER, suiker, zonnebloemolie, zetmeel (TARWE, aardappel, maïs, erwt), koolzaadolie, stabilisator: E450/E451/E452/E420, SOJA-EIWIT, zout, natuurlijk aroma (bevat SCHAALDIEREN), gemodificeerd zetmeel (tapioca, aardappel), kleurstof: E160d), suiker, VRIJE-UITLOOPKIPPENEI-EIGEEL, 1,5% knoflook, maïszetmeel, azijn, zout, zuurteregelaar: E260/E270, citroensap, peterselie, gemodificeerd maïszetmeel, voedingszuur: E330, verdikkingsmiddel: E415/E412, conserveermiddel: E202/E211, dille, gistextract, MOSTERDZAAD, witte peper, kurkuma.\n* Noordse garnaal (Pandalus borealis), gevangen in de Noordwestelijke Atlantische Oceaan (FAO 21) en/of Noordoostelijke Atlantische Oceaan en Oostzee (FAO 27), met sleepnetten¹\n** Pacifische heek (Merluccius productus), gevangen in de Noordoostelijke Stille Oceaan (FAO 67) met trawlnetten en/of Alaska koolvis (Theragra chalcogramma), gevangen in de Noordoostelijke Stille Oceaan en de Noordwestelijke Stille Oceaan (FAO 67, 61) met trawlnetten.¹\n¹ Dit product komt uit een visserij die onafhankelijk gecertificeerd is volgens de MSC-standaard voor een goed beheerde en duurzame visserij. www.msc.org/nl, MSC-C-50726.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Ei, Vis, Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1094.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "264.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "14.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:58"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Diepvriesspecialist Maaltijdloempia",
+  "brand": "Diepvriesspecialist",
+  "price": "4.49",
+  "base_unit_price": "2.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/548628_M/c0066fff0b9183ee91a27dfadeb4ad69/548628.png",
+  "ingredients": "Ingrediënten: TARWEbloem, water, 18% taugé, 7,6% prei, 5,0% gekookt kippenvlees (99% kippenvlees, zout), 5,0% wortel, 5,0% gekookte ham (85% varkensvlees, zout, glucosestroop, dextrose, varkenseiwit, stabilisatoren: E450/E451, geleermiddelen: E407/E410, aroma, antioxidanten: E301/E316/E331, conserveermiddelen: E250/E262/E326), 4,6% kool, 4,6% ui, zonnebloemolie, rijstebloem, 2,4% paprika, dextrine, maïszetmeel, kruiden (bevat SELDERIJ), specerijen (bevat MOSTERD), SOJAbloem, zout, citrusvezel, LUPINEmeel, maïsbloem, gemodificeerd erwtenzetmeel, EIgeelpoeder, rijsmiddelen: E450/E500, paprikaconcentraat, kurkuma-extract.",
+  "allergens": "Lupine, Tarwe, Glutenbevattende granen, Ei, Soja, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "710.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "170.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.63",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:34:35"
+}

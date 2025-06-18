@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Magnum Magnum Double Hazelnut Sticks 3x85ml",
+  "brand": "Magnum",
+  "price": "4.39",
+  "base_unit_price": "17.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/367429_M/fea05f4f33616226fc4f816d28503ee2/367429.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, suiker, glucosestroop, cacaoboter¹, water, kokosolie, magere MELKPOEDER, BOTERCONCENTRAAT, HAZELNOOTPASTA (2,5%), volle MELKPOEDER, fructose, magere cacaopoeder¹, HAZELNOTEN (0,5%), PISTACHENOTEN (0,5%), AMANDELEN (0,5%), LACTOSE en MELKEIWITTEN, gekarameliseerde suikerstroop, emulgatoren (E471, lecithines), aroma's (bevat GERST, HAZELNOOT, SESAM), zout (0,2%), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), glucose-fructosestroop, gemodificeerd zetmeel, kleurstof (paprikaextract), zuurteregelaar (citroenzuur). Kan SOJA, WALNOOT, CASHEWNOOT, PECANNOOT, PARANOOT, MACADAMIANOOT bevatten. ¹Rainforest Alliance gecertificeerd. Witte chocolade met plantaardige vetten als aanvulling op cacaoboter.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Noten, Sesamzaad, amandelen, hazelnoten, pistachenoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1458.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "348.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:25:15"
+}

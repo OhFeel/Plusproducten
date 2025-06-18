@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Silvo Mix stamppot zuurkool",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "59.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/891062_M/59b258da446b72bde45c49e1335537fb/891062.png",
+  "ingredients": "Ingrediënten: Specerijen 36.2% (gedroogde ui 33.2%, zwarte peper 3%). zout 22.8%. natuurlijke aroma's (bevatten GERST, MELK, SOJA, TARWE) maltodextrinegroene paprika's. kruiden 4.8% (bieslook, peterselie 2.4%) suiker koolzaadolie antiklontermiddel: siliciumdioxide kleurstof: bèta-caroteen (bevat SOJA)Totale gehalte aan kruiden en specerijen: 41%.",
+  "allergens": "Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "278.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "66.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "26.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:34"
+}

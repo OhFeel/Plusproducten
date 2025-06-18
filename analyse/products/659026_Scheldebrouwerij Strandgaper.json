@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Scheldebrouwerij Strandgaper",
+  "brand": "Scheldebrouwerij",
+  "price": "2.49",
+  "base_unit_price": "7.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/659026_M/a6a7a68da47ea65764efe2e71cad5a19/659026.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, hop en gist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "273.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "65.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.2",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:56"
+}

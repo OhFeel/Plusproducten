@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bazooka Juicy drops blast",
+  "brand": "Bazooka",
+  "price": "1.89",
+  "base_unit_price": "15.75",
+  "image_url": "",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, volledig gehard plantaardig vet (palmvet), zuurteregelaars (citroenzuur, E500ii), smaakstoffen (appel, aardbei, citroen, cola, framboos, watermeloen), kleurstoffen (E162, E150a, E163, E100, E141, E133) bevochtigingsmiddel (sorbitol), rundergelatine, emulgators (mono- en diglyceriden van vetzuren, SOJAlecithine), zout. Bevat mogelijk ook: NOTEN, TARWE (GLUTEN), EI, MELK",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1647.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "394.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "85.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:40:55"
+}

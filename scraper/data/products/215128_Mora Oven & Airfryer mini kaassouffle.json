@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer mini kaassouffle",
+  "brand": "Mora",
+  "price": "4.99",
+  "base_unit_price": "0.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/215128_M/9460ac6b6bb17fbcbecfd96f1fcec599/215128.png",
+  "ingredients": "Ingrediënten: Bloem (bevat TARWE), Goudse kaas 24% (bevat MELK), plantaardige oliën (palm, raap), water, zetmeel, BOTER (bevat MELK), zout, TARWEgluten, voedingszuur: citroenzuur, smeltzout: E452, glucosestroop, gemodificeerd zetmeel, gist, kleurstoffen: annatto norbixine, paprika-extract en curcumine, stabilisator: E466, dextrose, verdikkingsmiddel: E461, suiker, invertsuikerstroop, emulgator: E471, TARWE-eiwit. Kan sporen van PINDA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1483.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "356.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:34"
+}

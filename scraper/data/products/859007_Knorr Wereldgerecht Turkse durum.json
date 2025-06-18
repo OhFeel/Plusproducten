@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Turkse durum",
+  "brand": "Knorr",
+  "price": "4.99",
+  "base_unit_price": "25.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/859007_M/a6a2284901bdbcf6f21f7f28c3c0afbe/859007.png",
+  "ingredients": "Ingrediënten dürümbroodjes: TARWEBLOEM, water, raapzaadolie, stabilisator (E422, E466, E412), rijsmiddel (E450i, E500ii), voedingszuur E296, emulgator E471, dextrose, conserveermiddel (E202, E282), rode paprika, tijm, rozemarijn, zout, meelverbeteraar E920. \nIngrediënten specerijenmix: Aroma, gejodeerd zout, oregano¹, uipoeder¹ 7,9%, munt, gember, zetmeel, komijn, rozemarijn, mineraalzout (kalium), cayennepeper, extra olijfolie verkregen bij de eerste persing, peper. Kan glutenbevattende granen, ei, melk, soja, selderij, mosterd bevatten.\nIngrediënten sausmix: Suiker, gejodeerd zout, gemodificeerd zetmeel, ui¹ 7,6%, gehydrolyseerde plantaardige eiwitten, mineraalzout (kalium), dille¹, peterselie¹, natuurlijk peperaroma, maïsolie, lavaswortel¹. Kan glutenbevattende granen, ei, melk, soja, selderij, mosterd bevatten.\n¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "453.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "109.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:57:19"
+}

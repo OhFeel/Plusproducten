@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Bobotie",
+  "brand": "Knorr",
+  "price": "4.49",
+  "base_unit_price": "14.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/979375_M/ff46fd3d0a89788c1372b292a2bd207a/979375.png",
+  "ingredients": "Ingrediënten: Ingrediënten rijstmix: Rijst¹ 92%, rozijnen. Kan ei, glutenbevattende granen, melk, mosterd, selderij, soja bevatten. Ingrediënten sausmix: Zetmeel, zout, paneermeel (TARWEBLOEM, gist, zout), EIPOEDER, ui¹ 12,2%, kippoeder (kippenvlees, zout, antioxidant (rozemarijnextract)), kerrie 6,7% (bevat MOSTERDZAAD), gistextract, peper, laurierblad, kurkuma¹, kippenvet (kippenvet, antioxidant (rozemarijnextract)), citroensappoeder (maltodextrine, citroensap). Kan andere glutenbevattende granen, melk, selderij, soja bevatten. Ingrediënten kruidenmix: Kippoeder (kippenvlees, zout, antioxidant (rozemarijnextract)), uipoeder¹ 14,3%, knoflook¹ 14,3%, suiker, gistextract, kerrie 7,1% (bevat MOSTERDZAAD), koriander, maltodextrine, kurkuma, laurierblad, kippenvet (kippenvet, antioxidant (rozemarijnextract)). Kan ei, glutenbevattende granen, melk, selderij, soja bevatten. ¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1517.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "365.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:25:28"
+}

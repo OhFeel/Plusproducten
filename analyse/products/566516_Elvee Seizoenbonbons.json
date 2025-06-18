@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Seizoenbonbons",
+  "brand": "Elvee",
+  "price": "8.99",
+  "base_unit_price": "27.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/566516_M/466b675875c400f3d720ab2ac6e642e8/566516.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, volle MELKPOEDER, cacaomassa, plantaardige vetten (kokos, palm), plantaardige oliën (zonnebloemolie, palm, raap), 4% HAZELNOTEN, weipoeder (MELK), MELKPOEDER, cacaopoeder, 1% ROOM, glucosestroop, magere MELKPOEDER, LACTOSE, emulgator (SOJALECITHINE), natuurlijke aroma’s, aardbei-concentraat, invertsuikerstroop, kersenconcentraat, kleurstoffen (paprika-extract, E100, E120, E150c, E160e), aroma, zuurteregelaars (E330, E331), trehalose, kleurend levensmiddel (spirulina), verdikkingsmiddel (pectine), gemodificeerd zetmeel (E1401), 0,1% kaneelpoeder, vanille zaadjes. Gemaakt in een bedrijf waar ook ei, gluten bevattende granen en andere noten worden verwerkt.",
+  "allergens": "Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2288.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "548.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.49",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:14"
+}

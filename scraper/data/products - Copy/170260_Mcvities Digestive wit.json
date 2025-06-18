@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mcvities Digestive wit",
+  "brand": "Mcvities",
+  "price": "1.99",
+  "base_unit_price": "8.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/170260_M/09b96d6d64d32bef4ebbcb5a94d65759/170260.png",
+  "ingredients": "Ingrediënten: Bloem (39 %) (TARWEbloem, calcium, ijzer, niacine, thiamine), coating met witte chocoladesmaak (30%) [suiker, plantaardige vetten (palm, shea, sal), magere MELKpoeder, volle MELKpoeder, emulgator (SOJAlecithine), natuurlijk vanillearoma], palmolie, volkoren TARWEmeel (9%), suiker, glucose-fructosesiroop, rijsmiddelen (natriumcarbonaten, appelzuur, ammoniumcarbonaten), zout\n\nVoor allergenen, inclusief glutenbevattende granen, zie vetgedrukte ingrediënten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2103.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "502.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.94",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:06:08"
+}

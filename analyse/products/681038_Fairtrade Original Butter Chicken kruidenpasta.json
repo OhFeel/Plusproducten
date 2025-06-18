@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fairtrade Original Butter Chicken kruidenpasta",
+  "brand": "Fairtrade Original",
+  "price": "2.39",
+  "base_unit_price": "31.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681038_M/678a5c28b582eb8e995d40e87b2977f3/681038.png",
+  "ingredients": "water, specerijen (koriander (11,3%), gember (3,7%), foenegriek (2,2%), venkelzaad, komijn (2,1%), kurkuma (1,8%), rode chilipepers (1,1%)), kokosolie, tomatenpuree, azijn, knoflook (5,6%), zout, rijst, rietsuiker",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1023.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "248.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:39"
+}

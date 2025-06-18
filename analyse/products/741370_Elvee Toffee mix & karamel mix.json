@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Elvee Toffee mix & karamel mix",
+  "brand": "Elvee",
+  "price": "3.69",
+  "base_unit_price": "12.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/741370_M/eb15c023fc3b6276add4506f604fd001/741370.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, gehard plantaardig vet (kokos), water, boterolie (MELK) gecondenseerde MELK, zout gecondenseerde magere MELK, GERSTEMOUT-extract, magere cacaopoeder, aroma's rietsuikermelasse. gemaakt in een bedrijf waar ook soja wordt verwerkt.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1880.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "449.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "58.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.81",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:10"
+}

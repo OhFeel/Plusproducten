@@ -1,0 +1,61 @@
+{
+  "sku": "",
+  "name": "Jopen Nonnetje wit",
+  "brand": "Jopen",
+  "price": "2.39",
+  "base_unit_price": "7.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/247343_M/10b1f929ef6bc690a676957d08c0acaa/247343.png",
+  "ingredients": "Ingrediënten: water, GERST, TARWE, HAVER, kruiden, gist, hop",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "120.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:41:29"
+}

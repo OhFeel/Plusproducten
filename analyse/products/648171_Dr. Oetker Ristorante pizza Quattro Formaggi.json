@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Ristorante pizza Quattro Formaggi",
+  "brand": "Dr. Oetker",
+  "price": "3.89",
+  "base_unit_price": "11.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/648171_M/e28865de35d8624eb28474d38693fee2/648171.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 13% gezeefde tomaten, 10% MOZZARELLA KAAS, 10% EDAMMER KAAS, water, SLAGROOM, 6,6% tomatenconcentraat, 4,2% EMMENTALER KAAS, raapzaadolie, bakkersgist, 0,8% BLAUWSCHIMMELKAAS, zout, suiker, basilicum, SOJASAUS (water, SOJABONEN, zout, TARWEBLOEM), olijfolie extra vierge, gemodificeerd zetmeel, specerijen, oregano, knoflook. Kan bevatten: MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1050.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "251.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:11:40"
+}

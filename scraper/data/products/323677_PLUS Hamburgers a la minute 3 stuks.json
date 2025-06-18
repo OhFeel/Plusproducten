@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "PLUS Hamburgers a la minute 3 stuks",
+  "brand": "PLUS",
+  "price": "3.49",
+  "base_unit_price": "12.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/323677_M/5932e10f60c548a8abc9e702ba1b3110/323677.png",
+  "ingredients": "48% varkensvlees, 17% rundvlees, 8% water, paneermeel (TARWEBLOEM, ROGGE, gist, zout), gekaramelliseerde suiker, zetmeel (aardappel, TARWE), zeezout, varkensvet, gedroogde groenten (ui, wortel, pastinaak, prei), groentepoeder (ui), dextrose, specerijen (witte peper, foelie), aroma, natuurlijke aroma's, gistextract, varkenseiwit, zuurteregelaar: E262, stabilisator: E450, conserveermiddel: E267, voedingszuur: E326, antioxidant: E301. Kan GERST, HAVER, EI, MELK, MOSTERD, SELDERIJ en SOJA bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "273.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.948",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.779",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:11:56"
+}

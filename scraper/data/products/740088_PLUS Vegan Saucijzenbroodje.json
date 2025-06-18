@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Vegan Saucijzenbroodje",
+  "brand": "PLUS",
+  "price": "0.99",
+  "base_unit_price": "9.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/740088_M/eb2ced0a828fe30737f06fe5e92e6776/740088.png",
+  "ingredients": "Ingrediënten :42% Veganistisch gehakt (water, 5% TARWEBLOEM, 4,2% TARWE-EIWIT, ui, zonnebloemolie, TARWEZETMEEL, 1,5% LUPINEMEEL, gemodificeerd TARWEZETMEEL, specerijen (witte peper, uienpoeder, knoflookpoeder, nootmuskaat, korianderzaad, cayennepeper, kurkuma, foelie, paprikapoeder, gemberpoeder, karwijzaad, piment, komijn), zout, MOSTERD (water, specerijen (kurkuma, karwijzaad, gember, MOSTERDZAAD), zout, suiker, azijn), verdikkingsmiddel: E461, suiker, gehydrolyseerd SOJA-EIWIT, kruiden (dille, lavaswortel, rozemarijn), natuurlijk aroma, dextrose, gehydrolyseerd raapzaadeiwit, maltodextrine, conserveermiddel: gebufferde azijn, zuurteregelaar: citroenzuur, TARWEVEZEL, gist, gistextract, GERSTEMOUTEXTRACT, rode paprika, ijzer, vitamine B12, zink), TARWEBLOEM, margarine (plantaardige oliën (palm, raapzaad), water, emulgator: E471, zout, voedingszuur: citroenzuur), water, gejodeerd zout, rijstebloem, glucosestroop, erwtenzetmeel.",
+  "allergens": "Lupine, Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1169.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "280.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.74",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.33",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.52",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.89",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.17",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.13",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "22.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.45",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.548",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:02"
+}

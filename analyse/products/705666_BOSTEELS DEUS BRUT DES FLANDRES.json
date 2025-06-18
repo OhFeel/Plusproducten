@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "BOSTEELS DEUS BRUT DES FLANDRES",
+  "brand": "BOSTEELS",
+  "price": "18.99",
+  "base_unit_price": "25.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/705666_M/868088e42b35ea8c196a3ee7aa6d5f49/705666.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, TARWE ZETMEEL, suiker, hop, kruiden.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "379.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "11.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:25:45"
+}

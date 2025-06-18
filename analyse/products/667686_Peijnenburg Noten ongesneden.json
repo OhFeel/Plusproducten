@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Peijnenburg Noten ongesneden",
+  "brand": "Peijnenburg",
+  "price": "2.49",
+  "base_unit_price": "7.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/667686_M/9ccb0f54def376a214b9148543b8a237/667686.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, ROGGEbloem 32%, water, noten 6% (AMANDELEN 5%, HAZELNOTEN 1%), rozijnen, parelsuiker, suiker, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), zonnebloemolie, kaneel, specerijen. Kan MELK bevatten.",
+  "allergens": "Rogge, Glutenbevattende granen, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1372.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "325.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:17:48"
+}

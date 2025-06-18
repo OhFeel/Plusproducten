@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bertolli Pizzabodems",
+  "brand": "Bertolli",
+  "price": "2.69",
+  "base_unit_price": "9.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/663780_M/4a4b18bab6ae26ce79bc3cbb3ffa194c/663780.png",
+  "ingredients": "Ingrediënten: TARWEbloem, water, durum TARWEgriesmeel (9%), extra olijfolie verkregen bij de eerste persing (EU) (6%), zout, gedroogde TARWEgries- meelzuurdesem, natuurlijk aroma. Kan soja en mosterd bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1187.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "282.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:21"
+}

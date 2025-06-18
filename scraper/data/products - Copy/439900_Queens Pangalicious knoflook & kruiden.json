@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Queens Pangalicious knoflook & kruiden",
+  "brand": "Queens",
+  "price": "3.69",
+  "base_unit_price": "14.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/439900_M/e77c1ef9922776b820696c01e71449da/439900.png",
+  "ingredients": "Ingrediënten: Pangasiusfilet (VIS) (65%), TARWEBLOEM, water, plantaardige olie (SOJA), zetmeel (maïs), zout, knoflook (0,4%), natuurlijk aroma (knoflook, oregano), rijstebloem, suiker, rijsmiddelen: E450i, E500ii, zwarte peper, peterselie (0,05%), gistextract, plantaardige olie (palm), gist, specerij-extract (zwarte peper). Geproduceerd in een bedrijf waar ook MOSTERD en SELDERIJ worden verwerkt.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "789.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "188.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:14"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Cornet Oaked blond bier",
+  "brand": "Cornet",
+  "price": "2.06",
+  "base_unit_price": "6.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/777934_M/ecd0856194afb40dcabf0e4156561604/777934.png",
+  "ingredients": "Bevat: GERSTEMOUT, TARWE",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "8.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:19"
+}

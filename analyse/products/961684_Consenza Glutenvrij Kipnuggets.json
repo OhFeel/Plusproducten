@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Consenza Glutenvrij Kipnuggets",
+  "brand": "Consenza",
+  "price": "6.29",
+  "base_unit_price": "25.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/961684_M/324baba7229b0906349d6453f53e61ee/961684.png",
+  "ingredients": "Ingrediënten: Vulling (62%): kipseparatorvlees 60%, water, SOJA-eiwit, aardappelvlokken, beslagmix (rijstmeel, zout, maïsdextrose), verdikkingsmiddel (E464), rijstmeel, bamboevezel, zout, EIERENpoeder, stabilisatoren (E450, E451), aroma, smaakversterkers (E621, E631, E627), ovalbuminepoeder (EIEREN), beslag: beslagmix [maïs- en rijstmeel, zetmeel, gemodificeerd zetmeel, dextrose, zout, rijsmiddelen (E500[i], E450), verdikkingsmiddelen (E412, E461)], water, koolzaadolie, aardappelzetmeel, maïsmeel, zetmeel, verdikkingsmiddel (E415), groenteconcentraat\nKan sporen bevatten van schaaldieren, vis, melk, noten, selderij, weekdieren.",
+  "allergens": "Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "892.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "213.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:37"
+}

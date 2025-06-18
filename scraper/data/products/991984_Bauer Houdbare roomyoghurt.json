@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bauer Houdbare roomyoghurt",
+  "brand": "Bauer",
+  "price": "0.59",
+  "base_unit_price": "3.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/991984_M/5412be8511d475259076c09a818b4caf/991984.png",
+  "ingredients": "Ingrediënten: ROOMYOGHURT (78,3%), suiker, water, abrikozen (3,4%), mangopuree (2,6%), verdikkingsmiddelen (gemodificeerd maïszetmeel, pectine), aroma, zuurteregelaar (citroenzuur), kleurstof (beta-caroteen).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "571.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "136.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:26:39"
+}

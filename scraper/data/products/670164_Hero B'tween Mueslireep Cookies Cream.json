@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hero B'tween Mueslireep Cookies Cream",
+  "brand": "Hero B'tween",
+  "price": "2.35",
+  "base_unit_price": "17.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/670164_M/2791882a0118a14b7ae479d509a3c3ca/670164.png",
+  "ingredients": "Ingrediënten: cacao bevattende granencrispies (rijstmeel, TARWEmeel 5%, cacaopoeder met verlaagd vetgehalte*, volle MELKpoeder, suiker, maismeel, zout), glucosestroop, glucose-fructosestroop, volkoren graanvlokken (TARWE 7%, HAVER 3%), palmolie, stukjes cacaobiscuit 5% (TARWEmeel, suiker, palmolie, cacaopoeder met verlaagd vetgehalte*, TARWEzetmeel, tapiocazetmeel, glucose-fructosestroop, TARWEGLUTEN, rijsmiddelen (ammoniumwaterstofcarbonaat, natriumwaterstofcarbonaat), zout), kokosolie, magere MELKpoeder 3%, suiker, ROOMpoeder (MELK) 2%, dextrose, volle MELKpoeder 2%, cacaopoeder met verlaagd vetgehalte*, natuurlijk aroma, zout, emulgator (lecithinen). Kan NOTEN, PINDA's en EI bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1824.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "435.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:22"
+}

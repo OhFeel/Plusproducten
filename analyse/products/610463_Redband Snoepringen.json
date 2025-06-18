@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Snoepringen",
+  "brand": "Redband",
+  "price": "1.99",
+  "base_unit_price": "19.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/610463_M/290fada958ffdc4919636ccb6107c1a6/610463.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, zetmeel, voedingszuren (citroenzuur, appelzuur) zuurteregelaars (natriummalaten, natriumcitraten), natuurlijke aroma's, concentraat van (spirulina, wortel, zwarte bessen), gekaramelliseerde suiker, kleurstof (paprika-extract).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1494.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "352.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.33",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:17"
+}

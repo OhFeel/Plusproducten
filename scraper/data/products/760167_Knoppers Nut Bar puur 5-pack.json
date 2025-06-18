@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Knoppers Nut Bar puur 5-pack",
+  "brand": "Knoppers",
+  "price": "2.79",
+  "base_unit_price": "13.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/760167_M/933c83565ee669e35e0f261d8edaa819/760167.png",
+  "ingredients": "Ingrediënten: suiker, HAZELNOTEN (13%), plantaardige vetten (palm, shea), glucosestroop, cacaomassa, cacaoboter, TARWEMEEL (5,2%), MAGEREMELKPOEDER (5%), ROOMPOEDER, gecondenseerde magere MELK, bevochtigingsmiddel: sorbitolstroop, VOLKORENTARWEMEEL (1,4%), VOLLEMELKPOEDER (1,2%), cacao, BOTERVET, ROOM, magere cacao, gecondenseerde WEI, BOTER, WEIPOEDER, emulgator: lecithinen (SOJA), zout, rietsuikerstroop, natuurlijke aroma's, karamelsuikerstroop, stabilisator: carrageen, rijsmiddel (natriumwaterstofcarbonaat, ammoniumwaterstofcarbonaat, kaliumcarbonaat), natuurlijke vanille-aroma, gemalen AARDNOTEN/PINDA'S. KAN OOK AMANDEL, ANDERE NOTEN EN EI BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2245.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "538.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:18"
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Erwtensoep",
+  "brand": "PLUS",
+  "price": "1.99",
+  "base_unit_price": "2.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/761313_M/1b6cce367b7da0aef033fbe1ebcbb98e/761313.png",
+  "ingredients": "Ingrediënten: water, 22% spliterwten, 11% rookworst (73% varkensvlees*, water, varkenscollageen*, varkenseiwit, zout, stabilisator: E450, zuurteregelaar: E575, verdikkingsmiddel: E466, voedingszuur: citroenzuur, maltodextrine, rookaroma, antioxidant: E301, conserveermiddel: E250, specerijenextract (gember, zwarte peper, capsicum, koriander), rook), 4,7% aardappel, 4,3% wortel, 4,0% erwtenpuree, 3,6% erwten, 3,2% prei, 2,2% ui, SELDERIJBLAD, gemodificeerd maïszetmeel, raapzaadolie, zout, natuurlijk aroma (bevat SELDERIJ), witte peper, gehydrolyseerd plantaardig eiwit (zonnebloem, maïs, raapzaad**), rookaroma. * = Beter Leven keurmerk 1 ster. ** Gehydrolyseerd raapzaadeiwit kan allergische reacties veroorzaken bij mensen met een mosterdallergie. E = door EU goedgekeurde hulpstof.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "375.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "89.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:53"
+}

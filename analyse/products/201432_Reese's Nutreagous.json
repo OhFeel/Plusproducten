@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Reese's Nutreagous",
+  "brand": "Reese's",
+  "price": "0.99",
+  "base_unit_price": "21.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/201432_M/97f68df410c8c3e5aedc85395a76c989/201432.png",
+  "ingredients": "Ingrediënten: Reep gevuld met PINDA's (26%), PINDAKAAS (17%), karamel (17%), bedekt met cacaofantasie (40%), met suiker en zoetstof. Ingdrediënten: PINDA'S, suiker*, fructose-glucose-stroop*, plantaardige olie (palm, shea, zonnebloem, palmpit en/of saffloer), cacaomassa, cacaoboter, zoetstof (sorbitol), MAGEREMELKPOEDER, dextrose, maltose-glucosestroop*, weipoeder (MELK), MELKVET, zout, emulgatoren (SOJALECITHINE*, E476, E471), glucosestroop*, wei-eiwitconcentraat (MELK), calcium caseïnaat (MELK), aroma's, antioxidant (E319), zuurteregelaars (E330, E331). Dit product bevat genetisch gemodificeerde suikerbieten, mais en sojabonen.",
+  "allergens": "Aardnoten (pinda's), Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2254.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "539.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.33",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:19:18"
+}

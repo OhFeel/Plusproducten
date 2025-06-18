@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Statesman Haringfilets in Tomatensaus MSC",
+  "brand": "Statesman",
+  "price": "1.15",
+  "base_unit_price": "6.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/191063_M/85c3909a278a4549b9c1fc3c9f4faa6a/191063.png",
+  "ingredients": "Ingrediënten: Haringsfilets (60%) (VIS), water, tomatenpuree (12%), raapzaadolie, suiker, rode paprika, zout, gemodificeerd mais-zetmeel, zwarte peper extract, verdikkingsmiddel: guarpitmeel, xanthaangom, Zuurteregelijk: citroenzuur, paprika extract.",
+  "allergens": "Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "819.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "197.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:14:52"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nissin Soba Cup Japanese curry",
+  "brand": "Nissin",
+  "price": "2.49",
+  "base_unit_price": "27.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/910241_M/5fea28de2453c4f5c4ebb92dd35ec9cc/910241.png",
+  "ingredients": "Ingrediënten: Noedels 72,3% [TARWEMEEL, palmolie, zout, smaakversterker (E621), meelverbeteraars (E500, E451), antioxidant (E306), zuurteregelaar (citroenzuur)], Kruidensaus 22,1% [suiker, sojasaus (water, SOJABONEN, TARWE, zout), water, dextrose, gehydrolyseerd maïseiwit, aroma's (bevat TARWE, SOJA, MELK), smaakersterkers (E621, E627, E631), raapzaadolie, currypoeder (3,6% in kruidensaus), zout, specerijen (ui, knoflook, kaneel, kruidnagel), tomatenpoeder, gemodificeerd zetmeel, azijn, kleurstof (E150c)], wortel, kool, geroosterde ui. Kan sporen van SELDERIJ, SCHAALDIEREN, VIS, WEEKDIEREN, MOSTERD en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "874.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "208.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:05:39"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum Mini Double Caramel Almond Billionaire",
+  "brand": "Magnum",
+  "price": "6.59",
+  "base_unit_price": "1.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/811686_M/4cfb639f2a12d0b155928b6d9e97454b/811686.png",
+  "ingredients": "Ingrediënten Double Caramel Almond: Gerehydrateerde magere MELK, suiker, glucose-fructosestroop, cacaomassa¹, water, glucosestroop, cacaoboter¹, BOTERCONCENTRAAT, kokosolie, volle MELKPOEDER, AMANDEL, LACTOSE en MELKEIWITTEN, magere MELKPOEDER of -concentraat, emulgatoren (E471, E476, E442), gekarameliseerde suikerstroop, stabilisatoren (carrageen, guargom, johannesbroodpitmeel, taragom), zout, uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma¹ (bevat MELK), gekarameliseerde suiker, aroma's, kleurstof (carotenen). Kan soja, hazelnoot en walnoot bevatten.Double Gold Caramel Billionaire: Ingrediënten: Gerehydrateerde magere MELK, suiker, cacaoboter¹, magere MELKPOEDER, glucosestroop, BOTERCONCENTRAAT, glucose-fructosestroop, kokosolie, fructose, zetmeel, magere MELKPOEDER of -concentraat, LACTOSE en MELKEIWITTEN, gekarameliseerde suikerstroop, rijstebloem, emulgatoren (E471, E476, lecithines), stabilisatoren (E407, E417, E410, E412), zonnebloemolie, aroma's, zout (0,1%), cacaomassa¹, BOTER, rijsmiddel (E500). Kan amandel, cashewnoot en soja bevatten.",
+  "allergens": "Melk, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1435.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.32",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:36"
+}

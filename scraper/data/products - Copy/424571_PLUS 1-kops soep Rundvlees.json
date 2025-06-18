@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS 1-kops soep Rundvlees",
+  "brand": "PLUS",
+  "price": "0.59",
+  "base_unit_price": "14.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/424571_M/81721e939ed272e69ffb6c2535e17fe0/424571.png",
+  "ingredients": "Ingrediënten :Gedroogde glucosestroop, aardappelzetmeel, 13% noedels (TARWEBLOEM, water, zout), 12% croutons (TARWEBLOEM, palmolie, zout, gist, antioxidant: E392), natuurlijk aroma, zout, gistextract, wortelstukjes, kaliumchloride, uienpoeder, zonnebloemolie, kleurstof: E150a, peterselie, natuurlijk ui-aroma, specerijen (fenegriekzaad, nootmuskaat, zwarte peper), 0,2% rundvleesextract (zout, 45% rundvleesextract, zonnebloemolie), antiklontermiddel: E551.\n\nKan EI, MELK, SOJA, MOSTERD en SELDERIJ bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "110.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "26.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.89",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "4.56",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.753",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.301",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:47:21"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Borrelnoten Mild",
+  "brand": "PLUS",
+  "price": "1.49",
+  "base_unit_price": "4.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/747064_M/08eacfff9ed498147e84f92b672d122f/747064.png",
+  "ingredients": "Ingrediënten :51% PINDA'S, zetmeel (aardappel, TARWE, maïs), zonnebloemolie, poedersuiker, zout, gemodificeerd aardappelzetmeel, specerijen (knoflookpoeder, paprikapoeder, komijn, chilipoeder, cayennepeper), dextrose, suiker, tomatenpoeder, smaakversterker: E621, kleurstof: E100/E160c/E172, voedingszuur: E262/E330, gekaramelliseerde suiker, uipoeder, aroma (bevat TARWE en SELDERIJ), TARWEBLOEM, gistpoeder, maltodextrine, oregano, gistextract, kurkuma-extract, natuurlijk aroma (bevat SELDERIJ en MELK).\n\nKan AMANDELEN, HAZELNOTEN, WALNOTEN, CASHEWNOTEN, PECANNOTEN, PARANOTEN, PISTACHENOTEN en MACADAMIANOTEN bevatten",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Melk, Selderij, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2199.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "528.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "18.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "34.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.438",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.575",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.094",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:28"
+}

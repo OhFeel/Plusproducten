@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Bolletje Schuddebuikjes speculaas",
+  "brand": "Bolletje",
+  "price": "2.35",
+  "base_unit_price": "7.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/326569_M/716d68012699784c45015baf1c270916/326569.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, suiker, plantaardige oliën (palm, raap), plantaardige vezels, speculaaskruiden (bevat kaneel), glucose-fructosestroop, gekaramelliseerde suiker, rijsmiddelen (E500, E450), zout, sinaasappelschil, emulgator (zonnebloemlecithine). Kan sporen bevatten van andere glutenbevattende granen, pinda's en melk.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2004.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "478.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.95",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:42"
+}

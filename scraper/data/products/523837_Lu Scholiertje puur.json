@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu Scholiertje puur",
+  "brand": "Lu",
+  "price": "3.59",
+  "base_unit_price": "23.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/523837_M/fbd39738eb732376fcd0dd783d099378/523837.png",
+  "ingredients": "Ingrediënten: BOTERBISCUIT 52 %: TARWEBLOEM 68 %, suiker, BOTERVET 14 %, magere MELKPOEDER, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten, difosfaten), zout, zuurteregelaar (citroenzuur).  PURE CHOCOLADE 48 %: Suiker, cacaomassa, cacaoboter, magere MELKPOEDER, MELKVET, lactose (van MELK), emulgator (SOJALECITHINEN), aroma.KAN BEVATTEN: NOTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2100.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "502.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.57",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:27:50"
+}

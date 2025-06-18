@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "PLUS Rode kool met hachee en aardappelpuree",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "9.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/845183_M/42eff525bfb24b66f7e519f82085e161/845183.png",
+  "ingredients": "Ingrediënten :38% rode kool met appel (56% gekookte rode kool, water, 12% appel, suiker, gemodificeerd maïszetmeel, brandewijnazijn, zout, kaliumchloride, invertsuiker, peren, natuurlijk aroma, specerijen), 30% hachee (46% gegaard rundvlees (95% rundvlees*, water, aardappelzetmeel, maïszetmeel, stabilisator: E407, gedroogd glucosestroop), water, 9% uien, appel, tomatenpuree, plantaardige oliën (raapzaad, koolzaad), brandewijnazijn, gemodificeerd maïszetmeel, suiker, zout, gehydrolyseerd plantaardig eiwit (maïs, koolzaad, TARWE), geroosterd uienpoeder, kaliumchloride, gejodeerd zout (zout, kaliumjodaat), gistextract, gekaramelliseerde suiker, natuurlijk aroma, specerijen, invertsuiker, peren, specerijenextracten (SELDERIJ, kurkuma, foelie, ui), peterselie-extract, maltodextrine, rundvleesextract, aroma (bevat TARWE), karamelpoeder, palmvet, dextrose), 28% aardappelpuree (78% gekookte aardappelen, volle MELK, water, raapzaadolie, boter (MELK), zout, kaliumchloride, natuurlijk aroma), 4% gebakken uiringen (ui, raapzaadolie).\n\n* = Beter Leven keurmerk 2 sterren.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Selderij, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "363.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "86.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.66",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.83",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.335",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.485",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.16",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.87",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "5.29",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.74",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.34",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:37"
+}

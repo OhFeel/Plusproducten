@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Cupido Cacaotruffels",
+  "brand": "Cupido",
+  "price": "2.49",
+  "base_unit_price": "14.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/758696_M/1855ba694ce500f9f72eb6d9a7e5f131/758696.png",
+  "ingredients": "Ingrediënten: MELKchocolade (suiker, cacaoboter¹, volle MELKpoeder, cacaomassa¹, emulgator: SOJAlecithine, aroma: vanille), plantaardige vetten (kokos, palmpit, palm, shea) in wisselende verhoudingen, suiker, magere cacaopoeder 8%¹, weipoeder (MELK), MELKsuiker, emulgator: SOJAlecithine. Kan sporen van NOTEN en GLUTEN bevatten. 1Rainforest Alliance Certified.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2360.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "566.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:08"
+}

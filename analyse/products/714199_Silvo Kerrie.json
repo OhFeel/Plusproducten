@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Silvo Kerrie",
+  "brand": "Silvo",
+  "price": "1.39",
+  "base_unit_price": "126.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/714199_M/c24f58b77c5262f8ee16e0c2a1301057/714199.png",
+  "ingredients": "Ingrediënten: Specerijen 87% (kurkuma 36%, korianderzaad 10%, fenegriek, geel MOSTERDzaad, uienpoeder, kardemom 4%, anijszaad, gember, kruidnagel, venkel, knoflookpoeder, piment, kaneel (cassia)), zetmeel, zout 4%, kruiden, Totaal gehalte aan kruiden en specerijen: 88%",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1286.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "308.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "35.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "32.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:28:26"
+}

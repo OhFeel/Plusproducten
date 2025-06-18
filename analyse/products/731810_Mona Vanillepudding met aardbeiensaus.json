@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mona Vanillepudding met aardbeiensaus",
+  "brand": "Mona",
+  "price": "2.49",
+  "base_unit_price": "5.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/731810_M/6f5b1a68960c1168720db04c8a16221c/731810.png",
+  "ingredients": "Ingrediënten: MELK, suiker, 6% aardbeiensap, glucose-(fructose)stroop, gemodificeerd maïszetmeel, maïszetmeel, MELKeiwit, rundergelatine, verdikkingsmiddel: E415, voedingszuur: citroenzuur, aroma, kleurstoffen: E120, E160a en E160b(ii), stabilisator: E339",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "482.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "114.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:57"
+}

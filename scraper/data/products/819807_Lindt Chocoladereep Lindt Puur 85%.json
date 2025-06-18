@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindt Chocoladereep Lindt Puur 85%",
+  "brand": "Lindt",
+  "price": "3.59",
+  "base_unit_price": "35.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/819807_M/adfcd033d6998c6dd3c7a2bf83b29d01/819807.png",
+  "ingredients": "Ingrediënten: cacaomassa, magere cacao, cacaoboter, bruine suiker, vanille. Kan NOTEN, MELK, SOJA en SESAMZAAD bevatten. Cacao: minstens 85%.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2413.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "584.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:38"
+}

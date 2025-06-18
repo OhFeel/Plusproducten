@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Orien Bites Gyoza groenten",
+  "brand": "Orien Bites",
+  "price": "2.99",
+  "base_unit_price": "7.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581167_M/0e52e4e637b972f1b99c76699573a6f5/581167.png",
+  "ingredients": "Ingrediënten: Groenten 55% (kool, wortel, sperziebonen, ui), TARWEBLOEM (GLUTEN), water, plantaardige olie (zonnebloem, SESAM), vermicelli (maïszetmeel, water, maïskiemolie), suiker, hout oor paddestoel, tapiocazetmeel, zout, witte peper. Kan ook sporen bevatten van SCHAALDIEREN, EIEREN, VIS, PINDA'S, SOJABONEN, SELDERIJ.",
+  "allergens": "Tarwe, Glutenbevattende granen, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "579.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "137.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.97",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:05"
+}

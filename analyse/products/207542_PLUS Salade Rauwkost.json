@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Salade Rauwkost",
+  "brand": "PLUS",
+  "price": "3.59",
+  "base_unit_price": "13.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/207542_M/78d568b870a21198264a21c24c5ccdfe/207542.png",
+  "ingredients": "Ingrediënten :35% slamix (ijsbergsla, frisee, radicchio rosso), 35% komkommersalade (53% gezuurde komkommer (komkommer, azijn, suiker), dressing (water, plantaardige oliën (raapzaad, zonnebloem), suiker, gemodificeerd maïszetmeel, SCHARRELKIPPENEI-EIGEEL, azijn, zout, gehydrolyseerd SOJA-EIWIT, conserveermiddel: E202/E211, antioxidant: extracten van rozemarijn, verdikkingsmiddel: xanthaangom), voedingszuur: citroenzuur, aroma (MOSTERD)), yoghurt ( MELK), suiker, ui, slagroom (slagroom (MELK), stabilisator: E407), dille, dextrose, verdikkingsmiddel: guarpitmeel), 30% wortel-selderij-preisalade (dressing (water, plantaardige oliën (raapzaad, zonnebloem), suiker, gemodificeerd maïszetmeel, SCHARRELKIPPENEI-EIGEEL, azijn, zout, gehydrolyseerd SOJA-EIWIT, conserveermiddel: E202/E211, antioxidant: extracten van rozemarijn, verdikkingsmiddel: xanthaangom), voedingszuur: citroenzuur), aroma (MOSTERD)), 24% gezuurde wortelreepjes (wortel, azijn, zout, voedingszuur: citroenzuur), antioxidant: E300, 19% gezuurde knolselderijreepjes (SELDERIJ, azijn, zout, voedingszuur: citroenzuur, antioxidant: E300/E223), 12% prei, yoghurt (MELK), suiker, slagroom (slagroom (MELK), stabilisator: E407)).",
+  "allergens": "Ei, Soja, Melk, Selderij, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "458.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "111.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.633",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.912",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.166",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.412",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.539",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.315",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.223",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.215",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.06",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.513",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.205",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.116",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.747",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:20:46"
+}

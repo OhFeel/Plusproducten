@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Less Carb Lijnzaadchips Kurkuma bio",
+  "brand": "Smaakt",
+  "price": "4.49",
+  "base_unit_price": "44.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/947338_M/b7e565072c49d8e118d610e1a39784ce/947338.png",
+  "ingredients": "Ingrediënten: Water, geel lijnzaad* 22%, hennepzaad*, rijst*, zonnebloempitten*, maanzaad* 4,3%, lijnzaad*, SESAMZAAD*, zout, kerrie* (venkelzaad*, kurkuma* 16%, koriander*, peper*, MOSTERD*, komijn*), kurkuma* 0,1%, oregano*, *=biologisch.\nKan sporen bevatten van soja, noten.",
+  "allergens": "Mosterd, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1280.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "309.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:14"
+}

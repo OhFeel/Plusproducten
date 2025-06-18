@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Topking Vlam-Panini 1 stuk",
+  "brand": "Topking",
+  "price": "3.69",
+  "base_unit_price": "17.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/188924_M/976f0b34f3c3c5093444de885f7a433c/188924.png",
+  "ingredients": "Ingrediënten: 52% gegrild panini broodje (TARWEbloem, water, gist, gejodeerd zout, kruiden, TARWEmoutmeel, meelverbeteraar (E300)), 29% Vlammetjes®-vlees (23% varkensvlees, 2% Spaanse peper, suiker, wortel, zout, paneermeel [bevat TARWE], water, plantaardige vezel, specerijen, TARWEbloem, kruid, antioxidant (E301, citroenzuur), emulgator (E464), gistextract, azijn), KAAS jong belegen 48+",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1132.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "271.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:14:27"
+}

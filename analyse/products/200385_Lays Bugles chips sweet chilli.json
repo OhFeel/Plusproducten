@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Bugles chips sweet chilli",
+  "brand": "Lays",
+  "price": "2.29",
+  "base_unit_price": "18.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/200385_M/aedc48f0a6ccbd2b3549fba1926474c5/200385.png",
+  "ingredients": "Ingrediënten: maïs, zonnebloemolie, zoete chillismaak [gehydrolyseerd plantaardig eiwit (van SOJA), fructose, smaakversterkers (mononatriumglutamaat, dinatrium-5’-ribonucleotiden), aroma (bevat SELDERIJ-extract, MOSTERDOLIE, LACTOSE (van MELK), TARWE), zuurteregelaars (natriumdiacetaat, appelzuur), maltodextrine, uipoeder, kaliumchloride, specerijen, kleurstof (paprika-extract)], zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Selderij, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2260.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "540.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:49"
+}

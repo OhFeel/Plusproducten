@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Bami Goreng",
+  "brand": "PLUS",
+  "price": "2.95",
+  "base_unit_price": "11.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/754295_M/d2f7845ed1c05f0532bec7d223d749e7/754295.png",
+  "ingredients": "Ingrediënten :63% bami (water, TARWEMIE (durum TARWE, water)), 13% prei, 8% gekookte ham (60% varkensvlees*, water, aardappelzetmeel, zout, varkenseiwit, stabilisator: E407/E450/E451, antioxidant: E301, natuurlijk aroma, conserveermiddel: E250), 8% VRIJE UITLOOPKIPPENEI**, 5% gemarineerd gegaard varkensvlees (water, 28% varkensvlees, zout, suiker, gember, specerijen (anijszaad, venkel, zwarte peper, kaneel, gember, witte peper)), volledig geraffineerde SOJAOLIE, suiker, zout, gistextract (gistextract, zout, zonnebloemolie).\n\n* = Beter Leven keurmerk 1 ster\n** = Beter Leven keurmerk 2 sterren\n\nDit product kan sporen van PINDA en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "666.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "158.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.02",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.27",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.89",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.68",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.25",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "20.43",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.28",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.51",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.88",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.352",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.87",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:38:14"
+}

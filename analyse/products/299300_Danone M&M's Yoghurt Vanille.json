@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Danone M&M's Yoghurt Vanille",
+  "brand": "Danone",
+  "price": "1.29",
+  "base_unit_price": "10.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/299300_M/0bbdebb3f57f6c3ca6ccb79b382a821a/299300.png",
+  "ingredients": "Ingredienten: Yoghurt (MELK), stukjes MELKchocolade in coating (suiker, cacaomassa, volle MELKpoeder, lactose (MELK), cacaoboter, zetmeel (aardappel, rijst), palmvet, glucosesiroop, shea vet, stabilisator (arabische gom), emulgator (SOJAlecithine), kleurstoffen (E100, E133, E160a, E160e, E170, E172), dextrine, glansmiddel (carnaubawas), palmpitolie, zout , natuurijk vanille-extract, aroma), water, suiker, verdikkingsmiddelen (gemodificeerd maiszetmeel, xanthaangom), pompoen-, wortel- en appelconcentraat, natuurlijk vanille aroma, zuurteregelaars (citroenzuur, natriumcitraat). Kan bevatten: GLUTENBEVATTENDE GRANEN, NOTEN, PINDA'S en EI.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "530.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "127.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:06"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Deugnietjes Fairtrade",
+  "brand": "PLUS",
+  "price": "2.69",
+  "base_unit_price": "13.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/427513_M/540c9fc1e3b01e233abf7044ab4675ab/427513.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 27% karamelvulling (glucose-fructosestroop, suiker, palmolie, weipoeder (MELK), bevochtigingsmiddel: E422, volle MELKPOEDER, natuurlijk aroma, GERSTEMOUTEXTRACT, emulgator: raapzaadlecithine, verdikkingsmiddel: E407), 16% MELKCHOCOLADE (suiker, cacaomassa, volle MELKPOEDER, cacaoboter, plantaardige oliën (palm, shea, sal, mango), weipoeder (MELK), emulgator: zonnebloemlecithine), plantaardige oliën (palm, raapzaad), suiker, 5% MELKCHOCOLADEDAGREES (suiker, cacaomassa, cacaoboter, volle MELKPOEDER, rijstzetmeel, emulgator: zonnebloemlecithine, geconcentreerd radijssap, geconcentreerd druivensap, geconcentreerd citroensap, geconcentreerd rode bietensap, geconcentreerd zwarte bessensap, GERSTEMOUTEXTRACT, saffloerextract, spirulinaextract, glansmiddel: Arabische gom/bijenwas/canaubawas), 2% pure chocolade (suiker, cacaomassa, cacaoboter, plantaardige oliën (palm, sal, shea, mango), emulgator: SOJALECITHINE), weipoeder (MELK), rijsmiddel: E336/E500/E503, invertsuiker, emulgator: raapzaadlecithine, zout, natuurlijk aroma. \n\nDit product kan sporen van EI, PINDA en NOTEN bevatten",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1900.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "453.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "30.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "35.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:49:12"
+}

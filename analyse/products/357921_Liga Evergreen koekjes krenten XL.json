@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Liga Evergreen koekjes krenten XL",
+  "brand": "Liga",
+  "price": "3.99",
+  "base_unit_price": "11.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/357921_M/128d78bcee0eee80458846260ffe4a2e/357921.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM 26 %, HAVERMEEL 20 %, rozijnen 14 %, suiker, VOLKORENTARWEMEEL 7,5 %, koolzaadolie, krenten 7 %, glucosestroop, tarwedextrine, mineralen (calciumcarbonaat, elementair ijzer), rijstbloem, rijsmiddel (ammoniumcarbonaten), zout, erwteneiwit, emulgator (SOJALECITHINEN), glucose-fructosestroop, aroma's, geconcentreerde fruitpuree (appel, bosbes, zwarte bes, framboos, aardbei), appelpuree, TARWEVEZELS, bevochtigingsmiddel (glycerol), kaneel, palmolie, vitamine B6, geleermiddel (pectinen), bosbesconcentraat, wortelconcentraat.KAN BEVATTEN: EI, MELK.",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1612.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "383.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "320.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "8.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "1.5",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:21:33"
+}

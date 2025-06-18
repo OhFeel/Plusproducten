@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fanta Orange zero sugar gekoeld",
+  "brand": "Fanta",
+  "price": "1.39",
+  "base_unit_price": "2.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482186_M/438de248e2d146a6ab2f58384f19feb9/482186.png",
+  "ingredients": "sprankelend water; sinaasappelsap uit concentraat(4%); voedingszuren: citroenzuur, appelzuur, natriumcitraat; zoetstoffen:aspartaam, acesulfaam-k; conserveermiddel: kaliumsorbaat;  antioxidant: ascorbinezuur; natuurlijkesinaasappelaroma’s met andere natuurlijke aroma’s; wortelconcentraat; stabilisator:guarpitmeel; kleurstof: carotenen.​",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "11.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:23"
+}

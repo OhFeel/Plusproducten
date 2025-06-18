@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu Time Out granenbiscuits naturel",
+  "brand": "Lu",
+  "price": "2.19",
+  "base_unit_price": "12.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/978961_M/3c3a3c97db67d5e0ae04fd55be5dc3bd/978961.png",
+  "ingredients": "Ingrediënten: HAVERVLOKKEN 42,3 %, suiker, TARWEBLOEM 16,1 %, plantaardige oliën (koolzaad, palm), VOLKORENTARWEMEEL 5,7 %, glucose-fructosestroop, rijsmiddelen (natriumcarbonaten, ammoniumcarbonaten, difosfaten), zout, emulgatoren (E472e, SOJALECITHINEN), rietsuikermelasse. KAN BEVATTEN: EI, MELK, NOTEN EN SESAM.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1889.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "450.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:25:23"
+}

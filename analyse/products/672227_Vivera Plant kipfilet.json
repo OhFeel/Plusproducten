@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vivera Plant kipfilet",
+  "brand": "Vivera",
+  "price": "3.59",
+  "base_unit_price": "19.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/672227_M/903f47c8ab8dd71826a4c3f53521198d/672227.png",
+  "ingredients": "Ingrediënten: 63% gehydrateerde plantaardige eiwitten (water, 4% SOJA-EIWIT, 0,4% TARWE-EIWIT), plantaardige oliën (zonnebloem, raapzaad in wisselende verhoudingen), erwteneiwit, bamboevezels, natuurlijke aroma's, azijn, verdikkingsmiddel (methylcellulose), zout, erwtenvezels, TARWEVEZELS, citrusvezels, psyllium, zetmeel (bevat TARWE), gekarameliseerde suiker, aardappelvezels, ijzer, vitamine B12. Kan sporen bevatten van ei en melk.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1109.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "269.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "4.1",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.77",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:37"
+}

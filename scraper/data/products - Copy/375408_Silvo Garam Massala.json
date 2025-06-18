@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Garam Massala",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "99.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/375408_M/f35b37da90177c09bb929f6df2e1f7bb/375408.png",
+  "ingredients": "specerijen 96,1% (korianderzaad 49,4%, komijn 6,2%, piment, zwarte peper, kardemom 6%, kurkuma, nootmuskaat, gember, kruidnagel, kaneel, chilipeper, cayennepeper, gedroogde knoflook), kruiden 3,9% (laurierblad, oregano), totale gehalte aan kruiden en specerijen: 100%.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1470.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "354.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:07"
+}

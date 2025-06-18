@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade Shuttels kaas-ui",
+  "brand": "Verkade",
+  "price": "1.79",
+  "base_unit_price": "11.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/743558_M/c4716155ce4f4101bddcfa3c64d74da5/743558.png",
+  "ingredients": "Ingrediënten: TARWEbloem, plantaardige oliën (kokos, palm), gedroogde kaas (MELK) 9%, suiker, gedroogde uienpoeder 4%, natuurlijk aroma's (MELK), rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten), maanzaad, zout, meelverbeteraar (L-cysteïne), kleurstof (carotenen)\n\nKan sporen bevatten van sesamzaad.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2074.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "495.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:29"
+}

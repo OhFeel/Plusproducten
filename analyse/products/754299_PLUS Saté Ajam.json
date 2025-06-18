@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Saté Ajam",
+  "brand": "PLUS",
+  "price": "3.59",
+  "base_unit_price": "13.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/754299_M/f8f6b9cdb28e8657df5453bbfebd95aa/754299.png",
+  "ingredients": "Ingrediënten :water, 28% gemarineerde kippendijfilet (84% kippendijfilet*, suiker, volledig geraffineerde sojaolie, ketjap (water, rietsuiker, SOJA-EIWIT, kleurstof: E150a, zout, verdikkingsmiddel: E466, conserveermiddel: E202), zout, sambal (gemalen chilipeper, zout, water, zuurteregelaar: E260/E330, conserveermiddel: E211), gistextract (gistextract, zout, zonnebloemolie), komijnzaad, koriander, citroensap, kurkuma), 16% gemalen PINDA'S, suiker, ui, volledig geraffineerde sojaolie, tomatenpuree, volkoren TARWEMEEL, ketjap (water, suiker, glucosestroop, gehydrolyseerd SOJA-EIWIT, kleurstof: E150d, zout, verdikkingsmiddel: E466, voedingszuur: E330, gemodificeerd aardappelzetmeel, conserveermiddel: E202, kruiden, specerijen), knoflook, gember, azijn (water, azijn, kleurstof: E150d), zout, gistextract (gistextract, zout, zonnebloemolie), sambal (gemalen chilipeper, zout, water, zuurteregelaar: E260/E330, conserveermiddel: E211).\n\n* = Beter Leven keurmerk 1ster\nDit product kan sporen van SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "880.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "211.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.26",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.52",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "6.33",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.51",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.42",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.21",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.21",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.41",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.68",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.272",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "8.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:38:16"
+}

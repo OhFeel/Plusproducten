@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Oatly Haver cuisine bio",
+  "brand": "Oatly",
+  "price": "1.49",
+  "base_unit_price": "5.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/553890_M/df5c322773de5d7f7dd1e0490b3336c2/553890.png",
+  "ingredients": "Ingrediënten: Water, koolzaadolie*, HAVER* 9%, emulgator (koolzaadlecithine*), stabilisator (xanthaangom, gellangom), zeezout, algen (Lithothamnium Calcareum), *Van biologische landbouw.",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "604.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "146.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:37:40"
+}

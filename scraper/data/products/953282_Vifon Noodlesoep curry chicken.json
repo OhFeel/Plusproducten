@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Vifon Noodlesoep curry chicken",
+  "brand": "Vifon",
+  "price": "0.65",
+  "base_unit_price": "9.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/953282_M/fab6fe7bc4ff49e5c34172bd60d894e5/953282.png",
+  "ingredients": "Ingrediënten: Instant noedels (92,1%): TARWEbloem, palmvet, tapioca, zout, gemodificeerd zetmeel, suiker, stabilisatoren: trifosfaten, verdikkingsmiddel: guar gom; rijsmiddelen: kaliumcarbonaten, natriumcarbonaten; kurkuma, soepbasis (7,9%): geraffineerde palmolie, zout, suiker, smaakversterkers: E621, E627, E631; gedroogde groenten (9%): wortel, groene ui, koriander, kerriepoeder (6%): kurkuma, anijs, kruidnagel, korianderzaad, kaneel; peper, knoflook,chili (1%), citroengras, aroma (PINDA’S), kleurstof: caroteen, antioxidant: E306.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's)",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "300.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "72.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.64",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:38"
+}

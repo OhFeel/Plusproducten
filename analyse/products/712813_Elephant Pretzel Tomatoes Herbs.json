@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elephant Pretzel Tomatoes Herbs",
+  "brand": "Elephant",
+  "price": "2.49",
+  "base_unit_price": "15.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/712813_M/023ad12eeecb3d2e3573152e0560a1c4/712813.png",
+  "ingredients": "Ingrediënten: witte TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem - in wisselende verhoudingen), tomaten en kruiding 6% (maltodextrine, tomaten, dextrose, suiker, zout, ui, peterselie, basilicum, oregano, gistextract, citroen, natuurlijk aroma, paprika-extract, antiklontermiddel: siliciumdioxide, knoflook, antioxidant: rozemarijnextract) suiker, GERSTEMOUTEXTRACT, zeezout, emulgator: SOJALECITHINE, rijsmiddel: natriumbicarbonaat; natuurlijk chili aroma, natuurlijk basilicumaroma, antioxidant: extract van rozemarijn. Kan sporen bevatten van SESAM en MOSTERD.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1812.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "430.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:28:18"
+}

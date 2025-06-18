@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Snickers Melk chocolade karamel ijsjes",
+  "brand": "Snickers",
+  "price": "4.99",
+  "base_unit_price": "20.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/964365_M/a16e37dd839af13789efb790c953f234/964365.png",
+  "ingredients": "Ingrediënten: magere MELK (15%), suiker, glucosestroop, room (MELK) (12%), PINDA'S, gecondenseerde magere MELK met suiker, water, cacaoboter, kokosvet, volle MELKPOEDER, palmvet, magere MELKPOEDER, emulgatoren (E471, SOJALECITHINE), magere cacao poeder, stabilisatoren (E412, E407, E401), vanille-extract, zout, natuurlijk aroma (MELK). (Kan bevatten: AMANDELEN, HAZELNOTEN).",
+  "allergens": "Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1466.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "351.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.24",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:23:07"
+}

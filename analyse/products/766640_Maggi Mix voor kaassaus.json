@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Mix voor kaassaus",
+  "brand": "Maggi",
+  "price": "1.15",
+  "base_unit_price": "31.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/766640_M/1f6fe8bbc01e0b3ed16db37521521275/766640.png",
+  "ingredients": "Ingrediënten: zetmelen (erwt, maïs), KAAS 23,8%,plantaardige oliën (palm, zonnebloem, in wisselende verhoudingen), gejodeerd zout, gistextract, LACTOSE, MELKeiwitten, WEIpoeder, kruiden en specerijen (witte peper 0,4%, bieslook 0,3%, nootmuskaat, knoflook, kurkuma), uien, aroma (bevat MELK), tomaten. Bevat mogelijk: SELDERIJ, GLUTEN, EI, MOSTERD, SOJA.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1963.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "470.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "43.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:27"
+}

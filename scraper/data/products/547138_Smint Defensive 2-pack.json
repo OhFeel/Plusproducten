@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Smint Defensive 2-pack",
+  "brand": "Smint",
+  "price": "4.99",
+  "base_unit_price": "2.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/547138_M/3d20d86d1dc4d1f39fc4360bb22609f7/547138.png",
+  "ingredients": "Ingrediënten: zoetstoffen (sorbitol, sucralose, acesulfaam-K), aroma's, antiklontermiddel (magnesiumzouten van vetzuren), vitamine C (L-ascorbinezuur), zinklactaat, citroenmelisse-extract (0,1%), kleurstoffen (riboflavine, karmijn, briljantblauw FCF). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "988.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "237.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "96.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "96.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "230.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "37.4",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:33:45"
+}

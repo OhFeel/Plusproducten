@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Buisman Latte macchiato multiserve",
+  "brand": "Buisman",
+  "price": "3.59",
+  "base_unit_price": "13.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/558811_M/5840e563abcdb994d71d1d18b6a2e717/558811.png",
+  "ingredients": "Ingrediënten: MELKpoeder (26%), glucosestroop, suiker (18%), kokosolie, maltodextrine, oploskoffie* (10%), stabilisatoren (kaliumfosfaten, polyfosfaten), natuurlijke aromas, MELKeiwit, emulgator (mono- en diglyceriden van vetzuren), antiklontermiddel (siliciumdioxide). *Rainforest Alliance Certified. Lees meer op www.ra.org. Allergenen: melk, kan sporen van soja bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1732.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "412.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:39:39"
+}

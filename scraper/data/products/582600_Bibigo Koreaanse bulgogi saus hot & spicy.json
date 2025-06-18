@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bibigo Koreaanse bulgogi saus hot & spicy",
+  "brand": "Bibigo",
+  "price": "4.49",
+  "base_unit_price": "8.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/582600_M/98b8159d911339406be99b0e787f2dad/582600.png",
+  "ingredients": "Ingrediënten: Rode peperpasta 25% (maïsstroop, TARWEmeel, water, rode peperkruiden, ontvette SOJAbonenpoeder, zout, TARWEpoeder, rijst, rode peperpoeder, koji), glucose-fructosestroop, SOJAsaus (gehydrolyseerd SOJAproteïne, water, zout, glucose-fructosestroop, ontvette SOJAboon, TARWE), suiker, water, rode peperpoedermix 5,9% (water, chilipoeder, zout, knoflook, gemberpoeder, rode chilipoeder, glucose), perenpuree (peer, antioxidant: E300), appelpuree (appel, antioxidant: E300), knoflook, zout, hete peperextract, smaakversterker: E635; E621, zwarte peper, kleurstof: E160c, zuurteregelaar: E330, verdikkingsmiddel: E415, oleoresin capsicum, citrusextract.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "787.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "188.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:50:27"
+}

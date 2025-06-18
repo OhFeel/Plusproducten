@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Biofood Salted & Roasted Cashew",
+  "brand": "Damhert",
+  "price": "6.39",
+  "base_unit_price": "31.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/271703_M/a45fcda3cd98050e220f2e167ed87288/271703.png",
+  "ingredients": "CASHEWNOTEN* (96%), zonnebloemolie, zout (1%). Kan PINDA, andere NOTEN, GLUTEN en SESAM bevatten. *Van gecontroleerde biologische teelt. ",
+  "allergens": "Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2532.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "610.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "47.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:49:16"
+}

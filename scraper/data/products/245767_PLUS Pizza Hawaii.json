@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Pizza Hawaii",
+  "brand": "PLUS",
+  "price": "2.49",
+  "base_unit_price": "7.01",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/245767_M/fee8a00a2750b0b858c31d01995c3420/245767.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 17,9% tomatenpuree, 14,1% ananas, 7,6% Edammer kaas (MELK), 7,6% mozzarella (MELK), 7% gekookte ham (97% varkensvlees, zout, dextrose, suiker, antioxidant: E301 / E392, conserveermiddel: E250, rook), water, raapzaadolie, suiker, geconcentreerd ananassap, kokos, gist, zout, azijn, aardappelzetmeel, TARWEZETMEEL, kruiden, dextrose. Kan sporen van SELDERIJ bevatten. E = door E.U. goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "981.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "234.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.83",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:40:29"
+}

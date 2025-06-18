@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum mini almond",
+  "brand": "Magnum",
+  "price": "5.59",
+  "base_unit_price": "21.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/219101_M/7cf33642066df0ec3af118bc45c40a94/219101.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, cacaoboter¹, water, magere MELKPOEDER, kokosolie, AMANDELEN, glucosestroop, BOTERCONCENTRAAT, glucose-fructosestroop, cacaomassa¹, LACTOSE en MELKEIWITTEN, emulgatoren (E471, lecithines), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma¹ (bevat MELK), natuurlijk vanille aroma, kleurstof (carotenen). Kan andere noten bevatten.\nGlutenvrij. ¹Rainforest Alliance gecertificeerd. ra.org.",
+  "allergens": "Melk, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1433.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "343.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:25:11"
+}

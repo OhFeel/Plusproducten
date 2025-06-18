@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Kippensoep",
+  "brand": "Honig",
+  "price": "1.59",
+  "base_unit_price": "30.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/267512_M/b0c57a28ab0bc98242627c35a113700e/267512.png",
+  "ingredients": "Ingrediënten: Vermicelli 39% (TARWEBLOEM, TARWEGRIESMEEL, KIPPENEI-eiwit), zetmeel, aroma's (bevatten SOJA), zout, smaakversterkers (E621, E627, E631, E635), gehydrolyseerd SOJA-eiwit, maltodextrine, kip (kippenvlees 1,5%, antioxidant (extracten van rozemarijn)), palmvet, groenten (wortel, prei, tomaat, ui), specerijen (kurkuma, foelie, peper, nootmuskaat), peterselie, zonnebloemolie, kippenbouillon, antiklontermiddel (E551), knoflook. Kan MELK, SELDERIJ en MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1269.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "300.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "16.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:47:00"
+}

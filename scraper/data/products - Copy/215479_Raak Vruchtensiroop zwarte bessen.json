@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Raak Vruchtensiroop zwarte bessen",
+  "brand": "Raak",
+  "price": "3.49",
+  "base_unit_price": "4.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/215479_M/db254975091546bee53ae607d8c3b392/215479.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop (44%), water, vruchtensap uit concentraat 13% (zwarte bessensap 5,5%, appelsap 5,5%, vlierbessensap 2%), voedingszuur: citroenzuur, aroma, zoetstoffen: acesulfaam-K, sucralose, steviol glycosiden, conserveermiddel: kaliumsorbaat, antioxidant: ascorbinezuur.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:54"
+}

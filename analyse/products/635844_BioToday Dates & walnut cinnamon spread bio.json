@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "BioToday Dates & walnut cinnamon spread bio",
+  "brand": "BioToday",
+  "price": "3.79",
+  "base_unit_price": "23.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/635844_M/ce22dc64ef55b076adb3c065dcadb816/635844.png",
+  "ingredients": "Ingrediënten: Dadels* 61%, water, koolzaadolie*, citroensap*, WALNOOT* 3%, chiazaad* (Salvia hispanica) 2,7%, zeezout, zuurteregelaar: citroenzuur, kaneelpoeder* 0,5%, *=biologisch.\nKAN SPOREN BEVATTEN VAN:",
+  "allergens": "Noten, walnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1325.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "316.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.98",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.86",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:09:46"
+}

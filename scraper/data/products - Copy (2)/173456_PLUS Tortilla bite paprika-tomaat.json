@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Tortilla bite paprika-tomaat",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "21.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/173456_M/56cd2d5247fbf6af55343f884dc4d47f/173456.png",
+  "ingredients": "Ingrediënten :41% Aardappel, ui, room (MELK), oude kaas (MELK, zout, zuursel, conserveermiddel: E251,  kleurstof: carotenen, vegetarisch stremsel), 7% tomaat, 6% paprika, SCHARRELKIPPENEI-EIPOEDER, volle MELKPOEDER, 2,5% tomatenvlokken, lente-ui, zuurteregelaar: E261, maisgranulaat, gemodificeerd maiszetmeel, knoflook, zout, chilipeper, knoflookpoeder, aardappelzetmeel, water, oregano, voedingszuur: citroenzuur, stabilisator: E407, natuurazijn.",
+  "allergens": "Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "712.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "170.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.45",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "9.49",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.372",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:07:07"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Gillette Labs shave gel",
+  "brand": "Gillette",
+  "price": "8.99",
+  "base_unit_price": "45.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/244517_M/f220827f5e3f4bb7179930902419a7eb/244517.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "Ingredients: Aqua, Palmitic Acid, Triethanolamine, Isopentane, Glyceryl Oleate, Stearic Acid, Glycerin, Isobutane, Parfum, Sorbitol, Hydroxyethylcellulose, PEG-45M, Menthol, Limonene, Benzyl Salicylate, Bisabolol, PVM/MA Copolymer, Sodium PEG-7 Olive Oil Carboxylate, Glycerol Acetate/Acrylic Acid Copolymer, Panthenol, Niacinamide, Silica, Butylene Glycol, Tocopherol, Lecithin, Ascorbyl Palmitate, Hydrogenated Palm Glycerides Citrate, Laminaria Saccharina Extract, Zingiber Officinale Root Extract",
+  "extracted_at": "2025-04-25 13:39:46"
+}

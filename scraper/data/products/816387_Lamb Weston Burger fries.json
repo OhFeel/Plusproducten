@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lamb Weston Burger fries",
+  "brand": "Lamb Weston",
+  "price": "2.99",
+  "base_unit_price": "3.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/816387_M/59bd83db55285d0be3db910821f8d634/816387.png",
+  "ingredients": "Ingrediënten: Aardappel (86%), Coating (7%) [Gemodificeerd aardappelzetmeel, Rijstmeel,\nAardappelzetmeel, Zout, Rijsmiddelen (Dinatriumdifosfaat, Natriumbicarbonaat), Dextrose,\nVerdikkingsmiddel (Xanthaangom), Kruidenextract], Plantaardige oliën (Zonnebloem, Raapzaad, in\nverschillende verhoudingen), Dextrose.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "705.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:53"
+}

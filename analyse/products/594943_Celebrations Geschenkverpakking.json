@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Celebrations Geschenkverpakking",
+  "brand": "Celebrations",
+  "price": "8.29",
+  "base_unit_price": "28.01",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/594943_M/28a88f09c42ff95c1b5c4514d327c845/594943.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, magere MELKPOEDER, cacaoboter, cacaomassa, palmvet, weipermeaat (MELK), botervet (MELK), PINDA'S, kokos, TARWEMEEL, zonnebloemolie, emulgatoren (SOJALECITHINE, E471), GERSTEMOUTEXTRACT, zout, magere cacao poeder, bevochtigingsmiddel (glycerol), KIPPENEI-EIWITPOEDER, rijsmiddelen (E500, E341, E501), TARWEGLUTEN, zoet weipoeder (MELK), aroma. (Kan bevatten: AMANDELEN, HAZELNOTEN, HAVER).",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2073.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "495.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:04"
+}

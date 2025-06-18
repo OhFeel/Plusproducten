@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Coertjens Gehaktballen in tomatensaus",
+  "brand": "Coertjens",
+  "price": "3.49",
+  "base_unit_price": "8.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/706444_M/2309706249a175935507860af9cc0610/706444.png",
+  "ingredients": "Ingrediënten: Tomatensaus 57,5% [water, tomatenconcentraat, uien, ARACHIDEOLIE, gemodificeerd maïszetmeel, zout, suiker, MELKPOEDER, kruiden en specerijen (bevat MOSTERD, SELDERIJ), smaakversterker: monosodiumglutamaat, azijn, voedingszuur: citroenzuur], gehaktballen 42,5% [varkensvlees* (62%), water, kippenseparatorenvlees* (8%), aardappelzetmeel, rundvlees* (5%), PANEERMEEL (bevat TARWE), MELKEIWITTEN, uien, zout, kruiden en specerijen, emulgator: di-, tri- en polyfosfaten, voedingszuur: citroenzuur, antioxidant: ascorbinezuur]. *Het vlees is niet afkomstig van België. Kan sporen bevatten van eieren, noten en soja.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "425.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "102.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:00"
+}

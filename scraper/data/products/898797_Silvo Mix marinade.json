@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix marinade",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "59.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898797_M/f93be81d56b2420143b781751eafe8c5/898797.png",
+  "ingredients": "Ingrediënten: Specerijen 47.9% (paprika, kurkuma, knoflookpoeder 4%, korianderzaad, uienpoeder, komijn, chilipeper), zout 20%, aroma (bevat GERST, TARWE), smaakversterker: mononatriumglutamaat, tomatenpoeder, dextrose, citroenschilpoeder, raapzaadolie, antiklontermiddel: siliciumdioxide, Totale gehalte aan specerijen: 47.9%.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1086.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "260.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "24.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:36"
+}

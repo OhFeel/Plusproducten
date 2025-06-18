@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ehrmann Grand dessert chocolade",
+  "brand": "Ehrmann",
+  "price": "1.19",
+  "base_unit_price": "6.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435553_M/db62a2d52a5a302a7e5d224bb97fda74/435553.png",
+  "ingredients": "Ingrediënten: magere MELK, 20 % ROOM, vloeibare MELKBESTANDDELEN, glucose-fructosesiroop, suiker,gemodificeerd maïszetmeel, 1 % chocolade (suiker, cacaopoeder, cacaoboter), 1 % magere cacao,verdikkingsmiddelen: carrageen, guarpitmeel; gelatine, emulgator E 472 b, aroma, stikstof.Voedingswaarden per 100 g: Energie/Vetten/waarvan verzadigde vetzuren/Koolhydraten/waarvansuikers/Eiwitten/ Zout.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "520.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:13"
+}

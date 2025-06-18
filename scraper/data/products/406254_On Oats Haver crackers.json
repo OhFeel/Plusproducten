@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "On Oats Haver crackers",
+  "brand": "On Oats",
+  "price": "2.99",
+  "base_unit_price": "0.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/406254_M/78a294f2641d5935b5bf83f1d0790c18/406254.png",
+  "ingredients": "Ingrediënten: zonnebloempitten 26%, water, HAVERbloem 20%, lijnzaad 6%, pompoenpitten 6%, HAVERvlokken 3%, hennepmeel THC vrij, bosbessen, zout, verdikkingsmiddel (guargum), gist, citroensap, zeewier, rozijnen, rijsmiddel (natriumbicarbonaat), plantaardig vezel (Inuline), abrikozen (rijstebloem), plantaardig eiwit (aardappel), natuurlijk aroma, kaliumcloride.",
+  "allergens": "Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1292.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "310.4",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.41",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:41:20"
+}

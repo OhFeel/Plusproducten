@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kewpie Roasted Sesame dressing",
+  "brand": "Kewpie",
+  "price": "5.99",
+  "base_unit_price": "25.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/673292_M/fbe89c268e615d9fad3fe7681295a3f2/673292.png",
+  "ingredients": "Ingrediënten: raapzaadolie, water, suiker, tamari SOJAsaus (water, SOJABONEN, zout, alcoholazijn), gedistilleerde azijn, SESAMZAAD (5%), zout, aroma's (SESAMZAAD, MOSTERD), gemodificeerd zetmeel, poeder van gedroogde porcini paddestoelen, verdikkingsmiddel: E415.",
+  "allergens": "Soja, Mosterd, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1792.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "433.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:49"
+}

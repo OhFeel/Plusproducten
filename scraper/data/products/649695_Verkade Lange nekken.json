@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade Lange nekken",
+  "brand": "Verkade",
+  "price": "2.99",
+  "base_unit_price": "19.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/649695_M/98f46332e397a7a6d4dab5ae9af1da85/649695.png",
+  "ingredients": "Ingrediënten: MELKchocolade 40% [suiker, cacaoboter, cacaomassa, magere MELKpoeder, boterolie (MELK), emulgator (SOJAlecithinen), natuurlijk aroma], TARWEbloem, suiker, plantaardige oliën (palm, raapzaad), gepofte rijstballetjes 3% (rijst, suiker, TARWEgluten, haver, GERSTEmoutextract, zout), zout, rijsmiddelen (natriumcarbonaten, ammoniumcarbonaten)\n\nKan sporen bevatten van noten en ei.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2065.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "493.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:10"
+}

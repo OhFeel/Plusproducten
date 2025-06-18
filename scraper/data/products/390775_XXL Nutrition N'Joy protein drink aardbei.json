@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "XXL Nutrition N'Joy protein drink aardbei",
+  "brand": "XXL Nutrition",
+  "price": "2.39",
+  "base_unit_price": "7.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/390775_M/3295d9fb2390a021b04033ab880ca950/390775.png",
+  "ingredients": "proteïne concentraat, MELKeiwit isolaat, volle MELK, water, plantaardige oliën (zonnebloem, maïs), aroma, kleurstof: bètacaroteen, stabilisator: carrageen, zuurtere- gelaar: trinatriumcitraat, zoetstof: sucralose.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "787.4",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "188.19",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.17",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.24",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.54",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.54",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "31.31",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:56"
+}

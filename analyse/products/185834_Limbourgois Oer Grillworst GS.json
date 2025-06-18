@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Limbourgois Oer Grillworst GS",
+  "brand": "Limbourgois",
+  "price": "2.69",
+  "base_unit_price": "22.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/185834_M/3367872309e9e3f87e0b28be4c74ea7b/185834.png",
+  "ingredients": "Ingrediënten: 90% varkensvlees°, ui, zout, voedingszuur: E262/E326/E330/E331, TARWEbloem, specerijen, TARWEmeel, aroma, gehydrolyseerd SOJA-eiwit, zonnebloemolie, antioxidant: E300, stabilisator: E452/E450, dextrose, gist conserveermiddel: E250. °Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1270.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "306.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:12:37"
+}

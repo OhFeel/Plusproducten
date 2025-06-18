@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "El Picu Sour Redberry",
+  "brand": "El Picu",
+  "price": "8.99",
+  "base_unit_price": "12.84",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/273978_M/72923c78607dc5f41a149ae7eb09d83e/273978.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "830.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "197.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "14.9",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:50:53"
+}

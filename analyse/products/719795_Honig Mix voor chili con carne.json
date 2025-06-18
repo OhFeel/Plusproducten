@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Mix voor chili con carne",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "47.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/719795_M/44fd8bdf445434ab7b05dc6d2f6c49b9/719795.png",
+  "ingredients": "Ingrediënten: Groenten (tomaat 29%, ui, paprika), TARWEBLOEM, suiker, specerijen (MOSTERDMEEL, paprikapoeder, gember, kurkuma, chilipoeder, korianderzaad, komijnzaad, peper), zetmeel, zout, natuurlijke aroma's (bevatten MELK), knoflook, glucosestroop, zonnebloemolie, kruiden (peterselie, laurier, lavas), kleurstof (paprika-extract), voedingszuur (citroenzuur), antiklontermiddel (E551) Kan SOJA, SELDERIJ en KIPPENEI bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1448.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "344.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:55"
+}

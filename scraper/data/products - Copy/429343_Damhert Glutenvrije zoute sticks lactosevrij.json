@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Glutenvrije zoute sticks lactosevrij",
+  "brand": "Damhert",
+  "price": "2.69",
+  "base_unit_price": "28.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/429343_M/aee45f067324e13c5ff2285489a0bc58/429343.png",
+  "ingredients": "maïszetmeel, zout (5%), water, plantaardige olie (koolzaad), suiker, gist, verdikkingsmiddel (guargom), hydroxypropylmethylcellulose, vezel, zout, emulgator (koolzaadlecithine), mono- en diglyceriden van vetzuren, rijsmiddel (ammonium bicarbonaat), natriumbicarbonaat, zuurteregelaar (d-glucono-1, 5-lacton). deze sticks zijn lactosevrij (minder dan 0,1g/100g). kan sporen bevatten van eieren, noten, sojabloem, melk, selderij en sesam.",
+  "allergens": "Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1710.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "408.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "76.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.32",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:50:11"
+}

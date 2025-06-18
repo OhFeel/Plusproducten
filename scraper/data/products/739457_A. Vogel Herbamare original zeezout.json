@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "A. Vogel Herbamare original zeezout",
+  "brand": "A. Vogel",
+  "price": "3.29",
+  "base_unit_price": "26.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/739457_M/b90768d9bb1ed2083683a834e3351b81/739457.png",
+  "ingredients": "ingrediënten: 94% zeezout, 6% groenten en kruiden (selderij*, prei*, waterkers*, ui*, bieslook*, peterselie*, maggiplant*, paprika*, knoflook*, mierikswortel*, basilicum*, marjolein*, rozemarijn*, tijm*) en kelp.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "100.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "23.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "93.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "620.0",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:57"
+}

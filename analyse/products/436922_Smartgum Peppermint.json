@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smartgum Peppermint",
+  "brand": "Smartgum",
+  "price": "0.99",
+  "base_unit_price": "24.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436922_M/7038fbca37ed9a58a86c7bf33a0cc8e6/436922.png",
+  "ingredients": "zoetstoffen 70% (maltitol, sorbitol, xylitol 15%, maltitolstroop, aspartaam, acesulfaam-k), gombasis, aroma's: o.a. pepermunt, verdikkingsmiddel: arabische gom, kleurstof: e170, emulgator: lecithine, glansmiddelen: e903 en e905. kan sporen van soja bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "703.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:48"
+}

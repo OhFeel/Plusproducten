@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Santa maria Tortilla Chips Sour Cream & Chives",
+  "brand": "Santa maria",
+  "price": "2.15",
+  "base_unit_price": "11.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/906989_M/1fa9a2aaba9713b7248f8acdd91b4074/906989.png",
+  "ingredients": "Ingrediënten: Maïsmeel (73%), zonnebloemolie, zure room en bieslook kruiden (zout, druivensuiker, MELKPOEDER, ui, suiker, voedingszuur (melkzuur), kruiden en specerijen (zwarte peper, peterselie, bieslook (0,03%)), prei, aroma (bevat MELK), gistextract)\n\nKan sporen van soja bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1979.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "472.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:04:27"
+}

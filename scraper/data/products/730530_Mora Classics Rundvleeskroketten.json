@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Classics Rundvleeskroketten",
+  "brand": "Mora",
+  "price": "5.99",
+  "base_unit_price": "7.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/730530_M/143a0f2d6680b27855a05476201c3f87/730530.png",
+  "ingredients": "Ingrediënten: water, bloem (bevat TARWE), plantaardige oliën (palm, raap, zonnebloem),gekookt rundvlees 10%, EI-eiwit, volkorenmeel (bevat TARWE), zout, natuurlijke aroma's, TARWE-eiwit/rundercollageen, gist, specerijen, zetmeel (bevat TARWE), gistextract, dextrose, rundergelatine, runderhemoglobinepoeder, verdikkingsmiddel: guarpitmeel, kruiden, kleurstof: E150d, stabilisatoren: E450 en E452, emulgator: lecithinen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "921.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "221.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:48"
+}

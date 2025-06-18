@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Zevengranenvlokken bio",
+  "brand": "Smaakt",
+  "price": "2.65",
+  "base_unit_price": "5.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/784781_M/f1306fe298cc6ddd3d8fd13e9d0c8461/784781.png",
+  "ingredients": "Ingrediënten: HAVERvlokken* 21%, GERSTvlokken* 21%, ROGGEvlokken* 21%, TARWEvlokken* 21%, boekweitvlokken* 8%, SPELTvlokken* 4%, rijstvlokken* 4%, * =biologisch\nKan sporen bevatten van andere glutenbevattende granen, pinda's, melk, noten, sesamzaad.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1510.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "357.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.99",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "10.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:31"
+}

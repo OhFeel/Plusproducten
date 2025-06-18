@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Muifelbrouwerij Zuster Agatha",
+  "brand": "Muifelbrouwerij",
+  "price": "3.19",
+  "base_unit_price": "9.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/639200_M/43e02969c41d50c9ab5e79b3729cbc37/639200.png",
+  "ingredients": "Ingrediënten: Gebrouwen van water, GERSTEMOUT, (Pilsmout, Caramunich mout, Special B, Chocolade Mout), Hop (Northern Brewer, Hallertau Mittelfrüh), Suiker en Bovengist. Bevat een lage concentratie gluten.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "10",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:14"
+}

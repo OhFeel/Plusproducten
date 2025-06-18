@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lindahls Lindahls proteine snack coconut",
+  "brand": "Lindahls",
+  "price": "1.19",
+  "base_unit_price": "29.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/584612_M/b1429f2ddd692c16192fa12f04799387/584612.png",
+  "ingredients": "Volle MELK (30,2%), zoetstoffen (maltitol, erythritol), MELKeiwitten, TARWEbloem, plantaardige vet (palm), kokosmelk [kokosnootextract, water] (5,8%), bevochtigingsmiddel (glycerol), plantaardige olie (zonnebloemolie), mager cacaopoeder, gedehydrateerde geraspte kokosnoot (0,4%), emulgator (mono- en diglyceriden van vetzuren), rijsmiddel (E530ii), aroma's, zout, gedehydrateerde geraspte kokosmelk. Overmatige consumptie kan laxerende effecten hebben.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1349.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "322.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:01"
+}

@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vivera Kip krokante schnitzel",
+  "brand": "Vivera",
+  "price": "3.29",
+  "base_unit_price": "16.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/288439_M/78a1359bd484ec35f0b4b58c33c9ab22/288439.png",
+  "ingredients": "Ingrediënten: 65% gehydrateerde plantaardige eiwitten (water, 14% SOJA-EIWIT, 2% TARWE-EIWIT), cornflakes (mais, suiker, zout, GERSTEMOUTEXTRACT), plantaardige oliën (zonnebloem, raapzaad in wisselende verhoudingen), water, zetmeel (bevat TARWE), azijn, verdikkingsmiddel (methylcellulose), TARWEBLOEM, natuurlijke aroma's, verlaagd natrium zout, kruiden en specerijen, aardappelvezels, zout, uienpoeder, knoflookpoeder, ijzer, vitamine B12. Allergenen: Kan sporen bevatten van ei en melk.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "849.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "203.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "3.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.55",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:13"
+}

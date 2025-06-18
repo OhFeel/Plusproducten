@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vifon Hot Lobster",
+  "brand": "Vifon",
+  "price": "1.79",
+  "base_unit_price": "15.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/188899_M/ff43a8fe5c1e884bb270f5f2a51b9fcc/188899.png",
+  "ingredients": "Ingrediënten: noedel (68,9%): TARWEmeel, palmvet, tapiocazetmeel, gemodificeerd zetmeel, zout, suiker, stabilisatoren: E 451, E 412; rijsmiddelen: kaliumcarbonaten,natriumcarbonaten; kurkuma; sauspakket (30,4%): water, rode sjalot, suiker, tomatenpuree, geraffineerde palmolie, GARNALENtomalleyolie (SCHAALDIEREN), melasse, chilipoeder,smaakversterkers: mononatriumglutamaat, natriumguanylaat, dinatriuminosinaat; GARNALENpoeder (SCHAALDIEREN), zout, citroengras, geconcentreerde SOJAsaus(SOJABONENmeel, water), gehydroliseerd SOJA-eiwit, chili-extract, peperpoeder, kleurstoffen: paprika-extract, carotenen; gistextract, VISsaus (ANSJOVIS, zout), conserveermiddel:kaliumsorbaat; antioxidant: E 306; gedroogde groentepakket (0,7%): geroosterde SESAM, gedroogd zeewier. Kan bevatten: MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Vis, Soja, Sesamzaad, Ansjovis en producten op basis van ansjovis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1597.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "382.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:14:24"
+}

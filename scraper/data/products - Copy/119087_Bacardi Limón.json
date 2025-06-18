@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Bacardi Limón",
+  "brand": "Bacardi",
+  "price": "20.99",
+  "base_unit_price": "29.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119087_M/2ed8d8873191f27fa9d667091f472487/119087.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "721.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "172.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "27",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:09"
+}

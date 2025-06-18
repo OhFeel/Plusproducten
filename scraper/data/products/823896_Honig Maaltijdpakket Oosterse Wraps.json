@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Maaltijdpakket Oosterse Wraps",
+  "brand": "Honig",
+  "price": "4.49",
+  "base_unit_price": "10.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/823896_M/5fb04154e62384882dafbbc70500262d/823896.png",
+  "ingredients": "Ingrediënten: Wraps: TARWEBLOEM, water, zonnebloemolie, stabilisatoren (E422, E412), emulgator (E471), zuurteregelaar (appelzuur), conserveermiddelen (E281, E202), rijsmiddel (E500), zout. Kan SOJA en MOSTERD bevatten. Oosterse Kruidenmix: Suiker, specerijen (gember, paprikapoeder, kurkuma, laos, chilipoeder, kaneel), zetmeel, zout, maltodextrine, kokosmelkpoeder, knoflook, TARWEBLOEM, weipoeder (MELK), aroma (bevat SOJA), smaakversterker (E621), voedingszuur (citroenzuur), natuurlijk aroma (bevat MELK), zonnebloemolie, antiklontermiddel (E551), MELKEIWEIT. Kan MOSTERD bevatten. Mix voor dip: Water, specerijen (paprikapoeder, korianderzaad, komijnzaad, peper, gember, kaneel, kurkuma, chilipoeder, kardemom, nootmuskaat, kruidnagel, piment), azijn, ui, voedingszuur (melkzuur), zout, paprika, knoflook, gemodificeerd zetmeel, conserveermiddel (kaliumsorbaat), natuurlijk citroenaroma, zonnebloemolie. Kan MOSTERD bevatten. Chilisaus: Water, suiker, azijn, gemodificeerd zetmeel, zout, paprika, paprikapuree (paprika, citroensapconcentraat), tomatenpuree, specerijen (chilipoeder, gember), knoflook, conserveermiddel (kaliumsorbaat), verdikkingsmiddelen (guargom, xanthaangom), natuurlijk citroenaroma, citroengras, natuurlijk aroma, natuurlijk ui-aroma, zonnebloemolie.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1069.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "253.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:52:27"
+}

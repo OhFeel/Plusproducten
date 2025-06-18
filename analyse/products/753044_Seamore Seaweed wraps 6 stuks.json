@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Seamore Seaweed wraps 6 stuks",
+  "brand": "Seamore",
+  "price": "3.49",
+  "base_unit_price": "7.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/753044_M/1339e508efa8b2d776567a6d558fd842/753044.png",
+  "ingredients": "Ingrediënten: TARWEmeel, water, zeewier (Himanthalia Elongata) 5%, ongehard palmvet, rijsmiddel (E450c, E500[i]), zout, emulgatoren (E471, E450), bevochtigingsmiddel (E422), stabilisator (E412), zuurteregelaar (E296), conserveermiddelen (E282, E202), kleurstof (E141)\n\nNiet geschikt voor mensen met glutenbevattende granen-, schaaldieren-, vis- of weekdierenallergie",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1185.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "284.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "730.0",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:37:40"
+}

@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "PLUS Basismaaltijdsalade Tonijn",
+  "brand": "PLUS",
+  "price": "3.99",
+  "base_unit_price": "8.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952844_M/31455b16644bf5bd62eb0fa67736cf0e/952844.png",
+  "ingredients": "Ingrediënten :23% aardappel, 21% slamix (ijsbergsla, romaine sla), 14% tonijn (tonijn (VIS)*, water, zout), 13% vinaigrettedressing (water, raapzaadolie, uiengranulaat, MOSTERD (water, natuurazijn, MOSTERDZAAD, zout, kurkuma), witte wijnazijn, natuurazijn, suiker, SCHARRELKIPPENEI-EIGEEL, stabilisator: xanthaangom, gemodificeerd aardappelzetmeel, zout, gedroogde kruiden (peterselie, bieslook), specerijen (knoflookpoeder, witte peper)), 9% gekookt EI (SCHARRELKIPPENEI, zout, voedingszuur: E330/E331, conserveermiddel: azijnzuur), 9% sperziebonen, 7% wortel, 4% zwarte olijven (olijven, zout, stabilisator: E579, voedingszuur: E270).\n\n*Skipjack tonijn (Katsuwonus pelamis), gevangen in de Westelijke Indische Oceaan (FAO 51) met ringnetten en kruisnetten en in de Oostelijke Indische Oceaan (FAO 57) met haken en lijnen. Uit een MSC gecertificeerde duurzame visserij. www.msc.org/nl. MSC-C-55711.",
+  "allergens": "Ei, Vis, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "397.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "95.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.953",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.708",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.845",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.199",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.636",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "4.734",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.35",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.578",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.401",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.028",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.547",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:25"
+}

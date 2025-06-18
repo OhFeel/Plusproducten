@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Jameson Whiskey",
+  "brand": "Jameson",
+  "price": "27.49",
+  "base_unit_price": "39.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119447_M/fa5ffa669f0989fd18241cf446fa4b27/119447.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:25"
+}

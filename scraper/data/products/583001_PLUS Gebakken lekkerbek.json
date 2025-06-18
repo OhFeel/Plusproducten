@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Gebakken lekkerbek",
+  "brand": "PLUS",
+  "price": "4.15",
+  "base_unit_price": "16.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/583001_M/d1b407f2794dc949f19b6aa0fb293cfa/583001.png",
+  "ingredients": "98,4% lekkerbek (83,6% ATLANTISCHE HEEK* (VIS), koolzaadolie, water, maïsmeel, TARWEMEEL, aardappelzetmeel, rijstmeel, dextrine, kruiden en specerijen (paprika, peper, kurkuma, chilipeper), natuurlijk aroma, uienpoeder, conserveermiddel: natriumacetaten, zuurteregelaar: natriumcarbonaten, stabilisator: hydroxypropylmethylcellulose.) 1,6% specerijenmix (zout, TARWEBLOEM, natuurlijke aroma's (bevat SELDERIJ), specerijen (paprika, chilipeper, peper). dextrose, ui) *Merluccius capensis, vangstgebied Zuidoost Atlantische Oceaan (FAO 47), vangstmethode: trawlnetten",
+  "allergens": "Glutenbevattende granen, Vis, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "544.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.32",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:50:39"
+}

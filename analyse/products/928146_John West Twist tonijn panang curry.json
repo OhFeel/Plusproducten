@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "John West Twist tonijn panang curry",
+  "brand": "John West",
+  "price": "3.29",
+  "base_unit_price": "38.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/928146_M/48f437499e285ca1fe71205988522842/928146.png",
+  "ingredients": "Ingrediënten: TONIJN (36%) (KATSUWONUS PELAMIS), kokosmelk (25%), water, Panang Currypasta (6%) (knoflook (z1%), chilipeper, citroengras (1,2%), zout, laos, kaffir limoenschil, sjalot, mungboon), suiker, rode peper (4,5%), ertwen-aubergine, sojaolie, kaffir limoenbladeren, zout, gemodificeerd tapiocazetmeel, paprika extract.",
+  "allergens": "Vis, Tonijn en producten op basis van tonijn",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "663.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "158.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:46"
+}

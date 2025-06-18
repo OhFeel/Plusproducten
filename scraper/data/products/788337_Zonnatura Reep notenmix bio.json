@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Reep notenmix bio",
+  "brand": "Zonnatura",
+  "price": "1.99",
+  "base_unit_price": "26.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/788337_M/434f551c06477ea3430056f06273dcbc/788337.png",
+  "ingredients": "Ingrediënten: PINDA's* 38%, agavesiroop*, AMANDELEN* [NOTEN] 16%, pompoenzaden* 13%, rozijnen* (gedrooogde druiven*, zonnebloemolie*).  *ingrediënt van biologische teelt. Kan andere noten en sesamzaad bevatten.",
+  "allergens": "Aardnoten (pinda's), Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2281.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "549.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:44:03"
+}

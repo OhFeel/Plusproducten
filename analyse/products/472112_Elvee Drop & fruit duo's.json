@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Drop & fruit duo's",
+  "brand": "Elvee",
+  "price": "3.35",
+  "base_unit_price": "18.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/472112_M/3681a812d8c3f1a873e3cbcbd27ce279/472112.png",
+  "ingredients": "glucosestroop, suiker, gemodificeerd maïszetmeel, gelatine (varken), zoethoutwortelextract, melasse, salmiakzout, kleurstoffen (e153, e120, e100), voedingszuur (e330), natuurlijke aroma’s, glansmiddel (e903).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1494.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "352.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:05"
+}

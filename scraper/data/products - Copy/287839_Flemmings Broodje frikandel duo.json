@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Flemmings Broodje frikandel duo",
+  "brand": "Flemmings",
+  "price": "1.99",
+  "base_unit_price": "1.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/287839_M/7100d13327e5d7fbd8ebc783f4383c5f/287839.png",
+  "ingredients": "Ingrediënten: 46.0% *BROOD (TARWEBLOEM, water, suiker, raapzaadolie, bakkersgist, bakkerszout, TARWEGLUTEN, emulgator (mono- en diglyceriden van vetzuren), glucosesiroop, conserveermiddel (calciumpropionaat, sorbinezuur), CASEÏNATEN, natuurlijk aroma, meelverbeteraar (ascorbinezuur), enzymen). * KAN SPOREN VAN SESAM EN SOJA BEVATTEN. 46.0% FRIKANDEL (70% kippenseparatorvlees, kippencollageen, TARWEBLOEM, groente (ui), TARWEZETMEEL, zout, TARWEVEZEL, kruiden en specerijen, voedingszuur (natriumdiacetat, citroenzuur), antioxidant (natriumerythorbaat), aroma, gist). 4.4% MAYONAISE (70% raapzaadolie, water, alcoholazijn, 6,2% gepasteuriseerde EIDOOIERS (vrije uitloop), suiker, zout, stabilisatoren (xanthaangom, guarpitmeel), MOSTERDZAAD, specerijen). 3.6% TOMATENKETCHUP (tomaat (148g per 100g tomatenketchup), azijn, suiker, zout, kruiden en specerijen extract (bevat SELDERIJ), specerijen).",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "962.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "230.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:57:36"
+}

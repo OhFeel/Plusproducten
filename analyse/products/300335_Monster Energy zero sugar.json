@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Monster Energy zero sugar",
+  "brand": "Monster",
+  "price": "2.29",
+  "base_unit_price": "4.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/300335_M/faa9946bbe9ee4245504bb6e999036fc/300335.png",
+  "ingredients": "sprankelend water, voedingszuur (citroenzuur), smaakversterker (erytritol), aroma’s, taurine (0,4%), zuurteregelaar (natriumcitraaten), ginsengwortelextract (0.08%), l-carnitine l-tartraat (0.04%), conserveermiddelen (sorbinezuur, benzoëzuur), zoetstoffen (sucralose, acesulfaam-k), cafeïne (0.03%), kleuren (anthocyanen), vitamines (niacine, b6, riboflavine, b12), guarana extract (0.002%), inositol.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "15.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.56",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "6.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.56",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "1.0",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:42"
+}

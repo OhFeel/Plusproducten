@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely Tiny mix pack",
+  "brand": "Tony's Chocolonely",
+  "price": "7.29",
+  "base_unit_price": "36.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/633320_M/07ab1886c40363bfc09b6c733ed0cc9c/633320.png",
+  "ingredients": "Ingrediënten: pure chocolade: cacaomassa, suiker, cacaoboter, magere cacaopoeder, emulgator ((lecithines (SOJA))). melkchocolade karamel zeezout: suiker, volle MELKpoeder, cacaoboter, cacaomassa, 10.00% karamel (suiker, glucosestroop, BOTER, ROOM), 0.50% zeezout, emulgator ((lecithines (SOJA))). pure chocolade amandel zeezout: cacaomassa, suiker, 10.00% AMANDEL, cacaoboter, 0.50% zeezout, emulgator ((lecithines (SOJA))). donkere melkchocolade pretzel toffee:suiker, cacaomassa, volle MELKpoeder, cacaoboter, emulgator ((lecithines (SOJA))), 7.22% pretzel stukjes (TARWEbloem, zout, zonnebloemolie, tarwemoutmeel, gist, zuurteregelaar (natriumhydroxide)), 2.78% karamel (suiker, glucosestroop), zeezout. melkchocolade noga: suiker, volle MELKpoeder, cacaoboter, cacaomassa, 10.00% noga, emulgator ((lecithines (SOJA))), melkchocolade hazelnoot:suiker, volle MELKpoeder, cacaomassa, cacaoboter, HAZELNOOT, emulgator ((lecithines (SOJA))), melkchocolade:suiker, volle MELKpoeder, cacaoboter, cacaomassa, emulgator ((lecithines (SOJA))), donkere melkchocolade: suiker, cacaomassa, volle MELKpoeder, cacaoboter, emulgator ((lecithines (SOJA))), witte chocolade framboos knettersuiker: suiker, cacaoboter, volle MELKpoeder, 2.70% framboos, 2.00% knettersuiker (glucosestroop, suiker, koolzuurgas), emulgator ((lecithines (SOJA))), witte chocolade: suiker, cacaoboter, volle MELKpoeder, emulgator ((lecithines (SOJA))). naast de vetgedrukte allergenen per smaak kunnen sporen van MELK, GLUTEN, EI en NOTEN aanwezig zijn. Geschikt voor vegetariërs, niet geschikt voor veganisten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2294.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "548.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.48",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:09:11"
+}

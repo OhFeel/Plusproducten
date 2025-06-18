@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's paste sachet butter chicken",
+  "brand": "Patak's",
+  "price": "2.39",
+  "base_unit_price": "29.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/226316_M/d7f465cd2841230db4d367a99a144ab7/226316.png",
+  "ingredients": "water, plantaardige olie, gemengde specerijen (15%) (koriander (5%), specerijen (4%), paprika (3%), komijn (1,5%), fenegriek (1%), gember (<lt/>1%)), maïszetmeel, suiker, zout, gemberpuree (3%), knoflookpuree, uipoeder, voedingszuur (azijnzuur), gedroogde ui, kleurstof (paprika-extract). allergeneninformatie: kan noten, aardnoten (pinda's), gluten en soja bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1333.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "322.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:29:30"
+}

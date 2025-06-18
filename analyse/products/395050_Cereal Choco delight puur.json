@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Cereal Choco delight puur",
+  "brand": "Cereal",
+  "price": "3.46",
+  "base_unit_price": "27.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/395050_M/9e87b3f717131a674b3bf1ab8605a49b/395050.png",
+  "ingredients": "Ingrediënten: TARWEbloem 45,5%, pure chocolade dekking met zoetstof 36,3% (cacaomassa^1, zoetstof: maltitolen, cacaoboter^1, emulgator: lecithinen [SOJA], natuurlijk vanillearoma), zoetstoffen: maltitolen, oliezuurlijke zonnebloemolie, TARWEvezels, HAVERvezels, magere MELKpoeder, rijstmeel, EIgeelpoeder, rijsmiddelen: kaliumcarbonaten en ammoniumcarbonaten, zout, natuurlijk vanillearoma, geconcentreerd citroensappoeder, maltodextrine, ^1Rainforest Alliance gecertificeerd. Lees meer op ra.org.\n\nKan sporen van noten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1780.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "427.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:37:45"
+}

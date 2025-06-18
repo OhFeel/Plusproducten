@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Alfa Lentebok",
+  "brand": "Alfa",
+  "price": "5.99",
+  "base_unit_price": "3.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/399310_M/3b2adff508a8a7a2a8ef289f779ba1ea/399310.png",
+  "ingredients": "Ingrediënten: 100% bronwater, gerstemout, hop",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "266.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "64.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:39:05"
+}

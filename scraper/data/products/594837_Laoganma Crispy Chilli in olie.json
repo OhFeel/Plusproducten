@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Laoganma Crispy Chilli in olie",
+  "brand": "Laoganma",
+  "price": "3.99",
+  "base_unit_price": "19.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/594837_M/a13ad23842eb244bec0e6a17c2675c38/594837.png",
+  "ingredients": "Ingrediënten: SOJAolie [45%], chili [25%], ui [15%], gefermenteerde soja [SOJA, water], smaakversterker: [E621], zout, suiker, Sichuan peper poeder.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2957.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "717.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "71.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:03"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wagner Big city pizza london salami ham",
+  "brand": "Wagner",
+  "price": "3.99",
+  "base_unit_price": "9.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/305010_M/bb3a3a897abd46ca9b2707062ee82ac4/305010.png",
+  "ingredients": "tarwemeel, water, mozzarella (melk) (15%), tomatenpuree (9%), champignons (5%), salami (4%) (varkensvlees, varkensvet, zout, conserveermiddel:\nnatriumnitriet, maltodextrine, dextrose, antioxidanten: natriumascorbaat, extracten van rozemarijn; specerijen (bevat mosterd), specerijextracten, rook), koolzaadolie,\ngekookte ham (2%) (varkensham, zout, conserveermiddel: natriumnitriet, dextrose, stabilisator: natriumcitraten, antioxidanten: natriumascorbaat, extracten van rozemarijn;\nspecerijextracten, rook), gist, zout, zetmeel, witte balsamico azijn (witte wijnazijn, druivenmost), tarwegluten, gedroogde zuurdesem (tarwe), tarwezetmeel\n(voorverstijfseld), tarwemeel (voorverstijfseld), suiker, dextrose, oregano.\nbevat mogelijk: ei, vis, lupine, selderij en soja.",
+  "allergens": "Lupine, Tarwe, Vis, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "974.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "232.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:52"
+}

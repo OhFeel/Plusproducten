@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Chorizo manchego roomkaas rolletjes",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "37.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/662634_M/b473a3674d0d767653cead29d42013cf/662634.png",
+  "ingredients": "Ingrediënten :51% roomkaas met manchego (75% verse roomkaas (gepasteuriseerde MELK, zout, zuursel, microbieel stremsel), 14% manchego kaas (SCHAPENMELK, zout, dierlijk stremsel, zuursel), gemodificeerd aardappelzetmeel, plantaardige oliën (zonnebloem, raapzaad, in wisselende verhouding), voedingszuur: E330, zout, conserveermiddel: E202), 49% Chorizo Pamplona (58% varkensvlees, 32% varkensvet, zout, maltodextrine, paprika, magere MELKPOEDER, dextrose, MELKEIWITTEN, knoflook, stabilisator: E450/E452, cayennepeper, antioxidant: E301/E392, kleurstof: E120, conserveermiddel: E250/E252).\n\nDit product kan sporen van SOJA bevatten.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1654.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "400.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "13.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.27",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.908",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:02"
+}

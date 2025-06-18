@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nora Dark & white biscuits",
+  "brand": "Nora",
+  "price": "2.19",
+  "base_unit_price": "14.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/903218_M/90e3f7260a36a7c2e6df43ba3b42d97f/903218.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, suiker, plantaardig vetten (palm, sal, shea, mango), TARWEZETMEEL, 2% magere cacaopoeder , 0,8% cacaomassa, raapzaadolie, rijsmiddelen: natriumcarbonaat, kaliumtartraat; glucosestroop, natuurlijk aroma, VOLLEMELKPOEDER, weipoeder (bevat MELK), cacaoboter, zout, emulgator: SOJALECITHINE. KAN SPOREN BEVATTEN VAN NOTEN, PINDA'S EN EI.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2110.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "504.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:29"
+}

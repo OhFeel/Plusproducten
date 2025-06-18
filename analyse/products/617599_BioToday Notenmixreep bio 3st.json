@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Notenmixreep bio 3st",
+  "brand": "BioToday",
+  "price": "2.95",
+  "base_unit_price": "39.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/617599_M/ab6d332e7a5ee608625ceddb897a7137/617599.png",
+  "ingredients": "Ingrediënten: PINDA'S (AARDNOTEN)* 44%, AMANDELEN* 13%, rozijnen* (rozijnen*, zonnebloemolie*), pompoenpitten*, inuline*, rijstsiroop*, *=biologisch\nKAN SPOREN BEVATTEN VAN:",
+  "allergens": "Aardnoten (pinda's), Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2170.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "522.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:18"
+}

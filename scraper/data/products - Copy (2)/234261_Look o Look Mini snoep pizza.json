@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Mini snoep pizza",
+  "brand": "Look o Look",
+  "price": "2.69",
+  "base_unit_price": "31.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/234261_M/ceda2cb8ac35a5dcc51d64c37bde9491/234261.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, water, gelatine, voedingszuren (citroenzuur, melkzuur), TARWEBLOEM, geconcentreerd druivensap, glucose-fructosestroop, aroma's, verdikkingsmiddel (pectine), kokosolie, kleurstoffen (sulfiet-ammoniakkaramel, plantaardige koolstof, karmijn, curcumine, briljantblauw FCF, paprika-extract, bèta-caroteen), palmolie, bevochtigingsmiddel (sorbitol), glansmiddelen (carnaubawas, bijenwas), zonnebloemolie, concentraten (zoete aardappel, zwarte wortel, vlierbes), emulgator (mono- en diglyceriden van vetzuren), cacaoboter. ",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1378.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "324.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "76.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:31:43"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Hoestmelange",
+  "brand": "Elvee",
+  "price": "2.99",
+  "base_unit_price": "7.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/276986_M/803cccd9687fe34db6e025cfcd5a4569/276986.png",
+  "ingredients": "suiker, glucosestroop, water, gelatine, gemodificeerd aardappelzetmeel, voedingszuur (citroenzuur), zoethoutextract, salmiakzout, aroma’s, zuurteregelaar (e331), saffloerconcentraat, kleurstoffen (e120, e141, e150d, e153). dit product wordt gemaakt in een bedrijf waar ook andere allergenen worden verwerkt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1454.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "342.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "63.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:53:00"
+}

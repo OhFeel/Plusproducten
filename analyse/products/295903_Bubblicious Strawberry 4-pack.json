@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bubblicious Strawberry 4-pack",
+  "brand": "Bubblicious",
+  "price": "2.49",
+  "base_unit_price": "16.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/295903_M/59c5831d73acdbf639373dd5e6570c23/295903.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, gom, aroma's, voedingszuren (E330, E296), emulgator (zonnebloemlecithine), bevochtigingsmiddel (e422), palmpittenolie, kleurstof (E120), antioxidant (E321).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1281.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "302.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:32"
+}

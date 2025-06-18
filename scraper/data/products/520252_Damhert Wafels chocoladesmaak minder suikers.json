@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Wafels chocoladesmaak minder suikers",
+  "brand": "Damhert",
+  "price": "4.69",
+  "base_unit_price": "28.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/520252_M/090bd7613a75c6321d129f0fe01009fe/520252.png",
+  "ingredients": "TARWEbloem, zoetstof (maltitol), boter (MELK), scharrelEIeren, plantaardige vetstoffen (palm, koolzaad), topping (16,67%) (zoetstof (maltitol), geheel gehard plantaardig vet (palmpitolie), mager MELKpoeder, magere cacaopoeder, emulgatoren (lecthine), aroma), zoetstoffen (sorbitol, plantaardig glycerol, mannitol), WEIpoeder (MELK), MELK, EIwit, SOJA bloem, jodiumhoudend zout, rijsmiddel (ammoniumbicarbonaat), emulgatoren (zonnebloem-en SOJAlecithine), natuurlijke aroma's, kleurstof (natuurlijk bètacaroteen), aroma (vanilline). ",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1808.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "434.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "24.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:26:19"
+}

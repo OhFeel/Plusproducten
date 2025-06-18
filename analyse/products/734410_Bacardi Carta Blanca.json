@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Bacardi Carta Blanca",
+  "brand": "Bacardi",
+  "price": "6.99",
+  "base_unit_price": "34.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/734410_M/e98c5073bfa18cbad8e0752b25ff3eb2/734410.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "37.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:20"
+}

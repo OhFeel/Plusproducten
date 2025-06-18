@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Trolli Sour worms",
+  "brand": "Trolli",
+  "price": "1.55",
+  "base_unit_price": "7.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/564764_M/6a71c6cecc1a6f24aba82c04cd159f0c/564764.png",
+  "ingredients": "Ingrediënten: glucosestroop; suiker; gemodificeerd aardappelzetmeel; gelatine, voedingszuren: citroenzuur, melkzuur, appelzuur; zuurteregelaars: calciumcitraat ,natriummalaat; aroma's; kleurstof: karmijn, curcumine, briljantblauw FCF",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1424.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "335.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:02"
+}

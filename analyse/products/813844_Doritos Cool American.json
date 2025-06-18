@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Doritos Cool American",
+  "brand": "Doritos",
+  "price": "2.29",
+  "base_unit_price": "13.47",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/813844_M/ad4e509b6efb097e27a1568444fbc064/813844.png",
+  "ingredients": "Ingrediënten: maïs (73%), koolzaadolie, zure roomsmaak [zout, aroma (bevat MELK), suiker, glucosesiroop, uienpoeder, kaaspoeder (van MELK), knoflookpoeder, smaakversterkers (mononatriumglutamaat, dinatrium-5'-ribonucleotiden), tomaatpoeder, kaliumchloride, zuurteregelaars (appelzuur, natriumacetaten, citroenzuur), specerijen, MELKEIWIT, kleurstof (annatto bixin)], zout, antioxidanten (ascorbinezuur, extracten van rozemarijn, tocoferolrijk extract, citroenzuur). Kan soja en tarwe (gluten) bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1998.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "477.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:04"
+}

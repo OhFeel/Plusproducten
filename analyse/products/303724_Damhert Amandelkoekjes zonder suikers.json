@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Amandelkoekjes zonder suikers",
+  "brand": "Damhert",
+  "price": "3.09",
+  "base_unit_price": "24.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/303724_M/18e015b8e09f70afe0d2d1794a6c6ba1/303724.png",
+  "ingredients": "TARWEbloem, zoetstof (29%) (maltitol), plantaardige oliën en vetten (palm), AMANDELEN (9,7%), volle MELK, EIgeelpoeder, SOJAbloem, rijsmiddel (natriumwaterstofcarbonaat, bisnatriumfosfaat, TARWEzetmeel), mout (GERST), kaneel, zout.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Soja, Melk, Noten, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1950.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "466.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.88",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:27"
+}

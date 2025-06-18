@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Iglo Fishcuisine Bretange glutenvrij",
+  "brand": "Iglo",
+  "price": "5.99",
+  "base_unit_price": "15.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/811993_M/148f67d84a9b68cd25f8ae80b4eadada/811993.png",
+  "ingredients": "Ingrediënten: Alaska koolVIS 52%, paneermeel 11% (rijstbloem, kikkererwtenbloem, maiszetmeel, zout, dextrose), water, koolzaadolie, uien, kwarkbereiding [kwark (MELK), magere yoghurt (MELK), peterselie 0,9%], EI, geconcentreerd citroensap 0,5%, zout, maiszetmeel, paprikapoeder, knoflookpoeder, zeezout.",
+  "allergens": "Vis, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "792.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "190.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:40"
+}

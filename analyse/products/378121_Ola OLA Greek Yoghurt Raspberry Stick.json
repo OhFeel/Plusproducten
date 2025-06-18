@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ola OLA Greek Yoghurt Raspberry Stick",
+  "brand": "Ola",
+  "price": "3.49",
+  "base_unit_price": "16.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/378121_M/bb76ec6c08fac5d9d1a9a0f007d53cf2/378121.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, Griekse stijl magere YOGHURT (28%), ROOM, suiker, glucosestroop, magere MELKPOEDER, fructose, water, frambozensap op basis van geconcentreerd sap (2,4%), inuline, kokosolie, emulgator (mono- en diglyceriden van vetzuren), zuurteregelaar (citroenzuur), gemodificeerd zetmeel, stabilisatoren (johannesbroodpitmeel, guargum, pectine), natuurlijke aroma's, kleurstof (anthocyaninen), geconcentreerd zwarte wortelsap. Kan EI, PINDA, AMANDEL, HAZELNOOT, WALNOOT, CASHEWNOOT en MACADAMIANOOT bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "650.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "155.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:30:18"
+}

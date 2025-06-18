@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Neutraal Snijworst BLK",
+  "brand": "Neutraal",
+  "price": "1.99",
+  "base_unit_price": "13.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/611021_M/bb655747d451560eb6449d285a2902e7/611021.png",
+  "ingredients": "varkensvlees (57%), varkenscollageen, varkensspek, zout, kleurend rode biet concentraat, dextrose, specerijen(MOSTERD), gehydrolyseerd eiwit (raapzaad), paprika, antioxidant (E301, E330), knoflook, aroma, conserveermiddel (E250), zonnebloemolie,maltodextrine, specerijenextract, rook",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1476.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "362.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:22"
+}

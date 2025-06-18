@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Orangina Original",
+  "brand": "Orangina",
+  "price": "2.89",
+  "base_unit_price": "1.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/708474_M/a46a7e9efa58583e1d2b47be57a3f5ae/708474.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, sinaasappelsap en andere citrusvruchtensappen uit concentraat 10% (sinaasappel 9%, waarvan 1% pulp, pompelmoes, mandarijn), suiker, concentraat van sinaasappel- en mandarijnenschil, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, natuurlijke sinaasappelaroma's.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "169.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "40.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:51"
+}

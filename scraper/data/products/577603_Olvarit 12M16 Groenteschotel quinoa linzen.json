@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 12M16 Groenteschotel quinoa linzen",
+  "brand": "Olvarit",
+  "price": "1.75",
+  "base_unit_price": "7.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/577603_M/5ee38fcd8aded8d18eab6f8167c150ac/577603.png",
+  "ingredients": "ingrediënten : 50% groenten (14% rode biet, 13% tomaat, 12% wortel, 8% pastinaak, 3% ui), water 7,5% quinoa, 4% volkoren speltmeel (TARWE), 4% rode linzen, rijstebloem, koolzaadolie, geconcentreerd citroensap, tijm, zwarte peper.",
+  "allergens": "Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "270.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "64.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:47:24"
+}

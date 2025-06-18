@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Knoppers 5-pack 5 x25 gr",
+  "brand": "Knoppers",
+  "price": "1.59",
+  "base_unit_price": "12.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952258_M/e27c5159761c8dbe64f90a13ef5fe177/952258.png",
+  "ingredients": "Ingredienten: suiker, plantaardige vetten (palm, shea), MAGEREMELKPOEDER* (13,5%), TARWEMEEL (12,3%), HAZELNOTEN (9,1%), VOLKORENTARWEMEEL (6,1%), cacao, BOTERVET* (2,6%), magere cacao, TARWEZETMEEL, emulgator: lecithinen (SOJA), WEIPOEDER, ROOMPOEDER* (0,2%), zout, natuurlijke aroma's, rijsmiddel: natriumwaterstofcarbonaat, gemalen AARDNOTEN/PINDA'S. \n*komt overeen met 10% melkbestanddelen.\nKan ook bestanddelen van amandel, andere noten en ei bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2301.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "551.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "35.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.39",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:19:53"
+}

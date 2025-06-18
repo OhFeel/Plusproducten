@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade Nobo sprits speculaas",
+  "brand": "Verkade",
+  "price": "1.89",
+  "base_unit_price": "12.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/395153_M/b7681e4afa76ae24d465432f8edaf5ff/395153.png",
+  "ingredients": "Ingrediënten: TARWEbloem, suiker, plantaardige oliën en vetten (palm, raapzaad), boterolie (MELK), speculaaskruiden 2,6% (kaneel, kruidnagel, piment, kardemom, korianderzaad, gember, foelie, nootmuskaat), weipermeaatpoeder (MELK), zout, rijsmiddelen (natriumcarbonaten, difosfaten), suikerstroop, natuurlijk aroma, gedroogde citroenschil, gemodificeerd zetmeel, natuurlijk citroenaroma, zuurteregelaar (citroenzuur)\n\nKan noten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2205.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "527.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.87",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:37:58"
+}

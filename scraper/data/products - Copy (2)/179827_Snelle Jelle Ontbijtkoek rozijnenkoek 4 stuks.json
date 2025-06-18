@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Snelle Jelle Ontbijtkoek rozijnenkoek 4 stuks",
+  "brand": "Snelle Jelle",
+  "price": "2.29",
+  "base_unit_price": "8.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/179827_M/d94a2f969f5b74e6fe9424ee55c9a44e/179827.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, ROGGEbloem, water, suiker, rozijnen 9%, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), specerijen, zonnebloemolie. Kan sporen bevatten van: NOTEN, MELK.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1280.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "302.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.45",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:09:29"
+}

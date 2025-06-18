@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Look o Look Zure speentjes",
+  "brand": "Look o Look",
+  "price": "2.19",
+  "base_unit_price": "15.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/811716_M/a827491e35431d00c913e460388bcea8/811716.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, water, gelatine, voedingszuren (appelzuur, citroenzuur, melkzuur), zuurteregelaar (natriummalaten), aroma's, concentraten (saffloer, spirulina, zwarte wortel), geconcentreerd druivensap, kleurstoffen (curcumine, paprika-extract). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1411.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "332.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "78.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:36"
+}

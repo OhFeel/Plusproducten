@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof Yoghurt mousse perzik maracuja",
+  "brand": "Almhof",
+  "price": "1.79",
+  "base_unit_price": "9.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/407701_M/eec3582416103a884247f3c43bf9e1db/407701.png",
+  "ingredients": "Ingredienten:\n75% milde YOGHURT (met L. acidophilus), suiker, water, 5,5% perzikpuree uit concentraat, 1,8% maracujasap uit concentraat, gemodificeerd maïszetmeel, varkensgelatine, emulgator (mono- en diglyceriden van vetzuren, veresterd met melkzuur), zuurteregelaar (natriumcitraten), voedingszuur (citroenzuur), kleurstof (curcumine, paprika-extract), aroma (bevat MELK), schuimmiddel (stikstof).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "587.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "140.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:41:58"
+}

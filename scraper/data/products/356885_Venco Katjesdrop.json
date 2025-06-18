@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Venco Katjesdrop",
+  "brand": "Venco",
+  "price": "2.49",
+  "base_unit_price": "10.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/356885_M/aa18f318ed564b83745106873ca64575/356885.png",
+  "ingredients": "Ingrediënten: suiker, gelatine (SULFIET), glucosestroop, zoethoutwortelextract 5,4%, gekaramelliseerde suiker, plantaardige oliën (kokos, koolzaad), anijsolie, glansmiddel (bijenwas).",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1515.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "357.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.59",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:20:31"
+}

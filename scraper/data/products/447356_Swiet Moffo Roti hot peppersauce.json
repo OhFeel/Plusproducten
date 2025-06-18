@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Swiet Moffo Roti hot peppersauce",
+  "brand": "Swiet Moffo",
+  "price": "2.09",
+  "base_unit_price": "10.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/447356_M/f6f834b90fe4d830e451b45b83958e75/447356.png",
+  "ingredients": "Ingrediënten: water, wortel, rode peper (8%), MOSTERD, (MOSTERDZAAD, azijn), suiker, zout, gemodificeerd maïszetmeel, SOJA-olie, ui, knoflookpoeder, kruiden en specerijen, voedingszuur: E330, conserveermiddel: E211, bietenpoeder.",
+  "allergens": "Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "216.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "51.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:44"
+}

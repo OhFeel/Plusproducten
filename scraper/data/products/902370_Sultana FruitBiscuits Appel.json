@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Sultana FruitBiscuits Appel",
+  "brand": "Sultana",
+  "price": "2.69",
+  "base_unit_price": "12.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902370_M/27de64d0a9335290dd10ef5456dd43bb/902370.png",
+  "ingredients": "Ingrediënten: TARWEbloem, gedroogde druiven 22% (rozijnen en krenten in wisselende verhoudingen), suiker, zonnebloemolie, vulstof (maltitolen), bevochtigingsmiddel (glycerol), geconcentreerde appelpuree, maltodextrine, inuline, glucosestroop, rijstebloem, weipermeaatpoeder (MELK), TARWEzemelen, geconcentreerd appelsap 0,5%, zout, geleermiddel (pectinen), natuurlijke aroma's (bevat MELK), magere MELKpoeder, TARWEvezel, zuurteregelaars (citroenzuur, kaliumcitraten, natriumcitraten), rijstzetmeel, rijsmiddelen (natriumcarbonaten, difosfaten), kaneel, cacaoboter, verstevigingsmiddel (calciumlactaat)\n\nKan noten, sesamzaad en andere glutenbevattende granen bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1591.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "377.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:12"
+}

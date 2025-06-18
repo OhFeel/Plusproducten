@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Plantaardige gekruide kipstukjes",
+  "brand": "PLUS",
+  "price": "2.85",
+  "base_unit_price": "14.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/519894_M/fcefd8d9b5233bcf6615a0664e98c681/519894.png",
+  "ingredients": "Ingrediënten :83% Gerehydrateerde plantaardige eiwitten (TARWE, erwt, SOJA), TARWEGLUTEN, zonnebloemolie, aardappelzetmeel, verdikkingsmiddel: E461, specerijen, natuurlijk aroma, conserveermiddel: gebufferde azijn, zout, antioxidant: E300, ijzer, vitamine B12, maltodextrine.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "663.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "158.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.534",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.632",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.116",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.361",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.881",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.155",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.432",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:25:56"
+}

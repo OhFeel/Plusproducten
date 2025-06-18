@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Mix voor groentesaus tuinkruiden",
+  "brand": "Honig",
+  "price": "1.29",
+  "base_unit_price": "8.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/772101_M/1056ef9667f2a8e088c190f095c1f51b/772101.png",
+  "ingredients": "Ingrediënten: Glucosestroop, zetmeel, palmolie, zout, weipoeder (MELK), smaakversterkers (E621, E635), specerijen (uienpoeder, nootmuskaat, MOSTERDMEEL, peper, kurkuma), gehydrolyseerd SOJA-eiwit, voedingszuur (E331), MELKEIWIT, verdikkingsmiddelen (E415, E412), kruiden (peterselie, bieslook, BLADSELDERIJ, lavas, kervel), dextrose. Kan sporen bevatten van KIPPENEI, TARWE, AMANDEL.",
+  "allergens": "Soja, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1672.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "397.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:25"
+}

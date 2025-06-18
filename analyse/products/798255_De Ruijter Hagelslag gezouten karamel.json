@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "De Ruijter Hagelslag gezouten karamel",
+  "brand": "De Ruijter",
+  "price": "3.49",
+  "base_unit_price": "17.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/798255_M/fb8fb69bb1ab01ee33b4ba0b7750a3bd/798255.png",
+  "ingredients": "Ingrediënten hagelslag: Suiker, magere MELKPOEDER, cacaoboter*, cacaopoeder*, LACTOSE, gefractioneerd MELKVET (hardefractie), TARWEZETMEEL, KARNEMELKPOEDER, emulgator (SOJALECITHINE), zout, wortelsapconcentraat, appelextract, natuurlijke aroma's. *Rainforest Alliance gecertificeerd.ra.org. De melkchocoladehagelslag bevat ten minste 20% cacaobestanddelen.\nIngrediënten bolletjes: Suiker, cacaoboter, krokante vulling (TARWEMEEL, suiker, zout, HAVERMEEL, TARWEMOUTMEEL, rijsmiddel (natriumbicarbonaat), natuurlijkvanille aroma), volle MELKPOEDER, karamelpoeder 8,8% (magere MELKPOEDER, WEIPOEDER, suiker, MELKVET, natuurlijk vanille aroma), magere MELKPOEDER, gekarameliseerde suiker, emulgator (lecithine), cacaomassa, zout, glucosestroop, suiker, glansmiddel (arabische gom).",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1893.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "449.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.98",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:22"
+}

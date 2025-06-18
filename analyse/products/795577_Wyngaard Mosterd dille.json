@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Wyngaard Mosterd dille",
+  "brand": "Wyngaard",
+  "price": "3.55",
+  "base_unit_price": "23.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/795577_M/1c940f04abc790028f08a330c8f497aa/795577.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde KOEMELK, MOSTERDDILLE 10% (MOSTERDZAAD 4,0%, suiker, azijn, water, zonnebloemolie, honing, gedroogde dille 0,1%, specerij, natuurlijk aroma), zout, zuursel, microbieel stremsel, kleurstof: carotenen",
+  "allergens": "Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1593.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "380.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:45"
+}

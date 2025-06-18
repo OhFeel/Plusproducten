@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Cereal Stroopwafels minder suiker",
+  "brand": "Cereal",
+  "price": "2.32",
+  "base_unit_price": "13.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/514859_M/515aa1b5add26d7d5121f14fb06dbb6e/514859.png",
+  "ingredients": "Ingrediënten: TARWEbloem, verdikkingsmiddel: polydextrose, margarine (plantaardige vetten (zonnebloemolie, cacaoboter), water, emulgator: zonnebloemlecithine, citroensap), fructose, BOTER, SCHARRELEI, zoetstof: isomalt, inuline, zout, kaneel, natuurlijk aroma, rijsmiddel: natriumcarbonaten, suiker, vanille\n\nKan sporen van soja, hazelnoten, en sesam bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1627.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "389.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:24:43"
+}

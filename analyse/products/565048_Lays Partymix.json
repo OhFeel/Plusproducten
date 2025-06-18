@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Partymix",
+  "brand": "Lays",
+  "price": "4.99",
+  "base_unit_price": "0.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/565048_M/9eef6aba1e779ba069785e4ea05db686/565048.png",
+  "ingredients": "Ingrediënten: Aardappelchips met paprikasmaak 27,5 gr - Ingrediënten: aardappelen, plantaardige oliën (zonnebloem, koolzaad, in wisselende hoeveelheden), paprikasmaak [suiker, zout, paprikapoeder, kaliumchloride, uienpoeder, aroma's, fructose, knoflookpoeder, kleurstof (paprika-extract), voedingszuur (citroenzuur), gerookte paprikapoeder], antioxidanten (extracten van rozemarijn, ascorbinezuur, tocoferolrijk extract, citroenzuur). Gezouten aardappelchips 27,5 gr - Ingrediënten: aardappelen, plantaardige oliën (zonnebloem, koolzaad, in wisselende hoeveelheden), zout, antioxidanten (rozemarijnextract, ascorbinezuur, tocoferolrijk extract, citroenzuur). Maïszoutje met kaassmaak 27,5 gr - Ingrediënten: maïsmeel, zonnebloemolie, kaassmaak [weipermeaat (van MELK), weipoeder (van MELK), zout, natuurlijk aroma (zwarte peper, rozemarijn, kurkuma, ROOM en KAAS, uienpoeder, tomaatpoeder, KAASPOEDER, knoflookpoeder, zuurteregelaars (citroenzuur, melkzuur), kleurstof (paprika-extract)], zout, suiker. Kan soja en tarwe (gluten) bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2099.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "503.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:42:14"
+}

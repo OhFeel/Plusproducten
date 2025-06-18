@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Van De Streek Playground",
+  "brand": "Van De Streek",
+  "price": "2.09",
+  "base_unit_price": "6.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/740110_M/00a37f271bc683478563488c89d5e036/740110.png",
+  "ingredients": "Ingrediënten: Water, GERSTEmout, TARWEmout, HAVERvlokken, Hop, Gist",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "136.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "32.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.004",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:03"
+}

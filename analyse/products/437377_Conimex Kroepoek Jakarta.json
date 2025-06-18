@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Kroepoek Jakarta",
+  "brand": "Conimex",
+  "price": "1.75",
+  "base_unit_price": "23.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/437377_M/07081f41ed3749d7928aa895325cdcdc/437377.png",
+  "ingredients": "cassave 29%, tapiocabloem, zonnebloemolie, rietsuiker, prei, mierikswortel, zout, chilipeper, mineraalzout (kalium), uienpoeder, knoflookpoeder, zwarte peper, azijn, wortel, kurkuma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2130.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "509.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:54:17"
+}

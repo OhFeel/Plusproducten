@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Oliehoorn Mayonaise",
+  "brand": "Oliehoorn",
+  "price": "2.79",
+  "base_unit_price": "6.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/901599_M/29f4dee3682f7cbe20fc09df8d27a322/901599.png",
+  "ingredients": "Ingrediënten: 78% raapolie, water, 6% scharrelEIgeel, suiker, azijn, MOSTERD (water, MOSTERDzaden, azijn, zout, suiker, kruiden), zout, conserveermiddel (kaliumsorbaat), voedingszuur (citroenzuur), verdikkingsmiddel (xanthaangom), kleurstof (bètacaroteen), antioxidant (E385)",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3023.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "735.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "79.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:02:55"
+}

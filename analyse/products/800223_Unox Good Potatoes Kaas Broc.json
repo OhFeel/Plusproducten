@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good Potatoes Kaas Broc",
+  "brand": "Unox",
+  "price": "2.19",
+  "base_unit_price": "43.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/800223_M/0b7331fc651945dff1604794aac6c3b2/800223.png",
+  "ingredients": "Ingrediënten: Aardappel¹ 59%, zonnebloemolie, kaaspoeder 7,5% (KAAS, Gorgonzola KAAS, weiproduct (bevat MELK)), ROOMPOEDER, MELKSUIKER, uienpoeder, broccoli¹ 2,1%, gejodeerd zout, palmvet, aroma, MELKEIWITTEN, specerijen (knoflookpoeder, peper, kurkuma), zout, maltodextrine, emulgator E471, zetmeel. Kan tarwe, rogge, gerst, haver, ei, soja, selderij, mosterd bevatten. ¹op duurzame wijze geteeld. Kijk voor meer informatie op: www.unox.nl.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "376.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.61",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:00"
+}

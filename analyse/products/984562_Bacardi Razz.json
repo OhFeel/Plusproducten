@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Bacardi Razz",
+  "brand": "Bacardi",
+  "price": "20.99",
+  "base_unit_price": "29.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/984562_M/0ebfdb8094b12d0db21554a85abae0ca/984562.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "773.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "185.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "27",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:26:04"
+}

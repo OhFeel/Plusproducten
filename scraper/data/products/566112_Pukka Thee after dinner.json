@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Pukka Thee after dinner",
+  "brand": "Pukka",
+  "price": "5.79",
+  "base_unit_price": "0.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/566112_M/fe86f0d351dbdc21fd714365402760f1/566112.png",
+  "ingredients": "van nature cafeïnevrij, ethisch verantwoord verkregen en 100% biologisch geteelde ingrediënten: anijszaad (32,5%), zoete venkelzaad (32,5%), kardamompeul (15%), zoethoutwortel, korianderzaad, kurkumawortel.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "17.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "4.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:04"
+}

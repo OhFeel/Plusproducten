@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof Roomyoghurt framboos granaatappel",
+  "brand": "Almhof",
+  "price": "2.39",
+  "base_unit_price": "4.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581178_M/6e08db6eae4b5cbf9336857f0f61a452/581178.png",
+  "ingredients": "Ingredienten:\nROOMYOGHURT, suiker, 5,4% frambozen, 1,8% granaatappelsap uit concentraat, 0,9% frambozensap uit concentraat, maïszetmeel, citroensapconcentraat, plantenconcentraten (wortel, hibiscus),  natuurlijk aroma.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "573.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "137.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:09"
+}

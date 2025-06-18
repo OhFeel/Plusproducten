@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lotus wafel vanille aap",
+  "brand": "Lotus",
+  "price": "2.59",
+  "base_unit_price": "11.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/420970_M/1c0c6a20a779f5d83e1708ce2f7c25a8/420970.png",
+  "ingredients": "Ingrediënten: TARWEbloem, EIEREN*, raapolie, suiker, glucose- fructosestroop, voedingsvezel (oligofructose), stabilisator (glycerol), rijsmiddelen (dinatriumdifosfaat, natriumwaterstofcarbonaat), magere MELKpoeder, zout, natuurlijk aroma. *Scharreleieren. Kan SOJA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1804.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "432.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.36",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:45:50"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Hardys VR Shiraz",
+  "brand": "Hardys",
+  "price": "5.29",
+  "base_unit_price": "7.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/612822_M/e3d2a06e36b37816cb105ed6ccbd5f48/612822.png",
+  "ingredients": "Bevat: SULFIETEN, EI, MELK",
+  "allergens": "Ei, Melk, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "309.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:59"
+}

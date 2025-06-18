@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Boemboe bami goreng",
+  "brand": "Conimex",
+  "price": "1.99",
+  "base_unit_price": "20.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/291043_M/a70b3d5617f2afc97fa2839d513d047e/291043.png",
+  "ingredients": "Ingrediënten: Plantaardige oliën (raapzaad, zonnebloem), glucosestroop, ui, dextrose, water, zout, gember, knoflook, azijn, aroma, sojasaus (water, SOJABOON, TARWE, zout), koriander, smaakversterker E621, sambal (rode peper, zout, water, voedingszuur E270), tomatenpuree, gemodificeerd zetmeel, maltodextrine, volledig geharde palmolie, mineraalzout (kalium), kurkuma, gistextract, galangawortel, citroengras, GARNALENPOEDER, komijnzaad, conserveermiddel E202.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Soja, Garnaal en producten op basis van garnaal",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "515.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "123.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:59:27"
+}

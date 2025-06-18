@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Takis Fuego",
+  "brand": "Takis",
+  "price": "2.99",
+  "base_unit_price": "29.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/155639_M/86bcb63e1c37bd0ad00959a76532bf90/155639.png",
+  "ingredients": "voorgekookt maïsmeel, plantaardig vet (palm), kruidenmix met chili- en limoensmaak (maïs, maltodextrine, zout, smaakversterkers (mononatriumglutamaat, kaliumchloride, dinatriuminosinaat, natrium guanylaat), aroma, maïszetmeel, zuurteregelaar (citroenzuur), suiker, kleurstof (paprika-extract), rode bietenconcentraat, stabilisator (arabische gom), antioxidant (tocoferolrijk extract)), plantaardige olie (zonnebloem). kan melk en/of soja bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2028.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "486.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:59:10"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Sushi Ran Yasui",
+  "brand": "Sushi Ran",
+  "price": "6.99",
+  "base_unit_price": "24.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/589335_M/114d603ddce8f100de6d4e08715f5edb/589335.png",
+  "ingredients": "Ingrediënten: water, rijst, ZALM, TONIJN, EI, invertsuikerstroop, raapzaadolie, azijn, witVIS, zonnebloemolie, komkommer, zout, suiker, paprika, zeewier, SESAM, SOJAbonen, gerehydrateerde EI- eiwitpoeder (vrije uitloop), mierikswortel, TARWE, wasabi, TARWEzetmeel, dille, EIgeel, pitaya poeder, aardappelzetmeel, gemodificeerd aardappelzetmeel, gemodificeerd tapioca zetmeelsiroop, glucose, erwtenzetmeel, chilipeper, koolzaadolie, ui, raapolie, stabilisator: E420, KRABaroma (SCHAALDIER), gemodificeerd maïszetmeel, maïszetmeel, conserveermiddel: E267, voedingszuur: E325, gemodificeerd tapiocazetmeel, geleermiddel: E425, TARWEmeel, peterselie, specerijen (bevat MOSTERD), voedingszuur: E330, zuurteregelaar: E575, groentenextract, citroensap, SOJA-eiwit, verdikkingsmiddel: E415, conserveermiddel: E202, gember, MOSTERDolie, bieslook, kurkuma, MOSTERDzaad, zuurteregelaar: E509, MOSTERD (water, MOSTERDzaad, azijn, kruiden, zout), stabilisatoren: E450, E451, E452, voedingszuur: E300, TARWEbloem, kleurstof: E160d, gist, Japanse peper, yuzu.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Ei, Vis, Soja, Mosterd, Sesamzaad, Tonijn en producten op basis van tonijn, Krab en producten op basis van krab, Zalm en producten op basis van zalm",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "710.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:54:12"
+}

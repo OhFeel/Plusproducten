@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lipton Ice tea green mango zero",
+  "brand": "Lipton",
+  "price": "3.39",
+  "base_unit_price": "2.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/624402_M/40a767205d89866204294b0d8024b69b/624402.png",
+  "ingredients": "Ingrediënten: Water, voedingszuren (citroenzuur, appelzuur), groene thee-extract(1) (0,12%), mangosap van geconcentreerd sap (0,1%), zuurteregelaar (trinatriumcitraat), aroma's, antioxidant (ascorbinezuur), zoetstoffen (sucralose, acesulfaam-k). (1)Rainforest Alliance Certified. More information on ra.org.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "6.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "1.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:09"
+}

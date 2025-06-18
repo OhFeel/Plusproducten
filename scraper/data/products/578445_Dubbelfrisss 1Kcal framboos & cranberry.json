@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dubbelfrisss 1Kcal framboos & cranberry",
+  "brand": "Dubbelfrisss",
+  "price": "0.99",
+  "base_unit_price": "2.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/578445_M/9a0df85dd93f1aded6e83ad00ff1fa31/578445.png",
+  "ingredients": "Ingrediënten: Bronwater**, vruchtensap uit concentraat 3,1% (framboos 1,5%, cranberry 1,5%, zwarte bes 0,1%), wortelsap uit concentraat, voedingszuur (citroenzuur), aroma, zoetstof (sucralose), koolzuur (&lt;0,1%), **Met bronwater uit de Veluwe Bronnen.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "4.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "1.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.003",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:47:56"
+}

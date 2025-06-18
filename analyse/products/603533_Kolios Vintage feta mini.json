@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kolios Vintage feta mini",
+  "brand": "Kolios",
+  "price": "1.59",
+  "base_unit_price": "24.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/603533_M/40d381e71efe01c5152a5176b4c5e85b/603533.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde schapenMELK, gepasteuriseerde geitenMELK, zout, enzymen MELKzuur, microbieel stremsel. Vocht max. 56%",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1140.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "275.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:02"
+}

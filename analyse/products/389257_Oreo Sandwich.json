@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Oreo Sandwich",
+  "brand": "Oreo",
+  "price": "4.29",
+  "base_unit_price": "21.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/389257_M/b677cbe729cc127a56473b4959e0f2b4/389257.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, koekjes met magere cacao (35%)* [TARWEbloem, suiker, magere cacao (3,5%)* (magere cacao, zuurteregelaars (natriumhydroxide, ammoniumhydroxide), palmolie, glucosestroop, zout, rijsmiddel (natriumcarbonaten), natuurlijk vanillearoma], plantaardig vet (kokos), suiker, biscuitstukjes met magere cacao (5,5%) (TARWEbloem, suiker, raapzaadolie, magere cacaopoeder (0,3%)*, glucose-fructosestroop, TARWEzetmeel, rijsmiddelen (ammoniumcarbonaten, kaliumcarbonaten, natriumcarbonaten), palmolie, zout, emulgator (SOJAlecithinen), zuurteregelaar (natriumhydroxide), aroma), magere MELKpoeder, glucosestroop, weipoeder (MELK), emulgator (mono- en diglyceriden van vetzuren), verdikkingsmiddelen (guarpitmeel, johannesbroodpitmeel), natuurlijk aroma met andere natuurlijke\naroma's. *percentage op eindproduct. Kan bevatten: PINDA'S, NOTEN, EI, andere GLUTENBEVATTENDE GRANEN en MOSTERD.",
+  "allergens": "Tarwe, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1250.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "298.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.78",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:35:29"
+}

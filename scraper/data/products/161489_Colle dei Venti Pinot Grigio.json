@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Colle dei Venti Pinot Grigio",
+  "brand": "Colle dei Venti",
+  "price": "9",
+  "base_unit_price": "12.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/161489_M/4d69322d67033b765e2b1252be1bc272/161489.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "288.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "69.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:24"
+}

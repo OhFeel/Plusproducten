@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Brood van Soma Rozijnen-Noten rogge-tarwebrood",
+  "brand": "Brood van Soma",
+  "price": "1.79",
+  "base_unit_price": "4.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/837802_M/1d6be603cdd0b7c745cdd8cb21282cad/837802.png",
+  "ingredients": "Ingrediënten: volkoren ROGGEmeel, water, 17% rozijnen, TARWEbloem, 5% HAZELNOTEN, bakkersgist, bakkerszout, gedextrineerd TARWEmeel, voedingszuren (melkzuur, citroenzuur), conserveermiddelen (calciumpropionaat, sorbinezuur). Is geproduceerd in een bakkerij waar ook noten en sesam worden verwerkt.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1038.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "247.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.36",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:39"
+}

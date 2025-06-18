@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "KitKat Melk chocolade 5-pack",
+  "brand": "KitKat",
+  "price": "3.45",
+  "base_unit_price": "16.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/304541_M/cbb24a9893e2c3811898d650c34410ee/304541.png",
+  "ingredients": "Ingrediënten: suiker, TARWEmeel, magere MELKpoeder, cacaoboter¹, plantaardige vetten (palm, karite), cacaomassa¹, glucosestroop, WEIpoeder, watervrij MELKvet, magere cacao¹, emulgator (lecithinen), rijsmiddel (natriumcarbonaten), ¹Rainforest Alliance gecertificeerd. www.ra.org",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "512.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:45"
+}

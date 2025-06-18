@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Pikante kip kerrie salade",
+  "brand": "Johma",
+  "price": "2.89",
+  "base_unit_price": "16.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/325954_M/ff3fbe449f828ddafd44d3411df203fb/325954.png",
+  "ingredients": "Ingrediënten: 37% gegaarde kipfilet (80% kippenvlees, water, zout, zetmeel, stabilisatoren [difosfaten, trifosfaten], zuurteregelaar [natriumcitraten], dextrose, verdikkingsmiddel [xanthaangom]), koolzaadolie, water, KNOLSELDERIJ, appel, suiker, natuurazijn, 2% kerriepoeder (specerijen [MOSTERD], knoflookpoeder, zout, uienpoeder, gedroogde spinazie, paprikapoeder, natuurlijk aroma, zonnebloemolie), gepasteuriseerd EIGEEL, natuurlijk aroma, gemodificeerd zetmeel, zout, zuurteregelaars (natriumacetaten, natriumlactaat), specerijen (MOSTERD), voedingszuren (azijnzuur, citroenzuur, melkzuur), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), specerijextracten (kurkuma, rode peper), verdikkingsmiddelen (guarpitmeel, xanthaangom), kleurstof (carotenen).\n\nKan sporen bevatten van gluten, melk, noten, pinda’s, sesamzaad, schaaldieren, soja en vis.",
+  "allergens": "Ei, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1279.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "309.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:13:09"
+}

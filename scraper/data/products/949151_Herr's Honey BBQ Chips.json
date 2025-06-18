@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Herr's Honey BBQ Chips",
+  "brand": "Herr's",
+  "price": "1.09",
+  "base_unit_price": "38.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949151_M/fd39a2524025d4647c4a46afacb6ab44/949151.png",
+  "ingredients": "aardappel, plantaardige olie (maïs-, katoenzaad-,zonnebloemolie), kruidenmix (suiker, dextrose, fructose,maltodextrine, uienpoeder, honing, zout, tomatenpoeder,paprika extract, knoflookpoeder, mierikswortelpoeder,geautolyseerd gistextract, natuurlijke en kunstmatige smaakstoffen.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2211.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "528.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:06"
+}

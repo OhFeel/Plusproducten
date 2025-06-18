@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fentimans Pink ginger",
+  "brand": "Fentimans",
+  "price": "3.99",
+  "base_unit_price": "5.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/958392_M/4739bcb2aed7fbb1d7d1ac94ecbddb1b/958392.png",
+  "ingredients": "koolzuurhoudend water, suiker, gefermenteerd gemberwortelstokextract (water, glucosestroop, gemberwortel, perensap concentraat, gist), natuurlijke smaakstoffen, citroenzuur, natuurlijke kleurstof (wortel, zwarte bes), natuurlijke zoetstof (steviol glycosiden uit stevia)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "82.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "19.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:21:41"
+}

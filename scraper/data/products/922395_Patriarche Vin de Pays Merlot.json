@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Patriarche Vin de Pays Merlot",
+  "brand": "Patriarche",
+  "price": "4.99",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/922395_M/5f25375cbcfed649089b222213d250b2/922395.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "328.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "14",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:24"
+}

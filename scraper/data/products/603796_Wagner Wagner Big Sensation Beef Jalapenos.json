@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wagner Wagner Big Sensation Beef Jalapenos",
+  "brand": "Wagner",
+  "price": "4.99",
+  "base_unit_price": "11.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/603796_M/a81db3efc281249a37c0518fcc053509/603796.png",
+  "ingredients": "ingrédients : farine de blé, eau, mozzarella (lait) (11%), purée de tomates (9%), piments jalapeño (4%) (piments jalapeño, vinaigre d'alcool, sel), viande de bœuf hachée, cuite (4%), oignons (4%), huile de colza, sucre, sel, amidon, vinaigre balsamique blanc (vinaigre de vin blanc, moût de raisin), levure, fromage à pâte dure (melk) (0,5%), gluten de blé, levain déshydraté (blé), amidon de blé prégélatinisée, farine de blé prégélatinisée, herbes et épices, poudre de poivron fumé, dextrose, sel fumé, ail, poudre de caramel.\nkan ei, vis, lupine, selderij, mosterd en soja bevatten.",
+  "allergens": "Lupine, Vis, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "876.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "208.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:04"
+}

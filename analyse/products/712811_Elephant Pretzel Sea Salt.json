@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elephant Pretzel Sea Salt",
+  "brand": "Elephant",
+  "price": "2.49",
+  "base_unit_price": "13.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/712811_M/1861dbfa8dc50a1746d8f50d3279a2df/712811.png",
+  "ingredients": "Ingrediënten: witte TARWEBLOEM, plantaardige oliën (koolzaad, zonnebloem – in wisselende verhoudingen), suiker, GERSTEMOUTEXTRACT, zeezout 2,8%, emulgator: SOJALECITHINE, rijsmiddel: natriumbicarbonaat; antioxidant: extract van rozemarijn. Kan sporen bevatten van SESAM en MOSTERD.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1753.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "416.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:28:18"
+}

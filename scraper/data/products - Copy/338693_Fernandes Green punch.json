@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fernandes Green punch",
+  "brand": "Fernandes",
+  "price": "3.95",
+  "base_unit_price": "3.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/338693_M/df360a0edfd21b4f1ef8094778e6adde/338693.png",
+  "ingredients": "koolzuurhoudend water, suiker, voedingszuur: citroenzuur, aroma’s, conserveermiddel: kaliumsorbaat, antioxidant: ascorbinezuur, zoetstoffen: acesulfaam k, sucralose, kleurstoffen: e142, e160a.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "179.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "42.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:16:44"
+}

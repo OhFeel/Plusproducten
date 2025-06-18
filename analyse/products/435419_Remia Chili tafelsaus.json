@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Chili tafelsaus",
+  "brand": "Remia",
+  "price": "1.85",
+  "base_unit_price": "7.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/435419_M/44afe9bd75a3101b3cf76e5aa9d702af/435419.png",
+  "ingredients": "Ingrediënten: water, suiker, paprika, sambal 6,5% (chili-peper, zout), tomatenpuree, natuurazijn, gemodificeerd maiszetmeel, zout, citroensap, specerijen, raapolie, verdikkingsmiddel: xanthaangom, natuurlijk aroma, voedingszuur: conserveermiddel: kaliumsorbaat, zoetstof: sucralose, kleurstof: paprika-extract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "437.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "103.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:07"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Hardys VR Sauvignon Blanc",
+  "brand": "Hardys",
+  "price": "5.29",
+  "base_unit_price": "7.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/236234_M/4b13285cb4d58dba1b15d56f28f3a7cd/236234.png",
+  "ingredients": "Bevat: SULFIETEN, EI, MELK.",
+  "allergens": "Ei, Melk, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "283.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "68.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "11.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:33:41"
+}

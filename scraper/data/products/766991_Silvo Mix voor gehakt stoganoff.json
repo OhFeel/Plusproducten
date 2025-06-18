@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix voor gehakt stoganoff",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "37.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/766991_M/91dbda49989cc37a9b5998320f24127e/766991.png",
+  "ingredients": "Ingrediënten: Paneermeel (bevat tarwe), specerijen 18.5% (gedroogde ui, paprika 2%, witte peper, nootmuskaat, gember, selderijzaad), zout 12%, glucose, rode paprika 3%, tomatenpoeder 2%, groene paparika, (aroma bevat gerst, tarwe) champignons, prei, peterselie, kleurstof,: paprika-extract,. Totale gehalte aan kruiden en specerijen: 18.7%",
+  "allergens": "Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1311.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "313.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "12.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:40:37"
+}

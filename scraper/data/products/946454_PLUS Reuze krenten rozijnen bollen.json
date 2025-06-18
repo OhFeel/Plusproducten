@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Reuze krenten rozijnen bollen",
+  "brand": "PLUS",
+  "price": "2.29",
+  "base_unit_price": "0.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946454_M/fda9b43d29d24aee3875ea5793427b0a/946454.png",
+  "ingredients": "Ingrediënten :Ingrediënten: TARWEBLOEM, 30% rozijnen, water, bakkersgist, suiker, TARWEGLUTEN, 1,9% krenten, weipoeder (MELK), emulgator: E472e/E471/E481, veldbonenmeel, boterconcentraat (MELK), bakkerszout, voorverstijfselde ROGGEBLOEM, plantaardige oliën (raapzaad, zonnebloem), glucosestroop, aroma, dextrose, TARWEMOUTMEEL, MELKEIWITTEN, rijsmiddel: E500, erwteiwit, enzym (TARWE), meelverbeteraar: E300/E920 (plantaardig), kleurstof: E100.            Kan sporen bevatten van: ANDERE GLUTENBEVATTENDE GRANEN, EI, SOJA, NOTEN, SESAM en LUPINE.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1207.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "285.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.94",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "29.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.925",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:29"
+}

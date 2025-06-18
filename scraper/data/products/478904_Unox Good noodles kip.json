@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good noodles kip",
+  "brand": "Unox",
+  "price": "1.15",
+  "base_unit_price": "16.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/478904_M/5b3dd41e39271ad9df1cf18860c3a588/478904.png",
+  "ingredients": "Ingrediënten: Deegwaar (noedels) 89% (TARWEBLOEM, palmvet, zout, gemodificeerd aardappelzetmeel, suiker, raapzaadolie, kurkuma-extract), suiker, smaakversterker (E621, E631, E627), aardappelzetmeel, aroma, mineraalzout (kalium), palmvet, specerijen (knoflookpoeder¹, peper, kurkuma, cayennepeper), prei¹ 0,5%, wortel¹ 0,3%, geroosterde uienpoeder¹, uiensapconcentraat¹, peterselie¹ 0,1%, gejodeerd zout, zout, voedingszuur E330, gistextract, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), zonnebloemolie. Kan ei, melk, selderij, mosterd bevatten.¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "470.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "112.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:09:16"
+}

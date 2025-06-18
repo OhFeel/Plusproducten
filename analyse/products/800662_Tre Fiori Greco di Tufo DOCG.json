@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Tre Fiori Greco di Tufo DOCG",
+  "brand": "Tre Fiori",
+  "price": "47.94",
+  "base_unit_price": "10.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/800662_M/7e4060a1931fe01e6159558b25d03014/800662.png",
+  "ingredients": "Bevat Sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "293.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:47:12"
+}

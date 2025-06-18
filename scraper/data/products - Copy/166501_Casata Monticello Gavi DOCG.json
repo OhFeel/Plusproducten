@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Casata Monticello Gavi DOCG",
+  "brand": "Casata Monticello",
+  "price": "8.99",
+  "base_unit_price": "11.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/166501_M/ac9402a4213130d9707b24baff579bb9/166501.png",
+  "ingredients": "Bevat: Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "296.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:32"
+}

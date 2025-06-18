@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Evian Natuurlijk mineraalwater",
+  "brand": "Evian",
+  "price": "0.79",
+  "base_unit_price": "1.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709763_M/e5ea9b9103842d512e70afb8cd9bd3cb/709763.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "liter",
+    "value": 1
+  },
+  "nutrients": [
+    {
+      "name": "Calcium",
+      "value": "80.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "1.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chloride",
+      "value": "10.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "26.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "6.5",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Nitraten",
+      "value": "3.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Bicarbonaat",
+      "value": "360.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Sulfaat (SO4)",
+      "value": "14.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Siliciumdioxode (SIO2)",
+      "value": "15.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:24"
+}

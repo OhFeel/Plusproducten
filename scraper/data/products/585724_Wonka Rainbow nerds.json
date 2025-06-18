@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Wonka Rainbow nerds",
+  "brand": "Wonka",
+  "price": "3.09",
+  "base_unit_price": "21.91",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/585724_M/ea8000e6072edd304b3ff352ae9871a7/585724.png",
+  "ingredients": "glucosestroop*, suiker, dextrose, voedingszuur (e296), planten- en groentenconcentraten (zwarte wortel, spirulina, radijs), verdikkingsmiddel (e414), aroma's, glansmiddel (e903), kleurstof (e100), watermeloensapconcentraat. *bevat genetisch gemodificeerde organismen. kan bevatten: gluten (tarwe) en eieren.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1565.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "374.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "92.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "91.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:52:16"
+}

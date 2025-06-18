@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Calvé Snacksaus hamburger",
+  "brand": "Calvé",
+  "price": "3.59",
+  "base_unit_price": "8.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/289074_M/0f574e22698e0f96a311d33f751c0a36/289074.png",
+  "ingredients": "Ingrediënten: Water, sojaolie, azijn, tomatenpuree 8%, suiker, mosterd (water, MOSTERDZAAD, azijn, zout, aroma, specerijen), gemodificeerd maïszetmeel, worcestersaus (water, glucosestroop, suiker, moutazijn (GERST), zout, aroma, ui, ANSJOVIS, geconcentreerd citroensap, specerijen, kruiden, zonnebloemolie, knoflookpoeder), EIGEEL (scharrel), ui, knoflook, zout, aroma, verdikkingsmiddel E415, antioxidant E385, kleurstof E160a.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Mosterd, Ansjovis en producten op basis van ansjovis",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "157.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "37.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:49"
+}

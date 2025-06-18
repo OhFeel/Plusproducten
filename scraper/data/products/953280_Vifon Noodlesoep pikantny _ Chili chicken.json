@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vifon Noodlesoep pikantny / Chili chicken",
+  "brand": "Vifon",
+  "price": "0.69",
+  "base_unit_price": "9.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/953280_M/9654320f1e65fca270a104e330b0b653/953280.png",
+  "ingredients": "Ingrediënten: noedels (90,4%): TARWEbloem, palmvet, tapioca, zout, gemodificeerd zetmeel, suiker, stabilisatoren: trifosfaten, guarpitmeel; rijsmiddelen: kaliumcarbonaten, natriumcabonaten; kurkuma (0,01%); soepbasis (9,6%): zout, geraffineerde palmolie, smaakversterkers: mononatriumglutamaat, natriumguanylaat, dinatriuminosinaat; groentepoeder in wisselende verhoudingen (11,9%): wortel, lente-ui, suiker, aroma's (EIEREN, PINDA'S, SOJA, SELDERIJ, SESAMZAAD), chili (3,7%), knoflook (1,6%), peper, maltodextrine, rode sjalot (0,3%), kurkuma (0,3%), antiklontermiddel: E551; antioxidant: E306.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Aardnoten (pinda's), Soja, Selderij, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "293.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "70.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.76",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:37"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Slagroomschnitte",
+  "brand": "PLUS",
+  "price": "6.99",
+  "base_unit_price": "6.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/292473_M/71d8b853661f75ed2cd35a6d2817ac95/292473.png",
+  "ingredients": "Ingrediënten :Magere MELK, 29% slagroom (MELK), suiker, SCHARRELEI, plantaardige oliën (kokos, palm), TARWEBLOEM, TARWEZETMEEL, 1,7% perzik, 1,7% kiwi, 1,5% framboos, glucosestroop, water, emulgator: E472b/E477/E471/E322(SOJA), cacaomassa, TARWEMEEL, rijst, rijsmiddel: E500/E450, rodebessensapconcentraat, HAZELNOOT, magere MELKPOEDER, kleurstof: karamel/carotenen, stabilisator: E407/E412, cacaoboter, boterolie (MELK), zuurteregelaar: E330/E331, natuurlijk aroma, dextrose, conserveermiddel: E202, geleermiddel: pectinen, maïszetmeel, natuurlijk vanillearoma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1327.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "318.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "21.61",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:00:14"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "The Famous Grouse Whisky",
+  "brand": "The Famous Grouse",
+  "price": "19.99",
+  "base_unit_price": "28.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119362_M/947eb06a47b03f8e5459bb90bf46d570/119362.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:14"
+}

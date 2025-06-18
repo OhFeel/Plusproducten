@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verstegen Mix voor gehakt tuinkruiden",
+  "brand": "Verstegen",
+  "price": "1.59",
+  "base_unit_price": "39.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/341935_M/028b389f1b910ce3dcf091f7dea310de/341935.png",
+  "ingredients": "Ingrediënten: PANEERMELEN (bevat TARWE, GERST, ROGGE), 13% kruiden (tijm, 2% SELDERIJBLAD, bieslook, rozemarijn, peterselie, lavas, 0,5% oregano), groenten (7% ui, 1% geroosterde ui, geroosterde knoflook), zout, specerijen (peper, SELDERIJZAAD, venkelzaad). ",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1347.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "319.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:17:43"
+}

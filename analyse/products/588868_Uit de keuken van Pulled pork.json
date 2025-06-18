@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van Pulled pork",
+  "brand": "Uit de keuken van",
+  "price": "4.99",
+  "base_unit_price": "12.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/588868_M/e3a6e7277eb2c84c59e7648d3702031b/588868.png",
+  "ingredients": "66% varkensvlees, rietsuiker, zout, glucose-fructosestroop, specerijen, gebufferd azijn (conserverend ingrediënt), conserveermiddel: e250/e202/e211, invertsuikerstroop, melasse, gistextract, kruiden, kruidenextract, kleurstof: bietenrood, karamelpoeder (suikerstroop, maltodextrine), aroma, karamel, ui, zonnebloemolie, natuurlijk aroma, verdikkingsmiddel: xanthaangom/guarpitmeel, voedingszuur: citroenzuur, uipoeder, gehydrolyseerd eiwit (soja, mais), gebrande suiker, paprikaconcentraat, sojasaus (water, sojabonen, tarwe, zout), suiker, suikerstroop, tomaat, vruchtenconcentraten (appel, ananas, citroen), gemodificeerd maïszetmeel.\n\"e = door eu goedgekeurde hulpstof\".\n",
+  "allergens": "Tarwe, Soja",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "831.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "199.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:54:02"
+}

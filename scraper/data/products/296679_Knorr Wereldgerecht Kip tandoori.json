@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Kip tandoori",
+  "brand": "Knorr",
+  "price": "3.29",
+  "base_unit_price": "10.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/296679_M/90930a8a805b218c1b2a761923cca96d/296679.png",
+  "ingredients": "Ingrediënten raita sausmix: Suiker, ui¹ 22%, zout, knoflookpoeder¹ 13%, zetmeel, citroensappoeder¹ 9,1% (suiker, citroensap, zout), peper, komijn, maïsolie, peterselie¹. Kan ei, glutenbevattende granen, melk, mosterd, selderij, soja bevatten.\nIngrediënten rijstmix: Rijst¹ 97,2%, groene paprika, rode paprika¹ 1,1%, natuurlijk aroma, laurierblad. Kan ei, glutenbevattende granen, melk, mosterd, selderij, soja bevatten.\nIngrediënten sausmix: Zetmeel, TARWEBLOEM, paprikapoeder¹, tomatenpoeder¹ 10,3%, plantaardige oliën (zonnebloem, maïs), gejodeerd zout, ui¹ 6,7%, gember, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), rode paprika¹ 2,3%, knoflookpoeder¹ 2%, tomaat¹ 2%, aroma (bevat SELDERIJ), MELKSUIKER, cayennepeper, komijn, koriander, MELKEIWITTEN, rode bietenpoeder (maltodextrine, rode bietensap), gistextract. Kan andere glutenbevattende granen, ei, mosterd bevatten.\nIngrediënten specerijenmix: Gejodeerd zout, tomatenpoeder¹ 20%, paprikapoeder¹, zetmeel, uipoeder¹ 4,8%, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), knoflookpoeder¹ 3,8%, gehydrolyseerde plantaardige eiwitten, cayennepeper, aroma, gember, maïsolie, mineraalzout (kalium), citroensappoeder (maltodextrine, citroensap), rode bietenpoeder (maltodextrine, rode bietensap), gistextract, peterseliewortelpoeder¹. Kan andere glutenbevattende granen, ei, melk, mosterd, selderij bevatten.\n¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2891.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "693.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:02:00"
+}

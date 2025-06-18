@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lonka Soft nougat pinda puur",
+  "brand": "Lonka",
+  "price": "2.99",
+  "base_unit_price": "13.59",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482961_M/bca8f0b13b79e286caa414661a9e43cf/482961.png",
+  "ingredients": "Ingrediënten: pure chocolade (26%, bestaat uit: cacaomassa¹, suiker, cacaoboter¹, MELKVET, emulgator (lecithinen (SOJA))), glucosestroop, suiker, PINDA'S (12%), water, palmvet, magere MELKPOEDER, MELKEIWITTEN, gehydrolyseerde MELKEIWITTEN, zout, honing. Kan NOTEN en EI bevatten. ¹Rainforest Alliance CertifiedTM. Find out more at ra.org.",
+  "allergens": "Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1938.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "462.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:54"
+}

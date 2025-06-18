@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Pamapol Smalec Z Miesem / reuzel",
+  "brand": "Pamapol",
+  "price": "2.49",
+  "base_unit_price": "9.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/952473_M/d2e19142af21b42e35f4493792937221/952473.png",
+  "ingredients": "Ingrediënten: varkensvet 50%, gebakken varkenslever 32%, gebakken varkensvlees 10%, ui, zout, smaakversterkers: monatriumglutamaat, ciratrium 5'ribonucleotiden: groentenmix (wortel, pastinaak, ui), specerijen, suiker hydrolysaat SOJA-eiwit, knoflook, gistextract, kurkuma, peterselie, tomaat. Het product kan SELDERIJ bevatten, gluten (uit TARWE, ROGGE), melk waaronder LACTOSE, EIEREN, MOSTERDZAAD, SESAM.",
+  "allergens": "Wortel, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3398.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "826.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "89.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "28.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:20:04"
+}

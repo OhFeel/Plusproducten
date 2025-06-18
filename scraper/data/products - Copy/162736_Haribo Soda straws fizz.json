@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Soda straws fizz",
+  "brand": "Haribo",
+  "price": "2.19",
+  "base_unit_price": "12.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/162736_M/e603a0ae8b9a578c8bce1de54b7a6954/162736.png",
+  "ingredients": "Ingrediënten: Suiker; glucosestroop; maïszetmeel; bevochtigingsmiddel: sorbitolstroop; voedingszuur: citroenzuur; TARWEMEEL; TARWEZETMEEL; palmvet; dextrose; gelatine; emulgatoren: mono- de diglyceriden van vetzuren, citroenzuurester van mono- en diglyceriden van vetzuren; zuurteregelaar: trinatriumcitraat; aroma; vruchten- en plantenconcentraten: zwarte bes, vlierbes, aronia, druif; vlierbesextract; kleurstoffen: curcumine, patentblauw V. Kan sporen van MELK bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1590.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "375.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "83.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:54"
+}

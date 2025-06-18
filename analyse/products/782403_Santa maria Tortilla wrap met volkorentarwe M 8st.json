@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Santa maria Tortilla wrap met volkorentarwe M 8st",
+  "brand": "Santa maria",
+  "price": "2.65",
+  "base_unit_price": "8.28",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/782403_M/c6a3f420473c879791a30fa9ae247075/782403.png",
+  "ingredients": "Ingrediënten: Meelmengsel (TARWE (45%), VOLKORENTARWE, TARWEZEMELEN), water, koolzaadolie, bevochtigingsmiddel (E422), zuurdesempoeder (TARWE)(1,1%), zout, emulgator (E471), voedingszuur (citroenzuur), rijsmiddel (natriumbicarbonaat), stabilisator (E415). Bevat 24% volkorengraan, gelijk aan 30% van de droge stof.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1171.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "280.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:14"
+}

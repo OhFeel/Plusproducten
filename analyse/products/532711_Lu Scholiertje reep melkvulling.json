@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu Scholiertje reep melkvulling",
+  "brand": "Lu",
+  "price": "3.59",
+  "base_unit_price": "29.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/532711_M/fbf6eda581881bf2ea12562d085785d2/532711.png",
+  "ingredients": "Ingrediënten: MELKCHOCOLADE 38 % [suiker,  cacaoboter,  cacaomassa,  magere MELKPOEDER,   lactose (van MELK),  MELKVET,  emulgator (lecithinen), vanille-aroma], TARWEBLOEM 23 %, suiker, plantaardige oliën (palm, koolzaad), volle MELKPOEDER 5,5 %, kokosvet, TARWEZETMEEL, weipoeder (van MELK), maïszetmeel, magere MELKPOEDER 0,7 %, emulgator (SOJALECITHINEN), zout, rijsmiddelen (natriumcarbonaten,  ammoniumcarbonaten).KAN BEVATTEN: EI, NOTEN, SESAM.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2144.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "513.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:30:03"
+}

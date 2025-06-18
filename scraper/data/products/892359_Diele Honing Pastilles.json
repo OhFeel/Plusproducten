@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Diele Honing Pastilles",
+  "brand": "Diele",
+  "price": "1.99",
+  "base_unit_price": "26.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/892359_M/7de04dc0b1b8263deaf5d45dadcd7bd8/892359.png",
+  "ingredients": "suiker, glucosestroop, zoethoutextract (1,1%), karamelstroop, honing (0,9%), plantaardige olie (kokos, palm) in wisselende verhoudingen, kokosvet; menthol, anethol, antiklontermiddel: talk; verdikkingsmiddel: arabische gom.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1638.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "385.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "96.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:54"
+}

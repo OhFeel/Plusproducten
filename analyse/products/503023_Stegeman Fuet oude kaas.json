@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Fuet oude kaas",
+  "brand": "Stegeman",
+  "price": "3.99",
+  "base_unit_price": "30.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/503023_M/ddb72a806106dbf1d94836d202ba24c5/503023.png",
+  "ingredients": "Ingrediënten: Varkensvlees*, oude KAAS 48+** (8,3%), zout, varkenseiwit, specerijen, dextrose,\nrietsuiker, glucosestroop, aroma, antioxidant (E301); conserveermiddel (E250). Eetbaar\nomhulsel: rundercollageen.\n* Beter Leven Keurmerk 1 ster; \n** Beter Leven Keurmerk 3 sterren. \n100g product bereid uit 166g vlees.\nGemaakt in een fabriek waar walnoten verwerkt worden. Bevat Melk.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1987.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "479.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:20:55"
+}

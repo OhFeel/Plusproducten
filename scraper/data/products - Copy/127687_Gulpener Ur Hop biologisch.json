@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Gulpener Ur Hop biologisch",
+  "brand": "Gulpener",
+  "price": "7.99",
+  "base_unit_price": "4.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/127687_M/161a8a9364cf84debb9d82903ab34f75/127687.png",
+  "ingredients": "Ingrediënten: water, GERSTEmout*, TARWEmout* en hop*. *van biologische teelt",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "223.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "53.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:50:07"
+}

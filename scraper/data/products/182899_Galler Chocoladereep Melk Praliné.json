@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Galler Chocoladereep Melk Praliné",
+  "brand": "Galler",
+  "price": "1.99",
+  "base_unit_price": "28.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/182899_M/3b272aadd5c68793a5aae8644696fd2f/182899.png",
+  "ingredients": "Ingrediënten - Chocolade (48%) : suiker, volle MELKpoeder,\ncacaoboter, cacaopasta, emulgator : SOJAlecithine, natuurlijke vanille aroma. Cacao : 30% min. Vulling (52%) : suiker, plantaardige vetten (shea boter, kokosolie, zonnebloemolie), HAZELNOTEN 20%, inuline, weipoeder (MELK), dextrose, magere cacaopoeder, emulgator : SOJAlecithine, natuurlijke vanille aroma. \nKan bevatten : andere schaalvruchten, eieren en gluten bevattende granen.",
+  "allergens": "Soja, Melk, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2321.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "554.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "46.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:11:16"
+}

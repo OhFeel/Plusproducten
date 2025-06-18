@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tony's Chocolonely Lil'bits melk karamel zeezout biscuit",
+  "brand": "Tony's Chocolonely",
+  "price": "4.09",
+  "base_unit_price": "27.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/669474_M/1071c29ca4356d21a9503b97388cd335/669474.png",
+  "ingredients": "Ingrediënten: 79% melkchocolade (suiker, volle MELKpoeder, cacaoboter, cacaomassa, emulgator (lecithinen (SOJA))), 11% karamel (suiker, invertsuikersiroop, boter (MELK), glucosestroop, magere MELKpoeder, emulgator (raapzaadlecithine), zuurteregelaar (natriumcarbonaten)), 9% biscuit (TARWEbloem, suiker, boter (MELK), TARWEzetmeel, volle MELKpoeder, zout, glucose-fructosestroop, weipoeder (MELK), rijsmiddel (ammoniumcarbonaten, natriumcarbonaten), voedingszuur (citroenzuur)), 0,28% zeezout, glansmiddel (arabische gom).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2184.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "522.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:17"
+}

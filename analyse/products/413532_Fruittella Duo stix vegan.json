@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fruittella Duo stix vegan",
+  "brand": "Fruittella",
+  "price": "4.99",
+  "base_unit_price": "12.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/413532_M/416bf931d59c9c0da5ffe105dbce6519/413532.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, kokosolie, vruchtensappen (framboos, aardbei, perzik, citroen, appel) (2,5%), voedingszuren (citroenzuur, appelzuur), maltodextrine, emulgatoren (mono- en diglyceriden van vetzuren, sucrose-esters van vetzuren), bevochtigingsmiddel (glycerol), concentraten (wortel, vlierbes, spirulina, zwarte wortel, saffloer, pompoen, appel, zwarte bes, radijs), geleermiddel (arabische gom), cacaoboter, natuurlijke aroma's, verdikkingsmiddel (gellangom). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1631.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "385.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:43:50"
+}

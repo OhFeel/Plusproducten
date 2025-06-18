@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Heinz Sandwich spread groenten",
+  "brand": "Heinz",
+  "price": "2.49",
+  "base_unit_price": "8.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/746798_M/36192853e3d06ed93043a7e18fd47bd3/746798.png",
+  "ingredients": "Ingrediënten: Groenten 43% (augurk 19%, ui 11%, koolrabi, wortel 3,8%, KNOLSELDERIJ 3,7%, rode paprika 1,8%), suiker, raapzaadolie, water, azijn, zout, magere MELKPOEDER, gemodificeerd zetmeel, specerijen (bevatten MOSTERD), verdikkingsmiddel (guargom), kleurstof (luteine), voedingszuur (melkzuur), aroma's (bevatten SELDERIJ), specerijenextracten.",
+  "allergens": "Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "925.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "220.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:22"
+}

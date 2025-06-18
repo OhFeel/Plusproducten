@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Jimmy's Nacho to go Sweet Chili",
+  "brand": "Jimmy's",
+  "price": "2.79",
+  "base_unit_price": "13.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/570354_M/f304e2075a77a150dc00a65e78f0826e/570354.png",
+  "ingredients": "Ingrediënten: Sweet Chili Flavoured Nachos: Ingrediënten: maïs, zonnebloemolie, sweet chili kruidenmix (suiker, zout, aroma, dextrose, specerijen, voedingszuren (citroenzuur, appelzuur), tomatenpoeder, kleurstof (paprika extract), carobe poeder, antioxidant (rozemarijnextract)). Spicy Salsa Sauce: Ingrediënten: Water, tomatenpuree, Salsa Kruidenmix (suiker, zout, uienpoeder, knoflookpoeder, jalapeñopeper, chilipoeder, voedingszuur: E 330, zonnebloemolie, antioxidant: E300), azijn, tomaat, ui, paprika, gemodificeerd zetmeel, natuurlijke kleurstof: paprika extract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1978.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "472.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:45:27"
+}

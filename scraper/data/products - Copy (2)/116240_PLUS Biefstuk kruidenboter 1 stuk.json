@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "PLUS Biefstuk kruidenboter 1 stuk",
+  "brand": "PLUS",
+  "price": "4.13",
+  "base_unit_price": "27.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/116240_M/596f671caa6c5e1d12ee9dd97435708e/116240.png",
+  "ingredients": "Ingrediënten: Rundvlees, boter (MELK), water, kruiden (SELDERIJ), gedroogde knoflook, specerijen, raapolie, zout, aroma, gistextract, verdikkingsmiddel: guarpitmeel.",
+  "allergens": "Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "584.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "139.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:47:09"
+}

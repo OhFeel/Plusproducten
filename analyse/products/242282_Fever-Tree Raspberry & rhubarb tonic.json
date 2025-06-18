@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fever-Tree Raspberry & rhubarb tonic",
+  "brand": "Fever-Tree",
+  "price": "3.49",
+  "base_unit_price": "6.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/242282_M/8f1d112a132030f6afb0870986a632f5/242282.png",
+  "ingredients": "koolzuurhoudend bronwater, suiker, voedingszuur (citroenzuur), natuurlijk rabarberaroma, natuurlijk frambozenaroma, natuurlijk kinine-aroma, concentraten (zoete aardappel, wortel saffloer, citroen).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "133.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "31.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:38:31"
+}

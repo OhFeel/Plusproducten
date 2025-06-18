@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Salata truffel dressing",
+  "brand": "Remia",
+  "price": "2.25",
+  "base_unit_price": "9.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/612881_M/b0641496d0a4be9755a0cd96ea7b89e8/612881.png",
+  "ingredients": "Ingrediënten: water, raapolie, biologische magere YOGHURT, suiker, witte wijnazijn, natuurazijn, knoflook, vrije uitloop EI en EIGEEL, truffel 2,0%, MOSTERD (water, MOSTERDZADEN, natuurazijn, specerijen), maiszetmeel, gemodificeerd maiszetmeel, zout, specerijen, aroma, verdikkingsmiddel: guarpitmeel, conserveermiddel: kaliumsorbaat, voedingszuur: citroenzuur, antioxidant: E385.",
+  "allergens": "Ei, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1300.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "315.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.94",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:03"
+}

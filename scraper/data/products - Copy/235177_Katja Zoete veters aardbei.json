@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Katja Zoete veters aardbei",
+  "brand": "Katja",
+  "price": "1.29",
+  "base_unit_price": "10.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/235177_M/7ecaebe933a13e5687aeccad0831cf41/235177.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, TARWEBLOEM, suiker, dextrose, palmolie, voedingszuur (citroenzuur), concentraten (appel, pompoen, tomaat, radijs), aroma, emulgator (mono en diglyceriden van vetzuren), antioxidanten (tocoferolrijk extract, ascorbinezuur), glansmiddel (hydroxypropylcellulose).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1507.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "356.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "75.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:32:49"
+}

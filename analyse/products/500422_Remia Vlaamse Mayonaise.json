@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Vlaamse Mayonaise",
+  "brand": "Remia",
+  "price": "2.69",
+  "base_unit_price": "6.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/500422_M/40b539196a281bdfc1b729f6fa350920/500422.png",
+  "ingredients": "Ingrediënten: raapolie 68%, water, natuurazijn, vrije uitloop EIGEEL¹ 5,8%, MOSTERD (water, MOSTERDZADEN, natuurazijn, specerijen), zout, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, verdikkingsmiddel: xanthaangom, zwarte peper extract, antioxidant: E385. ¹ = Beter Leven keurmerk 2 sterren.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2495.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "607.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:18:48"
+}

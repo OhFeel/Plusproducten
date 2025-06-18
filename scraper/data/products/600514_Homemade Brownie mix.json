@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Homemade Brownie mix",
+  "brand": "Homemade",
+  "price": "3.09",
+  "base_unit_price": "10.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/600514_M/39c5da6138aaffd1f78376c137c719b3/600514.png",
+  "ingredients": "Ingrediënten: Browniemix: suiker, TARWEbloem, palmolie, cacaopoeder¹ (9,8%), glucosestroop, magere MELKpoeder, scharrelEI-eiwitpoeder, gedroogde glucosestroop, rijsmiddelen (E450, E500), MELKeiwit, zout, geroosterd TARWEmoutmeel, stabilisator (E451), aroma, natuurlijk aroma. ¹ Rainforest Alliance Certified.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1433.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "341.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:59:58"
+}

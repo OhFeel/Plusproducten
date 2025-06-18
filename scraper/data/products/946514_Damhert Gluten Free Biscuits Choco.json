@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Gluten Free Biscuits Choco",
+  "brand": "Damhert",
+  "price": "3.99",
+  "base_unit_price": "35.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946514_M/d0239bf318f5f5236c75cc430b8098ed/946514.png",
+  "ingredients": "pure chocolade (25%)(cacaomassa, suiker, cacaoboter), maïszetmeel, tapiocazetmeel, maïsmeel, suiker, margarine (raapzaadolie, cacaoboter, water, emulgator (lecithinen), citroensap), glucosestroop, zonnebloemolie, verdikkingsmiddel (quarpitmeel), emulgator (lecithinen), rijsmiddel (ammoniumcarbonaten), aroma. Kan MELK, NOTEN en EI bevatten.",
+  "allergens": "Cacao, Maïs",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2041.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "487.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:31"
+}

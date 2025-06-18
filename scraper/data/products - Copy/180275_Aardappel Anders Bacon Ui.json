@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Aardappel Anders Bacon Ui",
+  "brand": "Aardappel Anders",
+  "price": "3.29",
+  "base_unit_price": "7.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/180275_M/a2539d9485cb14d16d76eb86e6d18830/180275.png",
+  "ingredients": "Ingrediënten: Water, ui 17%, koolzaadolie, ham 8,8% (varkensvlees, water, zout, aardappelzetmeel, dextrose, aroma's), gemodificeerd zetmeel, suiker, bacon 1,0%, KAAS, SCHARRELEIGEEL, zout, gistextract, aroma's (bevat MELK), verdikkingsmiddel: xanthaangom, emulgatoren: polyfosfaten en natriumfosfaten, kruiden, smaakversterkers: mononatriumglutamaat en natriumguanylaat, rookaroma, antioxidant: rozemarijnextract",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "712.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "172.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:09:38"
+}

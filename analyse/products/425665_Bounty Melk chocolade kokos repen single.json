@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bounty Melk chocolade kokos repen single",
+  "brand": "Bounty",
+  "price": "1.29",
+  "base_unit_price": "1.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/425665_M/1b0ff43bce68e57156e6617cb618231f/425665.png",
+  "ingredients": "Ingrediënten: suiker, kokos, glucosestroop, cacaoboter, cacaomassa, magere MELKPOEDER, weipermeaat (MELK), emulgatoren (E471, SOJALECITHINE), botervet (MELK), bevochtigingsmiddel (glycerol), palmvet, zout.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2036.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "487.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:48:17"
+}

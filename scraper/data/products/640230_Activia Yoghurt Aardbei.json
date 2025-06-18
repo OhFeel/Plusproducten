@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Activia Yoghurt Aardbei",
+  "brand": "Activia",
+  "price": "2.99",
+  "base_unit_price": "0.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/640230_M/920409d451a74ee3bb2d25b33405c1c3/640230.png",
+  "ingredients": "Ingrediënten: Yoghurt (MELK) met Bifidus ActiRegularis®, aardbei (8,3%) suiker, zetmeel, verdikkingsmiddel (pectinen), geconcentreerd citroensap, geconcentreerd zwarte wortelsap, natuurlijk aroma (MELK), MELKmineralen",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "372.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "88.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "135.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:10:24"
+}

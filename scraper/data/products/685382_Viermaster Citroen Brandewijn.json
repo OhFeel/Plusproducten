@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Viermaster Citroen Brandewijn",
+  "brand": "Viermaster",
+  "price": "9.19",
+  "base_unit_price": "9.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/685382_M/fee4724465bf0f07a5deb245b29e719d/685382.png",
+  "ingredients": "Ingrediënten :water, alcohol, glucose-fructosestroop, suiker, aroma's, kleurstof: E102.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "726.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "174.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "20",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:01"
+}

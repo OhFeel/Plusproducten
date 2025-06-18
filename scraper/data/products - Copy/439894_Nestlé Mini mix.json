@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nestlé Mini mix",
+  "brand": "Nestlé",
+  "price": "5.19",
+  "base_unit_price": "13.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/439894_M/590c50eae6c1f8ab3d00b04316d3b336/439894.png",
+  "ingredients": " Ingrediënten: SMARTIES: suiker, magere MELKpoeder, cacaomassa¹, cacaoboter¹, glucosestroop, TARWEmeel, WEIpermeaatpoeder, watervrij MELKvet, plantaardige vetten (palm, karité), zetmeel, emulgator (lecithinen), kleurstof (bietenrood, carotenen, curcumine), spirulinaconcentraat, glansmiddelen (carnaubawas, witte bijenwas), plantenconcentraten (saffloer, radijs), GERSTemoutextract. BROS: suiker, volle MELKpoeder, cacaoboter¹, cacaomassa¹, plantaadige vetten (palm, karité), WEIpermeaatpoeder, magere MELKpoeder, watervrij MELKvet, emulgator (lecithinen). Bevat mogelijk: PINDA'S, NOTEN en SOJA. KITKAT: suiker, TARWEmeel, magere MELKpoeder, cacaoboter¹, plantaardige vetten (palm, karité), cacaomassa¹, glucosestroop, WEIpoeder, watervrij MELKvet, magere cacao¹,emulgator (lecithinen), rijsmiddel (natriumcarbonaten). LION: melkchocolade (37,2%) [suiker, cacaoboter¹, cacaomassa¹, magere MELKpoeder, WEIpermeaatpoeder, watervrij MELKvet, plantaardige vetten (palm, karité), emulgator (lecithinen)], glucose-fructosestroop, TARWEmeel, gecondenseerde MELK met suiker (MELK, suiker), palmolie, suiker, WEIpermeaatpoeder, maltodextrine, magere MELKpoeder, zout, emulgator (lecithinen), rijsmiddel (natriumcarbonaten), gekarameliseerde suiker, TARWEzetmeel verdikkingsmiddel (carrageen). Bevat mogelijk: PINDA`S, NOTEN en SOJA. LION WHITE: glucose-fructosestroop, plantaardige vetten (palm, karité, palmpit), suiker, TARWEmeel, gecondenseerde MELK met suiker (MELK, suiker), magere MELKpoeder, WEIpermeaatpoeder, maltodextrine, TARWEzetmeel, emulgator (lecithinen), zout, rijsmiddel (natriumcarbonaten), gekarameliseerde suiker, natuurlijk aroma, verdikkingsmiddel (carrageen). Bevat mogelijk: PINDA`S NOTEN en SOJA. 1Rainforest Alliance gecertificeerd. www.ra.org",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1975.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "470.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "59.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:11"
+}

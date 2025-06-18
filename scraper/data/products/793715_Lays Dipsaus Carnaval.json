@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lays Dipsaus Carnaval",
+  "brand": "Lays",
+  "price": "0.65",
+  "base_unit_price": "108.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/793715_M/82a964d7b177152a34ef07ce6d067a95/793715.png",
+  "ingredients": "dextrose, specerijen (17%), (kurkuma, korianderzaad, gember, komijnzaad, fenegriek, witte peper, jalapeno pepper, cayennepeper, foelie, piment), gedroogde glucosestroop, gemodificeerd aardappelzetmeel, zout, uienpoeder, rijstebloem, antiklontermiddel (magnesiumzouten van vetzuren, siliciumdioxide), zonnebloemolie. kan melk, soja, tarwe (gluten), selderij, mosterd en ei bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1444.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "341.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "73.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:22"
+}

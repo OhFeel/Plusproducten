@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Biofood Granola noten en pitten bio",
+  "brand": "Damhert Biofood",
+  "price": "5.99",
+  "base_unit_price": "15.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/342474_M/8634080de7d6e4ae73dd1e068f71bf77/342474.png",
+  "ingredients": "TARWEvlokken*, HAVERvlokken*, GERSTvlokken*, ROGGEvlokken*, rietsuiker*, TARWEstroop*, zonnebloempitten* (6%), zonnebloemolie*, TARWEbloem*, HAZELNOTEN* (4%), pompoenpitten* (4%), AMANDELEN* (3%), CASHEWNOTEN* (3%), TARWEzemelen*. Kan   andere NOTEN, PINDA'S, SOJA en MELK bevatten. * Van gecontroleerde biologische teelt.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1897.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "453.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:18:11"
+}

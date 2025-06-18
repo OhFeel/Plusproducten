@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Mama's Maaltijden Pokébowl tonijn",
+  "brand": "Mama's Maaltijden",
+  "price": "7.99",
+  "base_unit_price": "19.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/815497_M/19e6e925ebd65664e98d484ba2de475a/815497.png",
+  "ingredients": "Ingrediënten: 47% rijst (water, rijst, invertsuikerstroop, suikerstroop, natuurazijn, zout, smaakversterker (E621)), 14% tonijnsalade (82% tonijn (vis), zonnebloemolie, water, azijn, suiker, rode peper, zout, balsamicoazijn, gemodificeerd aardappelzetmeel, voedingszuur: citroenzuur, kleurstof (E160a), antioxidant (E385), knoflookolie, knoflook, natuurlijke aroma’s (amandel, mosterd), conserveermiddel (E202), verdikkingsmiddel (E412)), 9,5% mango, 9,5% sojabonen, 7,1% sriracha dressing (zonnebloemolie, water, azijn, suiker, rode peper, balsamicoazijn, gemodificeerd aardappelzetmeel, zout, voedingszuur: citroenzuur, kleurstof (E160a), antioxidant (E385), knoflookolie, knoflook, natuurlijke aroma’s (amandel, mosterd), conserveermiddel (E202), verdikkingsmiddel (E412)), 7,1% ui zoetzuur (ui, kleurstof (E162), water, suiker, azijn, zout, conserveermiddel (E211), aroma), 4,8% zeewiersalade (70% zeewier, verdikkingsmiddel (E406), champignons, suiker, sesamolie, sojabonen, water, zout, rijstazijn, kleurstoffen (E100, E141), sesamzaad, chili), 0,5% rode peper, 0,2% zwart sesamzaad, zonnebloemolie, azijn.",
+  "allergens": "Soja, Noten, Mosterd, Sesamzaad, Tonijn en producten op basis van tonijn",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "735.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "175.6",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.95",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "9.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "0.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "380.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:44"
+}

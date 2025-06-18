@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Blik boterhamworst VDV",
+  "brand": "PLUS",
+  "price": "2.77",
+  "base_unit_price": "13.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/395056_M/7934782d5a6149f18db112f6d567fbb2/395056.png",
+  "ingredients": "46% varkensvlees*, 30% varkensseparatorvlees*, water, aardappelzetmeel,  voedingszuur: E326, varkensspek*, zout, lactose (MELK), gebufferd azijnpoeder (conserverend ingrediënt), stabilisator: E450,  specerijen, antioxidant: E301/E316, glucosestroop, gehydroliseerd eiwit (mais, raapzaad), paprika, ui, gistextract, zuurteregelaar: E575, conserveermiddel: E250, rookaroma, specerijenextract, zonnebloemolie. *= Beter Leven keurmerk 1 ster.  E= door EU goedgekeurde hulpstoffen.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1208.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "291.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:37:46"
+}

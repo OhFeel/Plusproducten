@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Gulpener Korenwolf wit 6%",
+  "brand": "Gulpener",
+  "price": "6.59",
+  "base_unit_price": "5.49",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/793325_M/c31d3c40c6ef2c307018ce747bdd5978/793325.png",
+  "ingredients": "Ingrediënten: water, GERSTEmout, TARWEmout, ROGGE, SPELT, hop, korianderzaad, 0,1% sinaasappelschil en vlierbloesem.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "223.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "53.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:45:17"
+}

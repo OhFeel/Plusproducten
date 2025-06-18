@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Que Mas Rosé",
+  "brand": "Que Mas",
+  "price": "3.69",
+  "base_unit_price": "4.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/847231_M/340bf318f50894f7511a17f13a8892ef/847231.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "11",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:55:53"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Mix Stroganoff saus",
+  "brand": "Knorr",
+  "price": "1.45",
+  "base_unit_price": "34.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/296806_M/8870b007e9afa5785f16650b6e0af2d1/296806.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, palmvet, groenten¹ 19% (tomatenpoeder, ui, paprika 2,9% (grood, groen), champignon), aardappelzetmeel, suiker, paprikapoeder, gejodeerd zout, knoflookpoeder¹, glucosestroop, aroma, gistextract, zout, MELKEIWITTEN, cayennepeper, peterseliewortel¹. Kan selderij, ei, mosterd, andere gluten bevattende granen, soja bevatten. ¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "267.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "64.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.95",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:02:05"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Raak Vruchtensiroop reine claude",
+  "brand": "Raak",
+  "price": "3.05",
+  "base_unit_price": "4.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/855565_M/15db038d052e1115db18dc48202f4e92/855565.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop (44%), water, vruchtensap uit concentraat 11% (appelsap 9%, pruimensap 2%), voedingszuur: citroenzuur, aroma, zoetstoffen: acesulfaam-K, sucralose, steviol glycosiden, conserveermiddel: kaliumsorbaat, kleurstoffen: concentraat (saffloor en citroen) en E131.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "117.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:56:44"
+}

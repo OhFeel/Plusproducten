@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Red Phoenix Sriracha orginal",
+  "brand": "Red Phoenix",
+  "price": "2.85",
+  "base_unit_price": "8.14",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/500785_M/077ffb5a0deba4cbbb911ce4cae1daa8/500785.png",
+  "ingredients": "gemalen rode pepers (45%), water, suiker, kruiden en specerijen (knoflook, sereh), zout, natuurazijn, natuurlijk aroma, gemodificeerd maïszetmeel, verdikkingsmiddel: xanthaangom, zuurteregelaar: azijnzuur, conserveer-middel: natriumbenzoaat.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "574.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "135.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:19:21"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Super Party",
+  "brand": "Haribo",
+  "price": "5.69",
+  "base_unit_price": "11.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/562303_M/4095b1f4a658c83ee7ca4a2d7bb3ceb3/562303.png",
+  "ingredients": "Fruitgom Gedeeltelijk met Cola Smaak, Fruitgom met Melksmaak en Fruitgom met Schuim: Ingrediënten: Glucosestroop; suiker; dextrose; gelatine; uit sapconcentraat verkregen vruchtensap: appel, zwarte bes, citroen, sinaasappel, ananas, aardbei; karamelstroop; voedingszuren: citroenzuur, appelzuur; zuurteregelaars: calciumcitraat, natriumwaterstofmalaat; vruchten- en plantenconcentraten: appel, aronia, rode biet, bosbes, zwarte bes, wortel, vlierbes, druif, hibiscus, kiwi, citroen, mango, sinaasappel, passievrucht, rammenas, saffloer, spirulina, zoete aardappel; zonnebloemolie; aroma; glansmiddel: bijenwas; vlierbesextract. \nFruitgom met Aardbeiensmaak: Ingrediënten: Glucosestroop; suiker; zetmeel; voedingszuur: cirtoenzuur; vruchten- en plantenconcentraten: aronia, zwarte bes, vlierbes, druif, citroen, sinaasappel, saffloer, spirulina; zonnebloemolie; aroma; glansmiddel: bijenwas; karamelstroop; vlierbesextract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1450.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "341.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:40:51"
+}

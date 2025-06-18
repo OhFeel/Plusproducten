@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Gesneden verspakket flammkuchen",
+  "brand": "PLUS",
+  "price": "6.89",
+  "base_unit_price": "11.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/315859_M/e4c1134e5e7dae74da865f907dadcf5e/315859.png",
+  "ingredients": "Ingrediënten: 44% flammkuchendeeg (TARWEMEEL, water, zonnebloemolie, ethyl alcohol*, zout, TARWEGLUTEN, TARWEZETMEEL, rijsmiddelen: E450/E500, emulgator: E471, gist, antioxidant: E300), rode ui, rode puntpaprika**, cherrytomaat**, bosui, rucola, tijm. *Verdampt tijdens het bakken. **Klasse 1.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "549.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.88",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:09:09"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Arizona Green tea",
+  "brand": "Arizona",
+  "price": "2.19",
+  "base_unit_price": "2.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/649840_M/17da40e710a29c05e7dd870617ad5afd/649840.png",
+  "ingredients": "Ingrediënten: water, suiker, fructose, 2% perensap uit concentraat, honing (0,43%), groene thee-extract (0,12%), antioxidant: ascorbinezuur, voedingszuur: citroenzuur, natuurlijk aroma, zoetstof: steviolglycosiden.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "78.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "19.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:20"
+}

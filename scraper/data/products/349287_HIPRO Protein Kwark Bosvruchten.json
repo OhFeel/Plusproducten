@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "HIPRO Protein Kwark Bosvruchten",
+  "brand": "HIPRO",
+  "price": "1.99",
+  "base_unit_price": "9.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/349287_M/8cb364a4ac59b49dd4bec767d3d3636a/349287.png",
+  "ingredients": "magere kwark (50,6%) (melk), yoghurt (melk), bosvruchten (6,1%) (braam (2,9%), aardbei (1,4%), bosbes (0,8%), zwarte bes (0,4%), rode bes (0,4%), framboos (0,2%)), gemodificeerd zetmeel, zuurteregelaar (appelzuur), natuurlijke aroma's, wortel- en blauwbesconcentraat, concentraat van melkmineralen, verdikkingsmiddel (pectinen), zoetstoffen (acesulfaam-K, sucralose), magnesium, vitamine B9 (foliumzuur).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "290.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "66.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "184.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "30.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "56.3",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:19:19"
+}

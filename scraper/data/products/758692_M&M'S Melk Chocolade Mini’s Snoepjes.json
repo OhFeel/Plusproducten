@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "M&M'S Melk Chocolade Mini’s Snoepjes",
+  "brand": "M&M'S",
+  "price": "3.39",
+  "base_unit_price": "19.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/758692_M/41d1b10f3ceb79c554b4baa6956085cb/758692.png",
+  "ingredients": "Ingrediënten: suiker, cacaomassa, magere MELKPOEDER, cacaoboter, weipermeaat (MELK), botervet (MELK), zetmeel, palmvet, sheavet, glucosestroop, dextrine, emulgator (SOJALECITHINE), zout, kleurstoffen (E162, E170, E100, E133, E160a), glansmiddel (carnaubawas), palmpitolie, aroma. (Kan bevatten: PINDA'S).",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2058.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "491.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:08"
+}

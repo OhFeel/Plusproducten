@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Hertog Jan Arcener tripel bier",
+  "brand": "Hertog Jan",
+  "price": "9.29",
+  "base_unit_price": "5.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/623002_M/5619433d1f2d2fcb2e6efa31e0063106/623002.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, TARWEZETMEEL, suiker, hop, gist",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "871.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "208.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "8.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:51"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Viper Variety pack",
+  "brand": "Viper",
+  "price": "11.99",
+  "base_unit_price": "2.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/607700_M/913881747abe2bd279d91cb57c6d5b14/607700.png",
+  "ingredients": "Ingrediënten: Viper Hard Seltzer Lime Ingrediënten: koolzuurhoudend water, alcohol, fructosestroop, natuurlijk limoen aroma met andere natuurlijke aroma's. Viper Hard Seltzer Peach Ingrediënten: koolzuurhoudend water, alcohol, fructosestroop en natuurlijke aroma's. Viper Hard Seltzer Cranberry Ingrediënten: koolzuurhoudend water, alcohol, fructosestroop, natuurlijk aroma en cranberry sap uit concentraat (0,1%)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "100.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "24.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:47"
+}

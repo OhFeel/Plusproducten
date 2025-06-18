@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Chocoladereep Daim",
+  "brand": "Milka",
+  "price": "1.69",
+  "base_unit_price": "16.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/892527_M/94c48c9695d13661f3b14e5e8224a9e6/892527.png",
+  "ingredients": "Ingrediënten: Suiker, cacaoboter, cacaomassa, magere MELKPOEDER, weipoeder (van MELK), palmolie, MELKVET, AMANDELEN (1 %), gecondenseerde magere MELK met suiker, emulgator (SOJALECITHINEN), HAZELNOOTPASTA, zout, weipermeaat (van MELK), aroma's. KAN TARWE BEVATTEN.",
+  "allergens": "Soja, Melk, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2254.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "540.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:57"
+}

@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "Vifit Goedemorgen drink aardbei sinaasappel",
+  "brand": "Vifit",
+  "price": "1.69",
+  "base_unit_price": "4.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/768766_M/c4ad112fbfa5edf0e0b9195b4e9ad054/768766.png",
+  "ingredients": "Ingrediënten: MELK (0,9% vet), 3,5% vruchtensap (2,8% aardbei, 0,7% sinaasappel), suiker, 1,5% GRANEN (0,9% HAVERmeel, 0,6% TARWEkiemen en -zemelen), 1,2% oligofructose, maïszetmeel, verdikkingsmiddel: E412, voedingszuur: citroenzuur, aroma, kleurstof: bèta-caroteen, vitamine B2, B6, B12, D, foliumzuur, calciumlactaat, lactase, melkzuurbacteriën (MELK)",
+  "allergens": "Tarwe, Khorasantarwe en khorasantarweproducten (gluten bevattend gr, Haver en haverproducten (gluten, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "244.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "58.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "0.38",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.14",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.14",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Foliumzuur/vitamine B11",
+      "value": "20.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.27",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:03"
+}

@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "PLUS Slavink ambachtelijk 3st",
+  "brand": "PLUS",
+  "price": "3.29",
+  "base_unit_price": "10.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/126741_M/b8b665ddec8138f636033cc441c28540/126741.png",
+  "ingredients": "82% varkensvlees*, 6% rundvlees**, water, paneermeel (TARWEBLOEM, ROGGE, gist, zout), TARWEZETMEEL, zeezout, gedroogde glucosestroop, specerijen (witte peper, zwarte peper, nootmuskaat, gemberpoeder, korianderzaad, foelie), zout, dextrose, gistextract, natuurlijk aroma, oregano, zuurteregelaar: E262. * = Beter Leven keurmerk 1 ster. ** = Beter Leven keurmerk 2 sterren. Dit product kan sporen van EI, MELK, MOSTERD, SELDERIJ en SOJA bevatten. E = door de EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1150.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "277.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.925",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:49:39"
+}

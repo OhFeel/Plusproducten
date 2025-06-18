@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Consenza Saucijzenbroodjes gluten lactosevrij",
+  "brand": "Consenza",
+  "price": "6.79",
+  "base_unit_price": "37.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/498221_M/9698e3726d340d981dcf5cec5e2431e5/498221.png",
+  "ingredients": "Ingrediënten: Water, margarine* (palmvet, water, zout, antioxidant: citroenzuur, emulgator: SOJAlecithine), EIEREN*, rundvlees* 11%, varkensvlees* 11%, aardappelzetmeel*, maiszetmeel*, rijstmeel*, rietsuiker*, margarine* (palm - en kokosvet, zonnebloemolie, water, antioxidant: citroenzuur, emulgator: zonnebloemlecithine), tapiocameel*, kruidenbouillon* (zout, dextrose, aardappelzetmeel, gistextract, specerijen, zonnebloemolie, kruiden, prei, uien), verdikkingsmiddel: guarpitmeel*, zout, gist, EIWITpoeder* (EIEREN), zwarte peper*, nootmuskaat*, maismeel*, *=biologisch.\nKan sporen bevatten van melk, noten, sesamzaad, lupine.",
+  "allergens": "Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1368.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "328.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:17:34"
+}

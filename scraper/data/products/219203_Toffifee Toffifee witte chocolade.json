@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Toffifee Toffifee witte chocolade",
+  "brand": "Toffifee",
+  "price": "1.99",
+  "base_unit_price": "15.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/219203_M/68ed0c51e05c924a854e2c15e06ea0b2/219203.png",
+  "ingredients": "Ingrediënten: suiker, plantaardige vetten (palm, shea), HAZELNOTEN (13,1%), glucosestroop, MAGEREMELKPOEDER (8,1%), MELKSUIKER, bevochtigingsmiddel: sorbitolstroop, cacaoboter,  gecondenseerde magere MELK, gecondenseerde WEI, VOLLEMELKPOEDER, ROOMPOEDER, rietsuikerstroop, WEIPOEDER, emulgator: lecithinen (SOJA), aroma's (bevat AARDNOOT/PINDA), KARNEMELKPOEDER, zout. KAN OOK SPOREN VAN AMANDEL EN ANDERE NOTEN BEVATTEN.",
+  "allergens": "Aardnoten (pinda's), Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2258.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "541.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "46.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:25:54"
+}

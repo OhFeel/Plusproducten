@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Hendrick's Gin",
+  "brand": "Hendrick's",
+  "price": "39.99",
+  "base_unit_price": "57.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/724137_M/1e165909928fcdaa5d054f49054b8f5c/724137.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "41.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:15"
+}

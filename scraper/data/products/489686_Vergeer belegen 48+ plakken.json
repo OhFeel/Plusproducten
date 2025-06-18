@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vergeer belegen 48+ plakken",
+  "brand": "Vergeer",
+  "price": "3.69",
+  "base_unit_price": "18.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/489686_M/d81da902d254e262cc515595e400873b/489686.png",
+  "ingredients": "ngrediënten: gepasteuriseerde KOEMELK, zout, zuursel, microbieel stremsel, kleurstof (carotenen), conserveermiddel (natriumnitraat). Lactosevrij (<lt/>0,01 g/ 100g)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1626.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "392.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.95",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:14:24"
+}

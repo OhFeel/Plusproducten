@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Koningsvogel Sambal badjak hot",
+  "brand": "Koningsvogel",
+  "price": "2.59",
+  "base_unit_price": "12.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/978349_M/bc14d416afbc8abfdec3193dc9b40473/978349.png",
+  "ingredients": "Ingrediënten: gemalen rode pepers 45%, gemalen uien (SULFIET), suiker, basterdsuiker, zonnebloemolie, aroma, knoflookpoeder, conserveermiddel E202, E211, E260",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1173.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "280.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.22",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.69",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:25:16"
+}

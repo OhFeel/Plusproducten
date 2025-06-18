@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Zwanenberg Tapas snacktrio droge worst en kaas",
+  "brand": "Zwanenberg",
+  "price": "3.99",
+  "base_unit_price": "33.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/571281_M/105781bfa2e404275a4ca306e443ceae/571281.png",
+  "ingredients": "Ingrediënten: Plakjes droge worst naturel Ingrediënten: varkensvlees, zout, dextrose, suiker, kleurstof (E120), antioxidant (E301), natuurlijke aroma's, stabilisator (E451), specerij-extract, fermenten, conserveermiddel (E250). Voor 100 gram droge worst is 150 gram varkensvlees gebruikt. \n\nPlakjes droge worst salami Ingrediënten: varkensvlees, zout, dextrose, knoflook, specerijen, kruiden, kleurstof (E120), antioxidanten (E300, E301), specerij extracten, fermenten, conserveermiddel (E250). Voor 100 gram droge worst is 150 gram varkensvlees gebruikt. \n\nKaasblokjes ingrediënten: gepasteuriseerde KOEMELK, zout, aardappelzetmeel, zuursel, stremsel, kleurstof (E160a), conserveermiddel (E251)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1729.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "417.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:45:40"
+}

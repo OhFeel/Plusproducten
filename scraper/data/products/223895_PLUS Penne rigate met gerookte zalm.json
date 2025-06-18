@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Penne rigate met gerookte zalm",
+  "brand": "PLUS",
+  "price": "3.59",
+  "base_unit_price": "7.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/223895_M/6fa424c27ec7a795996aa5e1ddf02fd9/223895.png",
+  "ingredients": "Ingrediënten :51% gekookte penne (water, TARWEGRIESMEEL, raapzaadolie), 44% saus (water, 14% zalm (72% gepocheerde zalm (zalm* (VIS), aardappelzetmeel, conserveermiddel: E267, zout, azijn, rook), 28% gerookte zalm (zalm** (VIS), zout, rook)), 9% bladspinazie, 6% roomkaas (KARNEMELK, 15% room (MELK), zout, zuursel), zonnebloemolie, wortel, maïszetmeel, 2% witte wijn, kruiden, tomatenpuree, ui, glucosestroop, gistextract, SELDERIJ, MELKEIWIT, zout, kaliumchloride, suiker, lente-ui, natuurlijke aroma's (bevat SELDERIJ), knoflookpuree), 5% cherrytomaat.\n\n* Zalm (Salmo salar), gekweekt in Noorwegen, kweekmethode: kooien in zee. Van een ASC-gecertificeerde, verantwoorde kwekerij. www.asc-aqua.org, ASC-C-00925. \n** Roze zalm (Oncorhynchus gorbuscha), gevangen in de Noordwestelijke Stille Oceaan (FAO 61)/ Noordoostelijke Stille Oceaan (FAO 67), met korven en vallen/ ringzegen. Uit een MSC gecertificeerde duurzame visserij. www.msc.org/nl, MSC-C-54903.\n\nKan MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Melk, Selderij, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "606.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "144.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.81",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.165",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.995",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.97",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.43",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "17.54",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.92",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.16",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.45",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:27:32"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hellmann's Mayonaise truffel",
+  "brand": "Hellmann's",
+  "price": "3.45",
+  "base_unit_price": "13.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/568216_M/3e5e8148558eb09a1256c6bef831b259/568216.png",
+  "ingredients": "Ingrediënten: Water, raapzaadolie 25%, azijn, gemodificeerd zetmeel, suiker, EI¹, zout, ROOMPOEDER, EIGEEL¹, knoflook, aroma's, truffel 0,4%, citrusvezel, karamelstroop, verdikkingsmiddel (E412, E415), conserveermiddel (E202), geconcentreerd citroensap, MOSTERDMEEL, peper, maltodextrine, antioxidant (E358). \n¹vrije uitloop eieren.",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1191.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "285.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:57"
+}

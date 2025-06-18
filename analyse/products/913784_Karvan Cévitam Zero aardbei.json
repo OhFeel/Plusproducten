@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Karvan Cévitam Zero aardbei",
+  "brand": "Karvan Cévitam",
+  "price": "5.49",
+  "base_unit_price": "6.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/913784_M/ed64a97b53c1d97ac3dc3f5f974792a0/913784.png",
+  "ingredients": "Ingrediënten: Water, aardbeiensap uit vruchtensapconcentraat 6,2%, voedingszuur (citroenzuur), natuurlijke aroma's, appelextract, zwarte wortelconcentraat, zoetstoffen (sucralose, steviolglycosiden uit stevia), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), vitamine C.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "37.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "9.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "60.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:13"
+}

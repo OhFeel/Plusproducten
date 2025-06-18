@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Zeefruit",
+  "brand": "Elvee",
+  "price": "4.99",
+  "base_unit_price": "30.24",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654864_M/080abb150b287765e6e08529f3f6d690/654864.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, 10% HAZELNOTEN, cacaomassa, plantaardige oliën (palm, raap), volle MELKPOEDER, MELKPOEDER, cacaopoeder, weipoeder (MELK), LACTOSE, magere MELKPOEDER, emulgator (SOJALECITHINE), natuurlijk vanille-aroma, aroma, kleurstoffen (paprika-extract, E100, E160e). Gemaakt in een bedrijf waar ook gluten bevattende granen, ei en andere noten worden verwerkt.",
+  "allergens": "Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2270.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "544.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:54"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Conimex Mix voor babi ketjap",
+  "brand": "Conimex",
+  "price": "1.75",
+  "base_unit_price": "21.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/300185_M/3372ce226e67f8af3f8e87e9c4517e38/300185.png",
+  "ingredients": "Ingrediënten Sausmix: Suiker, aardappelzetmeel, dextrose, natuurlijk aroma, zout, GERSTEMOUTEXTRACT, sojasauspoeder (zout, TARWEBLOEM, SOJABOON), tomaat, ui, raapzaadolie, gember, komijn, voedingszuur: citroenzuur, koriander, paprikapoeder, peper, anijs, kaneel.Marinademix: Suiker, gember, zout, aardappelzetmeel, dextrose, knoflook, koriander, ui, paprikapoeder, sojasauspoeder (zout, TARWEBLOEM, SOJABOON), natuurlijk aroma, peper, gistextract (bevat GERST), komijnzaad, voedingszuur: citroenzuur, raapzaadolie, kruidnagel.Kan ei, melk, selderij, mosterd bevatten.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "571.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "136.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.33",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:34"
+}

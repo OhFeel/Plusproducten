@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "WYCHWOOD HOBGOBLIN GOLD",
+  "brand": "WYCHWOOD",
+  "price": "4.49",
+  "base_unit_price": "8.98",
+  "image_url": "",
+  "ingredients": "Contains: BARLEY, WHEAT",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "159.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "38.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:24:47"
+}

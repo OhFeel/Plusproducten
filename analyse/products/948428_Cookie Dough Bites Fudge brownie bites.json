@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Cookie Dough Bites Fudge brownie bites",
+  "brand": "Cookie Dough Bites",
+  "price": "2.79",
+  "base_unit_price": "31.70",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/948428_M/1b2790e63c44f83c6973547468c0a09e/948428.png",
+  "ingredients": "Ingrediënten: Hittebehandeld TARWEmeel, suiker, palmpitolie, donkerbruine suiker, cacaopoeder(gemaakt met alkali), plantaardige glycerine, tapicoastroop, MELK, chocolade (suiker cacaoboter, ongezoete chocolade, MELK, emulgator: SOJA-lecithine, zout, natuurlijke aroma) aroma's, zout, banketbakkersglazuur, voedingszuur: zonnebloem-lecithine, verdikkingsmiddel: xanthaangom, conserveermiddel: kaliumsorbaat, rozemarijnextract (koolzaadolie, natuurlijke aroma, natuurlijke gemengde tocoferolen, zonnebloemolie, voedingszuur: ascorbine-zuur; citroenzuur; zonnebloemlecithine)). Bevat genetisch gemanipuleerde organismen. Kan sporen bevatten van EI, PINDA, NOTEN",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1950.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "467.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "66.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.96",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:48"
+}

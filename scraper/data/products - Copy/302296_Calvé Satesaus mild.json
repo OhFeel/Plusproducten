@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Calvé Satesaus mild",
+  "brand": "Calvé",
+  "price": "3.55",
+  "base_unit_price": "10.14",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/302296_M/b4932b34be3f1cd21ad47b1984aadbb1/302296.png",
+  "ingredients": "Ingrediënten: PINDA 48%, plantaardige oliën (raapzaad, soja, volledig geharde palm), suiker, MELKWEIPOEDER, maltodextrine, zout, water, specerijen (knoflook, ui, koriander, cayennepeper, galangawortel), sojasaus (SOJABOON, TARWE), MELKEIWITTEN, kleurstof E150c, maïszetmeel, voedingszuur E330.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1220.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "292.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:05:58"
+}

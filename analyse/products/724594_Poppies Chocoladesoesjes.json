@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Poppies Chocoladesoesjes",
+  "brand": "Poppies",
+  "price": "1.99",
+  "base_unit_price": "9.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/724594_M/873d1877bcc930eb50e81ae3aeda78df/724594.png",
+  "ingredients": "IINGREDIËNTEN: MELKchocolade 31% [suiker, cacaoboter, volle MELKpoeder, cacaomassa, watervrij MELKvet, emulgator (SOJAlecithine)], magere MELK, EIEREN, plantaardige oliën en vetten (kokos, palm, palmpit) TARWEbloem, suiker, volle MELKpoeder, zout, emulgator (mono- en diglyceriden van vetzuren), stabilisator (carrageen), natuurlijk aroma, kleurstof (caroteen). Kan NOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1778.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "428.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:24"
+}

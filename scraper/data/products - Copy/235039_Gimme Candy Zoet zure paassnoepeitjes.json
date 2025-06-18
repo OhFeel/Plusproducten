@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Gimme Candy Zoet zure paassnoepeitjes",
+  "brand": "Gimme Candy",
+  "price": "2.49",
+  "base_unit_price": "11.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/235039_M/1fb9ab09ad473d7dfe7de7801456d04e/235039.png",
+  "ingredients": "suiker, glucosestroop, kokosolie, maltodextrine, voedingszuur (citroenzuur), concentraten (saffloer, rammenas, spirulina, zoete aardappel), emulgator (sucrose-esters van vetzuren), natuurlijke aroma's, natuurlijk citroenaroma, natuurlijk sinaasappelaroma, glansmiddel (bijenwas wit en geel), kleurstoffen (paprika-extract, plantaardige koolstof).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1637.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "386.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "89.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "70.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:32:28"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Coca-Cola Zero sugar lemon",
+  "brand": "Coca-Cola",
+  "price": "0.79",
+  "base_unit_price": "3.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/318415_M/85a70f1fe39ec3b3d39b3d14d359ac14/318415.png",
+  "ingredients": "Ingrediënten: Sprankelend water; kleurstof: E150d; voedingszuur: E338; zoetstoffen: aspartaam, acesulfaam-K; natuurlijke aroma's; aroma cafeïne; zuurteregelaar: E331.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "3.7",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "0.9",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:10:17"
+}

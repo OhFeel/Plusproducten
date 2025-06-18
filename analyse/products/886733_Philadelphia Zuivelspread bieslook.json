@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Philadelphia Zuivelspread bieslook",
+  "brand": "Philadelphia",
+  "price": "2.79",
+  "base_unit_price": "15.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/886733_M/57a909bd5415f8f6bad818034ffe5865/886733.png",
+  "ingredients": "Ingrediënten: Volle MELK, MELKEIWITTENBEREIDING, ROOM, weipermeaatconcentraat (van MELK), bieslook, zout, stabilisatoren (guarpitmeel,  carrageen), voedingszuur (citroenzuur).",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "608.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "146.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.95",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:03"
+}

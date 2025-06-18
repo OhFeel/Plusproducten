@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Waard Jonge Jenever",
+  "brand": "Waard",
+  "price": "10.69",
+  "base_unit_price": "10.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/645832_M/bb6195d985ce5f52ef54055bc4c8d3a9/645832.png",
+  "ingredients": "Ingrediënten :water, ethylalcohol, moutwijn (distillaat van tarwe, maïs, rogge, water), glucose-fructosestroop, suiker, kruiden, specerijen, aroma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "688.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "166.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "30",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:11:27"
+}

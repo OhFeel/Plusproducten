@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Wawi Tablet gepofte rijst met melkchocolade",
+  "brand": "Wawi",
+  "price": "1.69",
+  "base_unit_price": "16.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/512860_M/430fa4e446725e5c8d851e7bac5ed4f5/512860.png",
+  "ingredients": "Ingrediënten: 78 % volle melkchocolade (suiker, cacaoboter, MELKPOEDER, cacaomassa,\nweipoeder (MELK), emulgator (SOJALECITHINE), 19 % gepofte rijst, 3 % geëxtrudeerd\ntarwe-rijstmeel (rijstmeel, volkoren TARWEMEEL, TARWEMEEL, ROGGEMEEL, suiker,\nmagere MELKPOEDER, zout). Product kan sporen van NOTEN en AARDNOTEN bevatten.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2088.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "499.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:23:59"
+}

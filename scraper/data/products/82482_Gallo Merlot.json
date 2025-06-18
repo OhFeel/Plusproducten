@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Gallo Merlot",
+  "brand": "Gallo",
+  "price": "6.99",
+  "base_unit_price": "9.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/82482_M/b45d671ed235fe1afb85b2979eb1db3b/82482.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:52:36"
+}

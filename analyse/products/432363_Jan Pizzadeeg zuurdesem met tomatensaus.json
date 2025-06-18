@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Jan Pizzadeeg zuurdesem met tomatensaus",
+  "brand": "Jan",
+  "price": "2.99",
+  "base_unit_price": "4.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/432363_M/6a0c3b988b16da293015cce601ca2e41/432363.png",
+  "ingredients": "Ingrediënten: Pizzadeeg (67%) : TARWEbloem, water, ethylalcohol, dextrose, rĳsmiddelen (E575, E501), TARWEGLUTEN, TARWEZUURDESEM (1%*), raapzaadolie, zout, verdikkingsmiddel (E412), meelverbeteraar (E300). Kan sporen bevatten van: melk. *Van de inhoud van het pizzadeeg. Tomatensaus (33%): Ingrediënten: tomatenpuree (92%**), ui, zonnebloemolie, water, zout, kruiden (oregano, basilicum), witte peper. **Van de inhoud van de tomatensaus",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "852.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "202.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "35.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:51:16"
+}

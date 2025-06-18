@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Chocolade Mini choco mix Fairtrade",
+  "brand": "PLUS",
+  "price": "3.32",
+  "base_unit_price": "7.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/724443_M/9494ca0f3294b0d9f0bedab61e604759/724443.png",
+  "ingredients": "Ingrediënten :Mini candybar karamel \nIngrediënten: Suiker, glucosestroop, palmvet, cacaoboter, volle MELKPOEDER, gecondenseerde magere MELK, cacaomassa, lactose (MELK), zoete weipoeder (MELK), GERSTEMOUTEXTRACT,  magere MELKPOEDER, magere cacaopoeder, karamelsuikerstroop, zout, SCHARRELKIPPENEI-EIWITPOEDER, emulgator: SOJALECITHINE, vanille-extract.\nKan sporen van PINDA, NOTEN en andere GLUTENBEVATTENDE GRANEN bevatten.\nMelkchocolade: ten minste 27% cacaobestanddelen.\n\nMini candybar melk\nIngrediënten: Suiker, glucosestroop, cacaoboter, volle MELKPOEDER, palmvet, cacaomassa, GERSTEMOUTEXTRACT, magere MELKPOEDER, lactose (MELK), zoete weipoeder (MELK), SCHARRELKIPPENEI-EIWITPOEDER, zout, emulgator: SOJALECITHINE, vanille-extract.\nKan sporen van PINDA, NOTEN en andere GLUTENBEVATTENDE GRANEN bevatten.\nMelkchocolade: ten minste 27% cacaobestanddelen.\n\nMini candybar pinda\nIngrediënten: Suiker, 24% PINDA, glucosestroop, cacaoboter, palmvet, volle MELKPOEDER, gecondenseerde magere MELK, cacaomassa, bevochtigingsmiddel: sorbitolen, GERSTEMOUTEXTRACT, lactose (MELK), zoete weipoeder (MELK), zout, natuurlijk PINDA-aroma, emulgator: SOJALECITHINE, SCHARRELKIPPENEI-EIWITPOEDER, gehydrolyseerde MELKEIWITTEN, vanille-extract.\nKan sporen van NOTEN en andere GLUTENBEVATTENDE GRANEN bevatten.\nMelkchocolade: ten minste 27% cacaobestanddelen.\n\nMini candybar biscuit&karamel \nIngrediënten: Suiker, TARWEMEEL, palmvet, glucosestroop, cacaoboter, gecondenseerde magere MELK, volle MELKPOEDER, cacaomassa, bevochtigingsmiddel: sorbitolen, lactose (MELK), zoete weipoeder (MELK), karamelsuikerstroop, zout, emulgator: SOJALECITHINE, magere cacaopoeder, GERSTEMOUTEXTRACT, rijsmiddel: E500, vanille-extract.\nKan sporen van PINDA, NOTEN, EI en andere GLUTENBEVATTENDE GRANEN bevatten.\nMelkchocolade: ten minste 27% cacaobestanddelen.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Aardnoten (pinda's), Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1987.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "474.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.59",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.236",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "46.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:20"
+}

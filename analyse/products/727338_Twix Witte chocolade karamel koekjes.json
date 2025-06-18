@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Twix Witte chocolade karamel koekjes",
+  "brand": "Twix",
+  "price": "3.79",
+  "base_unit_price": "16.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/727338_M/2769efc9b3e79e513f1381b92aa00377/727338.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, TARWEMEEL, palmvet, cacaoboter, VOLLEMELKPOEDER, MAGEREMELKPOEDER, magere cacao, zout, vanille-extract, emulgator (SOJALECITHINE), rijsmiddel (E500). (Kan bevatten: HAZELNOOT, AMANDEL, GERST, HAVER).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2104.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "503.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.41",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:08"
+}

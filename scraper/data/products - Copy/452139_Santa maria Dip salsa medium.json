@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Santa maria Dip salsa medium",
+  "brand": "Santa maria",
+  "price": "2.15",
+  "base_unit_price": "8.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/452139_M/f8c606c68e878505afa845c1aa88f253/452139.png",
+  "ingredients": "Ingrediënten: Tomaat (77%), ui, tomatenpasta (5%), groene chili, jalapeñopeper, alcoholazijn, komijn, chilipeper, cayennepeper, knoflookpoeder, korianderblad, zout, maïszetmeel, antioxidant (ascorbinezuur).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "138.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "33.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:00:41"
+}

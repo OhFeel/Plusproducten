@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "11er Ambachtelijk spek rosti",
+  "brand": "11er",
+  "price": "3.19",
+  "base_unit_price": "9.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/675541_M/d150e84bc3e2e82511cd2ddbc3adf19e/675541.png",
+  "ingredients": "Ingrediënten: Aardappelen 81%,\n\nzonnebloemolie 7%, Tiroler Speck BGA 7%\n\n(varkensvlees, nitrietpekelzout [zeezout,\n\nconserveringsmiddel: natriumnitriet,\n\nkaliumnitraat], specerijen, dextrose,\n\nkruidenextracten, antioxidanten:\n\nnatriumascorbaat, rosemarijnextract, rook),aardappelzetmeel, geroosterde uien (uien,\n\npalmolie*, TARWEMEEL, zout),\n\njodiumhoudend zout (zout, kaliumjodide),\n\ndextrose, zetmeel, suiker, uienpoeder,\n\nspecerijen. * uit gecertificeerde teelt",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "703.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:19:27"
+}

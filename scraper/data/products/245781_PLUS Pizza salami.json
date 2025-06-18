@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Pizza salami",
+  "brand": "PLUS",
+  "price": "2.49",
+  "base_unit_price": "7.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/245781_M/ec4ac8eb887b904bf08c18a318d1bf6d/245781.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 27,6% tomatenpuree, 12,2% salami (69% varkensvlees, varkensvet, zout, specerij-extracten, dextrose, glucosestroop, specerijen, suiker, antioxidant: E316/E392, conserveermiddel: E250, rook), water, 7,5% Edammer kaas (MELK), 7,5% mozzarella (MELK), raapzaadolie, gist, suiker, zout, specerijen, aardappelzetmeel, TARWEZETMEEL, kruiden, knoflook, dextrose. Kan sporen van SELDERIJ bevatten. E = door E.U. goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "240.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:40:31"
+}

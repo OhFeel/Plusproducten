@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Maaltijdsalade mango hazelnoot",
+  "brand": "PLUS",
+  "price": "5.99",
+  "base_unit_price": "14.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/558757_M/63f71f6a984ba36f3c318fc16d3aa11f/558757.png",
+  "ingredients": "Ingrediënten :20% lollo bionda, 20% mango, 15% komkommer-radijsmix (72% komkommer, 28% radijs), 15% citroen-maanzaad-srirachadressing (water, raapzaadolie, limoensap uit concentraat, suiker, geconcentreerd citroensap, maanzaad, sambal (rode chilipeper, zout, conserveermiddel: E202/E211) ,zout, gemodificeerd aardappelzetmeel, sinaasappel, verdikkingsmiddel: E415, cayennepeper, kleurstof: paprika-extract, 10% gekookte spelt (water, 42% spelt (TARWE), azijn, zout), 10% rode kool, 10% HAZELNOOT-CRANBERRY-MIX (50% HAZELNOOT, suiker, 20% gedroogde cranberries, zonnebloemolie).\n\nDit product kan sporen van andere NOTEN, PINDA en SESAM bevatten.",
+  "allergens": "Tarwe, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "512.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "123.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.58",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.58",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.62",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.27",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.12",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.232",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.093",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.85",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:39:34"
+}

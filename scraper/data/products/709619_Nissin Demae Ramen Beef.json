@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nissin Demae Ramen Beef",
+  "brand": "Nissin",
+  "price": "1.19",
+  "base_unit_price": "12.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709619_M/07f97b7f25724750fe03b6c6b497498b/709619.png",
+  "ingredients": "Ingrediënten: noedels 90,9% [TARWEMEEL, palmolie, zout, meelverbeteraars (natriumcarbonaat, trifosfaten), stabilisator (kaliumcarbonaat), verdikkingsmiddel (guarpitmeel), antioxidant (tocoferolrijk extract)], kruidenpoeder 7,3% [zout, smaakversterkers (moninatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), sojasauspoeder (SOJABONEN, TARWE, zout, maltodextrine), suiker, dextrose, rundvleesaroma's (bevat TARWE, SOJA), specerijen (bevat SELDERIJ), rundvleesextractpoeder (maltodextrine, rundvleesextract), kleurstof (ammoniakkaramel), prei, roompoeder (gluosestroop, palmolie, MELKEIWITTEN), gistextract, raapzaadolie, antiklontermiddel (siliciumdioxide), rundervetpoeder (rundervet, rundvleesextract), zuurteregelaar (citroenzuur)], kruidenolie 1,8% (rundervet, rapzaadolie, aroma). Kan sporen bevatten van SCHAALDIEREN, VIS, WEEKDIEREN, MOSTERD en SESAM.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "387.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "93.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:16"
+}

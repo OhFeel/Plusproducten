@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stoney Creek Shiraz Grenache & Petit Verdot",
+  "brand": "Stoney Creek",
+  "price": "4.49",
+  "base_unit_price": "5.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/746756_M/ae82f1322c285cc9612470d1a2b35cc2/746756.png",
+  "ingredients": "Ingredients: Grapes,Concentrated Grape Must / Rectified Concentrated Must,SULFITES,Tartaric acid,Malic acid,Acacia gum,Argon / Nitrogen / Carbon dioxide",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "306.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "73.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "12.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:20"
+}

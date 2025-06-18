@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Grolsch Radler citroen 0.0 fles",
+  "brand": "Grolsch",
+  "price": "0.89",
+  "base_unit_price": "2.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/933699_M/850ff3f001690a1e6e68c7b64a257255/933699.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, fructosestroop, vruchtensap uit concentraat 5,0% (citroensap 4,0%, sinaasappelsap), natuurlijk aroma, stabilisator: johannesbroodpitmeel en hop.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "124.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "30.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:11:26"
+}

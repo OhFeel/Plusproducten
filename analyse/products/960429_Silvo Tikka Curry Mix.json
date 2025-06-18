@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Tikka Curry Mix",
+  "brand": "Silvo",
+  "price": "3.69",
+  "base_unit_price": "43.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/960429_M/4e4a5fe15fe826ed1bcc82492e15624f/960429.png",
+  "ingredients": "Ingrediënten: Kruiden 69% (korianderzaad, komijn 14%, knoflookpoeder 14%, paprika 6,5%, gemberpoeder, kaneel (cassia), kurkuma, kardemom, cayennepeper, nootmuskaat), zetmeel, zeezout 8%, korianderblad, TARWEbloem, kleur: paprika-extract, Totaal gehalte aan kruiden en specerijen: 71%",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1351.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "323.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "42.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "16.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:27"
+}

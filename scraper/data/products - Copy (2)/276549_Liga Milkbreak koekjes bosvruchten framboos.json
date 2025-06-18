@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Liga Milkbreak koekjes bosvruchten framboos",
+  "brand": "Liga",
+  "price": "3.19",
+  "base_unit_price": "13.02",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/276549_M/b97b50d619fb77184fbf7408916222fa/276549.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM 47 %, suiker, glucosestroop, koolzaadolie, TARWEZETMEEL, lactose (van MELK) en MELKEIWITTEN 6 %, magere MELKPOEDER 5 %, geheel geharde palmpitolie, volle MELKPOEDER 2,5 %, zonnebloemolie, EIEREN, tarwedextrine, palmpitolie, rijsmiddelen (difosfaten, natriumcarbonaten, ammoniumcarbonaten), mineralen (calciumcarbonaat, elementair ijzer), zout, maltodextrine, emulgator (SOJALECITHINEN), geconcentreerde frambozenpuree 0,1 %, aroma's, bosvruchtenaroma, braambessenpulp, aardbeienpulp, frambozenpulp, kleurstof (karmijn), TARWEZEMELEN, palmolie, geconcentreerd vlierbessensap, vitamine B6.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1872.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "446.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.96",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "438.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "7.7",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "1.4",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:52:33"
+}

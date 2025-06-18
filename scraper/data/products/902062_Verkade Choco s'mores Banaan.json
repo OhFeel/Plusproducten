@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade Choco s'mores Banaan",
+  "brand": "Verkade",
+  "price": "1",
+  "base_unit_price": "15.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902062_M/6200eea28a6689510ce3195d5d637b46/902062.png",
+  "ingredients": "Ingrediënten: TARWEbloem, suiker, invertsuikerstroop, plantaardige vetten (palm, palmpit), cacaoboter, cacaomassa, volle MELKpoeder, bevochtigingsmiddel (sorbitol), magere MELKpoeder, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten, difosfaten), magere cacaopoeder, rundergelatine, maltodextrine, emulgatoren (ammoniumfosfatiden, E476, SOJAlecithinen, E472e), aroma's, saffloer, zout, gemodificeerd maïszetmeel, banaanpoeder (0,06%), zuurteregelaar (citroenzuur), glansmiddel (Arabische gom), enzymen (bevat TARWE), meelverbeteraar (natriumdiSULFIET), hazelnootpuree, EI\n\nKan pinda, andere noten en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1836.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "437.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "40.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.46",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:02"
+}

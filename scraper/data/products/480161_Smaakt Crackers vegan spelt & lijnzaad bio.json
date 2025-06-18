@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Crackers vegan spelt & lijnzaad bio",
+  "brand": "Smaakt",
+  "price": "4.49",
+  "base_unit_price": "22.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/480161_M/1549fd35e156e61e93478675d26b725c/480161.png",
+  "ingredients": "Ingrediënten: Spelt(TARWE)bloem* 33%, volkoren spelt(TARWE)meel* 27%, water, margarine* (ongehard plantaardig palm en kokosvet, plantaardige zonnebloemolie, water, antioxidant: citroenzuur, emulgator: lecithinen)*, lijnzaad* 5%, HAVERvlokken*, zout, gist*, * =biologisch.\nKan sporen bevatten van andere glutenbevattende granen, eieren, soja, melk, noten, sesamzaad",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1523.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "363.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "49.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:10:08"
+}

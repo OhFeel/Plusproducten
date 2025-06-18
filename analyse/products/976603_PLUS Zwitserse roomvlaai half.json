@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Zwitserse roomvlaai half",
+  "brand": "PLUS",
+  "price": "7.99",
+  "base_unit_price": "7.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/976603_M/a907f0b6e8342f9c77febf50c750e7d5/976603.png",
+  "ingredients": "Ingrediënten :Water, TARWEBLOEM, 13% slagroom (MELK), suiker, magere MELK, plantaardige oliën (palm, raapzaad), witte basterdsuiker, gemodificeerd aardappelzetmeel, palmolie (geheel gehard), volle MELKPOEDER, maltodextrine, TARWEGLUTEN, suiker, dextrose, SCHARRELKIPPENEI, cacaoboter, glucosestroop, magere MELKPOEDER, karamel, rijsmiddel: E450/ E500, volle gecondenseerde MELK, geleermiddel: E339/E516/E407, cacaomassa, lactose (MELK), verdikkingsmiddel: E401/E440, natuurlijk aroma, SCHARRELKIPPENEI-EIGEEL, citroenschil, geconcentreerd citroensap, karamelsuikerstroop, emulgator: E471/E433/E322 (SOJA), MELKEIWITTEN, palmvet, kleurstof: E160a/E160c/E150c, TARWEZETMEEL, bakkerszout, aroma, roomboter (MELK), invertsuiker, zuurteregelaar: citroenzuur, conserveermiddel: E202, boterolie (MELK), citroensap, zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1265.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "303.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "12.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.39",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.156",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "20.26",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:49"
+}

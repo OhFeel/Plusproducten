@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "WuShu Nasi Goreng",
+  "brand": "WuShu",
+  "price": "4.99",
+  "base_unit_price": "7.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/444764_M/a6a003070b1b4b2d8937ffd83bd799b5/444764.png",
+  "ingredients": "Ingrediënten: 47% rijst, 39% groenten (prei, paprika rood, ui, wortel), 8% hamblokjes (mechanisch gescheiden varkensvlees, water, aardappelzetmeel, varkenshemoglobine, varkenseiwitten, dextrose, zout, stabilisatoren: E450/E452, conserveermiddel: E250), raapzaadolie, zout, knoflook, natuurlijk aroma, ketjap (melasse, water, sojasaus (SOJAbonen, zout, conserveermiddel: E211, kleurstof: E150d), voedingszuur: melkzuur, natuurlijk aroma) , specerijen, E = door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "671.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "160.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.58",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:57:08"
+}

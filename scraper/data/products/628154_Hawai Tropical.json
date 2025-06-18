@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hawai Tropical",
+  "brand": "Hawai",
+  "price": "0.99",
+  "base_unit_price": "3.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/628154_M/62412b3c58f868bba0174fe41aeca748/628154.png",
+  "ingredients": "sprankelend water; suiker; sinaasappelsap uit concentraat 5%; voedingszuren: citroenzuur, natriumcitraat; stabilisatoren: e414, e445, e444; aroma’s; conserveermiddel: kaliumsorbaat; zoetstoffen: acesulfaam-k, sucralose; kleurstoffen: e150d, e104, e102, e124, e110.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "157.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "37.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:07:49"
+}

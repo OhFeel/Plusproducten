@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Somersby Blackberry",
+  "brand": "Somersby",
+  "price": "2.39",
+  "base_unit_price": "5.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436547_M/431eae1f178a2f729d501642611389a8/436547.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, suiker, natuurlijk aroma, appelsap uit concentraat, kleurend levensmiddel (wortelconcentraat), vlierbessensap uit concentraat, zuurteregelaar (citroenzuur), bramensap uit concentraat (0,1%), zoetstof (sucralose), hop.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "202.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "48.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:37"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Snacks Voordeelpak kipspiesjes",
+  "brand": "Snacks",
+  "price": "3.69",
+  "base_unit_price": "19.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709766_M/f545fcdb22d401545c3e9a822175b1c5/709766.png",
+  "ingredients": "Ingrediënten: kippenvlees 87%, basterdsuiker (suiker, karamel, invertsuikerstroop), TARWEBLOEM, melasse, voedingszuren: E326, E330, E262, zout, raapzaadolie, specerijen (bevat MOSTERD, SELDERIJ), stabilisator: E451, conserveermiddel: E267, SOJASAUS (water, SOJABONEN, TARWE, zout), natuurazijn, gist.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "741.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "175.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "23.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.38",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:25"
+}

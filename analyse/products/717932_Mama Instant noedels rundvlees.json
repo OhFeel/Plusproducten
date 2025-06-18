@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mama Instant noedels rundvlees",
+  "brand": "Mama",
+  "price": "0.69",
+  "base_unit_price": "11.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/717932_M/cc0bfcc2c62eee03f912c699f7557983/717932.png",
+  "ingredients": "Ingrediënten: TARWEmeel78%, palmolie, zout, suiker, smaakversterkers (E621, E635, E640), kruiden, aroma (SELDERIJ), zuurteregelaars (E500, E501, E451), SOJAsauspoeder (SOJAbonen, zout, mout extract (GERST), TARWE, gistextract, palmolie), verdikkingsmiddel (E466), gedroogde lente-ui, kleurstof (E150a), gehydrolyseerd plantaardig eiwit (water, maïs, SOJA), SELDERIJpoeder. Kan sporen bevatten van ei, melk, schaaldier, vis, sesam, weekdier.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "274.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "65.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:36"
+}

@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "Iglo Vissticks Omega3 10 stuks",
+  "brand": "Iglo",
+  "price": "4.75",
+  "base_unit_price": "15.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/879709_M/20a86a2deedd3a468f41a7766520e76b/879709.png",
+  "ingredients": "Ingrediënten: Alaska koolVIS 65%, paneermeel 16% (TARWEbloem, water, paprikapoeder, gist, kurkuma), koolzaadolie, TARWEbloem, aardappelzetmeel, water, zout, VISolie.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "863.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "206.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.78",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "224.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Selenium",
+      "value": "13.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Tafelzout gemengd met jodiumbevattende zouten",
+      "value": "57.4",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:59:05"
+}

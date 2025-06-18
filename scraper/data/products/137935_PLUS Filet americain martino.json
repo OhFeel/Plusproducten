@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Filet americain martino",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "19.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/137935_M/f5bd3d37e66077e2aae547b3b191e2ee/137935.png",
+  "ingredients": "Ingrediënten :87% Filet americain (49% rundvlees, water, 17% martinosaus (MOSTERD (azijn, MOSTERDZAAD, zout, kurkuma), water, tomatenpuree, suiker, azijn, gemodificeerd maïszetmeel, zout, koolzaadolie, capsicum extract, stabilisator: guarpitmeel, conserveermiddel: E202), raapzaadolie, voedingszuur: E260/E262/E326/E330, SCHARRELKIPPENEI-EIGEEL, tomatenpuree, zout, extract van paprika, suiker, specerijen (o.a. MOSTERDZAAD), glucosestroop, azijn, gehydrolyseerde plantaardige eiwitten (raapzaad, koolzaad), zetmeel (rijst, aardappel), aroma's (MOSTERD), gedroogde groenten (champignon, pastinaak), dextrose, stabilisator: E331, gemodificeerd maïszetmeel, verdikkingsmiddel: xanthaangom/guarpitmeel, gistextract, MELKEIWITTEN, conserveermiddel: E202, tomatenpoeder, antioxidant: E300, specerijextracten (SELDERIJ, chilipeper)), 8% ui, 4,6% augurk.",
+  "allergens": "Ei, Melk, Selderij, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "943.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "228.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.265",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.506",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:53:00"
+}

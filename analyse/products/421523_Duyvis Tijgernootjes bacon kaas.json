@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Duyvis Tijgernootjes bacon kaas",
+  "brand": "Duyvis",
+  "price": "3.29",
+  "base_unit_price": "11.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/421523_M/2f036b88721008ff6cab3c082a19a1ca/421523.png",
+  "ingredients": "Ingrediënten: PINDA'S (40%), rijstebloem, zetmeel (van maïs en TARWE), zonnebloemolie, suiker, bacon- en kaassmaak [suiker, zout, kaliumchloride, aroma's (van MELK), uienpoeder, gerookt zout, knoflookpoeder, kaaspoeder (MELK), gerookte paprika, kleurstof (paprika-extract)], zout, kaliumchloride, kleurstoffen (bietenrood, curcumine). Kan soja, mosterd en verschillende soorten noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2215.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "531.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:46:27"
+}

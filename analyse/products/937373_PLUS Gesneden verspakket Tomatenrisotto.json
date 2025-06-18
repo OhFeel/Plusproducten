@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "PLUS Gesneden verspakket Tomatenrisotto",
+  "brand": "PLUS",
+  "price": "6.89",
+  "base_unit_price": "6.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/937373_M/3e6f67737bacf610fba6d007e716668c/937373.png",
+  "ingredients": "Ingrediënten: tomatensaus (water, tomaat, tomatenpuree, suiker, azijn, gemodificeerd aardappelzetmeel, zout, knoflook, conserveermiddel (E202)), rijst, wortel, rode ui, cherrytomaat, BLEEKSELDERIJ, rode paprika, rucola, amandelen (AMANDELEN, plantaardige oliën (koolzaad, saffloer, zonnebloem), smokehouse smaakverfijner (zeezout, maltodextrine (maïs), gist, rietsuiker, uipoeder, gistextract, melasse, kleurstof: E150d, natuurlijk rookaroma)), groentebouillonblokje (zout, maïszetmeel, gistextract, rijstzetmeel, glucosestroop, maltodextrine, groenten (ui, wortel, SELDERIJ, prei), kruiden (peterselie, SELDERIJ, lavas), suiker, specerijen (kurkuma, SELDERIJZAAD, witte peper, foelie), olijfolie, gekaramelliseerde suikerstroop, knoflook, natuurlijk peterselie aroma, voedingszuur (citroenzuur)), peterselie.   Kan andere NOTEN, EI, GLUTEN, MELK, MOSTERD, PINDA, SESAM en SOJA bevatten.",
+  "allergens": "Noten, Selderij, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "456.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "108.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "20.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:13"
+}

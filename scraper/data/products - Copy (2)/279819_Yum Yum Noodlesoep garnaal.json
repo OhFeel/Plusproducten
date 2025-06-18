@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Yum Yum Noodlesoep garnaal",
+  "brand": "Yum Yum",
+  "price": "0.65",
+  "base_unit_price": "10.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/279819_M/d20ff2df220dd381cba06d7206b6912e/279819.png",
+  "ingredients": "Ingrediënten: TARWEmeel, palmolie (bevat antioxidant: E319, E320), tapiocazetmeel, zout, suiker, groenten(knoflook, ui, lente ui), specerijen en kruiden (chili, galanga, citroengras), smaakversterkers: E621, E631, E627, voedingszuren: E296, E330, SOJAsauspoeder (SOJAbonen, glucosesiroop, maltodextrine, kleurstof: E150c), zuurteregelaars: E500,E452,E451, maltodextrine, maiszetmeel, GARNALEN 0,2%, VISsaus, (ANSJOVISextract, zout), antiklontermiddel:E551, aroma, verdikkingsmiddel: E466, gistextract, kleurstof: E160c. Dit product kan sporen van melk, selderij en sesam bevatten.",
+  "allergens": "Tarwe, Maïs, Glutenbevattende granen, Schaaldieren, Vis, Soja",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "312.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:53:56"
+}

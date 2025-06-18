@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Drop Konfekties",
+  "brand": "Haribo",
+  "price": "1.99",
+  "base_unit_price": "13.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/475070_M/f146ae05aebaeaa68c2b2f443f173be1/475070.png",
+  "ingredients": "Ingrediënten: Bruine suikerstroop; glucosestroop; suiker; TARWEMEEL; zetmeel; MELKSUIKER; dextrose; geraspte kokos; zoethoutextract (3 % in het dropaandeel); palmvet; magere MELKPOEDER; kookzout; aroma; gelatine; vruchten- en plantenconcentraten: appel, rode biet, paprika, wortel, saffloer, tomaat, pompoen; voedingszuur: citroenzuur; zonnebloemolie; glansmiddel: bijenwas wit en geel.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1594.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "377.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "81.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.79",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:07:55"
+}

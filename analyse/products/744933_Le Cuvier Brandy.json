@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Le Cuvier Brandy",
+  "brand": "Le Cuvier",
+  "price": "14.99",
+  "base_unit_price": "21.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/744933_M/5cc78eb514f6833ea07010647b6fbc29/744933.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "36",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:54"
+}

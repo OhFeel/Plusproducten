@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Wijko Satésaus voordeelverpakking",
+  "brand": "Wijko",
+  "price": "5.99",
+  "base_unit_price": "5.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/884757_M/d9d1cbd91d88291c815d1b9bcc1d08d0/884757.png",
+  "ingredients": "Ingrediënten: PINDA'S 48%, suiker, water, sojasaus (water, SOJABONEN, zout, TARWE, conserveermiddel (kaliumsorbaat)), azijn, gehydrolyseerd SOJA-eiwit, raapzaadolie, gemodificeerd zetmeel, weipoeder (MELK), zout, sambal (rode pepers, zout, voedingszuur (azijnzuur), conserveermiddel (benzoëzuur)), gember, specerijen, aroma's, verdikkingsmiddelen (guargom, xanthaangom), ui",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1863.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "446.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:59:41"
+}

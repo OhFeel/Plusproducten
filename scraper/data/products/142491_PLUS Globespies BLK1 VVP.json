@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Globespies BLK1 VVP",
+  "brand": "PLUS",
+  "price": "3.99",
+  "base_unit_price": "15.65",
+  "image_url": "",
+  "ingredients": "Ingrediënten: 68% mini gehaktballetje (vlees(62% varkensvlees, 26% rundvlees), paneermeel(TARWEBLOEM, TARWEZEMELEN, water, gist, zout), water, uien, TARWEZETMEEL, zout, kruiden en specerijen(nootmuskaat, koriander, foelie, gember, chillies, witte peper, peper, paprikapoeder, laos, komijnzaad, MOSTERDZAAD, kurkuma), conserveermiddelen(E325, E262), dextrose , melado, prei, stabilisatoren(E450, E451), aroma(SELDERIJ, TARWE), wortel , plantaardige olie(hoogwaardige olie zonnebloem, zonnebloem, raap), uienpoeder, knoflookpoeder, gehydroliseerd eiwit(SOJA), kleurstof(E150c), SOJA BONEN, salmiakzout), 18% paprika, 14% ui",
+  "allergens": "Koriander, Wortel, Glutenbevattende granen, Soja, Selderij, Mosterd, Rundvlees en rundvleesproducten, Varkensvlees en varkensvleesproducten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "796.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "192.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.82",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.93",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.76",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.73",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.37",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:54:48"
+}

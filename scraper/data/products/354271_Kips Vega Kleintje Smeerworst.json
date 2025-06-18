@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Kips Vega Kleintje Smeerworst",
+  "brand": "Kips",
+  "price": "2.19",
+  "base_unit_price": "18.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/354271_M/599e89b7efcc352c9654ce35b071adfb/354271.png",
+  "ingredients": "Ingrediënten: water, groenten 16% (uien 6,5%, rode biet 4,8%, wortelpuree 2,8%, rode paprika puree 1,4%), zonnebloemolie, kokosolie, SOJA-EIWITISOLAAT 4,5%, gemodificeerd maïszetmeel, erwteneiwit 2,8%, zout, geconcentreerde tomatenpuree, gehydrolyseerd maïseiwit, specerijen, dextrose, antioxidanten (E300, E301), champignonextract, gistextract. E = door de EU goedgekeurde hulpstof.",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1096.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "265.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:19:54"
+}

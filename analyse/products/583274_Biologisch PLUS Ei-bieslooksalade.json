@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Biologisch PLUS Ei-bieslooksalade",
+  "brand": "Biologisch PLUS",
+  "price": "2.29",
+  "base_unit_price": "19.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/583274_M/546f3f1bb9c6d35e2fb6469c899bb350/583274.png",
+  "ingredients": "Ingrediënten :55% Gekookt EI**, 35% mayonaise* (78% zonnebloemolie*, 8% EIGEEL* (EIGEEL*, zout), water, natuurazijn*, agavesiroop*, MOSTERD* (water, MOSTERDZAAD*, azijn*, zeezout, kurkuma*)), agavesiroop*, 2,1% bieslook*, natuurazijn*, MOSTERD* (water, MOSTERDZAAD*, azijn*, zeezout, kurkuma*), maiszetmeel*, ui*, zeezout, wortelsappoeder*, citroensap*, gistextract, kerriepoeder* (kurkuma*, koriander*, witte peper*, gember*, fenegriek*, karwijzaad*, komijn*, nootmuskaat*, venkelzaad*, kruidnagel*), paprikapoeder*, witte peper*.\n* = van biologische oorsprong.\n** = van biologische oorsprong en Beter Leven keurmerk 3 sterren.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1413.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "342.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.07",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "9.24",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "17.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.87",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.31",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.55",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.416",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.89",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:51:09"
+}

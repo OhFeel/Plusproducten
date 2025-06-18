@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Ouwehand Rolmops",
+  "brand": "Ouwehand",
+  "price": "2.99",
+  "base_unit_price": "8.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/351971_M/e9061d2f5f177d1dc6c696808432a77d/351971.png",
+  "ingredients": "Ingrediënten: rolmops (92% van het uitlekgewicht, bestaande uit haring (VIS) (77%), augurk, ui), opgiet (zout, natuurazijn, voedingszuur: melkzuur, natuurlijke aroma, zoetstof: sucralose), ui, MOSTERDZAAD, pimentkorrels, witte peperkorrels en gedroogde wortel.",
+  "allergens": "Vis, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "725.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "174.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Omega 3 vetzuren",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:19:40"
+}

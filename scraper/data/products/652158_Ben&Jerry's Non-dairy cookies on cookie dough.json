@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Ben&Jerry's Non-dairy cookies on cookie dough",
+  "brand": "Ben&Jerry's",
+  "price": "2.09",
+  "base_unit_price": "20.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/652158_M/10953d582797b45c5dd41f301c20f31a/652158.png",
+  "ingredients": "Ingrediënten: Water, suiker, bloem (TARWE, volkoren TARWE), glucosestroop, kokosolie, plantaardige oliën (soja, raapzaad), bruine suiker, maïszetmeel, AMANDELPASTA (2,5%), erwteneiwit, cacaoboter, emulgatoren (lecithines (bevat SOJA)), cacaomassa, zout, melasse, stabilisatoren (guargom, johannesbroodpitmeel), vanille-extract, rijsmiddel (natriumbicarbonaat), natuurlijk aroma.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1250.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "299.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:18"
+}

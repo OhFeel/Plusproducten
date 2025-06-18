@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Calvé Salade mix tuinkruiden",
+  "brand": "Calvé",
+  "price": "1.65",
+  "base_unit_price": "68.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/858249_M/6775f01149dc18ac1732943c6f30661d/858249.png",
+  "ingredients": "Ingrediënten: Suiker, gejodeerd zout, zetmeel, kruiden¹ 11% (peterselie, bieslook, kervel, basilicum, rozemarijn, dille, tijm), voedingszuur E330, zuurteregelaar E262ii, citrusvezel, melksuiker (MELK), maïsolie, MOSTERDMEEL, peper 1,5%, kurkuma. Kan gluten, ei, selderij, soja bevatten.\n¹op duurzame wijze geteeld.",
+  "allergens": "Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "536.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "128.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:57:15"
+}

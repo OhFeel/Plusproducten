@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Casa di Mama pizza Quattro Formaggi",
+  "brand": "Dr. Oetker",
+  "price": "4.29",
+  "base_unit_price": "10.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/156742_M/bf567276ac75368de5aefa7311d03ab7/156742.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 10% gezeefde tomaten, 7,4% MOZZARELLA KAAS, 7,4% EDAMMER KAAS, ROOM, 5,1% tomatenconcentraat, 2,9% EMMENTALER KAAS, gist, zout, palmvet, suiker, 0,6% BLAUWSCHIMMELKAAS, basilicum, zuurteregelaars (calciumfosfaten, calciumcitraten), raapzaadolie, rijsmiddel (natriumwaterstofcarbonaat), emulgator (mono- en diglyceriden van vetzuren veresterd met mono- en diacetylwijnsteenzuur), gemodificeerd zetmeel, dextrose, oregano, specerijen. Kan bevatten: (SOJA, MOSTERD).",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "911.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "217.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:59:29"
+}

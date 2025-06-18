@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "HTP Paracetamol 500mg",
+  "brand": "HTP",
+  "price": "1.49",
+  "base_unit_price": "0.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/250825_M/0db6b575e01dd314d2e0d3315a1e1109/250825.png",
+  "ingredients": "Ingrediënten: paracetamol",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "500 mg paracetamol per tablet",
+  "extracted_at": "2025-04-25 13:43:12"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kwekkeboom Bitterbal Kalfsvlees",
+  "brand": "Kwekkeboom",
+  "price": "4.79",
+  "base_unit_price": "15.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/234971_M/cc6224babcc925ff5fadf0f735be2c0c/234971.png",
+  "ingredients": "Ingrediënten: water, bloem (TARWE, SOJA), plantaardige oliën en vetten (raapzaadolie, shea boter, koolzaadolie), 11% kalfsvlees, 7% room (MELK), zetmeel (TARWE, maïs), 0.2% kruiden en specerijen (bevat SELDERIJ), ui, gelatine (rund), gistextract, aroma, verdikkingsmiddelen (xanthaangom, guarpitmeel, E466, E461), suiker, kleurstof (curcumine, E160b(ii)), MELKeiwit, zout, champignonpoeder, stabilisatoren (carrageen, E451, E450), citrusvezel, natuurazijn, emulgatoren (lecithinen, E471), lavas, dextrose, voedingszuur (citroenzuur, melkzuur), SOJAbonen, rijsmiddel (E500), TARWE-eiwithydrolysaat, maltodextrine, conserveermiddel (E250), TARWE, antioxidant (extracten van rozemarijn). E = Door EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1129.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "270.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:32:25"
+}

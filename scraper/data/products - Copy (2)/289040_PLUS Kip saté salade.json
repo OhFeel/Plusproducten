@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Kip saté salade",
+  "brand": "PLUS",
+  "price": "2.89",
+  "base_unit_price": "16.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/289040_M/585f5558badac946271ab20cff8262c0/289040.png",
+  "ingredients": "Ingrediënten :24% Gebraden kipblokjes (90% kippenvlees*, raapzaadolie, aardappelzetmeel, maltodextrine, knoflook, TARWEZETMEEL, SOJA-EIWIT, dextrose, melasse, gember, TARWE, SOJABONEN, zout, water, azijn, specerijen, kruiden), 20% satésaus (47% PINDA, suiker, glucose-fructose siroop, water, SOJABONEN, TARWE, zout, azijn), witte kool, water, raapzaadolie, 7% satésaus (48% PINDA, suiker, water, aroma (SOJA), azijn, raapzaadolie, specerijen, verdikkingsmiddel: E412/E415, voedingszuur: E260, conserveermiddel: E202/E210, rode peper, weipoeder (MELK), gemodificeerd maïszetmeel, TARWE, zout, SOJABONEN, kleurstof: E150d), suiker, rode peper, maïszetmeel, VRIJE-UITLOOPKIPPENEI-EIGEEL, azijn, zout, kleurstof: E150a/E160c, PINDA, gember, gistextract, conserveermiddel: E202/E211, voedingszuur: E260/E330, tomatenpuree, verdikkingsmiddel: E412/E415, appelpuree, TARWEZETMEEL, specerijen, paprikapuree, natuurlijk aroma. \n* = Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Aardnoten (pinda's), Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1120.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "269.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:58:39"
+}

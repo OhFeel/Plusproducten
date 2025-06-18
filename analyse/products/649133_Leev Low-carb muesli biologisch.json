@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Leev Low-carb muesli biologisch",
+  "brand": "Leev",
+  "price": "3.99",
+  "base_unit_price": "11.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/649133_M/5ffa658952d2a23c9a74dcf1a699e7fe/649133.png",
+  "ingredients": "Ingrediënten: SOJAvlokken - geroosterd*, lijnzaad*, supermuesli* (TARWEvlokken*, GERSTvlokken*, ROGGEvlokken*, HAVERvlokken*, rozijnen - Thompson* (rozijnen*, zonnebloemolie*), HAZELNOTEN*, rijstvlokken, zonnebloempitten, AMANDELEN - bruin*, abrikozenstukjes*, AMANDELEN - wit*, lijnzaad*), rozijnen - Sultana* (rozijnen*, zonnebloemolie*), pompoenpitten - pure chocolade* (pompoenpitten*, pure chocolade* (cacaomassa*, suiker*, cacaoboter*, vanille poeder*), glansmiddel* (Arabische gom*, sucrose*, dextrose*)), kokoschips - raw*, hennepzaad*, gepofte amaranth*, fiberhusk*. * = van gecontroleerd biologische teelt. Kan sporen bevatten van NOTEN, PINDA's, TARWE, ROGGE, GLUTEN en SESAM.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Soja, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1816.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "436.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "20.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "25.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:00"
+}

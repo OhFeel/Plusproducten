@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Villa Puccini Primitivo",
+  "brand": "Villa Puccini",
+  "price": "5.29",
+  "base_unit_price": "7.05",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/809569_M/f9d75413a381594b92aa0aff4fe0e1d5/809569.png",
+  "ingredients": "Contains Sulphites",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:02"
+}

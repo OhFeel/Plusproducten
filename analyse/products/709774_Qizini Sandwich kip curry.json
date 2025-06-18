@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Qizini Sandwich kip curry",
+  "brand": "Qizini",
+  "price": "2.99",
+  "base_unit_price": "19.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709774_M/a59c8e336a3f459596e54842f44c4241/709774.png",
+  "ingredients": "Ingrediënten: 47% wit tarwebrood (TARWEBLOEM, water, lijnzaad, zonnebloempitten, gist, raapzaadolie, bakkerszout, SESAMZAAD, SOJAMEEL), 34% kip curry salade (46% kippenvlees [kippenborst, water, zout, specerijen], raapzaadolie, water, suiker, EIGEEL*, kruiden, azijn, mosterd [water, MOSTERDZAAD, azijn, zout, suiker, kurkuma], specerijenextract, zout, specerijen [bevat: MOSTERD], bouillon [zout, gemodificeerd aardappelzetmeel, natuurlijk aroma {bevat: SELDERIJ}, zonnebloemolie, kippenvlees, specerijen, ui, wortel, antioxidant: extracten van rozemarijn], aardappelzetmeel, glucosestroop, voedingszuur: melkzuur/azijnzuur, conserveermiddel: kaliumsorbaat, stabilisator: guarpitmeel/xanthaangom, kleurstof: curcumine), 9% gegrilde rode paprika (rode paprika, voedingszuur: citroenzuur, zout), 9% geroosterde en vloeibaar gekruide kippenborstfilet blokjes (92% kippenborstfilet, water, aardappelzetmeel, brandewijnazijn, zout, dextrose, witte wijnazijn). *scharreleieren",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Selderij, Mosterd, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1105.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "264.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:26"
+}

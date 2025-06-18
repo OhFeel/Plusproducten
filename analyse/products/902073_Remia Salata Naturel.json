@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Remia Salata Naturel",
+  "brand": "Remia",
+  "price": "1.99",
+  "base_unit_price": "4.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902073_M/b38e537b2a6b4aa074ef36218c3a2414/902073.png",
+  "ingredients": "water, natuurazijn, groenten (ui 8,0% en paprika 1,0%), suiker, zout, bieslook 0,9%, peterselie 0,5%, verdikkingsmiddelen: xanthaangom en johannesbroodpitmeel, natuurlijk aroma, plantenextract.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "144.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "34.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:02"
+}

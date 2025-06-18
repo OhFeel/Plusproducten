@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Flemmings Broodje Kebab",
+  "brand": "Flemmings",
+  "price": "2.19",
+  "base_unit_price": "2.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/275547_M/dadfedc7b54901d841041412ed0d8f2f/275547.png",
+  "ingredients": "KEBAB (45.5%) (kippenvlees (59,4%), kippenvellen, water, groenten, TARWEbloem, TARWEzetmeel, SOJA eiwit, zout, kruiden en specerijen, kipheelEIpoeder, TARWEgluten, groentepoeder (knoflook, ui), emulgator (trifosfaten), voedingszuur (natriumacetaten), wei eiwit concentraat (MELK), suiker, SOJA eiwit concentraat, paneermeel (TARWE), lactose (MELK), tomaten ketchup (SELDERIJ)). BROOD (45.5%) (TARWEbloem, water, suiker, raapzaadolie, bakkersgist, bakkerszout, TARWEgluten, emulgator (mono- en diglyceriden van vetzuren), glucosesiroop, conserveermiddel (calciumpropionaat, sorbinezuur), caseïnaten (MELK), natuurlijk aroma, meelverbeteraar (ascorbinezuur)). KNOFLOOKSAUS (9%) (water, raapzaadolie, suiker, gemodificeerd maiszetmeel, natuurazijn, knoflook, zeezout, knoflookpoeder, conserveermiddel (kaliumsorbaat, natriumbenzoaat), verdikkingsmiddel (xanthaangom, guarpitmeel), natuurlijk knoflook aroma, peterselie, voedingszuur (citroenzuur), witte peper, antioxidant (calciumdinatrium-EDTA)). ALLERGIEADVIES: voor allergenen, inclusief glutenbevattende granen, zie VETGEDRUKTE ingrediënten. Kan SESAM bevatten. Hoewel grote zorg is besteed aan het verwijderen van alle harde deeltjes, kunnen er enkele achterblijven.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "886.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "211.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:51:50"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "TIMMERMANS OUDE GEUZE TRADITION",
+  "brand": "TIMMERMANS",
+  "price": "4.59",
+  "base_unit_price": "12.24",
+  "image_url": "",
+  "ingredients": "Bevat: GERSTEmout, TARWE",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "185.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "44.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.7",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:24"
+}

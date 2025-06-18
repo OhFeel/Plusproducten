@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Swiet Moffo Madam jeanette pepper",
+  "brand": "Swiet Moffo",
+  "price": "2.09",
+  "base_unit_price": "10.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/447358_M/eab7cef034991ce15e9332bf2db8d199/447358.png",
+  "ingredients": "Ingrediënten: water, MOSTERD, wortel, suiker, gemodificeerd maiszetmeel, zout, madame jeanette peper (4%), limoen, SOJAolie, ui-, knoflookpoeder, masala kruiden (MOSTERDzaad, fenegriek, korianderzaad, zwarte peper, kurkuma, komijn, nigellazaad), kurkuma, kruiden en specerijen, azijn, voedingszuur: E330, conserveermiddel: E211.",
+  "allergens": "Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "238.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "56.9",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.92",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:45"
+}

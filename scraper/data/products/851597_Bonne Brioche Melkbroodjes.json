@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bonne Brioche Melkbroodjes",
+  "brand": "Bonne Brioche",
+  "price": "2.69",
+  "base_unit_price": "0.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/851597_M/509073c9154c8997473e47222e2a3a12/851597.png",
+  "ingredients": "Ingrediënten: tarwemeel, 18% magere melk, suiker, 10% scharrelei, koolzaadolie, emulgatoren: E 471, E 481; zout, gist, tarwegluten, natuurlijk aroma, verdikkingsmiddel: E 417; antioxidant: E 300. ",
+  "allergens": "Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1416.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:56:27"
+}

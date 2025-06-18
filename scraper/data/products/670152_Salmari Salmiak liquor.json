@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Salmari Salmiak liquor",
+  "brand": "Salmari",
+  "price": "18.49",
+  "base_unit_price": "26.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/670152_M/3f4a4d9a5cd41f25a695f3f3bf8dbad5/670152.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "25",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:21"
+}

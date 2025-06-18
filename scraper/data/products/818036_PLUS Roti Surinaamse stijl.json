@@ -1,0 +1,109 @@
+{
+  "sku": "",
+  "name": "PLUS Roti Surinaamse stijl",
+  "brand": "PLUS",
+  "price": "5.49",
+  "base_unit_price": "12.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/818036_M/3c336454a3a548312ee3014f2d8d7a4e/818036.png",
+  "ingredients": "Ingrediënten :33% saus (35% aardappel, water, 13% ui, 10% tomaat, specerijenpasta (water, specerijen, zonnebloemolie, zout, ui, tomatenpoeder, koriander, MOSTERDZAAD), 2% paprika, raapzaadolie, gemodificeerd maïszetmeel, specerijen, gistextract, suiker, knoflookpuree), 24% sperzieboon, 18% rotivel (zelfrijzend bloem (TARWEBLOEM, rijsmiddel: E450/E500, zout, rijstmeel), 4% gele erwten, water, azijn, zonnebloemolie, specerijen, antioxidant: E341), 10% kipfiletstukjes (94% kipfilet*, water, maïszetmeel, dextrose, zout), 6% paprika, 6% VRIJE-UITLOOPKIPPENEI (99% VRIJE-UITLOOPKIPPENEI**, zout), 2% ui, specerijenpasta (water, specerijen, zonnebloemolie, zout, ui, tomatenpoeder, kruiden, MOSTERDZAAD), raapzaadolie, specerijen, gistextract.\n\n* = Beter Leven keurmerk 1 ster.\n** = Beter Leven keurmerk 2 sterren.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "535.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "127.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.61",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.975",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.485",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.46",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.86",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zetmeel",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.25",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.92",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.34",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:11"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mentos Gum Breeze Mint Blister",
+  "brand": "Mentos",
+  "price": "2.65",
+  "base_unit_price": "0.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/715930_M/f290e3a0d248f12758ce54d3ee45a365/715930.png",
+  "ingredients": "Ingrediënten: zoetstoffen (xylitol, sorbitol, mannitol, maltitolstroop, aspartaam, acesulfaam-K), gombasis, verdikkingsmiddelen (arabische gom, cellulosegom), zoethoutwortelextract, aroma's, zetmeel, maltodextrine, stabilisator (glycerol), emulgatoren (SOJALECITHINE, sucrose-esters van vetzuren), kokosvet, glansmiddel (carnaubawas), antioxidant (E321), kleurstoffen (briljantblauw FCF, curcumine). ",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "698.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "167.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:21"
+}

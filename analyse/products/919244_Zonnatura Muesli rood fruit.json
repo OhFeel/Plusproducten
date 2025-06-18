@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Zonnatura Muesli rood fruit",
+  "brand": "Zonnatura",
+  "price": "2.99",
+  "base_unit_price": "7.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/919244_M/208c64d9a8b87b59ac038392461a7a30/919244.png",
+  "ingredients": "Ingrediënten: graanvlokken* 73% (haver* 42%, tarwe* [GLUTEN] 15%, spelt* 9%, gemoute tarwe* 7% (tarwe*, gerstemout*)), rozijnen* 22% (rozijnen*, zonnebloemolie*), amandelen* [NOTEN] 2%, zonnebloempitten* 2%, roodfruit* 1,5% (cranberry* 0,5%, aardbei* 0,5%, zwarte bes* 0,5%).*ingrediënten van biologische teelt. Dit product kan sporen bevatten van MELK, SOJA en SESAMzaad.",
+  "allergens": "Glutenbevattende granen, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1493.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "355.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:37"
+}

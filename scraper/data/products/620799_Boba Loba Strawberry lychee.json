@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Boba Loba Strawberry lychee",
+  "brand": "Boba Loba",
+  "price": "3.49",
+  "base_unit_price": "9.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/620799_M/440e4f74602d648ef52a772eaf6b792b/620799.png",
+  "ingredients": "water, popping boba (water, fructosesiroop, antioxidant: e327, gemodificeerd zetmeel, zuurteregelaar: e296, verdikkingsmiddelen: e401, e415), suiker, fructose, aardbeiensap uit concentraat, lychee sap, verdikkingsmiddel: e415, antioxidant (e327), voedingszuur: citroenzuur, zuurteregelaar (e296), aroma, kleurstof: e129, zoetstof: sucralose.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "133.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "32.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:06"
+}

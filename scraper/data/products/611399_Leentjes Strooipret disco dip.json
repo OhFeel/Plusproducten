@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Leentjes Strooipret disco dip",
+  "brand": "Leentjes",
+  "price": "2.15",
+  "base_unit_price": "35.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/611399_M/57912537b29d6bbfe7ff7c33a1fe5d5f/611399.png",
+  "ingredients": "suiker, glucosestroop, water, plantaardige olie (kokos), kleurende levensmiddel concentraten (saffloer, spirulina, radijs, zoete aardappel, citroen), glansmiddel (carnaubawas)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1668.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "392.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "97.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "94.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten plantaardig",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:42"
+}

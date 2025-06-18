@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Organix Bio Boerderijdieren koekjes 1+j",
+  "brand": "Organix",
+  "price": "3.59",
+  "base_unit_price": "35.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902731_M/2ca220c4420c67e713a78f7a13bf928c/902731.png",
+  "ingredients": "Ingrediënten: onze biologische ingrediënten: Volkoren TARWEmeel 31%, TARWEmeel 31%, Druivensapconcentraat 27%, Zonnebloemolie 10%, Rijsmiddel* (natriumbicarbonaat) <lt/>1%, Thiamine (vitamine B1)* <lt/>1%. Kan sporen van MELK en NOTEN bevatten omdat het wordt geproduceerd in een fabriek waar melk en noten worden verwerkt. *Rijsmiddel (natriumbicarbonaat) en Thiamine hebben geen biologische certificering.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1864.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "443.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "71.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "1.2",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:19"
+}

@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Joustra Beerenburg",
+  "brand": "Joustra",
+  "price": "17.99",
+  "base_unit_price": "17.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/118907_M/b42d34a8e356f45409f0a084b3a5281d/118907.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "32",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:47:57"
+}

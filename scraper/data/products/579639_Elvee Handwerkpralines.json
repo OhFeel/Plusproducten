@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Handwerkpralines",
+  "brand": "Elvee",
+  "price": "13.99",
+  "base_unit_price": "32.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/579639_M/065654ab2d585be68060421a96965d93/579639.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, volle MELKPOEDER, cacaomassa, karnemelkcrème [KARNEMELK, plantaardige oliën (palmpit, palm), suiker, dextrose, emulgatoren (E433, E435, E471, E472b), aroma, stabilisator (E407), kleurstof (carotenen)], glucosestroop, plantaardige vetten (kokos, palm, zonnebloem, koolzaad), 3% HAZELNOTEN, geheel gehard plantaardig vet (kokos), weipoeder (MELK), water, gecondenseerde volle MELK, plantaardige oliën (palm, zonnebloem), 1,1% mango, AMANDELEN, LACTOSE, emulgatoren (SOJALECITHINE, E412, E471), 0,2% bosvruchten, magere MELKPOEDER, 0,2% chilipoeder, ROOMBOTER, TARWEMEEL, koffie, ROOM, verdikkingsmiddelen (pectine, E407, E410, E412, E414, E466, E1442), kleurstoffen (karamel, carotenen, paprika-extract, E100, E101, E120, E132, E161b, E163, E171, E172), aroma, natuurlijke aroma’s, magere cacaopoeder, 0,1% YOGHURTPOEDER, zuurteregelaar (citroenzuur), aardbei-concentraat, MELKVET, melasse, voedingszuren (citroenzuur, E270, E334), zout, conserveermiddel (E202), dextrose, maltodextrine, geleerdmiddel (E331iii), cognac, karamel, alcohol, citroengras, MELK, vitamine A & D3, antioxidanten (E300, E304, E306, E307), MELKEIWIT, maïszetmeel, tapiocazetmeel, GERSTEMOUT-extract, rijsmiddel (E500), vanille-extract, erwteneiwit, citroensap, spirulina-extract. Gemaakt in een bedrijf waar ook andere noten, pinda’s, gluten bevattende granen en ei worden verwerkt.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Noten, Lactose, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2171.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "519.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:48:10"
+}

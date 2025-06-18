@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wagner Sensazione pizza salami",
+  "brand": "Wagner",
+  "price": "3.99",
+  "base_unit_price": "12.47",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/783734_M/559113150ed948bac462aa5fed3b50f5/783734.png",
+  "ingredients": "tarwebloem, gepelde gehakte tomaten (20%), kaas (melk) (14%) (edammer [melk], emmentaler [melk], mozzarella [melk]), water, gerookte salami\n(10%) (varkensvlees, zout, conserveermiddel: natriumnitriet, maltodextrine, dextrose, specerijen [bevat: mosterd], antioxidanten: natriumascorbaat, extract van rozemarijn;\nspecerijenextracten), zuurdesem (3%) (water, tarwebloem, roggebmeel), extra olijfolie verkregen bij de eerste persing (1%), zout, gist, voorverstijfselde tarwebloem,\nsuiker, kruiden en specerijen, moutmeel (gerst, tarwe), stabilisator: guarpitmeel, tarwezetmeel.\nkan ei, vis, lupine, selderij, en soja bevatten.",
+  "allergens": "Lupine, Tarwe, Rogge, Vis, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "987.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "235.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:24"
+}

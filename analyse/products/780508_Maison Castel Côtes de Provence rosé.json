@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Maison Castel Côtes de Provence rosé",
+  "brand": "Maison Castel",
+  "price": "8.99",
+  "base_unit_price": "11.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/780508_M/6100699a31ba041a57e1240e38360ca4/780508.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "328.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "79.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:55"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mcvities Digestive Melk",
+  "brand": "Mcvities",
+  "price": "1.99",
+  "base_unit_price": "7.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/904113_M/1caca32f417f5ba1db4c28830b4baa4e/904113.png",
+  "ingredients": "Ingrediënten: Bloem (39%) (TARWEbloem, calcium, ijzer, niacine, thiamine), MELKchocolade (30%) [suiker, cacaoboter, cacaomassa, magere MELKpoeder, weipoeder (MELK), boterolie (MELK), plantaardige vetten (palm, shea), emulgatoren (SOJAlecithinen, E476), natuurlijk aroma], palmolie, volkoren TARWEmeel (9%), suiker, glucose-fructosestroop, rijsmiddelen (natriumcarbonaten, appelzuur, ammoniumcarbonaten), zout\n\nVoor allergenen, inclusief glutenbevattende granen, zie vetgedrukte ingrediënten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2078.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "496.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.94",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:31"
+}

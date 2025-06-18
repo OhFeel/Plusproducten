@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Favourites",
+  "brand": "Milka",
+  "price": "5.59",
+  "base_unit_price": "35.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/758779_M/68c9f3695d3a5cf3672460a3b458f693/758779.png",
+  "ingredients": "Ingrediënten: Suiker, plantaardige vetten (palm,  shea,  palmpit), cacaoboter, magere MELKPOEDER, weipoeder (van MELK), TARWEBLOEM, cacaomassa, MELKVET, HAZELNOTEN, glucosestroop, TARWEZETMEEL, emulgatoren (SOJALECITHINEN,  E476,  E471), magere cacaopoeder, glucose-fructosestroop, kaaspoeder (van MELK), aardbeienpuree, HAZELNOOTPASTA, maïs, aroma's, bevochtigingsmiddel (glycerol), aardappelzetmeel, koolzaadolie, rijsmiddelen (E501,  E500,  E503), citroensapconcentraat, zout, zwarte bessensapconcentraat, zuurteregelaar (E524).KAN ANDERE NOTEN BEVATTEN.",
+  "allergens": "Tarwe, Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2294.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "550.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:14"
+}

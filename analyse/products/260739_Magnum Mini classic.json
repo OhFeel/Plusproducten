@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum Mini classic",
+  "brand": "Magnum",
+  "price": "5.89",
+  "base_unit_price": "0.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/260739_M/b70b23cdb898a8281f063170b7720809/260739.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, water, cacaoboter¹, cacaomassa¹, kokosolie, glucosestroop, volle MELKPOEDER, glucose-fructosestroop, LACTOSE en MELKEIWITTEN, BOTERCONCENTRAAT, emulgatoren (E471, lecithines), stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanillearoma¹ (bevat MELK), natuurlijk vanillearoma, kleurstof (carotenen). Kan amandel en pistachenoot bevatten. Glutenvrij. ¹Rainforest Alliance gecertificeerd. ra.org.",
+  "allergens": "Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1370.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "328.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:44:47"
+}

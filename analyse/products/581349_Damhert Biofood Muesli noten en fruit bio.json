@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Biofood Muesli noten en fruit bio",
+  "brand": "Damhert Biofood",
+  "price": "4.49",
+  "base_unit_price": "8.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581349_M/ae6f73834207d2d1b62ab9ac47bc77e2/581349.png",
+  "ingredients": "4-korenvlok (TARWEvlokken*, HAVERvlokken*, GERSTvlokken*, ROGGEvlokken*), rozijnen* (12,5%) (rozijnen* (12,4%), zonnebloemolie*), zonnebloempitten*, bananenchips* (5%) (banaan* (3,4%), kokosnootolie*, rietsuiker*), WALNOTEN* (2,5%), HAZELNOOTstukjes (2%), CASHEWNOTEN* (2%), AMANDELEN* (1%). Kan andere NOTEN, PINDA'S, SOJA en MELK bevatten. *Van gecontroleerde biologische teelt.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1655.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "396.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:38"
+}

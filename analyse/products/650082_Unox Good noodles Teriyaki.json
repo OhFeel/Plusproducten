@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Good noodles Teriyaki",
+  "brand": "Unox",
+  "price": "1.25",
+  "base_unit_price": "16.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/650082_M/5be25e8cfe5048ba7f011c2161d1fca0/650082.png",
+  "ingredients": "Ingrediënten kruidenmix (13%): suiker, zetmeel, sojasauspoeder (sojasaus (SOJABOON, TARWE), zout, maltodextrine), smaakversterkers (E621, E631, E627), verdikkingsmiddel E412, aroma, karamelstroop, maltodextrine, knoflookpoeder 2,7%, gember 1,6%, peterselie 1,5%, uienpoeder, bieslook 0,8%, zuurteregelaar E330, gistextract, peper. Kan ROGGE, GERST, HAVER, EI, MELK, SELDERIJ en MOSTERD bevatten.    Ingrediënten noodles (83%): TARWEBLOEM, plantaardige oliën (zonnebloem, raapzaad), zout, gemodificeerd zetmeel, suiker, kurkumaextract. Kan ROGGE, GERST, HAVER, SOJA, MOSTERD en LUPINE bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "458.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "109.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:38"
+}

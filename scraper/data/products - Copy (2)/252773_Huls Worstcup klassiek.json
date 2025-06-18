@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Huls Worstcup klassiek",
+  "brand": "Huls",
+  "price": "2.99",
+  "base_unit_price": "33.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/252773_M/185b5ba3542725e266f356768a72d4bc/252773.png",
+  "ingredients": "varkensvlees*, zout, dextrose, suiker, kleurstof: karmijn, antioxidant: natriumascorbaat, natuurlijke aroma's, stabilisator: e451, specerij-extract, fermenten, conserveermiddel: natriumnitriet, rundercollageen. * = beter leven keurmerk 1 ster. voor 100 gram droge worst is 161 gram varkensvlees gebruikt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2035.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "492.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.85",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:43:31"
+}

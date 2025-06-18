@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Autodrop Zachtwagens",
+  "brand": "Autodrop",
+  "price": "2.99",
+  "base_unit_price": "12.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/180538_M/347d66681debf06eb6882d4bf22353e5/180538.png",
+  "ingredients": "glucose-fructosestroop, suiker, gemodificeerd zetmeel, varkensgelatine, zoethoutwortelextract, kleurstof (karamel), salmiakzout, melasse, zoethoutpoeder, glansmiddel (carnaubawas), natuurlijke aroma's, antioxidant (ascorbinezuur).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1428.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:09:55"
+}

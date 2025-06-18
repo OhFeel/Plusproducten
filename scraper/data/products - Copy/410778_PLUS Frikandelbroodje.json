@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Frikandelbroodje",
+  "brand": "PLUS",
+  "price": "0.99",
+  "base_unit_price": "0.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/410778_M/5974359c12d631fe43a4106412eece14/410778.png",
+  "ingredients": "Ingrediënten :37% frikandel (59% kippenseparatorvlees, 14% varkensspek, water, paneermeel (TARWEBLOEM, water, gist, zout), zout, specerijen, kaliumchloride, dextrose, antioxidant: E316, voedingszuur: E330/E331, stabilisator: E450/E451, SOJA-EIWIT), TARWEBLOEM, margarine (plantaardige oliën (palm, raapzaad), water, zout, emulgator: E471, voedingszuur: citroenzuur), water, 9% currysaus (water, suiker, tomatenpuree, gemodificeerd maïszetmeel, zout, voedingszuur: E300/E260/E330, conserveermiddel: E202/E211/E262, specerijen (knoflookpoeder, paprikapoeder, peper, fenegriek, foelie, gember, chilipoeder, komijn), kleurstof: E150d/E162, verdikkingsmiddel: E412, natuurlijk aroma), SCHARRELKIPPENEI, zout.\n\nDit product kan sporen van MELK, MOSTERD, NOTEN, SELDERIJ en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1287.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "309.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.27",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.39",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.92",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.96",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "18.96",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:43:18"
+}

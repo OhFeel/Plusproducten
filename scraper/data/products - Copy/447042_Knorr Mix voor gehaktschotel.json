@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Mix voor gehaktschotel",
+  "brand": "Knorr",
+  "price": "1.95",
+  "base_unit_price": "34.21",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/447042_M/9aa75859ae3cf0132e574e99a20f78e3/447042.png",
+  "ingredients": "Ingrediënten: Groenten¹ 28,3% (tomaat 10,5%, ui 9,3%, prei, rode paprika, wortel 1,4%), aardappelzetmeel, TARWEBLOEM, aroma, gejodeerd zout, karamelstroop, gehydrolyseerde plantaardige eiwitten, citroensappoeder (maltodextrine, citroensap), maltodextrine, gistextract, GERSTEMOUTEXTRACT, maïsolie, kruiden (laurierblad, oregano, lavas¹), specerijen (kruidnagel, peper). Kan andere glutenbevattende granen, ei, melk, mosterd, selderij en soja bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "345.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "83.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.55",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:24"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Patriarche Vin de Pays Chardonnay",
+  "brand": "Patriarche",
+  "price": "4.99",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/922392_M/5cffed7ac883bf014eb6a8bee36a7306/922392.png",
+  "ingredients": "Bevat SULFIETEN",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "336.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "81.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:22"
+}

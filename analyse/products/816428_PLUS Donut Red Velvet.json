@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Donut Red Velvet",
+  "brand": "PLUS",
+  "price": "1.19",
+  "base_unit_price": "16.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/816428_M/d5814de7c5de7d16978ea75eabbdd3f3/816428.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, water, suiker, plantaardige vetten (palm, palmpit, kokos), weipoeder (MELK), plantaardige oliën (zonnebloem, raapzaad), dextrose, zetmeel (aardappel, rijst), margarine (plantaardige oliën (kokos, zonnebloem), water, emulgator: E471, voedingszuur: citroenzuur), gist, gemodificeerd maiszetmeel, lactose (MELK), emulgator: E471/E481/E472e/E322/E477/E475, SOJABLOEM, zout, rijsmiddel: E450/E500, magere MELKPOEDER, yoghurtpoeder (MELK), bietenconcentraat, wortelconcentraat, kleurstof: E172/E160a, natuurlijk aroma, voedingszuur: citroenzuur, conserveermiddel: E202, SCHARRELKIPPENEI-EIPOEDER, meelverbeteraar: E300.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1651.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "395.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.444",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "19.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:00"
+}

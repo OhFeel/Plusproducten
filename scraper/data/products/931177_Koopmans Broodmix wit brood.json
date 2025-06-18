@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Koopmans Broodmix wit brood",
+  "brand": "Koopmans",
+  "price": "1.75",
+  "base_unit_price": "3.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/931177_M/5cd8fc35341d72c7d6b6b06f132f64a1/931177.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, TARWEGLUTEN, 2,4% gedroogde gist, zout, kaliumchloride (zoutvervanger), dextrose, TARWEZUURDESEMCONCENTRAAT, enzym, meelverbetermiddel (ascorbinezuur). Kan bevatten: (EI, MELK).",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1201.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "284.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:10:40"
+}

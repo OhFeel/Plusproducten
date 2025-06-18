@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "No Fairytales Paprika-chili tortilla",
+  "brand": "No Fairytales",
+  "price": "2.99",
+  "base_unit_price": "0.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/215017_M/cf85e3eb4ba0a87e7fd58860be27f789/215017.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, groenten (45%): paprika (41%), wortel (4%), glycerol, TARWE-EIWIT, raapzaadolie, rijsmiddel (E450, E500), voedingszuren (appelzuur, ascorbinezuur), specerijen (1% chili), emulgatoren (E415, E472e), linzenbloem, conserveermiddel (E202), natuurlijk aroma, zout",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1038.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "247.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:31"
+}

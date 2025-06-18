@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nestlé Nesquick Chocoballs 2x 120g",
+  "brand": "Nestlé",
+  "price": "2.09",
+  "base_unit_price": "8.71",
+  "image_url": "",
+  "ingredients": "Ingrediënten: Gesuikerde yoghurt (92,5%): Volle MELK (75,6%), magere MELK op basis van magere MELKpoeder, suiker (5,6%), magere MELKpoeder, MELKzuurfermenten. Granenballetjes omhuld met melkchocolade (7,5%) : MELKchocolade (4,4%) [suiker, cacaoboter1, volle MELKpoeder, cacaomassa1, lactose (MELK), emuglator (SOJAlecithine), weipoeder (MELK)], Granenballetjes (2,9%) [TARWEbloem, rijstmeel, suiker, zetmeel, TARWEvezels, GERSTEmout, TARWEmout, zout, aroma], glucosestroop, verdikkingsmiddel (arabische gom), gemodificeerd zetmeel, plantaardige oliën (palm, palmpit), zuurteregelaar (citroenzuur), vanille-extract. 1 Rainforest Alliance gecertificeerd. Meer informatie op ra.org.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "535.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "127.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.17",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:36:31"
+}

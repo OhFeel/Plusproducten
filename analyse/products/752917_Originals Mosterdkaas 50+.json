@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Originals Mosterdkaas 50+",
+  "brand": "Originals",
+  "price": "4",
+  "base_unit_price": "16.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/752917_M/bbe25922629877eb91a62c1ce99ca261/752917.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde koeMELK, 3% MOSTERDpuree (0,7% MOSTERDzaad, zout, voedingszuur E330, verdikkingsmiddel: E412, E415), zout, 0,7% MOSTERDzaad, zuursel (MELK), microbieel, stremsel, aroma",
+  "allergens": "Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1617.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "386.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "33.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "23.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:37:30"
+}

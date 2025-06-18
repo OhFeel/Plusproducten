@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Beyond Meat Burger",
+  "brand": "Beyond Meat",
+  "price": "4.49",
+  "base_unit_price": "19.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/706943_M/3154da23fd442192097641a16ce8e074/706943.png",
+  "ingredients": "water, erwteneiwit* (15%), raapzaadolie, aroma, rijsteiwit, kokosolie, gedroogde gist, conserveermiddel (kaliumlactaat), azijn, stabilisatoren (methylcellulose, calciumchloride), aardappelzetmeel, zout, appelextract, kleurstof (bietenrood), geconcentreerd granaatappelsap, kaliumzout. *erwten zijn peulvruchten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "820.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "196.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.75",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:20"
+}

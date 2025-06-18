@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Villa Maria Private Bin Pinot Grigio",
+  "brand": "Villa Maria",
+  "price": "59.94",
+  "base_unit_price": "13.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/126734_M/ad758b9c5de8bb9d3ba0e8b22e61fb8d/126734.png",
+  "ingredients": "Bevat sulfieten",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "325.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:49:36"
+}

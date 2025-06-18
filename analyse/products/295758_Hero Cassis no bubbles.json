@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hero Cassis no bubbles",
+  "brand": "Hero",
+  "price": "2.85",
+  "base_unit_price": "1.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/295758_M/919b2a0242bfd6b54baf7bac7cfdebe3/295758.png",
+  "ingredients": "water, suiker, zwarte bessensap uit concentraat (3%), gefermenteerd zwarte bessensap (2%), voedingszuur (citroenzuur), zuurteregelaar (natriumcitraten), aroma, kleurend concentraat (zwarte bes, wortel), zoetstoffen (acesulfaam-k, sucralose, cyclamaten).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "102.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "24.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:01:26"
+}

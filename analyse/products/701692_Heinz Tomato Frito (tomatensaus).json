@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Heinz Tomato Frito (tomatensaus)",
+  "brand": "Heinz",
+  "price": "1.39",
+  "base_unit_price": "3.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/701692_M/fb1e730b4e5469daaacc72964f88e7da/701692.png",
+  "ingredients": "Ingrediënten: Tomaten (160g per 100g Tomato Frito), plantaardige oliën 3,4% (zonnebloem, soja in wisselende verhoudingen met extracten van gebakken ui en knoflook), suiker, gemodificeerd zetmeel, zout.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "305.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "73.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.91",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:25:12"
+}

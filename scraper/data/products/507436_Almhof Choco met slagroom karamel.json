@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof Choco met slagroom karamel",
+  "brand": "Almhof",
+  "price": "1.59",
+  "base_unit_price": "8.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/507436_M/583c597e54640765a3d55093b6094711/507436.png",
+  "ingredients": "Ingredienten:\nvolle MELK, 19,9% SLAGROOM, KARNEMELK, suiker, 3,2% witte chocolade (suiker, cacaoboter*, volle MELKPOEDER, emulgator (SOJALECITHINEN), natuurlijk aroma), gemodificeerd zetmeel, magere MELKPOEDER, 1,6% karamel (suiker, glucosestroop, water), karamelsuikerstroop, gelatine, verdikkingsmiddel (carrageen), kleurstof (carotenen), aroma, schuimmiddel (stikstof). *Rainforest Alliance Certified™. Voor meer informatie zie ra.org.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "701.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:22:02"
+}

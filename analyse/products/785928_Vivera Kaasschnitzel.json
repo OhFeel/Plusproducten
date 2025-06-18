@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Vivera Kaasschnitzel",
+  "brand": "Vivera",
+  "price": "3.19",
+  "base_unit_price": "21.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/785928_M/c13c5e540d0902687399378062d7c302/785928.png",
+  "ingredients": "Ingrediënten: 57% smeltkaas (34% KAAS (MELK, zout, zuursel, vegetarisch stremsel), water, zetmeel, BOTER, smeltzouten (natriumfosfaten, polyfosfaten, calciumfosfaten, difosfaten), natuurlijke aroma's, conserveermiddel (natriumdiacetaat)), cornflakes (mais, suiker, zout, GERSTEMOUTEXTRACT), plantaardige oliën (zonnebloem, raapzaad in wisselende verhoudingen), paneermeel (TARWEBLOEM, gist, zout, kurkuma, kleurstof (curcumine)), water, TARWEBLOEM, zetmeel (bevat TARWE). Kan sporen bevatten van ei en soja.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1281.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "307.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:43"
+}

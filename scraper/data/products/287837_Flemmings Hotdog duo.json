@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Flemmings Hotdog duo",
+  "brand": "Flemmings",
+  "price": "1.89",
+  "base_unit_price": "0.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/287837_M/7dec073e4be202da9430bd2cff1d0110/287837.png",
+  "ingredients": "Ingrediënten: 45.8% brood*: (TARWEbloem, water, suiker, plantaardig olie (raapzaadolie), bakkersgist, bakkerszout, TARWEGLUTEN, emulgator (E471), glucosesiroop, conserveermiddel (calciumpropionaat, sorbinezuur), caseïnaten (MELK), natuurlijk aroma, meelverbeteraar (ascorbinezuur) enzymen). 45.8% worst (75% kippenseparatorvlees, kippenvet, water, zout, conserveermiddel (natriumnitriet), kruiden en specerijen, dextrose, brandewijnazijn, kruidenextract, stabilisator (E450), antioxidant (ascorbinezuur), voedingszuur (citroenzuur), rook (beukenhout)). 4.8% mosterd (water, alcoholazijn, 19% MOSTERDzaad, zout, suiker, specerijen). 3.6% tomaten ketchup (tomaat (148g per 100g tomatenketchup), azijn, suiker, zout, kruiden en specerijen extract (bevat selderij), specerijen). *KAN SPOREN VAN SESAM BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1044.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "249.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:57:34"
+}

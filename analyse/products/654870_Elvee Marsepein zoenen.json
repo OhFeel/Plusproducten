@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Marsepein zoenen",
+  "brand": "Elvee",
+  "price": "4.99",
+  "base_unit_price": "33.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654870_M/22971deca20efee0eb75c6e4066426e3/654870.png",
+  "ingredients": "Ingrediënten: suiker, 13% AMANDELEN, cacaoboter, geheel gehard plantaardig vet (kokos), volle MELKPOEDER, weipoeder (MELK), stabilisatoren (sorbitolen, E466), glucosestroop, cacaomassa, natuurlijk vanille-aroma, LACTOSE, magere MELKPOEDER, emulgator (SOJALECITHINE), kleurstof (paprika-extract), plantaardig vet (kokos), invertase, zuurteregelaar (citroenzuur), aroma, zout. Gemaakt in een bedrijf waar ook gluten bevattende granen, ei en andere noten worden verwerkt.",
+  "allergens": "Soja, Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2250.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "539.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:55"
+}

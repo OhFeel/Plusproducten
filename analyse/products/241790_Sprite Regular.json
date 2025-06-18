@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Sprite Regular",
+  "brand": "Sprite",
+  "price": "2.69",
+  "base_unit_price": "1.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/241790_M/4fbb0b9da184c747ff30a1883a9f105a/241790.png",
+  "ingredients": "sprankelend water; suiker; voedingszuren: citroenzuur, wijnsteenzuur; natuurlijke citroen-limoen aroma's; zuurteregelaar: natriumcitraten; conserveermiddel: natriumbenzoaat.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "158.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "37.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:38:01"
+}

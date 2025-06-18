@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vifon Noodle beef",
+  "brand": "Vifon",
+  "price": "0.99",
+  "base_unit_price": "16.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749155_M/98a78b125f9ac8fd6419732d3d9b5ae7/749155.png",
+  "ingredients": "Ingrediënten: rijstnoedels (85,8%), rijst (90%), gemodificeerd zetmeel, suiker, zout, smaakversterker: mononatriumglutamaat; verdikkingsmiddel: guarpitmeel; smaaktoevoegingen (14,2%): zout, palmolie, smaakversterkers: mononatriumglutamaat, natriumguanylaat, dinatriuminosinaat; suiker, aroma, getextureerde TARWEGLUTEN (2,8%), rode sjalot (2,7%), bieslook (2,4%), pho-specerijen in wisselende proporties (1,8%): kaneel, kruidnagel, anijs; maltodextrine, peper (1,1%), kleurstoffen: karamel, carotenen; gedroogde koriander (0,5%), chili (0,5%), antiklontermilddel: siliciumdioxide; antioxdant: tocoferolrijk extract.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "192.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "45.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:35:59"
+}

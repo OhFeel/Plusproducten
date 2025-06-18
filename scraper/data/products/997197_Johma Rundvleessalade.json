@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Rundvleessalade",
+  "brand": "Johma",
+  "price": "2.79",
+  "base_unit_price": "5.58",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/997197_M/342454c13ad2d332664010d8f3f42176/997197.png",
+  "ingredients": "Ingrediënten: 55% gestoomde aardappel, koolzaadolie, 9% gekookt rundvlees, water, augurk, suiker, wortel, natuurazijn, ui, doperwten, peterselie, laurier, zout, aroma's (SELDERIJ, SOJA, TARWE), gemodificeerd zetmeel, specerijen (MOSTERD), gepasteuriseerd EIGEEL, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), smaakversterkers (dinatriuminosinaat, mononatriumglutamaat, natriumguanylaat), kleurstoffen (ammoniakkaramel, karamel, riboflavinen), gistextract, natuurlijk aroma, gehydrolyseerd koolzaadeiwit, uipoeder, knoflookpoeder, verdikkingsmiddelen (guarpitmeel, xanthaangom), zetmeel, LACTOSE (MELK), maltodextrine, antioxidant (citroenzuur), dextrose, voedingszuur (melkzuur). Kan noten (amandel, cashewnoot, pistachenoot, walnoot), pinda's, schaaldieren en vis bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Selderij, Mosterd, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "722.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "173.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:27:28"
+}

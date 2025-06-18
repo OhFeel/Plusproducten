@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "De Kleine Keuken Bio broodbeleg zoete aardappel 6+",
+  "brand": "De Kleine Keuken",
+  "price": "2.39",
+  "base_unit_price": "23.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/689648_M/6677c7fcb83e89c29d0bdf79b6ed9e06/689648.png",
+  "ingredients": "Ingrediënten: Zoete aardappelpuree* 41%, appelpuree* 31%, sinaasappelsap* 10%, agavesiroop*, volkoren glutenvrije HAVERmeel*, geconcentreerd citroensap*. *Van biologische oorsprong",
+  "allergens": "Haver en haverproducten (gluten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "474.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "112.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:56"
+}

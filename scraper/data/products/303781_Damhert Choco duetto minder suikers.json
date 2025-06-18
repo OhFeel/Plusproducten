@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Choco duetto minder suikers",
+  "brand": "Damhert",
+  "price": "4.99",
+  "base_unit_price": "24.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/303781_M/adfaeee67da51857ff29950ee982785c/303781.png",
+  "ingredients": "zoetstof (maltitol), plantaardige olie (koolzaad, palm*), magere  MELKpoeder, HAZELNOOT (6.5%), weipoeder (MELK), magere cacaopoeder, emulgatoren (lecithinen), aroma. KAN SPOREN BEVATTEN VAN GLUTEN (<lt/>20PPM). *Van duurzame teelt.",
+  "allergens": "Cacao, Melk, Noten, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2030.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "491.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "45.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:28"
+}

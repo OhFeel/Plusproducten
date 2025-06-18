@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Danio Duo chocolade balletjes",
+  "brand": "Danio",
+  "price": "0.99",
+  "base_unit_price": "9.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/810594_M/45d31d1cec7cc6d97b4ebd5b4dbca8f2/810594.png",
+  "ingredients": "Ingrediënten:  Yoghurt: magere MELK, room (MELK), suiker, magere MELKpoeder, MELKfermenten., Chocolade omhulde graanbolletjes 9%: suiker, rijstebloem, cacaoboter, volle MELKpoeder, cacaomassa, TARWEbloem, weipoeder (MELK), glansmiddel (Arabische gom), lactose (MELK), TARWEzemelen, emulgatoren (lecithinen (bevat SOJA)), natuurlijk vanille aroma, GERSTEMOUT, zout, rijsmiddel (calciumcarbonaat), aroma. Kan bevatten: Andere gluten bevattende granen, ei, noten en pinda.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "613.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "147.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:18"
+}

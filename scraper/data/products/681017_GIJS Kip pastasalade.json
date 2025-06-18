@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "GIJS Kip pastasalade",
+  "brand": "GIJS",
+  "price": "4.39",
+  "base_unit_price": "10.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681017_M/d5017cfdc412d0f648a0672f68049992/681017.png",
+  "ingredients": "Ingrediënten: gekookte penne (32%)(water, pasta (durum tarwegries) (GLUTEN)), groente (24%)(SELDERIJ) (selderij (SELDERIJ), zilverui, augurk, wortel, ui), plantaardige olie (raapzaad), kippenvlees (12%), water, scharrelkippenei (EI), zout, specerijen, conserveermiddel (E211, E202), lactose (MELK), kruiden, antioxidant (SULFIET) (E223 (SULFIET), E300), kippenextract, aroma, suiker, gemodificeerd zetmeel (maïs), azijn, verdikkingsmiddel (E415, E412), glucosestroop, stabilisator (E500), voedingszuur (E331, E330, E385), glucose-fructosestroop, mosterd (MOSTERD) (water, mosterdzaad (MOSTERD), azijn, specerijen), kleurstof (E160a), zetmeel (GLUTEN) (tarwe (GLUTEN)), zoetstof (E954).",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Selderij, Mosterd, Zwaveldioxide en sulfieten, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "789.05",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "189.77",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.24",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.17",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.51",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.02",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:37"
+}

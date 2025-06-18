@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Melo-Cakes chocolade cakejes",
+  "brand": "Milka",
+  "price": "2.89",
+  "base_unit_price": "14.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/974836_M/efcaa2e7243ab44b1a4aa8f9d1e1bfa7/974836.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, suiker, TARWEBLOEM (13%), cacaoboter, magere MELKPOEDER, cacaomassa, weipoeder (van MELK), palmvet, MELKVET, albumine (van EIEREN), kandijsuiker, invertsuiker, TARWEZETMEEL, gelatine, emulgatoren (SOJALECITHINE, E476), rijsmiddel (natriumwaterstofcarbonaat), melasse, zout, aroma's. KAN NOTEN BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1790.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "425.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "56.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:45"
+}

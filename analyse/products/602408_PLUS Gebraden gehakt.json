@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Gebraden gehakt",
+  "brand": "PLUS",
+  "price": "1.79",
+  "base_unit_price": "17.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/602408_M/edfbc7b07f879976099b54b1fd2d6504/602408.png",
+  "ingredients": "89% varkensvlees¹ , TARWEBLOEM, zuurteregelaar: E326, zout, 1.0% varkensvet¹,  aardappelzetmeel, MOSTERDZAAD, azijn, water, natuurlijk aroma's, gist, stabilisator: E450/ E452, glucosestroop, kruiden, specerijen, voedingszuur: E330, aroma, maltodextrine,  gehydrolyseerd koolzaadeiwit, suiker, conserveermiddel: E261/E250,  antioxidant: E301, gistextract, tomatenpoeder, rundercollageen, zonnebloemolie,  dextrose, korianderextract.   ¹=  Beter Leven keurmerk 1 ster.  E= door EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1259.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "304.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:01:33"
+}

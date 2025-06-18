@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "L'atelier Wit amandel cranberry",
+  "brand": "L'atelier",
+  "price": "3.79",
+  "base_unit_price": "25.27",
+  "image_url": "",
+  "ingredients": "Ingrediënten: suiker, cacaoboter¹, magere MELKpoeder, gekonfijte cranberries (7,9%) (cranberries, suiker), AMANDELEN (6,7%), WEIpoeder, watervrij MELKvet, emulgator (lecithinen), natuurlijk bourbon vanille aroma. Bevat mogelijk: EIEREN, GLUTEN, andere NOTEN. ¹Rainforest Alliance gecertificeerd. www.ra.org. Om een duurzamere cacaoproductie te ondersteunen, koopt Nestlé een hoeveelheid Rainforest Alliance gecertificeerde cacao in die overeenkomt met de hoeveelheid nodig voor dit product.",
+  "allergens": "Melk, Noten, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2271.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "544.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "56.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.19",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:13"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fairtrade Original Thaise massaman kruidenpasta Fairtrade",
+  "brand": "Fairtrade Original",
+  "price": "2.29",
+  "base_unit_price": "32.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/513253_M/dd310e582e63bcbbbbcf791565753641/513253.png",
+  "ingredients": "Ingrediënten: Rijstolie, laos (10,9%), citroengras (10,4%), water rijstazijn (water, zilvervliesrijst), specerijenmix (koriander, foelie, kaneel (0,7%), nootmuskaat, kruidnagel (0,6%), kardamom, komijn, witte peper), sjalot (8,6%), knoflook, rode chilipepers (7%), zout, rietsuiker, kaffir lime",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1110.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "270.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:24:04"
+}

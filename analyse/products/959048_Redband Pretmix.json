@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Pretmix",
+  "brand": "Redband",
+  "price": "2.99",
+  "base_unit_price": "8.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/959048_M/2ac84f52c79a90a91d9b8d8c32d95238/959048.png",
+  "ingredients": "glucosestroop, suiker, gemodificeerd zetmeel, zetmeel, melado, gelatine, voedingszuur (melkzuur), zoethoutwortelextract, salmiakzout, natuurlijke aroma's, plantaardige oliën (kokos, koolzaad), gekaramelliseerde suiker, concentraat van (wortel, zwarte bes, saffloer, spirulina), glansmiddel (bijenwas), kleurstoffen (paprika extract, curcumine).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1480.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "349.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "85.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:21:58"
+}

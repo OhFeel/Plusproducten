@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Gerookte kipfilet",
+  "brand": "PLUS",
+  "price": "2.87",
+  "base_unit_price": "28.72",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/429276_M/0ccb57d58d6bf523a21852fd978308de/429276.png",
+  "ingredients": "90% kippenvlees*, antioxidant: e326/e325/e301, zout, dextrose, stailisator: e407/e450, conserveermiddel: e261/e250, aroma, rook.  e= door eu goedgekeurde hulpstoffen.  *= beter leven keurmerk 1 ster.  ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "522.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "20.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:50:07"
+}

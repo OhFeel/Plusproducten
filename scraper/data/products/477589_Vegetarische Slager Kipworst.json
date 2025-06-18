@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Vegetarische Slager Kipworst",
+  "brand": "Vegetarische Slager",
+  "price": "2.69",
+  "base_unit_price": "26.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/477589_M/2288dd095a57a04fc545c0d9b0ee77e8/477589.png",
+  "ingredients": "Ingrediënten: 75% SOJASTRUCTUUR (water, TARWE-EIWIT, SOJA-EIWIT, zetmeel), zonnebloemolie, VRIJE-UITLOOPKIPPENEI-EIWIT, specerijenextract, specerijen, uipoeder, natuurlijke aroma`s, gistextract, tapiocazetmeel, verdikkingsmiddelen: verwerkt Eucheuma wier en johannesbroodpitmeel, kaliumchloride, zuurteregelaars: kaliumacetaat, kaliumlactaat en melkzuur, kleurstof: carotenen, antioxidanten: ascorbinezuur, natriumascorbaat en tocopherol, zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "737.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "176.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:08:43"
+}

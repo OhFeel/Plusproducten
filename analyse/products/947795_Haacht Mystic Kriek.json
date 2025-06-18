@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Haacht Mystic Kriek",
+  "brand": "Haacht",
+  "price": "1.69",
+  "base_unit_price": "6.76",
+  "image_url": "",
+  "ingredients": "Bevat: GERSTEmout, ruwe TARWE en TARWEmout.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "184.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "44.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "3.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:27"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Koolhydraat 40% verlaagd vloer heel",
+  "brand": "PLUS Korenlanders",
+  "price": "3.19",
+  "base_unit_price": "3.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/622977_M/6c73f36efc99e333998db149e2df6e3c/622977.png",
+  "ingredients": "Ingrediënten :Ingrediënten: water, VOLKORENTARWEMEEL, TARWEGLUTEN, TARWEVEZEL, 3,2% SESAMZAAD, 2,7% lijnzaad, gefermenteerd VOLKORENTARWEMEEL, bakkersgist, veldbonenmeel, zonnebloempitten, SOJAGRITS, vulstof: E1200, geëxtrudeerde TARWEZEMELEN, TARWEZEMELEN, bakkerszout, raapzaadolie, moutmeel (GERST, TARWE), SOJA-EIWIT, enzym (TARWE), meelverbeteraar: E300/E920 (plantaardig).   Kan sporen bevatten van: ANDERE GLUTENBEVATTENDE GRANEN, EI, MELK, NOTEN en LUPINE. \n\nDit brood bevat 40% minder koolhydraten dan een fijn volkoren tarwebrood met zaden (NEVO 2023).",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "908.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "217.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "19.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "12.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.93",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.372",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:47"
+}

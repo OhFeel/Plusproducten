@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Merkx Zult",
+  "brand": "Merkx",
+  "price": "1.99",
+  "base_unit_price": "8.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/109020_M/0fc322dc3fe7a15691102614ebe449c2/109020.png",
+  "ingredients": " Ingrediënten : Bouillon (water,varkenskopvlees-\nextract, zout), 46% varkenskopvlees,  azijn, varkensvlees, \nvarkenscollageen, varkensseparatorvlees, zout, \nkruiden en specerijen, gistextract. \nDit product kan sporen van gluten bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "615.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "148.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:21"
+}

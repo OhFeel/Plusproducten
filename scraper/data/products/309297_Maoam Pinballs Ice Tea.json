@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Maoam Pinballs Ice Tea",
+  "brand": "Maoam",
+  "price": "2.25",
+  "base_unit_price": "10.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/309297_M/f8a3d2ca9c8eb1015c856e24e285a82d/309297.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, palmvet, bevochtigingsmiddel: sorbitolstroop, voedingszuur: citroenzuur, gelatine, vruchten- en planten concentraten: wortel, saffloer, rammenas, appel, citroen, zoete aardappel, zwarte bes, aroma, zonnebloemolie, glansmiddel: bijenwas wit en geel, antiklontermiddel: talk",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1730.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "409.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:08:01"
+}

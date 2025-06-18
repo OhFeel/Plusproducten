@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Pastasaus Peperoncino",
+  "brand": "Grand'Italia",
+  "price": "3.59",
+  "base_unit_price": "13.81",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436904_M/559e8289292bb6857ae69c286b996adf/436904.png",
+  "ingredients": "Ingrediënten: Water, geconcentreerde tomaat (20%), tomatenpulp (14%), pittige worst (12%) (varkensvlees, zout, dextrose, kruiden, aroma, rookaroma), rode paprika (6%), gele paprika (6%), ui, groene paprika (4%), zonnebloemolie, knoflook, zout, chilipeper, suiker, gemodificeerd maiszetmeel, peterselie (0,5%), marjolein, zuurteregelaar: citroenzuur, zwarte peper, aroma's, rozemarijn (0,01%).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "369.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "88.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:43"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Cornets aardbei",
+  "brand": "PLUS",
+  "price": "2.89",
+  "base_unit_price": "0.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/286668_M/25d581cea0eff6d45eee61a01957a8dc/286668.png",
+  "ingredients": "Ingrediënten :Water, 19% wafel (TARWEBLOEM, suiker, kokosolie, emulgator: lecithinen, suikerrietvezel, zout, kleurstof: E150a), magere MELK, 9% aardbeiensaus (40% aardbei, suiker,  glucose-fructosestroop, water, verdikkingsmiddel: E1422/E440, kersensap, voedingszuur: E330/E331, wortelextract, natuurlijk aroma), 8% room (MELK), glucosestroop, 7% cacaofantasie (plantaardige oliën (kokos, zonnebloem, in wisselende verhoudingen), suiker, magere cacaopoeder, emulgator: lecithinen), suiker, MELKEIWITTEN, boter (MELK), 3% aardbeiensap van concentraat, emulgator: E471, stabilisator: guarpitmeel/johannesbroodpitmeel,  kleurstof: carotenen, kleurend levensmiddel: bietenroodconcentraat, voedingszuur: E330, natuurlijke aroma's.\n\n\nKan PINDA, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT en MACADAMIANOOT bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1142.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "272.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.087",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "21.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:56:36"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Powerade Mango",
+  "brand": "Powerade",
+  "price": "1.73",
+  "base_unit_price": "3.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/300360_M/b91a4d2eb80e3df4c95a77ec652d7126/300360.png",
+  "ingredients": "Ingrediënten: Water; glucose; voedingszuur: citroenzuur; natriumchloride; fructose; stabilisatoren: arabische gom, glycerolesters van houthars; kleustof: carotenen; antioxidant: ascorbinezuur: aroma's; zoetstoffen: aspartaam, acesulfam-K: Vitamine B6.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "74.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "17.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.11",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:54"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Knoppers Peanutbar 5-pack",
+  "brand": "Knoppers",
+  "price": "2.79",
+  "base_unit_price": "13.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/617740_M/3bcb20218316977438d203a531b2b0af/617740.png",
+  "ingredients": "Ingrediënten: suiker, AARDNOTEN/PINDA'S (14,5%), plantaardige vetten (palm, shea, koolzaad), glucosestroop, VOLLEMELKPOEDER (6,5%), cacaoboter, MAGEREMELKPOEDER (4,8%), TARWEMEEL (4,3%), gecondenseerde magere MELK, cacaomassa, VOLKORENTARWEMEEL (2,3%), bevochtigingsmiddel: sorbitolstroop, KARNEMELKPOEDER, MELKSUIKER, cacao, BOTERVET, ROOM, gecondenseerde WEI, BOTER, zout, WEIPOEDER, emulgator: lecithinen (SOJA), natuurlijke aroma's, rietsuikerstroop, magere cacao, TARWEZETMEEL, rijsmiddel: natiumwaterstofcarbonaat, stabilisator: carrageen, gemalen HAZELNOTEN, natuurlijk vanille-aroma. KAN OOK AMANDEL, ANDERE NOTEN EN EI BEVATTEN.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2148.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "515.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:22"
+}

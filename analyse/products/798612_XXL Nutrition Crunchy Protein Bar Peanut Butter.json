@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "XXL Nutrition Crunchy Protein Bar Peanut Butter",
+  "brand": "XXL Nutrition",
+  "price": "2.49",
+  "base_unit_price": "41.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/798612_M/2b4ceb672554d11397ae14a56b51a52e/798612.png",
+  "ingredients": "MELKEIWITCONCENTRAAT, cichoreiwortelvezel, bevochtigingsmiddel: glycerine, collageen peptiden (RUND), chocolade (*suiker, cacaoboter, volle MELKPOEDER, cacaomassa, ROOMPOEDER, emulgator: SOJALECITHINE), geroosterde PINDA'S (5%), pindapasta (5%), plantaardige olie (KOKOS), sojacrisps (SOJAEIWIT ISOLAAT, tapioca bloem, zeezout), WEI-EIWIT CONCENTRAAT (MELK), zonnebloemoliepoeder (zonnebloemolie, gemodificeerd zetmeel, glucosestroop, siliciumdioxide, natuurlijke aroma), hydroxypropylmethylcellulose, aroma, emulgator: lecithine, natuurlijke aroma, zoetstof: sucralose.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1677.5",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "400.93",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "13.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "35.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.29",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:25"
+}

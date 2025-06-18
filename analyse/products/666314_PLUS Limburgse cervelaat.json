@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Limburgse cervelaat",
+  "brand": "PLUS",
+  "price": "2.5",
+  "base_unit_price": "25.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/666314_M/5893783b21336d0dd990cec9e2651ba4/666314.png",
+  "ingredients": "varkensvlees*, varkensvet*, zout, specerijen, dextrose, kleurstof: e162, varkenshemoglobine, antioxidant: e301, kruidenextract, conserveermiddelen: e250, e252, fermenten, rook.  *= beter leven keurmerk 1 ster.  voor 100g product werd 114g varkensvlees gebruikt.  niet eetbare darm.  e= door eu goedgekeurde hulpstoffen.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1541.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "372.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:17:08"
+}

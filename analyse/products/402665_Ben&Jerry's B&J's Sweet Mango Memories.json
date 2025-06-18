@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Ben&Jerry's B&J's Sweet Mango Memories",
+  "brand": "Ben&Jerry's",
+  "price": "6.99",
+  "base_unit_price": "15.03",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/402665_M/47672b6923521d760c3338878a64ee1e/402665.png",
+  "ingredients": "Ingrediënten: ROOM (29%), water, suiker, geconcentreerde magere MELK, glucosestroop, EIGEEL, kokosolie, mangopuree (1%), volle MELKPOEDER, mango (0,5%), passievruchtensapconcentraat, geconcentreerd limoensap, stabilisatoren (gemodificeerd zetmeel, guargom, pectine, carrageen), BOTERCONCENTRAAT, geconcentreerd citroensap, emulgator (SOJALECITHINE), vanille-extract, zout, natuurlijk aroma, geconcentreerd wortelsap, geconcentreerd appelsap, pompoensapconcentraat. <gt/> Suiker, vanille: onder Fairtrade voorwaarden ingekocht volgens het mass balance principe. Totaal 58% exclusief water en zuivel(F). Past in een vegetarisch dieet. (F)info.fairtrade.net/sourcing",
+  "allergens": "Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1071.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "255.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.14",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:40:10"
+}

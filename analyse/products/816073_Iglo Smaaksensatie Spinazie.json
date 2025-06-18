@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Iglo Smaaksensatie Spinazie",
+  "brand": "Iglo",
+  "price": "5.29",
+  "base_unit_price": "17.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/816073_M/c3d1062581adc09513aca50b47dfda34/816073.png",
+  "ingredients": "Ingrediënten: Pangasius 50% (VIS), spinazie 14%, paneermeel 13% (TARWEbloem, water, gist, zout, kurkuma, paprikapoeder), koolzaadolie, TARWEbloem, rijstzetmeel, water, zout, magere MELKpoeder, EIwitpoeder, rijstgriesmeel, roompoeder (MELK), EIpoeder, suiker, weipoeder (MELK), witte peper, nootmuskaat.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Vis, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "947.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "227.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "1.3",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.44",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:46"
+}

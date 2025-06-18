@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Asperge saus",
+  "brand": "Knorr",
+  "price": "2.79",
+  "base_unit_price": "9.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/399783_M/3f624ce2c1ee4cfa3307f5de69fa7589/399783.png",
+  "ingredients": "Ingrediënten: Plantaardige oliën (palm, raapzaad), water, EIGEEL 5,3%, magere MELKPOEDER 2%, zout, suiker, zuurteregelaar E270, zuurteregelaar E270, verdikkingsmiddel (E415, E412, E410), aroma (bevat SELDERIJ, MELK), Kan soja, mosterd bevatten.",
+  "allergens": "Ei, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1970.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "471.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.83",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:39:26"
+}

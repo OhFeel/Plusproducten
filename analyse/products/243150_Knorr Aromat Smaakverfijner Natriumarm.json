@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Aromat Smaakverfijner Natriumarm",
+  "brand": "Knorr",
+  "price": "2.59",
+  "base_unit_price": "32.38",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/243150_M/588fe0ea938b15d5ea4c37aa2f94a6a3/243150.png",
+  "ingredients": "Ingrediënten: Maltodextrine, smaakversterkers (E623, E622), mineraalzout (kalium), poeder van inactieve gist, uienpoeder, zonnebloemolie, palmvet, voedingszuren (E330, E334), zuurteregelaar E336ii, knoflookpoeder, uienextract, kurkuma, boleetextracten, aroma, kruiden (rozemarijn, tijm), specerijextracten (SELDERIJZAAD, kruidnagel), laurierblad. Kan TARWE, ROGGE, GERST, HAVER, EI, SOJA, MELK, MOSTERD bevatten.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1257.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "299.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:39:12"
+}

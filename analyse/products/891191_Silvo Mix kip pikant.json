@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Mix kip pikant",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "59.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/891191_M/03d8f9dc0ba72ec5374c55c394b195e1/891191.png",
+  "ingredients": "specerijen 36.3% (paprika, korianderzaad, knoflookpoeder, gedroogde ui, gember, komijn, chilipeper, kurkuma, nootmuskaat), zout 26.2%, dextrose, smaakversterker: mononatriumglutamaat, kruiden 3.3% (rozemarijn, oregano, basilicum), natuurlijk aroma, kleurstof: paprika-extract, antiklontermiddel: siliciumdioxide. totale gehalte aan kruiden en specerijen: 39.6%",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1130.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "270.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "30.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:41"
+}

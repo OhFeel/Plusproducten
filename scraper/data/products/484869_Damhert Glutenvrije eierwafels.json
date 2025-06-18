@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Glutenvrije eierwafels",
+  "brand": "Damhert",
+  "price": "3.39",
+  "base_unit_price": "33.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/484869_M/32ae7a67c3497d8184488fbe15eb1a33/484869.png",
+  "ingredients": "gepasturiseerd EI, glutenvrije TARWEzetmeel, suiker, plantaardig margarine (plantaardig vet (koolzaadolie), water, plantaardig vet (palmolie*), emulgatoren (mono-en diglyceriden van vetzuren) zuurteregelaars) LUPINEmeel, verdikkingsmiddel (guarpitmeel), magere MELKpoeder, WEIpoeder (melk), dextrose, natuurlijk vanille aroma, zout, gefermenteerd maiszetmeel, conserveringsmiddel (calciumpropionaat), emulgator (zonnebloemlecithine). Kan sporen bevatten van SOJA, NOTEN en SESAM.",
+  "allergens": "Lupine, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1982.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "475.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "27.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "28.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:12:43"
+}

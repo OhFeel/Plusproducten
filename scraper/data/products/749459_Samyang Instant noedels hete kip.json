@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Samyang Instant noedels hete kip",
+  "brand": "Samyang",
+  "price": "1.79",
+  "base_unit_price": "12.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/749459_M/2dc7e48b2809eaffb97c7adca80f0412/749459.png",
+  "ingredients": "Ingrediënten: Noedels 76,7%: TARWE-meel, gemodificeerd tapiocazetmeel, palmolie, TARWEGLUTEN, zout, emulgator: SOJA-lecithine, zuurteregelaars: E501, E500, E339, E330, verdikkingsmiddel: E412, groene-thee-aroma., Vloeibare smaakverfijner 22,7%: kiparomapoeder (kiparoma, uienpoeder, zout, suiker, zuurteregelaar: E330, palmolie, SOJA-saus (gebrouwen SOJA-saus [SOJABONEN, water, zout, TARWE], water, zout, maisstroop, knoflookconcentraat, dextrine, suiker,), suiker, habanero-chilipoeder, SOJAolie, gemalen zwarte peper, currypoeder (komijnpoeder, zout, rode chilipeper, klaverpoeder, nootmuskaatpoeder, rozemarijnpoeder, paprika oleoresine, laurierbladpoeder, knoflookpoeder, uienpoeder, curry-aroma, rozemarijnolie, gember oleoresine)., Vlokken 0,6%: geroosterd SESAMZAAD, geroosterd zeewier. Gemaakt in een bedrijf waar ook schaaldieren, ei, vis, melk, pinda's, noten, selderij, mosterd & weekdieren worden verwerkt Allergens: for allergens please see ingredients in bold.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1472.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "352.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:36:10"
+}

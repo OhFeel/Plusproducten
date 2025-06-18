@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Saitaku Miso sesame ramen 4x 50 gram",
+  "brand": "Saitaku",
+  "price": "4.09",
+  "base_unit_price": "20.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/592240_M/daaab50f46ab81ba4045158d364a94b3/592240.png",
+  "ingredients": "Ingrediënten: Water, miso 22% (water, SOJA, zout), SESAM, zout, suiker, SOJAbonenpasta (water, SOJA, zout, gistextract), SOJAsaus (water, SOJA, TARWE, zout), verdikkingsmiddel: E1442, gistextract, knoflook.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "437.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "104.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:55:02"
+}

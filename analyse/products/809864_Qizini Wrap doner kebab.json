@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Qizini Wrap doner kebab",
+  "brand": "Qizini",
+  "price": "2.79",
+  "base_unit_price": "14.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/809864_M/66c92588120de94cd2e2633c1c4eeef5/809864.png",
+  "ingredients": "Ingrediënten: 45% wrap (TARWEBLOEM, water, raapzaadolie, suiker, emulgator: mono- en diglyceriden van vetzuren, rijsmiddel: natriumcarbonaten/difosfaten, zout, voedingszuur: appelzuur), 21% gegaard en in kebab stijl gekruid kippendijvlees (89% kippendijvlees, water, maiszetmeel, brandewijnazijn, specerijen, dextrose, zout, witte wijnazijn, antioxidant: ascorbinezuur), 14% ingelegde rode kool (rode kool, brandewijnazijn), 12% sla dressing (raapzaadolie, water, brandewijnazijn, EIGEEL*, maïszetmeel, suiker, mosterd [water, MOSTERDZAAD, brandewijnazijn, zout, suiker, specerijen {chili, piment, curcuma, kruidnagel}], zout, verdikkingsmiddel: guargom, witte peper, specerijen [kurkuma, paprika]), 3% tomaat kruidenspread (water, raapzaadolie, 14,7% tomatenpuree, suiker, brandewijnazijn, EIGEEL*, specerijen [peper, knoflook, paprika, ui], maiszetmeel, zout, gemodificeerd maiszetmeel, 1,3% basilicum, 0,9% oregano, verdikkingsmiddel: xanthaangom), 3% water, natuurazijn, gemodificeerd aardappelzetmeel, 0.1% knoflookpoeder, zout, conserveermiddel: kaliumsorbaat/natriumbenzoaat. *scharreleieren",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1018.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "286.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:03"
+}

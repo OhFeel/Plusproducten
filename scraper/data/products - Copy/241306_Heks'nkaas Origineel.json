@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Heks'nkaas Origineel",
+  "brand": "Heks'nkaas",
+  "price": "2.95",
+  "base_unit_price": "19.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/241306_M/8394d3cccfc3a7fbfb5ae55665914148/241306.png",
+  "ingredients": "Ingrediënten: koolzaadolie, water, 16% roomkaas (MELK), 10% verse prei, suiker, 3% verse peterselie, 2% room (MELK), natuurazijn, citroensap, gepasteuriseerd EIGEEL*, 1% knoflook, gemodificeerd zetmeel, zout, verdikkingsmiddelen (guarpitmeel, johannesbroodpitmeel, xanthaangom), zetmeel, conserveermiddel (kaliumsorbaat),\nEI-EIWITPOEDER*, specerijen (MOSTERD), voedingszuur (citroenzuur), zoetstoffen (sacharinen, sucralose), stabilisator (carrageen). *van scharreleieren. Kan sporen bevatten van selderij.",
+  "allergens": "Ei, Melk, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1658.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "402.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "39.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:37:26"
+}

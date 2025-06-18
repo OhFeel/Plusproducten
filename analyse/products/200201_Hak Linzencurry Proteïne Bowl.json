@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hak Linzencurry Proteïne Bowl",
+  "brand": "Hak",
+  "price": "3.99",
+  "base_unit_price": "7.19",
+  "image_url": "",
+  "ingredients": "Ingrediënten: Groenten 46% (wortel 14%, tomaat, tomatenpuree, sperzieboon 8%, ui), water, linzen 12%, LUPINEgrutten 8%, erwtencouscous (erwtenmeel) 6%, kokosmelk (kokosnootextract, water), LUPINE-eiwitconcentraat, tuinboneneiwitisolaat, zeezout, knoflook, rode chilipeper, korianderzaad, komijnzaad, gember, citroensapconcentraat, witte peper, korianderblad, kaneel, cayennepeper, lavaswortel, natuurazijn, citrusvezel, kurkuma. Kan GLUTEN bevatten.",
+  "allergens": "Lupine",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "319.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:37"
+}

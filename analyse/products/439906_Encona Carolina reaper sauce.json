@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Encona Carolina reaper sauce",
+  "brand": "Encona",
+  "price": "2.29",
+  "base_unit_price": "15.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/439906_M/54f994d6c161259ffa68310b7834cae5/439906.png",
+  "ingredients": "water, tomatenpasta, suiker, alcoholazijn, puree van carolina reaper (5%) (puree van rode chilipepers, zout, carolina reaper chilipepers (8%)), sinaasappelsapconcentraat, zout, gemodificeerd zetmeel (e1422), voedingszuur (azijnzuur), bird's eye pepers, komijn, knoflook, conserveermiddel (kaliumsorbaat).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "315.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:55:17"
+}

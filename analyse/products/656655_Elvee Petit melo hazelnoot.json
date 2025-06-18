@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Petit melo hazelnoot",
+  "brand": "Elvee",
+  "price": "3.49",
+  "base_unit_price": "34.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/656655_M/046c5814067e21d144223867455ddcbc/656655.png",
+  "ingredients": "Ingrediënten: suiker, invertsuikerstroop, cacaoboter, volle MELKPOEDER, cacaomassa, plantaardige oliën (palm, raapzaad, palmpit, zonnebloem), water, TARWEBLOEM, 1% HAZELNOOTPASTA, gelatine (rund), magere MELKPOEDER, kandijsuikerstroop, emulgator (SOJALECITHINE), mager cacaopoeder, natuurlijk vanille-aroma, gecondenseerde BOTER, rijsmiddel (E500), LACTOSE, zout, kaneel, GERSTEMOUT. Gemaakt in een bedrijf waar ook andere noten, ei en pinda’s worden verwerkt.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1854.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "443.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:19"
+}

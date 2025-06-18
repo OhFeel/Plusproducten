@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Pepper Cola",
+  "brand": "Dr. Pepper",
+  "price": "0.99",
+  "base_unit_price": "3.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/710007_M/1be6163e1879f8afb7be16b76462c554/710007.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, suiker, kleurstof: karamel (E150d), voedingszuur: fosforzuur, aroma's, conserveermiddel: kaliumsorbaat, aroma: cafeïne, zoetstoffen: acesulfaam-K en sucralose.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "118.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:34"
+}

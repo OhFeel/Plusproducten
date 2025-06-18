@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Unox Hot dogs",
+  "brand": "Unox",
+  "price": "5.19",
+  "base_unit_price": "9.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946643_M/d03a14b6cd5c3d63d358a759f1e757f8/946643.png",
+  "ingredients": "Ingrediënten: Worst: Varkensvlees¹ 78%, water, aardappelzetmeel, zout, specerijen (paprikapoeder, peper, korianderzaad), rundercollageen, stabilisator (E451, E452), natuurlijk nootmuskaataroma, antioxidant (E301, E392), aroma, rookaroma, conserveermiddel E250. Opgiet: Water, zout. ¹ Beter Leven Keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "745.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "178.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:39"
+}

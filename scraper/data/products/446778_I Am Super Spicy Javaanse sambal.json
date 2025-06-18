@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "I Am Super Spicy Javaanse sambal",
+  "brand": "I Am Super Spicy",
+  "price": "3.69",
+  "base_unit_price": "11.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/446778_M/d0bf2443fe2b98988e71521675acf073/446778.png",
+  "ingredients": "Ingrediënten: water, gebakken ui (25%) (ui, zonnebloemolie), suiker, tomatenpuree, galangal, sojasaus (5%) (water, sojabonen (SOJA), TARWE, zout), rode habanero-chilipeper (3,5%), gemodificeerd maïszetmeel, knoflookpuree, koolzaadolie, zuurteregelaars: azijnzuur, citroenzuur; gemberpuree, melasse (0,5%), zout, laurierblad, uienpoeder. Wordt mogelijk geproduceerd op een locatie waar noten, pinda's en sesam worden verwerkt. Gemaakt met sojabonen en pepers van buiten de eu.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "622.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "149.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:57:57"
+}

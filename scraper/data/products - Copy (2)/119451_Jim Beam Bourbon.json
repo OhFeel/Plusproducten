@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Jim Beam Bourbon",
+  "brand": "Jim Beam",
+  "price": "21.99",
+  "base_unit_price": "31.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119451_M/f9c5871db58098b9dfa8ab1cc2876a35/119451.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "925.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "221.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:26"
+}

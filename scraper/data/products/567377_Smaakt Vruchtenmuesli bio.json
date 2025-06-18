@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smaakt Vruchtenmuesli bio",
+  "brand": "Smaakt",
+  "price": "4.39",
+  "base_unit_price": "5.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/567377_M/a484860440b1771f76d474e05ab772ca/567377.png",
+  "ingredients": "Ingrediënten: Graanvlokken* 76% (HAVER*, GERST*, ROGGE*, TARWE*), gedroogde vruchten* (rozijnen* 7% [rozijnen*, zonnebloemolie*], abrikozenstukjes* 5% [abrikozen*, rijstebloem*], dadelstukjes* 5% [dadels*, rijstebloem*], krenten* 4% [krenten*, zonnebloemolie*]), zonnebloempitten*, kasha* (geroosterde boekweit*), *=biologisch\nKan sporen bevatten van andere glutenbevattende granen, pinda's, soja, noten, sesamzaad.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Haver en haverproducten (gluten, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1515.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "359.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.45",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:27"
+}

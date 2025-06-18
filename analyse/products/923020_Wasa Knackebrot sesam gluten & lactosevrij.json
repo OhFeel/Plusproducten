@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wasa Knackebrot sesam gluten & lactosevrij",
+  "brand": "Wasa",
+  "price": "4.49",
+  "base_unit_price": "18.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/923020_M/c4cf35c91159cdb7a0e479942a79a81e/923020.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel,\n\nSESAMZAAD (9,2%), amaranthmeel,\n\nkoolzaadolie, rijstebloem, suikerrietvezel,\n\nsuiker, rijstzuurdesempoeder (rijstmeel,\n\nwater), emulgator (mono- en diglyceriden van\n\nvetzuren), gist, verdikkingsmiddel\n\n(hydroxypropylmethylcellulose), rijst proteïne,\n\nzout, zeezout (0,4%). Kan sporen van MELK bevatten.",
+  "allergens": "Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1703.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "405.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:35"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Banketbakkers bonbons",
+  "brand": "Elvee",
+  "price": "4.39",
+  "base_unit_price": "26.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/393343_M/ba2c341d6321aea0be4cb985d1b8dcc9/393343.png",
+  "ingredients": "Ingrediënten: suiker, volle MELKpoeder, cacaoboter, cacaomassa, geheel geharde plantaardige oliën (kopra, palm, koolzaad), gekarameliseerde suiker, water, fondantsuiker, room (MELK), invertsuiker, gecondenseerde MELK, HAZELNOTEN, boterconcentraat (MELK), emulgatoren (SOJAlecithine, E471), alcohol, geheel geharde plantaardige vetten (palm, palmpit, raapzaad), natuurlijke aroma’s (koffie, vanille, citroen), plantaardige vetten (kokos, palmpit, palm, zonnebloem, koolzaad, shea), weipoeder (MELK), zeezout, kaneel, TARWEbloem, zuurteregelaar (citroenzuur), kandijsuiker, speculaaskruiden, plantaardige oliën (palm, koolzaad, kokos), rietsuiker, SOJAmeel, inversuikerstroop, rijsmiddel (E500), kleurstoffen (E100, E161b), muskaat. Gemaakt in een bedrijf waar ook andere noten, sesamzaad en ei worden verwerkt. Melkchocolade: ten minste 35% cacaobestanddelen. Pure chocolade: ten minste 60% cacaobestanddelen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2329.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "560.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "29.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "22.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "46.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "44.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:37:20"
+}

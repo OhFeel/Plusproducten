@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS varkenssaté",
+  "brand": "PLUS",
+  "price": "1.49",
+  "base_unit_price": "9.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/200303_M/fca8e1ff61153658e72b52ce84af1e40/200303.png",
+  "ingredients": "Ingrediënten :65% PINDASAUS (water, 14% PINDA, suiker, gehydrolyseerd SOJA-EIWIT, gemodificeerd maiszetmeel, tomatenpuree, melasse, zout, SOJASAUS (water, SOJABONEN, TARWE, zout), azijn, natuurlijke aroma's, conserveermiddel: E202, gebrande suiker, gistextract, zoethoutextract, invertsuikerstroop, salmiak, specerijen), 35% gegaard satéblokje (86% varkensvlees*, water, SOJA-EIWIT, aardappelzetmeel, zuurteregelaar: E451, specerijen, zout, ui, gehydrolyseerd raapzaadeiwit, suiker,  knoflook, plantaardige oliën (zonnebloem, palm, raap, in wisselende verhoudingen)).\n\n* = Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "701.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "167.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.725",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.506",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.525",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.705",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.055",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "10.573",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.482",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.001",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.895",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.432",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.573",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.035",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:44"
+}

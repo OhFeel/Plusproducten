@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Chupa Chups Marguerita",
+  "brand": "Chupa Chups",
+  "price": "4.99",
+  "base_unit_price": "16.74",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/817055_M/c6aa4a3b0dd1e390e591dd1efad2db2a/817055.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, vruchtenpuree (appel, kers, framboos, ananas, limoen, citroen, aardbei, perzik, banaan, sinaasappel, bosbes, braam, mango, watermeloen, kiwi), WEIPERMEAAT*, voedingszuren (melkzuur, citroenzuur, appelzuur), gombasis, volle MELKPOEDER*, aroma's, concentraten (rode biet, saffloer, citroen, radijs, appel, zoete aardappel, kers, spirulina), kleurstof (bietenrood), karamelsuikersiroop, cacaoboter, extract van paprika-olie. * Voor lolly met aardbei-roomsmaak. ",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1524.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "359.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "89.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:51:08"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Duca Oven mini Loempia's 20ST",
+  "brand": "Duca",
+  "price": "3.29",
+  "base_unit_price": "8.23",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/226267_M/fb1fc5566217aaa7960641b97988b20e/226267.png",
+  "ingredients": "Ingrediënten: Witte kool, TARWEBLOEM, water, wortel, SELDERIJ, prei, glasnoedels (mungbonenzetmeel, aardappelzetmeel, maiszetmeel, water), plantaardige olie (palm), zout, suiker, gistextract, rijsmiddelen: E450, E500, peper, kurkuma",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "201.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:29:19"
+}

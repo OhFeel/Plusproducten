@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Topking Vlammetjes",
+  "brand": "Topking",
+  "price": "4.99",
+  "base_unit_price": "0.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/470598_M/69aeccc08f4ee7594919966415596894/470598.png",
+  "ingredients": "Ingrediënten: 48% varkensvlees, TARWEbloem, water, 3% Spaanse peper, suiker, wortel, zout, paneermeel [bevat TARWE], plantaardige vezel, specerijen, emulgator (E464), antioxidant (E301), gistextract, kleurstof (paprika-extract), voedingszuur (citroenzuur), plantaardige oliën (zonnebloem, raapzaad, in wisselende verhouding), rijsmiddel (E500), azijn, zetmeel, gemodificeerd zetmeel, verdikkingsmiddel (xanthaangom)",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "981.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "234.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:34"
+}

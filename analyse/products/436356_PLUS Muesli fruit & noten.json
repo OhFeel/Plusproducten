@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Muesli fruit & noten",
+  "brand": "PLUS",
+  "price": "2.23",
+  "base_unit_price": "4.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/436356_M/ca0c18a90014ca70f7b1fe82b15329af/436356.png",
+  "ingredients": "Ingrediënten :Volkoren HAVERVLOKKEN, volkoren TARWEVLOKKEN, 21% gedroogde rozijnen (rozijnen, plantaardige oliën (zonnebloem, katoenzaad), 4% gedroogde abrikoos (abrikoos, rijstebloem, antioxidant: E220 (SULFIET)),  4% gedroogde dadels (dadels, rijstemeel), 3% AMANDELEN,  3% CASHEWNOTEN, 3% HAZELNOTEN*, 2% getoaste kokosnootchips.   \n*Rainforest Alliance Gecertificeerd. Lees meer op www.ra.org.\n\nDit product kan sporen van andere GLUTENBEVATTENDE GRANEN, andere NOTEN, MELK en SOJA bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Noten, Zwaveldioxide en sulfieten, amandelen, cashewnoten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1564.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "372.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "35.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.008",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:53:28"
+}

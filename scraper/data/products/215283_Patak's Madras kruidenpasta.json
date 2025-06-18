@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Patak's Madras kruidenpasta",
+  "brand": "Patak's",
+  "price": "3.29",
+  "base_unit_price": "19.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/215283_M/ded4c91e029aecc334dd4f26bc9a882f/215283.png",
+  "ingredients": "Ingrediënten: water, gemalen specerijen (23%) [koriander (7%), paprika (4%), kurkuma (2%), komijn (2%), specerijen, fenegriek, zwarte peper, chilipeper (1%), venkel], koolzaadolie, zout, maïsmeel, voedingszuren (azijnzuur, citroenzuur), tamarinde, MOSTERDPOEDER, gemalen gedroogde chilipeper (0,5%), knoflookpoeder, zwart MOSTERDZAAD. Allergeneninformatie: voor allergenen zie VETGEDRUKTE ingrediënten. Kan mosterd, aardnoten (pinda's) en noten bevatten. Glutenvrij.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1154.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "279.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:23:50"
+}

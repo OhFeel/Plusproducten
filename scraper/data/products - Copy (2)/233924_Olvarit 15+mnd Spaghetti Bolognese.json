@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Olvarit 15+mnd Spaghetti Bolognese",
+  "brand": "Olvarit",
+  "price": "1.75",
+  "base_unit_price": "7.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/233924_M/e212e0c015e2993457ffaa72a8fbdb11/233924.png",
+  "ingredients": "Ingrediënten : 33,28% tomatenpuree, 24,8% pasta** (TARWE, EI), 13% wortel, 9% rundvlees, 8% doperwten, 3,5% ui, 3,5% maïszetmeel, water, koolzaadolie, oregano, zwarte peper. Kan sporen bevatten van mosterd. **Pastavorm kan variëren per maaltijd",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "341.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "81.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.025",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:31:22"
+}

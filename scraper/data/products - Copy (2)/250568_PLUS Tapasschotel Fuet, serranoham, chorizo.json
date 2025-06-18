@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Tapasschotel Fuet, serranoham, chorizo",
+  "brand": "PLUS",
+  "price": "3.49",
+  "base_unit_price": "26.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/250568_M/4ff1b1e678163299a7b3c4f59db377ca/250568.png",
+  "ingredients": "Ingrediënten :38% Chorizo (varkensvlees, zout, gedroogde paprika, specerijen, gedroogde knoflook), 31% fuet (varkensvlees, magere MELKPOEDER, zout, lactose (MELK), zuurteregelaar: E331, dextrose, aroma, specerijen, antioxidant: E301, conserveermiddel: E252/E250, kleurstof: E120), 31% serranoham (varkensvlees, zout, conserveermiddel: E250/E252, antioxidant: E301).\n\nVoor 100 gram chorizo is 166 gram varkensvlees gebruikt.\nVoor 100 gram fuet is 141 gram varkensvlees gebruikt.\nVoor 100 gram serranoham is 145 gram varkensvlees gebruikt.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1361.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "328.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "1.64",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:42:54"
+}

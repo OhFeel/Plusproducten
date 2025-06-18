@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Chocolade met rijstdrink",
+  "brand": "BioToday",
+  "price": "2.89",
+  "base_unit_price": "28.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/425998_M/f647ccbf9e313e70819aba89871dae51/425998.png",
+  "ingredients": "kokosbloesemsuiker*, cacaoboter*, rijstdrankpoeder* 18% (gedroogde rijststroop, rijstzetmeel, rijstmeel)*, 9% cacaomassa*, *=biologisch\nkan sporen bevatten van",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2272.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "545.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:48:23"
+}

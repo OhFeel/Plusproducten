@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Fijne cervelaat",
+  "brand": "Stegeman",
+  "price": "3.99",
+  "base_unit_price": "17.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/187043_M/05560283caae48231d9cdc6134bc3635/187043.png",
+  "ingredients": "varkensvlees*, varkenscollageen*, varkensspek*, zout, dextrose, zeezout (zout, dieetzout (kaliumchloride)), glucosestroop, uipoeder, knoflook, specerijen, varkenseiwit, geconcentreerd rode bietensap, antioxidant (e301), conserveermiddelen (e235, e250), rook. \n*beter leven keurmerk 1ster.\n100 g product bereid uit 100 g vlees.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2011.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "486.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:13:29"
+}

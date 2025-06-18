@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kucharek Przyprawa do potraw/kokskruiden",
+  "brand": "Kucharek",
+  "price": "1.49",
+  "base_unit_price": "7.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/432783_M/49cee20f9ff2d80213c6e6afc3bf88a1/432783.png",
+  "ingredients": "Ingrediënten: zout, gedroogde groenten (15,5%): wortel, pastinaak, aardappel, ui, peterseliebladeren, KNOLSELDERIJ, prei, kool, peterseliewortel, tomaat, knoflook, zoete paprika; smaakversterkers: mononatriumglutamaat, dinatrium-5'-ribonucleotiden; suiker, zetmeel, zwarte peper, kleur: riboflavine. Het product kan bevatten: EIEREN, MELK (inclusief LACTOSE), SOJABONEN, MOSTERDZAAD, PINDA'S en SESAMZAAD.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "608.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "144.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "58.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:51:36"
+}

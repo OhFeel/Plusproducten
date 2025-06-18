@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lochtman Kip ragout",
+  "brand": "Lochtman",
+  "price": "4.89",
+  "base_unit_price": "9.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/540160_M/bccc5a5251d968a5f777d99c99a25cbe/540160.png",
+  "ingredients": "Ingrediënten: water, kippenvlees gegaard 31%, champignon, TARWEbloem, zout, gemodificeerde zetmelen: E1404, E1412, E1422 (MAïS), volle MELKpoeder, gehard palmvet, smaakversterker: E621, ui, aroma (EI, MELK, SOJA, TARWE), glucosestroop (MAïS), plantaardig eiwit (SOJA), MELKsuiker, kippenvet, kruiden en specerijen (SELDERIJ), verdikkingsmiddel: E412, kipheelEIpoeder, glucosesiroop, nootmuskaat, peper, dextrose, lactose (MELK), gehydroliseerd plantaardig eiwit (SOJA).\nE-nummers zijn door de EU goedgekeurde hulpstoffen.\n",
+  "allergens": "Tarwe, Maïs, Glutenbevattende granen, Ei, Soja, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "458.6",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "109.5",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:31:51"
+}

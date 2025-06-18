@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Chamallows Ruitspek",
+  "brand": "Haribo",
+  "price": "2.19",
+  "base_unit_price": "8.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/212790_M/72aec100d43823ea792e210604a5ca22/212790.png",
+  "ingredients": "Ingrediënten: Glucosestroop, suiker, water, bevochtigingsmiddel: sorbitolstroop, gelatine, dextrose, aroma, kleurstoffen: karmijn, curcumine.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1414.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "68.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:22:38"
+}

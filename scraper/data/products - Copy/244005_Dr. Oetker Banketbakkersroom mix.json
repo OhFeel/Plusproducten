@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Banketbakkersroom mix",
+  "brand": "Dr. Oetker",
+  "price": "2.09",
+  "base_unit_price": "13.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/244005_M/05de5d82e3558697cf3755454225410b/244005.png",
+  "ingredients": "Ingrediënten: suiker, gedroogde glucosestroop, dextrose, gemodificeerd maïszetmeel, voedingszuren (E 450i, E 339ii), verdikkingsmiddel (carrageen), natuurlijk  aroma, zuurteregelaar (E 516), kleurstof (bèta-caroteen), vanille-aroma, aroma. Kan bevatten: (GLUTEN, EI, MELK).",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "512.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "121.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:39:34"
+}

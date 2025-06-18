@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Smirnoff Red no.21",
+  "brand": "Smirnoff",
+  "price": "30.99",
+  "base_unit_price": "20.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/210045_M/3586e418ef955b33ed1f4bed980874c9/210045.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "862.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "208.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "37.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:21:33"
+}

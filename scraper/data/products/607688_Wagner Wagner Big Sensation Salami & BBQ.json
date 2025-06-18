@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Wagner Wagner Big Sensation Salami & BBQ",
+  "brand": "Wagner",
+  "price": "4.99",
+  "base_unit_price": "11.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/607688_M/edb68266e4acc2cc8441c78188096e14/607688.png",
+  "ingredients": "tarwebloem, barbecuesaus (22%) (tomatenpuree, water, suiker, witte balsamicoazijn [witte wijnazijn, druivenmost], zetmeel, zout, kruiden en specerijen,\ngerookt paprikapoeder, gerookt zout, karamelpoeder), water, mozzarella (melk) (11%), gerookte salami (7%) (varkensvlees, zout, conserveermiddel: natriumnitriet, dextrose,\nmaltodextrine, specerijen [bevat: mosterd], antioxidanten: natriumascorbaat, extract van rozemarijn; specerijenextracten), uien (5%), koolzaadolie, gist, zout, suiker,\ntarwegluten, specerijen, gedroogd zuurdesem (tarwe), voorverstijfselde tarwezetmeel, voorverstijfselde tarwebloem, dextrose, zetmeel, gerookt paprikapoeder,\ndextrose, geconcentreerd citroensap, specerijenextracten.\nkan ei, vis, lupine, selderij, mosterd en soja bevatten.",
+  "allergens": "Lupine, Tarwe, Vis, Melk, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "981.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "234.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:44"
+}

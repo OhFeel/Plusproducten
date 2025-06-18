@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Cornets",
+  "brand": "PLUS",
+  "price": "2.69",
+  "base_unit_price": "0.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/286672_M/bccc8e6d36f6e3669344c307322d4539/286672.png",
+  "ingredients": "Ingrediënten :Water, 19% wafel (TARWEBLOEM, suiker, kokosolie, emulgator: lecithinen, suikerrietvezel, zout, kleurstof: E150a), 17% room (MELK), magere MELK, 10% cacaofantasie  (plantaardige oliën (kokos, zonnebloem, in wisselende verhoudingen), suiker, magere cacaopoeder, emulgator: lecithinen), glucosestroop, suiker, MELKEIWITTEN, 3% gesuikerde HAZELNOTEN (suiker, HAZELNOTEN), emulgator: E471, stabilisator: guarpitmeel/johannesbroodpitmeel, natuurlijk vanillearoma, kleurstof: carotenen.\n\nKan AMANDEL, WALNOOT, PECANNOOT, MACADAMIANOOT en PINDA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Noten, Lactose, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1252.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "298.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "41.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "21.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:56:37"
+}

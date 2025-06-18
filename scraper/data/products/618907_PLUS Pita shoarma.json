@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Pita shoarma",
+  "brand": "PLUS",
+  "price": "1.59",
+  "base_unit_price": "11.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/618907_M/e27ebf73723dfb853ad6a7961ee7e618/618907.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 24% shoarmareepjes (98% varkensvlees*, specerijen (koriander, komijn, gember, zwarte peper, foelie, venkelzaad, kruidnagel, kurkuma, piment, paprikapoeder, rode peper, fenegriek, knoflookpoeder), zout, aroma (SOJA, SELDERIJ), plantaardige oliën (raapzaadolie, zonnebloemolie), stabilisator: E450/E451, dextrose, kleurstof: E150c), water, 12% varkensvleesblokjes (54% varkensvlees*, 42% varkensseparatorvlees*, paneermeel (TARWEBLOEM, TARWEZEMELEN, gist, zout), TARWEZETMEEL, zout, stabilisator: E450/E451, zwarte peper), margarine (plantaardige oliën (palm, raapzaad), water, zout, emulgator: E471/E322, voedingszuur: citroenzuur, vitamine A, vitamine D3), suiker, zout, kruiden (peterselie, fenegriek), specerijen (koriander, komijn, kurkuma, gember, nootmuskaat, foelie, chilipeper, witte peper, SELDERIJZAAD, kruidnagel, venkelzaad, paprikapoeder, knoflookpoeder, uienpoeder), aroma (SOJA), natuurlijk aroma, kleurstof: E150a/E150c, smaakversterker: E620, gemodificeerd aardappelzetmeel, rundvleesextract, wortelpoeder, KNOLSELDERIJPOEDER, conserveermiddel: E262/E325, gist, gemodificeerd maïszetmeel.  \n\n* = Beter Leven keurmerk 1 ster\n\nKan ROGGE, GERST, HAVER, SPELTTARWE, KHORASANTARWE en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1014.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "241.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.86",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "26.85",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.15",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.72",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.25",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:05:36"
+}

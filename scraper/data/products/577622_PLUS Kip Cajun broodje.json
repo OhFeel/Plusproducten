@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Kip Cajun broodje",
+  "brand": "PLUS",
+  "price": "1.29",
+  "base_unit_price": "1.29",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/577622_M/e9a62d2d149ce0256289df3b72ebb894/577622.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 19% gegaard kippenvlees, water, paprika, ui, palmolie, geraspte kaas (MELK, aardappelzetmeel, zout, zuursel, kleurstof: E160b(ii), stremsel), suiker, MELK, tomatenpoeder, gemodificeerd aardappelzetmeel, SCHARRELEI, zout, gist, kruiden, specerijen, kleurstof: E100, glucosestroop, kokosolie, aardappelzetmeel, SCHARRELKIPPENEI-EIGEEL, zonnebloemolie, stabilisator: E451, zuurteregelaar: E331/E270, TARWEZETMEEL, MELKEIWITTEN, weipoeder (MELK), natuurlijk aroma, dextrose, TARWE-EIWIT, uienpoeder, SCHARRELKIPPENEI-EIPOEDER, TARWEVEZEL, gehydrolyseerd SOJA-EIWIT, voedingszuur: citroenzuur, knoflookpuree, verdikkingsmiddel: E461, emulgator: E471, antioxidant: E300.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "959.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "228.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "24.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.52",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "2.09",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:47:35"
+}

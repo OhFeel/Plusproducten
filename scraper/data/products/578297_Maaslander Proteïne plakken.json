@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Maaslander Proteïne plakken",
+  "brand": "Maaslander",
+  "price": "2.99",
+  "base_unit_price": "24.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/578297_M/7befda2069f7f16eddc4303a1385fb69/578297.png",
+  "ingredients": "Ingrediënten: MELK (gepasteuriseerd), zout, zuursel (Bevat MELK), microbieel stremsel, conserveermiddel (E251), kleurstof (carotenen). Op natuurlijke wijze lactosevrij (<lt/>0.01%)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1338.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "320.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "33.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:47:48"
+}

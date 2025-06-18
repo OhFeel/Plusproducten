@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Nardelli Rosato",
+  "brand": "Nardelli",
+  "price": "62.94",
+  "base_unit_price": "13.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949929_M/a81b7ecc4d30a8fe1b29a636fbac21ff/949929.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "13",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:33"
+}

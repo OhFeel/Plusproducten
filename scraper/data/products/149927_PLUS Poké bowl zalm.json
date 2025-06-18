@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Poké bowl zalm",
+  "brand": "PLUS",
+  "price": "5.99",
+  "base_unit_price": "14.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/149927_M/6efd5a48bff0c955333dd785be89df75/149927.png",
+  "ingredients": "Ingrediënten :50% gekookte sushirijst (water, rijst, suiker, koolzaadolie, azijn, zout), 9% SOJABONEN, 8% warmgerookte zalm (zalm (Salmo salar*) (VIS), zout, conserveermiddel: E267, rook), 8% mango, 6% gezuurde radijs (radijs, azijn, zout, conserveermiddel: E211, zoetstof: E954, aroma), 6% zeewiersalade met agaragarstrips (zeewier, suiker, agar-agar strips, gedroogde paddenstoel, SESAMZAAD, sojasaus (water, SOJABONEN, TARWE, zout), SESAMOLIE, zout, rijstazijn, kleurstof: E101/E141, voedingszuur: E330, conserveermiddel: (E202, chilipeper), 6% komkommer, 6% soja-gember dressing (water, natuurazijn, suiker, raapzaadolie, 5% sojasaus (water, SOJABONEN, TARWE, zout), knoflook, melasse, zout, specerijen (uienpoeder, paprikapoeder, 0,3% gember), gemodificeerd maïszetmeel, natuurlijk aroma, verdikkingsmiddel: xanthaangom), 0,5% nigellazaad.\n\n*Zalm (Salmo salar), gekweekt in Noorwegen, kweekmethode: open kooien in zee, intensief. Van een ASC-gecertificeerde, verantwoorde kwekerij. www.asc-aqua.org ASC-C-01343.",
+  "allergens": "Tarwe, Glutenbevattende granen, Vis, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "570.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "136.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.411",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.548",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.169",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.388",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.781",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.108",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "13.673",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.948",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.717",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.821",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.328",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.014",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "3.544",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:56:35"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Leentjes Suikeroogjes",
+  "brand": "Leentjes",
+  "price": "2.15",
+  "base_unit_price": "126.47",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/600530_M/f1f9bf8bfe2adc5cfb223adfb3cee144/600530.png",
+  "ingredients": "druivensuiker (mais), zetmeel (mais), dextrine, antiklontermiddel (e470b), stabilisator (e414), kleurstof (koolstof), glansmiddel (schellak, carnaubawas).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1558.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "372.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "93.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten plantaardig",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:00:02"
+}

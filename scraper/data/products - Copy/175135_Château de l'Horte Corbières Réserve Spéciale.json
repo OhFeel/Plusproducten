@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Château de l'Horte Corbières Réserve Spéciale",
+  "brand": "Château de l'Horte",
+  "price": "59.94",
+  "base_unit_price": "13.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/175135_M/82265a9479e9684a712b35ba6b0e79d6/175135.png",
+  "ingredients": "",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "14",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:07:50"
+}

@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Cazadores Margarita",
+  "brand": "Cazadores",
+  "price": "2.69",
+  "base_unit_price": "10.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/610361_M/0e116b7b97456a34a3f7776468e14866/610361.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "218.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "52.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:13"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Conimex Mix voor ajam kerrie madras",
+  "brand": "Conimex",
+  "price": "1.75",
+  "base_unit_price": "28.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/300181_M/2daa15e48ce608970eb16ec7e58e7a74/300181.png",
+  "ingredients": "Ingrediënten Sausmix: Suiker, aardappelzetmeel, TARWEBLOEM, plantaardige olie (zonnebloem, raapzaad), zout, natuurlijk aroma (bevat SELDERIJ), MELKSUIKER, koriander, gistextract (bevat GERST), rode paprika, knoflook, champignon, kurkuma, MELKEIWITTEN, kerrie 0,9%, lente-ui, komijnzaad, anijszaad, peper, tamarinde.Marinademix: Koriander, zout, komijnzaad, kurkuma, aardappelzetmeel, knoflook, kerrie 3,1%, gember, peper (wit, zwart), raapzaadolie, kaneel, kardemom, venkelzaad, cayennepeper, kruidnagel, nootmuskaat.Kan gluten, melk, selderij bevatten.",
+  "allergens": "Glutenbevattende granen, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "529.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "126.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.32",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:04:33"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hebro 4 Stokjes Kip Saté Ketjap",
+  "brand": "Hebro",
+  "price": "2.49",
+  "base_unit_price": "14.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/771348_M/06116a8917c87ae0ab6bb07bef42abfa/771348.png",
+  "ingredients": "Ingrediënten: water, kippenseparatorvlees 20%, suiker, kippenvlees 13%, ui, plantaardige oliën (palm, raapzaad, zonnebloem), gemodificeerd zetmeel, TARWEvezel, suikerstroop, zout, melasse, rode pepers, bloem (bevat TARWE), azijn, SOJAbonen, SOJA-eiwithydrolysaat, TARWE, dextrose, volkorenmeel (bevat TARWE), stabilisatoren: E451, E339 en E450, specerijen, kleurstof: karamel, gistextract, zuurteregelaar: azijnzuur, natuurlijk aroma, gist. Kan sporen van EI en PINDA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "762.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "181.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:41:13"
+}

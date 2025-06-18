@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Liefmans Fruitesse 0.0",
+  "brand": "Liefmans",
+  "price": "1.47",
+  "base_unit_price": "5.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/927752_M/01a95510eba02cb8f729ef23024e0972/927752.png",
+  "ingredients": "Ingrediënten: water, 15% vruchten (kriek, framboos, bosbes, vlierbes, aardbei), GERSTEMOUT, vloeibare suiker, fructose-glucosestroop, aroma, zwarte wortelconcentraat, voedingszuur: citroenzuur, zoetstoffen: acesulfaam-k en sucralose, hop, antioxidant: ascorbinezuur.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "88.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "22.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:09:41"
+}

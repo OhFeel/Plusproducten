@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "GIJS Macaronisalade",
+  "brand": "GIJS",
+  "price": "4.39",
+  "base_unit_price": "10.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681009_M/ef39837708484ceb885b978a74c29512/681009.png",
+  "ingredients": "Ingrediënten: gekookte macaroni (37%)(water, durum tarwegries (GLUTEN)), groente (21%)(zilverui, augurk, ui), ananas (12%), gekookte ham (11%)(varkensvlees (83%), water, zout, dextrose, stabilisator (E451, E452), verdikkingsmiddel (E407), aroma, antioxidant (E316), specerijen, conserveermiddel (E250)), plantaardige olie (raapzaad), scharrelkippenei (EI), zout, conserveermiddel (E211, E202), lactose (MELK), antioxidant (SULFIET) (E223 (SULFIET), E300), specerijen, water, azijn, glucose-fructosestroop, mosterd (MOSTERD) (water, mosterdzaad (MOSTERD), azijn, specerijen), suiker, gemodificeerd zetmeel (maïs), voedingszuur (E330, E385), verdikkingsmiddel (E412), aroma, kleurstof (E160a), zetmeel (GLUTEN) (tarwe (GLUTEN)), zoetstof (E954), kruiden .",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Mosterd, Zwaveldioxide en sulfieten, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "678.7",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "162.47",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.62",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.89",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.73",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.25",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:20:35"
+}

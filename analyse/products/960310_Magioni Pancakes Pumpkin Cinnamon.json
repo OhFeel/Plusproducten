@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Magioni Pancakes Pumpkin Cinnamon",
+  "brand": "Magioni",
+  "price": "2.99",
+  "base_unit_price": "18.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/960310_M/5ed91fc7d45b71217b7ac844050b8fe5/960310.png",
+  "ingredients": "Ingrediënten: Pompoenpuree (44%) (pompoenpuree),antioxidant (ascorbinezuur)),  SPELTbloem (TARWE), gepasteuriseerd vloeibaar EI, gepasteuriseerd vloeibaar EI-eiwit, HAVERmeel, gepasteuriseerd EI-eiwitpoeder, geraffineerde zonnebloemolie, honing, bakpoeder (rijsmiddelen (E450, E500), antiklontermiddel (calciumcarbonaat), maïszetmeel), magere MELKpoeder, kaneel (0,2%), conserveermiddel (E202). Het product kan sporen bevatten van: noten, sojabonen, sulfieten, sesamzaad en lupine.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "903.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "216.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:19"
+}

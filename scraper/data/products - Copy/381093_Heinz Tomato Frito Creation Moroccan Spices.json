@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Heinz Tomato Frito Creation Moroccan Spices",
+  "brand": "Heinz",
+  "price": "1.99",
+  "base_unit_price": "5.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/381093_M/1408c946075d0f65c66e542e9677f7c0/381093.png",
+  "ingredients": "Ingrediënten: Tomaat (tomaten (187 g per 100 g tomato frito), verstevigingsmiddel: calciumchloride) , geroosterde paprika 7,2%, extra vierge olijfolie 3,8% (met extracten van gebakken ui en knoflook), suiker, zout, specerijen (komijn, knoflook, piment, fenegriek, korianderzaad, gember), citroensapconcentraat, uienpoeder, munt.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "332.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "88.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:31:35"
+}

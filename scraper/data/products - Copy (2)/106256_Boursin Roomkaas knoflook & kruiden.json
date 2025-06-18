@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Boursin Roomkaas knoflook & kruiden",
+  "brand": "Boursin",
+  "price": "2.09",
+  "base_unit_price": "26.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/106256_M/b0355e579451b2c1a8731d9381dee725/106256.png",
+  "ingredients": "Ingrediënten: Gepasteuriseerde MELK en ROOM, zuursel (bevat MELK), knoflook en fijne kruiden 1.9%, zout, peper\nKan sporen van NOTEN bevatten.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1635.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "396.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:08"
+}

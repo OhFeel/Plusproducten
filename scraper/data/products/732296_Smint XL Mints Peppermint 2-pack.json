@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Smint XL Mints Peppermint 2-pack",
+  "brand": "Smint",
+  "price": "4.69",
+  "base_unit_price": "2.35",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/732296_M/df8c7e3bb1a0272f03bbcaf5f09aa35e/732296.png",
+  "ingredients": "Ingrediënten: zoetstoffen (sorbitol, aspartaam, sucralose, acesulfaam-K), aroma's, antiklontermiddel (magnesiumzouten van vetzuren), kleurstof (briljantblauw FCF). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "991.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "238.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "98.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "98.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:32:57"
+}

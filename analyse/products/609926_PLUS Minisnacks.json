@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Minisnacks",
+  "brand": "PLUS",
+  "price": "3.49",
+  "base_unit_price": "5.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/609926_M/9cc177032b4c24e064223a3795c96749/609926.png",
+  "ingredients": "Ingrediënten :Mini-frikandel: 59% kippensepatorvlees*, 14% varkensspek*, water, paneermeel (TARWEBLOEM, zout, gist), zout, specerijen (uienpoeder, nootmuskaat, zwarte peper, witte peper, foelie), kaliumchloride, dextrose, antioxidant: E316, voedingszuur: E330/E331, emulgator: E450/E451, SOJA-EIWIT.\n* = Beter Leven keurmerk 1 ster\n\nKiphapje: 40% kippenseparatorvlees*, bloem (TARWE, maïs), maïs, water, plantaardige oliën (raap, zonnebloem), zetmeel (TARWE, aardappel), zout, specerijen (uienpoeder, knoflookpoeder, witte peper, foelie, kurkuma), TARWEGLUTEN, suiker, gist, GERSTEMOUTEXTRACT, gemodificeerd maïszetmeel, wortelpoeder, preipoeder, glucosestroop, rijsmiddel: E450/E500, kurkuma-extract, natuurlijke aroma, gistextract, uienolie, kleurstof: paprika-extract.\n* = Beter Leven keurmerk 1 ster\n\nBitterbal: water, paneermeel (TARWEBLOEM, zout, gist), TARWEBLOEM, 10% gekookt draadjesrundvlees* (98% rundvlees, zout, verdikkingsmiddel: E415/E412, water, kleurstof: E150a), raapolie, ui, rundergelatine, gedroogde glucosestroop, basterdsuiker (suiker, invertsuikerstroop), dextrose, emulgator: E466, zuurteregelaar: E500, zout, TARWEGLUTEN, stabilisator: E450, specerijen (uienpoeder, nootmuskaat, witte peper, foelie, kardemom, SELDERIJ, koriander), zetmeel (tapioca, aardappel), champignonconcentraat, aroma, peterselie, donkere basterdsuiker (suiker, invertsuikerstroop, karamel), zeezout, SOJASAUS (maltodextrine, zout, SOJABONEN, TARWE, water), gistextract, natuurlijk aroma, rundvleesextract, palmvet, rundvleespoeder, gekaramelliseerde suiker.\n* = Beter Leven keurmerk 2 sterren\n\nBamihapje: 47% gekookte mie (water, TARWEBLOEM), paneermeel (TARWEBLOEM, zout, gist, kleurstof:E160b(i)), water, plantaardige oliën (palm, raap), ui, ketjap (suikerstroop, suiker, SOJASAUS (water, SOJABONEN, TARWE, zout), water, zout, gemodificeerd maïszetmeel, gehydrolyseerd plantaardig eiwit (SOJA, maïs), natuurazijn, natuurlijk aroma), suiker, tomatenpuree, specerijen (gember, piment, uienpoeder, knoflookpoeder, karwijzaad, koriander, witte peper, kurkuma, fenegriek, foelie, komijn, venkelzaad, kardemom, chilipeper), zout, gedroogde groente (prei, paprika), gedroogde glucosestroop, basterdsuiker (suiker, invertsuikerstroop), dextrose, emulgator: E466/E471, TARWEGLUTEN, stabilisator: E450, sambal (rode pepers, zout, zuurteregelaar: E260, conserveermiddel: E211), glucosestroop, kruiden (majoraan, lavas), zuurteregelaar: E330/E500, citroensap.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "930.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "222.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "19.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.65",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.66",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.062",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:08"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Wilhelmina Chewy Fruitmint",
+  "brand": "Wilhelmina",
+  "price": "2.49",
+  "base_unit_price": "12.45",
+  "image_url": "",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, maltodextrine, kokosolie, fondant, verdikkingsmiddel: Arabische gum, voedingszuur: citroenzuur, natuurlijke muntolie, emulgator: raapzaadlecithine, natuurlijke aroma's, rode bieten concentraat, spirulinaconcentraat, saffloerconcentraat, citroenconcentraat, kleurstof: E160a",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1601.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "377.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "90.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "90.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:43"
+}

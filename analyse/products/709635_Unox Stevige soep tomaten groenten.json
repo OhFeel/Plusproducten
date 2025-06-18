@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Stevige soep tomaten groenten",
+  "brand": "Unox",
+  "price": "4.15",
+  "base_unit_price": "5.19",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/709635_M/1ed72656fb2c9498db32bcfb0a1a4c39/709635.png",
+  "ingredients": "Ingrediënten: Groenten¹ 51% (tomaat 39%, wortel 3,7%, prei 3,2%, SELDERIJ 2,9%, ui), water, soepballen 5,9% (varkensvlees², rundvlees², water, zetmeel, zout, voedingszuur E330, peper, koriander, nootmuskaatextract), vermicelli 1,6% (harde TARWEGRIES, EI-EIWIT), suiker, gemodificeerd zetmeel, zout, raapzaadolie, kruiden (peterselie, laurierblad), zetmeel, citroensapconcentraat, gistextract (bevat GERST), aroma, fructose, maltodextrine, witte wijnextract, balsamicoazijn (wijnazijn, druivenmost).  Kan melk, mosterd, soja, gluten bevatten. ¹op duurzame wijze geteeld. ²Beter Leven keurmerk 1 ster",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "194.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "46.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.73",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:17"
+}

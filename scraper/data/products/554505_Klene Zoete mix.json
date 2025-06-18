@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Klene Zoete mix",
+  "brand": "Klene",
+  "price": "3.39",
+  "base_unit_price": "12.56",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/554505_M/fd6f1c24f6f8f064921b089218707fb6/554505.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, rietsuikermelasse, kokos, TARWEBLOEM, gemodificeerd zetmeel, gelatine, zetmeel, water, zoethoutwortelextract, salmiakzout, voedingszuur (citroenzuur), aroma's, kleurstoffen (bietenrood, paprika-extract, plantaardige koolstof, karmijn, curcumine), concentraat (saffloer), emulgator (mono- en diglyceriden van vetzuren), glansmiddelen (bijenwas, carnaubawas), antioxidant (ascorbinezuur). ",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1540.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "363.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:37:53"
+}

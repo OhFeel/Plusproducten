@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Westland Eierslaatje",
+  "brand": "Westland",
+  "price": "1.19",
+  "base_unit_price": "8.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/735025_M/3c677492ee0815aa7b9af1e3a270fb79/735025.png",
+  "ingredients": "Ingrediënten: aardappel, water, plantaardige oliën (raapzaad, zonnebloem), 10% EI Beter Leven 2 sterren, augurk, azijn, suiker, wortel, 2% SCHARRELEI, maïszetmeel, ui, zout, SCHARRELEIGEEL, gemodificeerd zetmeel (maïs, aardappel), conserveermiddelen (E202, E211), kruiden, dextrose, specerijen (bevat MOSTERD), maïs, gehydrolyseerde plantaardige eiwitten (SOJA, maïs), gedroogde groenten (ui, wortel, pastinaak, tomaat, paprika), aroma's (bevat SOJA, MOSTERD), verdikkingsmiddel (E415), glucosestroop, voedingszuren (E270, E330), kleurstoffen (E101, E160a), zuurteregelaar (E325), natuurlijk aroma, antioxidant (E300), SOJAbonenpoeder, TARWE, gistextract, specerijextracten (dille, knoflook), maltodextrine.\n\nKan sporen bevatten van vis.\n",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "802.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "193.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.07",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:28"
+}

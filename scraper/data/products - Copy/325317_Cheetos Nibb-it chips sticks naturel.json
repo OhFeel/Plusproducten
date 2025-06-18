@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Cheetos Nibb-it chips sticks naturel",
+  "brand": "Cheetos",
+  "price": "2.19",
+  "base_unit_price": "19.91",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/325317_M/f80191ec8780826c251a64d75f2a8909/325317.png",
+  "ingredients": "Ingrediënten: aardappelpoeder, aardappelzetmeel, zonnebloemolie, rijstebloem, hartige smaak [lactose (van MELK), weipoeder (van MELK), suiker, smaakversterkers (mononatriumglutamaat, dinatriumguanylaat, dinatriuminosinaat), aroma’s (bevat KAASPOEDER en boter (van MELK)), voedingszuur (citroenzuur), kaliumchloride], zout, emulgator (lecithine (bevat SOJA, MELKEIWIT)), kleurstoffen (curcumine, karmijn, annatto bixin, paprika-extract), specerijen.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1973.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "471.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:12:48"
+}

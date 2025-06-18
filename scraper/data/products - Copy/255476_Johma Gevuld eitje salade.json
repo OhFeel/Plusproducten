@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Gevuld eitje salade",
+  "brand": "Johma",
+  "price": "3.25",
+  "base_unit_price": "18.57",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/255476_M/a3cc540b623897d19463575a2ccc642f/255476.png",
+  "ingredients": "Ingrediënten: 45% gekookte EIEREN Beter Leven 2 sterren, koolzaadolie, water, suiker, natuurazijn, gebakken ui, gepasteuriseerd EIGEEL, zout, specerijen (kerriepoeder, MOSTERD), palmolie, TARWEBLOEM, tomatenpuree, gistpoeder, natuurlijke aroma's (SELDERIJ), gemodificeerd zetmeel, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), kleurstof (carotenen), verdikkingsmiddelen (guarpitmeel, xanthaangom), voedingszuur (citroenzuur).\nKan sporen bevatten van melk, noten, pinda’s, sesamzaad, schaaldieren, soja en vis.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1610.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "390.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "38.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:43:56"
+}

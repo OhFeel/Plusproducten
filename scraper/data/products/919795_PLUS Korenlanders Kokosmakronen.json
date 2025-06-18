@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Korenlanders Kokosmakronen",
+  "brand": "PLUS Korenlanders",
+  "price": "3.39",
+  "base_unit_price": "11.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/919795_M/3e20d9c95645d58f9907ebbbb11e0df9/919795.png",
+  "ingredients": "Ingrediënten: Suiker, 32% kokos, water, TARWEBLOEM, glucosestroop, weipoder (MELK), KIPPENEI-EIWITPOEDER, gemodificeerd zetmeel (mais), verdikkingsmiddel: E466, zout, voedingszuur: E330. E = door E.U. goedgekeurde hulpstof. Kan sporen van SOJA en NOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1761.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "421.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "51.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:07:49"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Maussi Nasi kruiden",
+  "brand": "Maussi",
+  "price": "1.59",
+  "base_unit_price": "31.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/447336_M/88bb368af2aefc26bc3b4fd39183fe52/447336.png",
+  "ingredients": "Ingrediënten: Gebakken uien (verse uien, plantaardige olie, zout, TARWEmeel), zout, suiker, prei gedroogd, gedroogde uien, knoflook, kentjoer, laos, smaakversterker (E621), SOJAsaus (water, SOJAbonen, TARWEmeel, zout, caramel, conserveermiddel E211, suikerstroop, voedingszuur E270), SELDERIJ & specerijen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1841.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "443.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:35"
+}

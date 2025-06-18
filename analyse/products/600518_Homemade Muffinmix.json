@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Homemade Muffinmix",
+  "brand": "Homemade",
+  "price": "2.45",
+  "base_unit_price": "8.91",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/600518_M/d29a7d2f47badd541153392d16d97fe2/600518.png",
+  "ingredients": "Ingrediënten: Muffinmix: suiker, TARWEbloem, zonnebloemolie, TARWEzetmeel, palmolie, glucosestroop, scharrelei-EIgeelpoeder, scharrelei-kipheelEIpoeder, rijsmiddelen (E500, E450), gemodifi­ceerd aardappelzetmeel, MELKeiwit, magere MELKpoeder, zout, aroma, saffloerextract, verdikkingsmiddel (E415), natuurlijk aroma, stabilisator (E451).",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1533.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "370.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:59:59"
+}

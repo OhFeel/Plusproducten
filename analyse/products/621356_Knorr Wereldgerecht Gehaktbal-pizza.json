@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Gehaktbal-pizza",
+  "brand": "Knorr",
+  "price": "4.39",
+  "base_unit_price": "15.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/621356_M/aff2b9cc844a4507c1c6e4d1cbf6a309/621356.png",
+  "ingredients": "Ingrediënten creste pasta: harde TARWEGRIES.\n\nIngrediënten saus: zonnebloemolie, tomatenpoeder¹ 13,7%, zout, extra olijfolie verkregen bij de eerste persing, tomatenstukjes¹ 4,6% (zetmeel, tomatenpoeder, voedingszuur: citroenzuur), knoflookpoeder¹ 4,1%, zetmeel, suiker, geheel geharde raapzaadolie, balsamico-azijnpoeder (wijnazijn, druivenmost), mineraalzout (kalium), geroosterd uipoeder¹ 1,6%, uipoeder¹ 1,6%, lente-ui, oregano, paprikapoeder¹, gehydrolyseerde plantaardige eiwitten, peterselie¹, sojasauspoeder (maltodextrine, zout, sojasaus (SOJABOON, TARWE)), tijm¹, aroma, fructose, palmvet, gistextract. Kan ei, melk, selderij, mosterd bevatten.\n\nIngrediënten kruidenmix: paneermeel (TARWEBLOEM, gist, zout), ui¹ 14,5%, gejodeerd zout, tomaat¹ 3,4%, paprikapoeder¹, palmvet, peper, oregano, citroensappoeder (suiker, citroensap, zout), knoflookpoeder¹ 0,9%, koriander, gehydrolyseerde plantaardige eiwitten, rozemarijn, suiker, gistextract, cayennepeper. Kan ei, soja, melk, selderij, mosterd bevatten.\n\n¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1697.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "404.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:19"
+}

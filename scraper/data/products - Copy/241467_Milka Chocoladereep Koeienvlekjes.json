@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Milka Chocoladereep Koeienvlekjes",
+  "brand": "Milka",
+  "price": "1.99",
+  "base_unit_price": "22.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/241467_M/39bc46b420aeaeeb8560bb0eeca5c7c8/241467.png",
+  "ingredients": "Ingrediënten: Suiker, cacaoboter, magere MELKPOEDER, cacaomassa, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), HAZELNOOTPASTA, aroma's. KAN BEVATTEN: ANDERE NOTEN EN TARWE.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2252.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "539.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.27",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:37:42"
+}

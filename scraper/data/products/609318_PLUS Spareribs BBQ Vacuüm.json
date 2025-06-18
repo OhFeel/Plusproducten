@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Spareribs BBQ Vacuüm",
+  "brand": "PLUS",
+  "price": "8.33",
+  "base_unit_price": "13.88",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/609318_M/6e3497bd54731dc32914eb6d01f37411/609318.png",
+  "ingredients": "Ingrediënten :87% Gegaarde sparerib (95% varkensvlees*, suiker (wit, bruin), water, gemodificeerd aardappelzetmeel, zout, dextrose, SOJASAUSPOEDER (SOJABONEN, TARWE, zout, maltodextrine), specerijen (chilipeper, paprikapoeder, zwarte peper, korianderzaad, nootmuskaat, gember, venkelzaad, kaneel), gistextract, gehydrolyseerd SOJA-EIWIT, melassepoeder (melasse, maltodextrine), gekaramelliseerde suiker, groentepoeder (tomaat, ui, knoflook), natuurlijk aroma, aardappelvezel, zoethoutpoeder, kruiden (rozemarijn, tijm, laurier), extract van paprika, 13% marinade (water, suiker, dextrose, alcoholazijn, tomatenpuree, gemodificeerd maïszetmeel, knoflookpuree, specerijen (MOSTERDZAAD, piment, komijn, kaneel), uipoeder, rookaroma, voedingszuur: citroenzuur, gekaramelliseerde suiker (gekaramelliseerde suiker, maltodextrine), extract van paprika, citroenolie).\n\n* = Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "799.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "191.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.29",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.516",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.001",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:56"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Glutenvrije wraps 3 stuks",
+  "brand": "PLUS",
+  "price": "3.29",
+  "base_unit_price": "18.28",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/196543_M/b6be2d1f512233fc9d3b9d00b36f308c/196543.png",
+  "ingredients": "ingrediënten :water, 15% maiszetmeel, bevochtigingsmiddel: e422, plantaardige vezels (guar, aardappel, erwt, psyllium, bamboe, vlas, rijst), rijstebloem, aardappelzetmeel, emulgator: e471/e322, zonnebloemolie, verdikkingsmiddel: e466/e415/e412/e464, teffmeel, maisbloem, boekweitmeel, tapiocazetmeel, bakpoeder (maiszetmeel, rijsmiddel: e500/e450), lijnzaadmeel, rijstzetmeel, teffvlokken, druivensapconcentraat, zout, erwtenmeel, gierstbloem, chiazaad, zuurteregelaar: citroenzuur, conserveermiddel: e202, aroma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1057.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "252.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "36.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.98",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.392",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:17:05"
+}

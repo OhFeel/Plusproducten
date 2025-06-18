@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Kips Snijleverworst",
+  "brand": "Kips",
+  "price": "3.29",
+  "base_unit_price": "7.31",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/690093_M/42757271eb26f7e6fc6d53383ca61234/690093.png",
+  "ingredients": "Ingrediënten: varkenslever* 33%, varkenszwoerd*, varkensspek*, water, varkensvlees* 10%, zout, TARWEBLOEM, varkenshemoglobine, specerijen, stabilisator: E451, aromas (bevat TARWE), varlenseiwit, suiker, gebakken uien (uien, zonnebloemolie), antioxidant: E316, glucosestroop, kruiden, paneermeel (TARWE), dextrose, specerij-extract, voedingszuur: citroenzuur, conserveermiddel: E250. * = Beter Leven keurmerk 1 ster. E = Door de EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1116.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "269.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.78",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "5.9",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:09"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hertog IJssalon advocaat royaal",
+  "brand": "Hertog",
+  "price": "5.75",
+  "base_unit_price": "6.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/481100_M/23a12d0c07861efe9f1b8b4f801b679e/481100.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, water, glucose-fructosestroop, suiker, glucosestroop, kokosolie, advocaat (suiker, water, EIGEEL, alcohol (0,8%), EIWIT, aroma’s) (5,5%), LACTOSE en MELKEIWITTEN, cacaomassa¹ (1,2%), emulgatoren (mono- en diglyceriden van vetzuren, ammoniumfosfatiden), stabilisatoren (taragom, johannesbroodpitmeel, guargom, carrageen), cacaoboter¹, aroma's, BOTERCONCENTRAAT, natuurlijk vanille aroma (bevat MELK), magere cacaopoeder¹, zuurteregelaar (citroenzuur), kleurstof (carotenen). Kan hazelnoot, soja, walnoot en tarwe bevatten.\n¹Rainforest Alliance gecertificeerd. ra.org.",
+  "allergens": "Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "868.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "208.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:10:49"
+}

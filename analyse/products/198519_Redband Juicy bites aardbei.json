@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Juicy bites aardbei",
+  "brand": "Redband",
+  "price": "1.95",
+  "base_unit_price": "13.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/198519_M/29d326f1123f4aa1248551121053f3cf/198519.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, plantaardige vetten (palm, kokos), bevochtigingsmiddel (sorbitol), maltodextrine, voedingszuren (citroenzuur, melkzuur), natuurlijk aroma, emulgator (sucrose-esters van vetzuren), fruitsap uit concentraat (appel, citroen, aardbei, sinaasappel, ananas, perzik), zout, kleurstof (bietenrood), concentraat van (wortel, zwarte bes), zuurteregelaar (natriumlactaat). Kan MELK, NOTEN en PINDA'S bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1655.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "390.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "86.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:18:07"
+}

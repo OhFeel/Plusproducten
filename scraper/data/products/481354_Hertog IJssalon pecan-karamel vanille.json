@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hertog IJssalon pecan-karamel vanille",
+  "brand": "Hertog",
+  "price": "5.29",
+  "base_unit_price": "6.41",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/481354_M/c204e736ad3e9bda4756f91d2da45d4b/481354.png",
+  "ingredients": "Ingrediënten: gerehydrateerde magere MELK, water, suiker, glucosestroop, kokosolie, PECANNOTEN (3,5%), fructose, BOTER, glucose-fructosestroop, halfvolle MELK, LACTOSE en MELKEIWITTEN, emulgatoren (mono- en diglyceriden van vetzuren), kleurstoffen (karamel, carotenen), stabilisatoren (guargom, taragom, johannesbroodpitmeel), gemodificeerd zetmeel, zout, aroma, zuurteregelaar (kaliumcitraat), natuurlijk vanille aroma¹. Kan TARWE, EI, AMANDEL, HAZELNOOT, WALNOOT en PISTACHENOOT bevatten. ¹Rainforest Alliance gecertificeerd.",
+  "allergens": "Melk, Noten, pecannoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "954.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "228.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:00"
+}

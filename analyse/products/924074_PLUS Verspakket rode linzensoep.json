@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket rode linzensoep",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "4.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/924074_M/64954cd399e0a3e20ec54d5066344b13/924074.png",
+  "ingredients": "Ingrediënten :tomaat, rode ui, 21% linzen, rode paprika, wortel, gember, 2% groentebouillon (zout, maïszetmeel, gistextract, rijstzetmeel, glucosestroop, maltodextrine, groenten (ui, wortel, SELDERIJ, prei), kruiden (peterselie, BLADSELDERIJ, lavasblad), suiker, specerijen (kurkuma, SELDERIJZAAD, witte peper, foelie), olijfolie, gekaramelliseerde suikerstroop, knoflook, natuurlijk peterselie-aroma, voedingszuur: citroenzuur), BLEEKSELDERIJ, knoflook, tijm, laurierblad.\n\nHet bouillonblokje kan sporen van EI, GLUTENBEVATTENDE GRANEN, MELK, MOSTERD en SOJA bevatten.\nDe rode linzen kunnen sporen van GLUTENBEVATTENDE GRANEN bevatten.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "248.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "59.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.215",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.204",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.734",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.235",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.574",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.84",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "5.418",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.929",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.573",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.229",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.097",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:08:57"
+}

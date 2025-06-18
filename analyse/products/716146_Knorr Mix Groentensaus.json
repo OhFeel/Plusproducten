@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Mix Groentensaus",
+  "brand": "Knorr",
+  "price": "1.45",
+  "base_unit_price": "50.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/716146_M/1f1727c3e18808dbb40738672f1d2b63/716146.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel, palmvet, TARWEBLOEM, ROOMPOEDER, gistextract, zout, glucosesiroop, gejodeerd zout, aroma, MELKEIWITTEN, citroensappoeder (maltodextrine, citroensap), suiker, kruiden (peterselie¹, BLADSELDERIJ, lavas¹, bieslook¹, tijm¹), uienpoeder¹, specerijen (peper, peterseliewortelpoeder¹, kurkuma). Kan ei, mosterd, andere glutenbevattende granen, soja bevatten. ¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "352.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "84.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.22",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:25"
+}

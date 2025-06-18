@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fairtrade Original Rode Curry kruidenpasta Fairtrade",
+  "brand": "Fairtrade Original",
+  "price": "2.29",
+  "base_unit_price": "32.71",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/323517_M/2d13f27b88f98780998b4428876b10bc/323517.png",
+  "ingredients": "rijstolie, water, sjalot (12,7%), knoflook (11,4%), citroengras (10,4%), laos, zout, rode chilipepers (7,2%), rietsuiker, koriander, kaffir lime (0,8%), komijn (0,5%), peper (0,3%).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1115.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "265.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:11:55"
+}

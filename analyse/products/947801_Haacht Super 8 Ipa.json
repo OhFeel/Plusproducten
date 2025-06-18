@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Haacht Super 8 Ipa",
+  "brand": "Haacht",
+  "price": "2.29",
+  "base_unit_price": "6.94",
+  "image_url": "",
+  "ingredients": "Ingrediënten: bevat GERSTemout.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "207.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "50.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:29"
+}

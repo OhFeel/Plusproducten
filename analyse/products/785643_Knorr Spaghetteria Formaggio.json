@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Spaghetteria Formaggio",
+  "brand": "Knorr",
+  "price": "2.59",
+  "base_unit_price": "15.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/785643_M/ecf4e5a45b6fcd15da75f08a37829a61/785643.png",
+  "ingredients": "Ingrediënten: Deegwaar 74% (harde TARWEGRIES, TARWEBLOEM), smeltkaaspoeder 4,6% (Parmezaanse KAAS, MOZZARELLA, STILTONKAAS, CHEDDAR, MELKWEI), zetmeel, zoete MELKWEIPOEDER, rijstebloem, zonnebloemolie, palmvet, gejodeerd zout, specerijen (knoflookpoeder, kurkuma, paprikapoeder), mineraalzout (kalium), suiker, natuurlijk aroma, MELKSUIKER, aroma, MELKEIWITTEN, glucosestrooppoeder, zout, peterselie, zuurteregelaar E340ii, kleurstof: paprika-extract. Kan ROGGE, GERST, HAVER, EI, SOJA, SELDERIJ, MOSTERD, LUPINE bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "449.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "107.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.62",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:43:40"
+}

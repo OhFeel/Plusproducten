@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Verkade XXL Choco biscuit karamel",
+  "brand": "Verkade",
+  "price": "4.29",
+  "base_unit_price": "19.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/161274_M/a1cde975bc9ff9aae7ac52ba86c37f21/161274.png",
+  "ingredients": "Ingrediënten: Suiker, plantaardige vetten en oliën (palm, zonnebloem, palmpit), TARWEbloem, volle MELKpoeder, cacaoboter, cacaomassa, magereMELKpoeder, weipoeder (MELK), emulgatoren (ammoniumfosfatiden, SOJAlecithinen, E476), invert suikersiroop, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten, difosfaten), zout, EIwitpoeder, aroma's, kleurstof (paprika-extract), enzym (bevat TARWE)\n\nKan pinda en noten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2200.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "526.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "59.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "50.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.43",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:02:11"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Smac",
+  "brand": "Unox",
+  "price": "3.09",
+  "base_unit_price": "12.36",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/165730_M/4b8c8dd5b9b2890546e8a852fc148b58/165730.png",
+  "ingredients": "Ingrediënten: Kippenseparatorvlees¹ 31%, varkensvlees¹ 25%, varkensseparatorvlees¹ 20%, water, aardappelzetmeel, varkensvet¹, zout, specerijen, stabilisator (E450, E451),  suiker, antioxidant: E301, natuurlijk aroma, specerij-extract, conserveermiddel E250. Kan selderij, melk, mosterd, soja, tarwe bevatten. ¹ Beter Leven keurmerk 1 ster",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1095.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "262.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:59"
+}

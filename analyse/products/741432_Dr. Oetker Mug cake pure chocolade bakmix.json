@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Mug cake pure chocolade bakmix",
+  "brand": "Dr. Oetker",
+  "price": "1.59",
+  "base_unit_price": "26.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/741432_M/f3174c4e5fa8823b4f875a5a31a9745d/741432.png",
+  "ingredients": "Ingrediënten: suiker, magere cacaopoeder, KIPHEELEIPOEDER, TARWEBLOEM, 8,0% chocoladestukjes (suiker, cacaomassa, magere cacaopoeder), TARWEZETMEEL, EIWITPOEDER, rijstzetmeel, emulgatoren (E 475, E 471, E 433), rijsmiddelen (E 500, E 450), verdikkingsmiddel (E 415), zuurteregelaar (E 330). Kan sporen van SOJA, MELK en NOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "998.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "237.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.48",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:34:12"
+}

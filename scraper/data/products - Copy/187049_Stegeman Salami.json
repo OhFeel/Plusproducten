@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Salami",
+  "brand": "Stegeman",
+  "price": "4.19",
+  "base_unit_price": "18.62",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/187049_M/cf6d822b6013e5283d4ba72628e45141/187049.png",
+  "ingredients": "varkensvlees (99%)*, varkenscollageen*, varkensspek*, zout, zeezout(zout, dieetzout (kaliumchloride)), knoflook (0,2%), uipoeder, specerijen, dextrose, glucosestroop, varkenseiwit, geconcentreerd rode bieten- sap, antioxidant (e301), conserveermiddelen (e235, e250), rook. *= beter leven keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2011.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "486.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "44.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:13:31"
+}

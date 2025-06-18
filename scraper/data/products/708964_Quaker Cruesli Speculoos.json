@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Quaker Cruesli Speculoos",
+  "brand": "Quaker",
+  "price": "3.99",
+  "base_unit_price": "10.64",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/708964_M/46410e6fc0de7fd60c54511ab31f6a24/708964.png",
+  "ingredients": "Ingrediënten: Volkoren HAVERMOUT (31%), volkoren TARWE (18%), stukjes Speculoos (15%) (TARWEBLOEM, suiker, zonnebloemolie, karamelsiroop, MELKEIWIT, kaneel, zout), glucosesiroop, zonnebloemolie, suiker, oligofructose, rijstebloem, TARWEBLOEM, honing, natuurlijk speculaasaroma en andere natuurlijke aroma's (TARWE), antioxidant (tocoferol). Kan soja en verschillende soorten noten bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1899.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "453.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.31",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "130.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "60.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:27:03"
+}

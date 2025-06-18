@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Tripel Karmeliet Belgisch Speciaalbier",
+  "brand": "Tripel Karmeliet",
+  "price": "8.79",
+  "base_unit_price": "6.66",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/410431_M/ae44653da62b24953ac93e5abb4de2c5/410431.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, TARWEMOUT, TARWE, HAVER, hop, gist",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1043.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "249.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "8.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:42:59"
+}

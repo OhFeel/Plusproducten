@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Ketel 1 Hard Lemonade RTD Lemon & Lime",
+  "brand": "Ketel 1",
+  "price": "2.19",
+  "base_unit_price": "8.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/160746_M/861318bcdbdf7e0a14af93b6ce998a59/160746.png",
+  "ingredients": "koolzuurhoudend water, ketel 1 jenever (15,6%), suiker, 1,2% citroensapconcentraat, granen-eau-de-vie, natuurlijke aroma's: citroen en limoen, stabilisator: e445; conserveermiddelen: e202, e211.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "211.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "51.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:01:48"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Grand'Italia Pastasaus Funghi Porcini",
+  "brand": "Grand'Italia",
+  "price": "3.49",
+  "base_unit_price": "13.42",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/830416_M/a39d2808863535e5117a7e68ffea3774/830416.png",
+  "ingredients": "Ingrediënten: Water, MELKroom (36%), Porcini paddenstoelen (9%) (Boletus edulis en gerelateerd), Grana Padano KAAS (6%) (met EI-proteïne), gemodificeerd maïszetmeel, BOTER, champignons (2%) (Agaricus bisporus), peterselie (1%), zout, knoflook, aroma, gistextract, specerijen. GLUTENVRIJ.",
+  "allergens": "Ei, Melk, Boternoot en boternootproducten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "730.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "177.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:53:42"
+}

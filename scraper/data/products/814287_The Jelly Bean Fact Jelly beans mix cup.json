@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "The Jelly Bean Fact Jelly beans mix cup",
+  "brand": "The Jelly Bean Fact",
+  "price": "4.79",
+  "base_unit_price": "23.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/814287_M/bf77dfd9ce1db549c2b75e17d858ce32/814287.png",
+  "ingredients": "Ingrediënten: Suiker, glucosestroop, maiszetmeel, fruitsap concentraten (ananas, sinaasappel, appel), natuurlijke aroma's, voedingszuren (citroenzuur, fumaarzuur), concentraat van (wortel, pompoen, spirulina, radijs, appel, zwarte bes, hibiscus), glansmiddelen (schellak, carnaubawas, bijenwas), zuurteregelaar (trinatriumcitraat), gekaramelliseerde suiker, zout, kokosolie.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1591.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "375.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "92.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "76.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:50:14"
+}

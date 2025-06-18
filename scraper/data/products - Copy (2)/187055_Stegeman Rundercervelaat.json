@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Rundercervelaat",
+  "brand": "Stegeman",
+  "price": "4.59",
+  "base_unit_price": "22.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/187055_M/0cf278271f6e459e541be14dd49cd773/187055.png",
+  "ingredients": "rundvlees, rundervet, zout, kruiden en specerijen, glucosestroop, geconcentreerd rode bietensap, dextrose, antioxidant (e301), conserveermiddelen (e235, e250), rook.\n100 g product bereid uit 128 g vlees.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2105.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "509.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "47.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:13:33"
+}

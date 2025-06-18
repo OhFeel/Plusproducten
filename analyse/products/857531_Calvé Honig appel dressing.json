@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Calvé Honig appel dressing",
+  "brand": "Calvé",
+  "price": "1.29",
+  "base_unit_price": "18.43",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/857531_M/00dc82ec9446d074a015ea852a802f33/857531.png",
+  "ingredients": "Ingrediënten: Water, suiker, azijn, honing 4,9%, geconcentreerd appelsap 1,1%, stabilisator E407, voedingszuur (E296, E330), zout, peterselie, conserveermiddel E202, kurkuma, glucosestroop, aroma.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "637.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "150.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "37.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.33",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:57:08"
+}

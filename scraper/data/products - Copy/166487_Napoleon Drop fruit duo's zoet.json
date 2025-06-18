@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Napoleon Drop fruit duo's zoet",
+  "brand": "Napoleon",
+  "price": "2.19",
+  "base_unit_price": "12.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/166487_M/037980329defd6d99668981787cb14c3/166487.png",
+  "ingredients": "suiker, glucosestroop, dextrose, voedingszuur (citroenzuur), ammoniumchloride, zoethoutwortelextract, natuurlijke aroma's, kleurstoffen (curcumine, plantaardige koolstof), concentraten (vlierbes, zwarte wortel)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1625.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "380.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "95.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:23"
+}

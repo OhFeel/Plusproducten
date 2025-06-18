@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "I am Chardonnay",
+  "brand": "I am",
+  "price": "4.99",
+  "base_unit_price": "6.65",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/914470_M/5275a7f5feaf9f655167352b6463f77c/914470.png",
+  "ingredients": "Contains Sulfites",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "12",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:30"
+}

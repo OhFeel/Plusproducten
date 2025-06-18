@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Zoete aardappel",
+  "brand": "PLUS",
+  "price": "3.25",
+  "base_unit_price": "3.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/490489_M/4fdddfbc7bf7a5dcf310ad7fcc2fc50e/490489.png",
+  "ingredients": "ingredienten:",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:15:04"
+}

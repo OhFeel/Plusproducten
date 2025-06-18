@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Nestlé Bros krakende mousse melkchocolade 4st",
+  "brand": "Nestlé",
+  "price": "2.99",
+  "base_unit_price": "13.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/305458_M/42ca6c17117a42b0021473d6572e6e03/305458.png",
+  "ingredients": "Ingrediënten: Volle MELK (63,7%), suiker, cacaomassa1, room (MELK), cacaoboter1, magere MELKpoeder, pure chocolade (2,7%) [cacaomassa1, suiker, emulgator (lecithinen), natuurlijk vanillearoma], mager cacaopoeder1, cacaopoeder1, gelatine, emulgator (E472b). 1Rainforest Alliance gecertificeerd. Ga voor meer informatie naar ra.org",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "883.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "209.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:06:58"
+}

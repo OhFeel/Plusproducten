@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hertog IJssalon drie chocolades",
+  "brand": "Hertog",
+  "price": "5.75",
+  "base_unit_price": "6.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/481109_M/30d7a76df5c50e8e59b06ad6a1c45437/481109.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, water, glucose-fructosestroop, kokosolie, dextrose, magere cacaopoeder¹ (3%), glucosestroop, LACTOSE en MELKEIWITTEN, cacaomassa¹ (1,5%), cacaoboter¹ (1%), volle MELKPOEDER, emulgatoren (mono- en diglyceriden van vetzuren, ammoniumfosfatiden), stabilisatoren (natriumalginaat, guargom, taragom, johannesbroodpitmeel), BOTERCONCENTRAAT, wortelconcentraat, geconcentreerd citroensap, aroma's. Kan ei, hazelnoot, pecannoot, pistachenoot, soja en tarwe bevatten. \n¹Rainforest Alliance gecertificeerd. ra.org.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "852.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "204.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:10:50"
+}

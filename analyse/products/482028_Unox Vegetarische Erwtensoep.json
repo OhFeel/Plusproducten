@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Unox Vegetarische Erwtensoep",
+  "brand": "Unox",
+  "price": "3.69",
+  "base_unit_price": "4.61",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/482028_M/07a741037c43421c01ba44f81a9cb959/482028.png",
+  "ingredients": "Ingrediënten: Groenten¹ 47% (erwten 36%, wortel 4,9%, prei 3%, ui 2,6%), water, vegetarische rookworst 8,9% (water, plantaardige oliën (zonnebloem, kokos), verdikkingsmiddelen (methylcellulose, carrageen, carboxymethylcellulose, xanthaangom, natriumalginaat, guargom), erwtenvezel, EI-EIWITPOEDER, rijstebloem, natuurlijk aroma, erwteneiwit, suiker, zout, maltodextrine, rookaroma, glucosestroop, voedingszuur E330, zuurteregelaar E508, antioxidanten (natuurlijk alfa-tocoferol, ascorbinezuur), stabilisator E450, verstevigingsmiddel E516, kleurstof E172), aardappel¹ 4,9%, erwtenpoeder 1,3%, raapzaadolie, gemodificeerd maïszetmeel, zout, kruiden (SELDERIJBLAD, laurierblad, peterselie), gistextract (bevat GERST), rookaroma, natuurlijk aroma, palmvet, balsamicoazijnpoeder (wijnazijn, druivenmost), witte wijnextract, maltodextrine, fructose, aroma (bevat TARWE), SELDERIJZAAD, dextrose. ¹op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Ei, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "338.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "81.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.59",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:11:20"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "WuShu Bami Goreng",
+  "brand": "WuShu",
+  "price": "4.99",
+  "base_unit_price": "7.13",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/444766_M/d9a95834e510213c59f0ab94efd2e17a/444766.png",
+  "ingredients": "Ingrediënten: 47% bami (water, TARWEgriesmeel, kippenEI-eiwit), groenten (prei, paprika rood, wortel, ui), 8% hamblokjes (mechanisch gescheiden varkensvlees, water, aardappelzetmeel, varkenshemoglobine, varkenseiwitten, dextrose, zout, stabilisatoren: E450/E452, conserveermiddel: E250), raapzaadolie, zout, knoflook, natuurlijk aroma, ketjap (melasse, water, sojasaus (SOJAbonen, zout, conserveermiddel: E211, kleurstof: E150d), voedingszuur: melkzuur, natuurlijk aroma)    , suiker, specerij. E = door de EU goedgekeurde hulpstoffen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "628.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "149.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:57:09"
+}

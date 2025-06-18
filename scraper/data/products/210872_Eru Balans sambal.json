@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Eru Balans sambal",
+  "brand": "Eru",
+  "price": "1.65",
+  "base_unit_price": "16.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/210872_M/6033a49257dd4271289c6281ed4fc2f9/210872.png",
+  "ingredients": "Ingrediënten: kaas (MELK), water, magere yoghurt (MELK), magere MELKpoeder, MELKeiwitten, 2,7% sambal trassie (chilipepers, zout, trassie (garnalen (SCHAALDIEREN), zout, water), voedingszuur (azijnzuur), conserveermiddel (E202)), smeltzouten (E452, E451, E339), gistextract",
+  "allergens": "Schaaldieren, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "527.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "125.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:21:46"
+}

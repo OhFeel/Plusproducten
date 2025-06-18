@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Saladekruiden",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "103.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/898847_M/d6a2388129ec49816f69e146b47982ee/898847.png",
+  "ingredients": "Ingrediënten: Specerijen 41,5% (ui 22%, knoflook, zwarte peper, MOSTERDzaad, SELDERIJzaad), kruiden 23% (peterselie 7%, basilicum, oregano 4%, dilleblad, marjolein, rozemarijn), rode en groene paprika, zout 14%, maltodextrine, aroma (bevat TARWE en GERST), zonnebloemolie, Totale gehalte aan kruiden en specerijen: 64,5%.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1186.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "282.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "40.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "14.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:01:43"
+}

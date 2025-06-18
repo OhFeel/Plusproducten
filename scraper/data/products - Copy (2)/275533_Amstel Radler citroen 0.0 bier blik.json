@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Amstel Radler citroen 0.0 bier blik",
+  "brand": "Amstel",
+  "price": "1.03",
+  "base_unit_price": "3.12",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/275533_M/2fa4e8c03b5eb167c5f6f956e4244275/275533.png",
+  "ingredients": "Ingrediënten: koolzuurhoudend water, GERSTEMOUT, suiker, vruchtensap uit concentraat (citroensap 2,7%, sinaasappelsap, limoensap, acerolasap), hop, hopextract, natuurlijke aroma's, geconcentreerd citroenextract, stabilisator: johannesbroodpitmeel.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "118.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "0",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:51:40"
+}

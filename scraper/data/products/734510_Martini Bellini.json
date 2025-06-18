@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Martini Bellini",
+  "brand": "Martini",
+  "price": "10.79",
+  "base_unit_price": "14.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/734510_M/612a1bb0609f933a4a31ab8cb9e159c9/734510.png",
+  "ingredients": "",
+  "allergens": "Zwaveldioxide en sulfieten",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "356.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "85.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "8",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:21"
+}

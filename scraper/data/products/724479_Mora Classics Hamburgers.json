@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Classics Hamburgers",
+  "brand": "Mora",
+  "price": "4.79",
+  "base_unit_price": "4.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/724479_M/a203e69543d67aeffe92ba0dc732ac2e/724479.png",
+  "ingredients": "Ingrediënten: kippenseparatorvlees, water, varkensspek, bloem (bevat TARWE), groenten (ui, paprika, prei), zetmeel, zout, specerijen, TARWEgluten, dextrose, maltodextrine, glucosestroop, emulgatoren: E450 en E452, rundereiwit, gistextract, gist, natuurlijke aroma's, antioxidant: ascorbinezuur, kleurstof: E150c, aroma, voedingszuur: citroenzuur, specerij-extracten.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "859.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "206.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:31:21"
+}

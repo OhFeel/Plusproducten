@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo Happy Cherries F!ZZ",
+  "brand": "Haribo",
+  "price": "2.19",
+  "base_unit_price": "10.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/201424_M/e8a9bc5c8baab17147e753ad83e3a5fa/201424.png",
+  "ingredients": "Ingrediënten: Glucosestroop; suiker; zetmeel; gelatine; voedingszuren: citroenzuur, appelzuur; vruchten- en plantenconcentraten: rammenas, zoete aardappel, wortel, saffloer, zwarte bes, hibiscus, spirulina; zuurteregelaars: tricalciumcitraat, natriumwaterstofmalaat; aroma; glansmiddel: carnaubawas; invertsuikerstroop. Kan sporen bevatten van MELK, TARWE.",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1429.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "60.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.21",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:19:15"
+}

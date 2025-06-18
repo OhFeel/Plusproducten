@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Jules Destrooper Boterwafels",
+  "brand": "Jules Destrooper",
+  "price": "2.59",
+  "base_unit_price": "25.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/688308_M/3b5f50823c87a1c357446891d116eecf/688308.png",
+  "ingredients": "Ingrediënten: TARWEbloem, suiker, boter (18%) (MELK), scharrelEIEREN, rijsmiddel: ammoniumcarbonaten, zeezout. Kan sporen van soja, amandelen, hazelnoten, cashewnoten, pecannoten, macadamianoten en andere gluten bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1973.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "469.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:30"
+}

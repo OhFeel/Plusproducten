@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Santa maria Dip Tex Mex guacamole",
+  "brand": "Santa maria",
+  "price": "3.19",
+  "base_unit_price": "12.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/613816_M/56962e376cc5166a9e021aa8f7c720a6/613816.png",
+  "ingredients": "Ingrediënten: Water, ui, tomaat, zonnebloemolie, paprika, gemodificeerd zetmeel (E1442), WEIPROTEÏNE (MELK), avocado (1,4%), suiker, jalapeño, zout, knoflook, zuurteregelaar (E575, E270, E330, E338), gistextract, maltodextrine, aroma, emulgator (E450i, E471), verdikkingsmiddel (E415), kruid, kleurstof (E100, E141)",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "513.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "124.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:14"
+}

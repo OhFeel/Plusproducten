@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Winegummix XL",
+  "brand": "Redband",
+  "price": "3.69",
+  "base_unit_price": "10.11",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/317399_M/ae17179e9b8d5a46f308f68905b61db2/317399.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, zetmeel, gelatine, voedingszuur (melkzuur), natuurljke aroma's, plantaardige oliën (kokos, koolzaad), concentraat van (zwarte wortel, wortel, zwarte bessen, saffloer, spirulina), glansmiddel (bijenwas), kleurstoffen (paprika-extract, curcumine).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1454.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "342.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "80.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.03",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:10:01"
+}

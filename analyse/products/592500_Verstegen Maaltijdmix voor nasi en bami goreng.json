@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verstegen Maaltijdmix voor nasi en bami goreng",
+  "brand": "Verstegen",
+  "price": "1.49",
+  "base_unit_price": "49.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/592500_M/f6d2a0b3f4c5dad8a62c5c2e11f15c5b/592500.png",
+  "ingredients": "Ingrediënten: specerijen (18% koriander, paprika, 5% gember, kurkuma, komijn, sereh, laos, fenegriek, peper, chilies), zout, groenten (8% ui, 2% paprika, wortel, knoflook, prei), rijstebloem.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "902.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "216.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "35.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:55:19"
+}

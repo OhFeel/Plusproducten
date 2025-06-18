@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "La Taperia Spaanse tapaspuntjes",
+  "brand": "La Taperia",
+  "price": "3.99",
+  "base_unit_price": "39.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/410073_M/e5bff182abb34ac141b06633229f9310/410073.png",
+  "ingredients": "Ingrediënten:\nQueso Manchego (BOB*) 50+: gepasteuriseerde schapenMELK, zout, conserveermiddel: scharrelEl-lysozym, dierlijk stremsel, zuursel.\nGeitenkaas 45+: gepasteuriseerde geitenMELK, zout, conserveermiddel: scharrelEl-lysozym, dierlijk stremsel, zuursel.\nIbérico 45+: gepasteuriseerde MELK, gepasteuriseerde schapenMELK 3% gepasteuriseerde geitenMELK 3% zout, vegetarisch stremsel, zuursel, conserveermiddel: scharrelEl-lysozym.\n*BOB = kaas met Beschermde Oorsprongsbenaming.\n\nAllergenen: melk, ei.",
+  "allergens": "Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1759.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "424.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "24.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "24.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.53",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:42:47"
+}

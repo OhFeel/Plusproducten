@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Saitaku Wasabi paste",
+  "brand": "Saitaku",
+  "price": "3.79",
+  "base_unit_price": "88.14",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/387223_M/6e193767fae5cf630065b0b9e4eed40a/387223.png",
+  "ingredients": "Ingrediënten: Mierikswortel poeder 33%, bevochtigingsmiddel: E420, maïsolie, water, zout, Wasabi (Eutrema Japonicum) 5%, gemodificeerd maïszetmeel, MOSTERDOLIE, voedingszuur: citroenzuur, kurkuma, verdikkingsmiddel: E415, kleurstof: E133.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1072.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "256.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:34:51"
+}

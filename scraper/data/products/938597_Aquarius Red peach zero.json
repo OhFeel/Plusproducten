@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Aquarius Red peach zero",
+  "brand": "Aquarius",
+  "price": "1.75",
+  "base_unit_price": "3.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/938597_M/e8b3c08a75e246212cc946d3a774f5f0/938597.png",
+  "ingredients": "water; voedingszuur: citroenzuur; wortel- en zwarte bessenconcentraten; natuurlijke aroma's; smaakversterkers: natriumchloride, kaliumfosfaat, calciumfosfaat; stabilisatoren: natriumgluconaat, arabische gom, glycerolesters van houthars; zoetstoffen: cyclamaten, sucralose; minerale zouten°: zinkgluconaat, natriumselenaat; kleurstof: carotenen.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "7.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "2.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.05",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "0.8",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Seleen",
+      "value": "4.5",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:39"
+}

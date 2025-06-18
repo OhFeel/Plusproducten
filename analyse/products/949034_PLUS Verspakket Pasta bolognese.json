@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Verspakket Pasta bolognese",
+  "brand": "PLUS",
+  "price": "5.89",
+  "base_unit_price": "5.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/949034_M/146a23c1ac8bf587eca57d69d2af30ad/949034.png",
+  "ingredients": "Ingrediënten :tomaat, courgette, ui, wortel, 8% tomatensaus (water, tomatenpuree (water, zongedroogde tomaten, zout, azijn, citroensap), zout, witte balsamico-azijn (wijnazijn, druivenmostconcentraat, conserveermiddel: E220, natuurlijk aroma), tomaatpoeder, olijfolie, gedroogde ui, specerijen (paprikapoeder, knoflookpoeder, witte peper, MOSTERDPOEDER), kruiden (basilicum, oregano, rozemarijn, tijm), erwtenvezels, erwtenzetmeel, conserveermiddel: E202, natuurlijk aroma), 7% tomatenpuree (tomaat, zout), BLEEKSELDERIJ, knoflook, rozemarijn.",
+  "allergens": "Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "546.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.983",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.04",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "2.448",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.492",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.205",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.099",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "10.106",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.183",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.015",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.649",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.259",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.004",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:18:03"
+}

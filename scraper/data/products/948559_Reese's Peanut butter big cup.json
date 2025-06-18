@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Reese's Peanut butter big cup",
+  "brand": "Reese's",
+  "price": "1.29",
+  "base_unit_price": "33.08",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/948559_M/5a0072c4e2f86a72c0eb6c2f3cf2d5d8/948559.png",
+  "ingredients": "Ingrediënten: MELKchocolade [suiker, cacaoboter, chocolade, magere MELK, MELKvet, lactose (MELK), emulgator: SOJAlecithine], PINDA's, suiker, dextrose, cacaoboter, gedeeltelijk gehydrogeneerde plantardige olie (palmpit-, palmolie), zout, emulgator: E319",
+  "allergens": "Cacao, Aardnoten (pinda's), Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2151.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "514.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.89",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:17:50"
+}

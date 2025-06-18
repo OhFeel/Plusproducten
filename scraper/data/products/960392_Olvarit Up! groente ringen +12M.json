@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Olvarit Up! groente ringen +12M",
+  "brand": "Olvarit",
+  "price": "1.09",
+  "base_unit_price": "72.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/960392_M/5a6af36e77a69260aeb8ff145f034b01/960392.png",
+  "ingredients": "ingrediënten :  69,5% maismeel**, 12% groentepoeder (6% tomatenpoeder**, 3% wortelpoeder**, 3% pompoenpoeder**), 10% zonnebloemolie**, 3,9% gierstmeel**, 2,3% glutenvrij HAVERmeel**, 2,3% quinoameel**, antioxidant (tocoferolrijk extract)**, thiamine. **van biologische oorsprong.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1834.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "436.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "72.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.08",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.08",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:23"
+}

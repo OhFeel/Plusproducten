@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Leentjes Strooipret cijfers",
+  "brand": "Leentjes",
+  "price": "2.15",
+  "base_unit_price": "43.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/611405_M/17030d9af48e087f8fdfa0972d16ef91/611405.png",
+  "ingredients": "suiker, water, plantaardige olie (zonnebloemolie) aardappelzetmeel, rijstebloem, natuurlijk vanille aroma, kleurstof (spirulina), extracten (radijs, zwarte bes, appel, saffloer, citroen)",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1756.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "414.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "95.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "87.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten plantaardig",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:43"
+}

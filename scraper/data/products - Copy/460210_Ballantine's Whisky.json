@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Ballantine's Whisky",
+  "brand": "Ballantine's",
+  "price": "37.99",
+  "base_unit_price": "25.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/460210_M/ae209a5699b7348b3f1f3ade271d359c/460210.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:02:45"
+}

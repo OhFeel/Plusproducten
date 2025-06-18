@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Scheldebrouwerij ZEEZUIPER",
+  "brand": "Scheldebrouwerij",
+  "price": "8.49",
+  "base_unit_price": "11.32",
+  "image_url": "",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, suiker, koriander, hop en gist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "317.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "76.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "8",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:07"
+}

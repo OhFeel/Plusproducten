@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mediterraneo Focaccia pizza",
+  "brand": "Mediterraneo",
+  "price": "2.49",
+  "base_unit_price": "8.30",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/792757_M/1a63f43d5e48cffeacb2ff294136b290/792757.png",
+  "ingredients": "Ingrediënten: TARWEbloem, water, tomatensaus (water, tomatenpuree, tomaten poeder, zout, rijstebloem, aardappelzetmeel, suiker, ui, wortel, paprika extract, specerijen, kruiden, chili), 6% rode paprika, 5% oude Goudse kaas (bevat: MELK), 4% rode ui, gist, 2% groene paprika, 2% mozzarella (bevat: MELK), Gebufferd azijn (conserverend ingrediënt), zonnebloemolie, koolzaadolie, rijstebloem, zout, olijfolie, suiker, conserveermiddel (E281)",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "909.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "218.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "33.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.99",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:44:57"
+}

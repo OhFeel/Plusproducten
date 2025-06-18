@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Slimpie Limonadesiroop cactus appel",
+  "brand": "Slimpie",
+  "price": "3.49",
+  "base_unit_price": "5.37",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/622010_M/cb179081cb9580e203e3ea18d3c9a320/622010.png",
+  "ingredients": "Ingrediënten: Water, 2% appelsap uit concentraat, voedingszuur (citroenzuur), natuurlijk appel aroma met andere natuurlijke aroma's, zoetstoffen (sucralose, acesulfaam K), conserveermiddelen (E202, E211), zuurteregelaar (E331), antioxidant (ascorbinezuur), stabilisator (xanthaangom), kleurstoffen (koperchlorophyll, luteïne).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "25.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "6.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:06:24"
+}

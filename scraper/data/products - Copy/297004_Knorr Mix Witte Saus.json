@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Mix Witte Saus",
+  "brand": "Knorr",
+  "price": "1.45",
+  "base_unit_price": "65.91",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/297004_M/8dfa7d21e39e72ae598b8d189423af56/297004.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, aardappelzetmeel, palmvet, gejodeerd zout, weiproduct (bevat MELK), magere MELKPOEDER 5,8%, glucosesiroop, mineraalzout (kalium), MELKEIWITTEN, aroma, gehydrolyseerd maïseiwit, witte wijnextract, gistextract, suiker, uienpoeder¹, maltodextrine, citroensap, zout, nootmuskaat. Kan ei, soja, selderij, mosterd bevatten. ¹op duurzame wijze geteeld.",
+  "allergens": "Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "322.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "77.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.83",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:02:20"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "BioToday Hummuschips Indian curry",
+  "brand": "BioToday",
+  "price": "2.69",
+  "base_unit_price": "35.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/426005_M/2b8966554488733536fb2b764f7ea1fc/426005.png",
+  "ingredients": "kikkererwtenmeel* 43%, aardappelzetmeel*, zonnebloemolie*, aardappelmeel*, curry kruidenmix* 2,5% (zout, romaat*, ui*, korianderzaad*, gember*, knoflook*, komijn*, zwarte peper*, kardemom*, cayennepeper*, lavaswortel*, kurkuma*, kaneel*, zonnebloemolie*), zeezout, *= biologisch\nkan sporen bevatten van:",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2071.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "495.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:48:27"
+}

@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Roomboter fondant cake Fairtrade",
+  "brand": "PLUS",
+  "price": "3.49",
+  "base_unit_price": "11.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/707666_M/cc8aad75437ebf24129a8f61150bd24f/707666.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, suiker, 16% vulling met bosvruchten (glucose-fructosestroop, suiker, 7% appelpuree, 7% aardbeipuree, 7% bosbessenpuree, verdikkingsmiddel: pectinen, zuurteregelaar: E333/E332/E330, conserveermiddel: E202, natuurlijk aroma), 15% roomboter (MELK), 11% suikercoating (suiker, plantaardige vetten (palmpit, palm, kokos), emulgator: SOJALECITHINE, natuurlijk aroma, rode bietenconcentraat), SCHARRELEI, water, aardappelzetmeel, rijsmiddel: E450/E500, dextrose, stabilisator: sorbitolen, emulgator: E471/E322(SOJA)/E475/E492, TARWEZETMEEL, glucose-fructosestroop, plantaardige vetten (palmpit, palm), zout, conserveermiddel: E282/E200/E202/E281, SOJABLOEM, rijstebloem, magere cacaopoeder, raapolie, verdikkingsmiddel: xanthaangom, kleurstof: carotenen.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1730.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "413.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "36.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "20.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.91",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.364",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "34.76",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:26:40"
+}

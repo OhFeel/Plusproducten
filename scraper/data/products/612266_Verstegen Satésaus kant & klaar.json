@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Verstegen Satésaus kant & klaar",
+  "brand": "Verstegen",
+  "price": "2.99",
+  "base_unit_price": "0.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/612266_M/865c97fbe42895b96e186ad33b582818/612266.png",
+  "ingredients": "Ingrediënten: water, 26% gemalen PINDA'S, suiker, sojasaus (water, SOJAbonen, TARWE, zout), natuurazijn, gemodificeerd maïszetmeel, gemodificeerd aardappelzetmeel, zout, kleurstof: ammoniakkaramel, 0,2% gember, groenten (0,1% knoflook, ui), antioxidant: natriumascorbaat, zuurteregelaar: glucono-delta-lacton, conserveermiddelen: natriumbenzoaat en kaliumsorbaat.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "910.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "218.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:53"
+}

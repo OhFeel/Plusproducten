@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Schär Glutenvrije Crackers",
+  "brand": "Schär",
+  "price": "3.59",
+  "base_unit_price": "17.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/233061_M/cbeb0d29069ea536182f699c10db43bb/233061.png",
+  "ingredients": "INGREDIËNTEN: maïszetmeel, maïsmeel, plantaardig\nmargarine [plantaardige vetten en oliën (palm, palmpitten, kokos,\nkoolzaad in wisselende verhoudingen), water, zout, emulgator: mono- en\ndiglyceriden van vetzuren; aroma], maltodextrine, rijststroop, gemodificeerd\ntapiocazetmeel, SOJAMEEL, zout, gist, verdikkingsmiddelen: guargom,\nhydroxypropylmethylcellulose; rijsmiddelen: monokaliumtartraat,\nammoniumbicarbonaat, natriumbicarbonaat; emulgator: mono- en\ndiglyceriden van vetzuren, natuurlijk aroma. LACTOSEVRIJ",
+  "allergens": "Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1878.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "446.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "79.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:30:36"
+}

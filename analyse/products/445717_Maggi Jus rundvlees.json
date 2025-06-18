@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Jus rundvlees",
+  "brand": "Maggi",
+  "price": "0.75",
+  "base_unit_price": "41.67",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/445717_M/716582f29e74576014b38fe88b6c1372/445717.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel, zout, aroma's (bevat TARWE), gekarameliseerde suiker, smaakversterkers (E621), maltodextrine, palmolie, gistextract, gehydrolyseerde plantaardige eiwitten (bevat TARWE), suiker, rundvleespoeder (0,5%), natuurlijk kruidnagelaroma. Bevat mogelijk selderij, eieren, melk, mosterd, soja.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1403.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "332.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "55.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "20.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:57:27"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Peijnenburg Ontbijtkoek Naturel Gesneden",
+  "brand": "Peijnenburg",
+  "price": "2.99",
+  "base_unit_price": "5.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/667847_M/878f86b9368a886da6a75cf94bede72e/667847.png",
+  "ingredients": "Ingrediënten: Glucose-fructosestroop, ROGGEbloem 37%, water, rijsmiddelen (natriumwaterstofcarbonaat, dinatriumdifosfaat), shea olie, specerijen, natuurlijk aroma.",
+  "allergens": "Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1302.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "307.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:17:52"
+}

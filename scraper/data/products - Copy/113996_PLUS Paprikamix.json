@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "PLUS Paprikamix",
+  "brand": "PLUS",
+  "price": "2.35",
+  "base_unit_price": "0.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/113996_M/7dcbf3e1b1582a0af2a3f688bef9d3a2/113996.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:44:45"
+}

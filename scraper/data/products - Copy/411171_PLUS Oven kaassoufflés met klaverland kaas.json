@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Oven kaassoufflés met klaverland kaas",
+  "brand": "PLUS",
+  "price": "3.29",
+  "base_unit_price": "11.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/411171_M/740e39f60cd1d2b8166a187091ea2fe0/411171.png",
+  "ingredients": "Ingrediënten :TARWEBLOEM, 34% kaasvulling (26% smeltkaas (met 44% Klaverland kaas (MELK, zout, zuursel, stremsel, conserveermiddel: E251, kleurstof: E160a), water, raapzaadolie, maïszetmeel, smeltzout: E339/E452, natuurlijk aroma (bevat MELK), voedingszuur: melkzuur, kleurstof: carotenen), water, rijstzetmeel, verdikkingsmiddel: E461, natuurlijk aroma), plantaardige oliën (palm, raapzaad, in wisselende verhoudingen), water, zout, gemodificeerd aardappelzetmeel, rijsmiddel: E500/E451/E450, verdikkingsmiddel: E401, kurkumapoeder, citroensapconcentraat, gist, kleurstof: E160b(ii)/E160c/E100. \n\nDit product kan sporen van PINDA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1483.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "356.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "10.62",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "8.89",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "2.64",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "28.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.385",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.554",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:43:27"
+}

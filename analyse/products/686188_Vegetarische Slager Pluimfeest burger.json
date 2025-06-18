@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Vegetarische Slager Pluimfeest burger",
+  "brand": "Vegetarische Slager",
+  "price": "3.99",
+  "base_unit_price": "22.17",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/686188_M/8106d4d520aecdec0857244b0f0ea948/686188.png",
+  "ingredients": "Ingrediënten: SOJASTRUCTUUR 50% (water, SOJA-EIWIT, TARWE-GLUTEN, aardappelzetmeel), bloem (TARWE, mais), water, plantaardige oliën (zonnebloem, raapzaad), verdikkingsmiddel (methylcellulose), vezels (bamboe, psyllium, HAVER), zetmeel (tapioca, TARWE),  zout, natuurlijk aroma, TARWEGLUTEN, gistextract, gemodificeerd maïszetmeel, zuurteregelaar (kaliumacetaat), dextrose, rijsmiddel (difosfaten, natriumcarbonaat), azijn, suiker, gist, voedingszuur (citroenzuur), specerijen (kurkuma, uipoeder, knoflookpoeder), specerij-extracten (paprika, SELDERIJ, chilipeper, zwarte peper), ijzerpyrofosfaat, ijzer, lavas, kruidenextracten (tijm, rozemarijn), vitamine B12. Kan mosterd, sesamzaad bevatten.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1005.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "242.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.3",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.8",
+      "unit": "microgram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:08"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum White",
+  "brand": "Magnum",
+  "price": "2.75",
+  "base_unit_price": "2.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/738909_M/a003875531edeb30466b43057ace2ab1/738909.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, cacaoboter1, water, kokosolie, magere MELKPOEDER, glucose-fructosestroop, glucosestroop, BOTERCONCENTRAAT, volle MELKPOEDER, LACTOSE en MELKEIWITTEN, emulgatoren (E471, zonnebloemlecithine), stabilisatoren (guargom, johannesbroodpitmeel, carrageen), uitgeputte gemalen vanillestokjes, natuurlijk vanille aroma1 (bevat MELK), aroma, kleurstof (carotenen). Kan amandel, soja bevatten. Glutenvrij. 1Rainforest Alliance gecertificeerd.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1264.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "302.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "27.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:47"
+}

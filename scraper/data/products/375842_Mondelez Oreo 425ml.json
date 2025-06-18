@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mondelez Oreo 425ml",
+  "brand": "Mondelez",
+  "price": "3.49",
+  "base_unit_price": "8.21",
+  "image_url": "",
+  "ingredients": "Ingrediënten: magere MELK, glucosestroop, fijngehakte cacaokoekjes (TARWEBLOEM, suiker, koolzaadolie, mager cacaopoeder (0,5%), glucose-fructosestroop, TARWEZETMEEL, rijsmiddelen (ammoniumcarbonaten, kaliumcarbonaten, natriumcarbonaten), palmolie, zout, emulgator (SOJALECITHINEN), zuurteregelaar (natriumhydroxide), aroma's), plantaardig vet (kokos, palm), suiker, zoet WEICONCENTRAAT, magere MELKCONCENTRAAT, TARWEBLOEM, mager cacaopoeder 0,4%, emulgator (mono- en diglyceriden van vetzuren), stabilatoren (johannesbroodpitmeel, guarpitmeel), zout, aroma's, rijsmiddel (natriumcarbonaten), zuurteregelaars (natriumhydroxide, ammoniumhydroxide). KAN BEVATTEN: AMANDELEN, HAZELNOTEN, WALNOTEN, PISTACHENOTEN, MACADAMIANOTEN, PECANNOTEN, CASHEWNOTEN, BRAZILIAANSE NOTEN, PINDANOTEN, EI, MOSTERD.",
+  "allergens": "Glutenbevattende granen, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "997.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "238.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:29:30"
+}

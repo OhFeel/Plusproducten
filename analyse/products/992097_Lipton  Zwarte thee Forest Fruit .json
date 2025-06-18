@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lipton  Zwarte thee Forest Fruit ",
+  "brand": "Lipton",
+  "price": "2.99",
+  "base_unit_price": "0.15",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/992097_M/3397e54314bcd1961d6b0e10050a04b2/992097.png",
+  "ingredients": "zwarte thee¹, aroma, aardbei (0,9%), framboos (0,6%), rode bes (0,6%), braambes (0,3%), kers (0,3%). 1theeblend volledig rainforest alliance™ gecertificeerd.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "17.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "4.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:26:40"
+}

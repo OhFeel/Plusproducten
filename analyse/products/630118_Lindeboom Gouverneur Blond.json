@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Lindeboom Gouverneur Blond",
+  "brand": "Lindeboom",
+  "price": "2.09",
+  "base_unit_price": "6.97",
+  "image_url": "",
+  "ingredients": "Ingrediënten: water, GERSTEmout, hop, bovengist.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "250.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "60.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "6.5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:08:38"
+}

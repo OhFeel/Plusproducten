@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Gesneden verspakket Plaatpizza Italia",
+  "brand": "PLUS",
+  "price": "6.89",
+  "base_unit_price": "6.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/900870_M/2fe81998769839ea4f1e553d02661383/900870.png",
+  "ingredients": "Ingrediënten :40% pizzadeeg (TARWEBLOEM, water, TARWEGLUTEN, ethylalcohol, dextrose, rijsmiddel: E575/E501, raapzaadolie, zout, olijfolie, gist, meelverbeteraar: E300), 23% courgette, 14% paprika, 10% tomatensaus (water, 28% tomaat, 19% tomatenpuree, zonnebloemolie, suiker, zout, gemodificeerd maïszetmeel, kruiden (peterselie, oregano, basilicum, laurier), knoflook, prei, ui, wortel, KNOLSELDERIJ, natuurlijke aroma's (bevat SELDERIJ), conserveermiddel: E211/E202, stabilisator: xanthaangom), 8% cherrytomaat, sjalot, tijm.\n\nKan MELK bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "821.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "195.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.337",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.424",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "3.285",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.365",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.495",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.137",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "21.358",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.605",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.598",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.878",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.351",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.365",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:02:32"
+}

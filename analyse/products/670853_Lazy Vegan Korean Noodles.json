@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lazy Vegan Korean Noodles",
+  "brand": "Lazy Vegan",
+  "price": "5.49",
+  "base_unit_price": "12.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/670853_M/bec4b8b10b1f37deef2c92eb10c90ad2/670853.png",
+  "ingredients": "Gekookte TARWE noedels 33% (TARWEbloem, water, zonnebloemolie, zout), romanesco 12%, shiitake 8%, edamame SOJAbonen 7%, paprika 7%, boerenkool 7%, ui 8%, bloemkool 6%, knoflook 2%, SOJAsaus 2% (water, SOJAbonen, TARWE, zout), gember 2%, zonnebloempitten, rijstazijn, ahornsiroop, champignon extract, rode chilipeper, karamel, natuurlijk aroma, zout.",
+  "allergens": "Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "436.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "103.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:18:30"
+}

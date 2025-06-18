@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Elvee Karamelroombonbons",
+  "brand": "Elvee",
+  "price": "5.99",
+  "base_unit_price": "37.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/654697_M/0fc1f559663b7da83802985cb607afbd/654697.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter, plantaardige vetten (kokos, palm), cacaomassa, volle MELKPOEDER, glucosestroop, plantaardige oliën (zonnebloemolie, palm), weipoeder (MELK), gecondenseerde volle MELK, 2% ROOM, magere MELKPOEDER, water, LACTOSE, emulgatoren (SOJALECITHINE, E471), natuurlijke aroma’s, aroma, verdikkingsmiddelen (pectine, E1442), geleermiddel (E331iii), kleurstof (paprika-extract), voedingszuur (E334), zout, conserveermiddel (E202). Gemaakt in een bedrijf waar ook gluten bevattende granen, ei en noten worden verwerkt.",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2279.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "546.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "56.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:13:47"
+}

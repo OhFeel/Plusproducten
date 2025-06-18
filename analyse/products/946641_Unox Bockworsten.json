@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Unox Bockworsten",
+  "brand": "Unox",
+  "price": "5.99",
+  "base_unit_price": "10.89",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/946641_M/6350d8c8910dd60dbd900d64876395f9/946641.png",
+  "ingredients": "worst: varkensvlees¹ 78%, water, aardappelzetmeel, zout, specerij-extracten, rundercollageen, stabilisator (e451, e452), antioxidant (e301, e392), rookaroma, conserveermiddel e250. opgiet: water, zout. ¹ = beter leven keurmerk 1 ster.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "732.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "175.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:16:38"
+}

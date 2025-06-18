@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Gouda's Glorie Snacksaus Red hot samurai",
+  "brand": "Gouda's Glorie",
+  "price": "2.99",
+  "base_unit_price": "5.44",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/662820_M/1a1f46b40abea37f82f9038b9992ce9e/662820.png",
+  "ingredients": "Ingrediënten: raapolie 63%, natuurazijn, water, glucose-fructosestroop, vrije uitloop EIGEEL 4%, chilipeper 2,5%, paprika, MOSTERD (water, MOSTERDZADEN, natuurazijn, specerijen), zout, gemodificeerd maiszetmeel, voedingszuur: citroenzuur, specerijen, natuurlijk aroma, conserveermiddel: kaliumsorbaat, verdikkingsmiddel: guarpitmeel, antioxidant: E385.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2455.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "596.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:16:09"
+}

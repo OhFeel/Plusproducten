@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Kaasplateau Luxe",
+  "brand": "PLUS",
+  "price": "10",
+  "base_unit_price": "21.55",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/511843_M/d4da34d31d3119ee492e31d9424b21b3/511843.png",
+  "ingredients": "Ingrediënten :Camembert, witschimmelkaas 45+: gepasteuriseerde MELK, zout, zuursel, witschimmelcultuur, vegetarisch stremsel.\n\nDanablu (BOB), blauwschimmelkaas 50+: gethermiseerde MELK, zout, zuursel, vegetarisch stremsel, blauwschimmelcultuur.\n\nTorre Campos, koe- en schapenkaas 40+: gepasteuriseerde KOEMELK, gepasteuriseerde SCHAPENMELK, zout, dierlijk stremsel, zuursel, conserveermiddelen: natamycine, kaliumsorbaat.\n\nMunster (BOB), gewassen korstkaas 50+: gepasteuriseerde MELK, zout, dierlijk stremsel, zuursel.\n\nKletzenbrood: water, 15% vijgen, 11% rozijnen, 11% abrikozen, TARWEBLOEM, ROGGEBLOEM, VOLKORENTARWEMEEL, 8% pruimen, 2% HAZELNOTEN, 2% WALNOTEN, ROGGEZUURDESEM, SPELTBLOEM (TARWE), rijstebloem, suiker, specerijen, voorverstijfselde TARWEBLOEM, gejodeerd zout, geroosterd TARWEMOUTMEEL, GERSTEMOUTEXTRACT, gist, plantaardige oliën (zonnebloem, koolzaad), conserveermiddel: E220 (SULFIET)/E202/E262, enzymen (TARWE), meelverbeteraar: E300.\n\nLuikse stroop: perenconcentraat, appelconcentraat, dadelconcentraat, suiker, zuurteregelaar: citroenzuur.",
+  "allergens": "Tarwe, Rogge, Gerst en gerstproducten (gluten bevattend graan), Spelt en speltproducten (gluten bevattend graan), Glutenbevattende granen, Melk, Noten, Zwaveldioxide en sulfieten, Lactose, hazelnoten, walnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1404.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "338.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "18.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.67",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.668",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:23:35"
+}

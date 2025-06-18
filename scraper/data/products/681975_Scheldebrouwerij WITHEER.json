@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Scheldebrouwerij WITHEER",
+  "brand": "Scheldebrouwerij",
+  "price": "2.29",
+  "base_unit_price": "6.94",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/681975_M/4a51b37b16f5fd1cfa82dcac9aea8e54/681975.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, TARWEMOUT, curaçaoschil, koriander, hop en gist.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "225.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "54.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "5",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:06"
+}

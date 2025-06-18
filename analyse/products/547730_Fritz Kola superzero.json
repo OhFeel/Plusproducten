@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Fritz Kola superzero",
+  "brand": "Fritz",
+  "price": "1.49",
+  "base_unit_price": "4.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/547730_M/45786b0e4dfad327956b19ba0be75882/547730.png",
+  "ingredients": "natuurlijk mineraalwater, koolzuur, kleurstof ammoniumsulfiet karamel, voedingszuur fosforzuur, zoetstoffen (natriumcyclamaat, acesulfaam-k, aspartaam*), cafeïne, natuurlijk aroma, *bevat een bron van fenylanine.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "4.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "1.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:33:57"
+}

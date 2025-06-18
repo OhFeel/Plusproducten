@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "I Am Super Spicy Roti chutney",
+  "brand": "I Am Super Spicy",
+  "price": "3.69",
+  "base_unit_price": "12.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/446784_M/5de4ac860401f54dde63d3d87b9e4f16/446784.png",
+  "ingredients": "Ingrediënten: gebakken ui (34%) (ui, zonnebloemolie), water, knoflookpuree (13%), groentebouillon (suiker, aardappelzetmeel, zout, SELDERIJ-extract, gistextract (van GERST), uienextract, peterselie-extract, uienpoeder, kurkuma-extract, peterselie, zuurteregelaar: citroenzuur), rode habaneo-chilipepers (3,5%), specerijen (komijn, koriander, fenegriek, kardemom, zwarte peper, gember, piment, kruidnagel, laurierblad, nootmuskaat), tomatenpuree, suiker, zuurteregelaars: citroenzuur, azijnzuur, gemodificeerd maïszetmeel, kleurstof: karamel, zout, MOSTERDpoeder, natuurlijke smaakstof. Wordt mogelijk geproduceerd op een locatie waar noten, pinda's en sesam worden verwerkt.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "375.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "90.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.47",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:58:01"
+}

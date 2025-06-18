@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Kruidenmix gehakt kruiden",
+  "brand": "Silvo",
+  "price": "1.49",
+  "base_unit_price": "37.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/891171_M/171baf21e246c0ace4dfffc4005b7a7d/891171.png",
+  "ingredients": "Ingrediënten:  Paneermeel (bevat tarwe), specerijen 10.8% (paprika, korianderzaad, gedroogde ui, nootmuskaat, kurkuma, chilipeper), glucosestroop, dextrose, zout 6%, aroma (bevat gerst, tarwe), smaakversterker: mononatriumglutamaat, palmolie, rode paprika, kleurstof: paprika-extract, antiklontermiddel: siliciumdioxide, bieslook. Totale gehalte aan kruiden en specerijen: 10.9%",
+  "allergens": "Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1405.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "336.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "62.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "10.51",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:00:36"
+}

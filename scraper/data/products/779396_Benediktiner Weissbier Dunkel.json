@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Benediktiner Weissbier Dunkel",
+  "brand": "Benediktiner",
+  "price": "1.89",
+  "base_unit_price": "3.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/779396_M/603fac3a89a7f1456efb9981939fdee0/779396.png",
+  "ingredients": "Zutaten: Wasser, WEIZENMALZ, GERSTENMALZ, Hopfen, Hefe.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "5.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:33"
+}

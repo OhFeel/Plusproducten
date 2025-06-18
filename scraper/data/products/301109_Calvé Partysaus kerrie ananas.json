@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Calvé Partysaus kerrie ananas",
+  "brand": "Calvé",
+  "price": "1.95",
+  "base_unit_price": "7.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/301109_M/6413ce6c66bab2d5a1a2941fc3a904ad/301109.png",
+  "ingredients": "Ingrediënten: Water, raapzaadolie, suiker, ananas 5,8%, appelmoes, gemodificeerd maïszetmeel, rode wijnazijn, moutazijn (GERST), EIGEEL, zout, ananassap 1,7%, azijn, kerriepoeder 1,2%, ui, Madeirawijn, emulgator (E476), aroma's, kurkuma, kleurstof (E160a).",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "768.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "184.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:05:27"
+}

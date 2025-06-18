@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kinder Kindermaxi T4",
+  "brand": "Kinder",
+  "price": "1.83",
+  "base_unit_price": "21.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/126703_M/4c66cfaa649b75785fa38de3b07f6e05/126703.png",
+  "ingredients": "Ingrediënten : superieure MELKCHOCOLADE 40% (suiker, MELKPOEDER, cacaoboter, cacaomassa, emulgatoren: lecithinen [SOJA] ; vanilline), suiker, magere MELKPOEDER 18%, palmolie, BOTERCONCENTRAAT, emulgatoren: lecithinen [SOJA], vanilline. Op het totaal: melkproducten 33%, cacao 13%.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2360.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "566.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "22.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "53.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.313",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:49:35"
+}

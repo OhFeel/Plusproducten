@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Hummus trio (pesto, citroen, wortel)",
+  "brand": "PLUS",
+  "price": "2.49",
+  "base_unit_price": "11.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/150110_M/c7bec2a009b434ad705fbda790ea0935/150110.png",
+  "ingredients": "Ingrediënten :33% citroen hummus (51% gerehydrateerde kikkererwten, water, raapzaadolie, 9% SESAMPASTA, suiker, 2% citroensap, knoflook, zuurteregelaar: E267, zout, voedingszuur: E330/E270, conserveermiddel: E202/E224, komijn, natuurlijk citroenaroma), 33% groene-pesto hummus (57% gerehydrateerde kikkererwten, 15% groene pestomarinade (22% spinazie, raapzaadolie, 17% basilicum, 15% geraspte kaas (gepasteuriseerde MELK, aardappelzetmeel, zout, zuursel, dierlijk stremsel, kleurstof: E160b(ii)/E160a, conserveermiddel: E251), pijnboompitten, witte wijnazijn, knoflook, CASHEWNOTEN, zout, uienpoeder, conserveermiddel: E202), water, 7% SESAMPASTA, raapzaadolie, knoflook, zout, zuurteregelaar: E267, voedingszuur: E330/E270, conserveermiddel: E202), 33% wortel hummus (50% gerehydrateerde kikkererwten, 30% wortelpuree, water, plantaardige olie (raapzaad, rijst, SESAM), 2% SESAMPASTA, suiker, knoflook, zout, zuurteregelaar: E267, voedingszuur: E330/E270, komijn, conserveermiddel: E202).\n\nKan PINDA, AMANDEL, HAZELNOOT, WALNOOT, PECANNOOT, PARANOOT, PISTACHENOOT en MACADAMIANOOT bevatten.",
+  "allergens": "Melk, Noten, Sesamzaad, Lactose, cashewnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "842.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "203.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "7.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.16",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:56:55"
+}

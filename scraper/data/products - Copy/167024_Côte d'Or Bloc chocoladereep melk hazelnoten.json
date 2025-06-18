@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Côte d'Or Bloc chocoladereep melk hazelnoten",
+  "brand": "Côte d'Or",
+  "price": "5.19",
+  "base_unit_price": "28.83",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/167024_M/1c4dad59cd54c1df67e214a5f584b2aa/167024.png",
+  "ingredients": "Ingrediënten: Suiker, HAZELNOTEN (24 %), cacaomassa, cacaoboter, magere MELKPOEDER, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), aroma's. Cacao: ten minste 33 % in de melkchocolade.KAN ANDERE NOTEN BEVATTEN.",
+  "allergens": "Soja, Melk, Noten, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2307.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "554.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "43.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.18",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:04:40"
+}

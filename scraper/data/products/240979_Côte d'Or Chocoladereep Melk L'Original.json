@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Côte d'Or Chocoladereep Melk L'Original",
+  "brand": "Côte d'Or",
+  "price": "3.65",
+  "base_unit_price": "20.28",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/240979_M/dc0b300474e4969d3c3616bf57c09555/240979.png",
+  "ingredients": "Ingrediënten: Suiker, cacaomassa, magere MELKPOEDER, cacaoboter, weipoeder (van MELK), MELKVET, emulgator (SOJALECITHINEN), aroma's. Cacao: ten minste 33 %. KAN NOTEN BEVATTEN.",
+  "allergens": "Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2175.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "520.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "55.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.23",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:37:02"
+}

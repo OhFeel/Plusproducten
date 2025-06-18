@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Zandvliet Grillworst kip",
+  "brand": "Zandvliet",
+  "price": "1.99",
+  "base_unit_price": "13.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/689129_M/96772b449776d619fc6c0061d3ae3fdd/689129.png",
+  "ingredients": "80% kippenvlees*, kippenvet*, water, aardappelzetmeel, zout, kruiden, specerijen, dextrose, gehydrolyseerd maiseiwit, emulgator (e451), aroma's, maltodextrine, ui, natuurlijke aroma's, citrusvezels, verdikkingsmiddel: rundergelatine, antioxidant (e301), conserveermiddelen (e250, e262). *=beter leven keurmerk 1 ster",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "974.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "234.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "15.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.35",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:22:44"
+}

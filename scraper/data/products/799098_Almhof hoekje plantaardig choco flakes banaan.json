@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof hoekje plantaardig choco flakes banaan",
+  "brand": "Almhof",
+  "price": "1.79",
+  "base_unit_price": "14.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/799098_M/e7749a15fd0a3d1fbc87816bd6e1055d/799098.png",
+  "ingredients": "Ingredienten:\nwater, 19% kokosmelk, 10,4% chocolade cornflakes (suiker, cacaomassa, maïs, cacaoboter, emulgator (lecithinen (bevat SOJA)), zout, GERSTEMOUTEXTRACT, natuurlijk aroma), suiker, 4% bananenpuree, tapiocameel, inuline, veldboneneiwit, gemodificeerd zetmeel, dextrose, verdikkingsmiddel (pectinen), voedingszuur (citroenzuur), zuurteregelaar (calciumcitraten), natuurlijk aroma, culturen.\nKAN MELK, ANDERE GLUTENBEVATTENDE GRANEN, PINDA´S, EI, LUPINEN, MOSTERD, SESAM EN NOTEN BEVATTEN.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "590.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "141.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:46:29"
+}

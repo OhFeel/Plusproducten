@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Rodenbach Fruitage Box Bot",
+  "brand": "Rodenbach",
+  "price": "6.4",
+  "base_unit_price": "6.40",
+  "image_url": "",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, fructose-glucosestroop, maïs, 1,6% zure kersensapconcentraat, kleurend levensmiddel (zwarte wortelsap concentraat), kleurstof (karamel), natuurlijke aroma's, hop, hopextract.",
+  "allergens": "Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "171.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "41.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "3.4",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:28:53"
+}

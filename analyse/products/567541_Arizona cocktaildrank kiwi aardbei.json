@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Arizona cocktaildrank kiwi aardbei",
+  "brand": "Arizona",
+  "price": "1.99",
+  "base_unit_price": "3.98",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/567541_M/520e6c9966dab937b89a17ffa6c82f07/567541.png",
+  "ingredients": "Ingrediënten: water, 20% vruchtensap uit concentraat (peer 14%, kiwi 5%, aardbei 1%), suiker, fructose, voedingszuur: citroenzuur, natuurlijk aroma, verdikkingsmiddel: pectine, kleurende levensmiddelen: concentraat van wortel en bosbessen, kleurstof: beta-caroteen, antioxidant: ascorbinezuur, zoetstof: steviolglycosiden uit stevia, stabilisator: Arabische gom en glycerolesters van houthars.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "93.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "22.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:43:32"
+}

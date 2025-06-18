@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Homemade Tompoucen mix",
+  "brand": "Homemade",
+  "price": "3.59",
+  "base_unit_price": "15.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/600520_M/61286a72432c3924b7df8c4a152e17c9/600520.png",
+  "ingredients": "Ingrediënten: Banketbakkersroommix 80 g (35.5%): suiker, gemodificeerd aardappelzetmeel, magere MELKpoeder, volle MELKpoeder, plantaardige oliën (palm, kokos), glucosestroop, lactose (MELK), emulgator (E472a), natuurlijk aroma, gedroogde glucosestroop, verstevigingsmiddelen (E339, E450), MELKeiwit, verdikkingsmiddel (E407), aroma, kleurstof (E160a). Roze glazuurpoeder 60 g (26,7%): suiker, gedroogde glucosestroop, kleurstoffen (E162, E160b(ii)), natuurlijk aroma. Roomboter tompouceplakken 85 g (37,8%): TARWEbloem, roomboter (MELK) (44,4%), zout. Gemaakt in een fabriek waar ook EI, SOJA en NOTEN worden verwerkt.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1074.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "256.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "39.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "24.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.37",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:00:00"
+}

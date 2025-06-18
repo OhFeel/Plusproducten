@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Mix voor Spaghetti XXL",
+  "brand": "Knorr",
+  "price": "2.19",
+  "base_unit_price": "24.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/443779_M/f562a9d057c87eccadcb52d81281a3e4/443779.png",
+  "ingredients": "Ingrediënten: Tomatenpoeder¹ 35%, aardappelzetmeel, aroma, gejodeerd zout, suiker, ui¹ 2,2%, prei¹ 2%, gehydrolyseerde plantaardige eiwitten, knoflookpoeder¹, maïsolie, kruiden (oregano, peterselie¹, basilicum¹, laurierblad, rozemarijn), gistextract, tomatenstukjes¹ 0,8%, rode paprika¹ 0,8%, peper, SELDERIJZAAD. Kan gluten, ei, melk, mosterd, soja bevatten. ¹ op duurzame wijze geteeld.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "471.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "113.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.57",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:56:52"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Santa maria Tortilla Chips Chili",
+  "brand": "Santa maria",
+  "price": "1.89",
+  "base_unit_price": "10.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/272156_M/ca113fe2b0fe71cfe630fc5168ad14ff/272156.png",
+  "ingredients": "Ingrediënten: Maïsmeel (73%), zonnebloemolie, chilikruiden (maltodextrine, zout, kruiden (ui, tomaat, komijn, koriander, oregano, knoflook), druivensuiker, chilipeper (0,7%), kruiden extract (chili en paprika), natuurlijke aroma's, voedingszuur (citroenzuur)). Kan sporen van soja bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1979.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "472.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "20.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "64.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:49:44"
+}

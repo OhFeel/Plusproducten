@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Haribo F!zz rainbow worms",
+  "brand": "Haribo",
+  "price": "2.09",
+  "base_unit_price": "10.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/309295_M/e7975f1c6b563f4b7c3a5067b131c3b4/309295.png",
+  "ingredients": "glucosestroop; suiker; gelatine; dextrose; voedingszuren: citroenzuur, appelzuur; vruchten- en plantenconcentraten: wortel, spirulina, rammenas, appel, zwarte bes; zuurteregelaar: natriumwaterstofmalaat; aroma. kan sporen bevatten van melk, tarwe.",
+  "allergens": "Tarwe",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1484.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "349.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "81.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "51.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.06",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:08:00"
+}

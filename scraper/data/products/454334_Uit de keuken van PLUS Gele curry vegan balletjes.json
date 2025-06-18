@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Uit de keuken van PLUS Gele curry vegan balletjes",
+  "brand": "Uit de keuken van",
+  "price": "6.39",
+  "base_unit_price": "14.20",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/454334_M/b3d6a86b23cdf4b066326757852f26ad/454334.png",
+  "ingredients": "Ingrediënten :37% Gekookte pandanrijst (water, rijst), 13% veganistische balletjes (water, 16% SOJA-EIWIT, ui, 3,6% TARWE-EIWIT, zonnebloemolie, verdikkingsmiddel: E407/E461, kruiden (lavas, rozemarijn), specerijen (knoflookgranulaat, knoflookpoeder, korianderzaad, witte peper, paprikapoeder, nootmuskaat, gember, cayennepeper, foelie, kurkuma), TARWEVEZEL, TARWEBLOEM, zout, gistextract, zuurteregelaar: citroenzuur, natuurlijk aroma, conserveermiddel: E261, GERSTEMOUTEXTRACT, ijzer, zink, vitamine B12), kokosmelk (kokosmelkextract, water), 10% sperziebonen, paprika, 5% broccoli, water, 3,9% doperwten, wortel, 2,2% spitskool, suiker, conserveermiddel: gebufferde azijn, raapzaadolie, gele currypasta (knoflook, citroengras, zout, sjalot, laos, chilipeper, korianderzaad, limoenblad, kurkuma, komijn, kaneel, kardemom, nootmuskaat, venkelzaad, gember), rode peper, gemodificeerd maïszetmeel, 0,3% limoensap (limoensap, conserveermiddel: E224), citroensap (citroensap, conserveermiddel: E224), zout, kurkuma, azijn.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "510.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "121.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "17.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.346",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.138",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.82",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:01:22"
+}

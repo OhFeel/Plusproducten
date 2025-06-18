@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Muffins custard crumble",
+  "brand": "PLUS",
+  "price": "2.69",
+  "base_unit_price": "9.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/902399_M/d66c8f04a4a3a3fbd6e2b74e67849d59/902399.png",
+  "ingredients": "Ingrediënten :suiker, 18% custardvulling (suiker, water, stabilisator: E422/E420, plantaardige oliën (kokos, palm), magere MELKPOEDER, lactose (MELK), glucosestroop, gemodificeerd aardappelzetmeel, conserveermiddel: E202/E282, SCHARRELKIPPENEI-EIWITPOEDER, MELKEIWIT, verdikkingsmiddel: E415, natuurlijk aroma, kleurstof: E160a, TARWEBLOEM), plantaardige oliën (raapzaad, palm), TARWEBLOEM, SCHARRELKIPPENEI, stabilisator: E422/E420, water, TARWEZETMEEL, gemodificeerd aardappelzetmeel, weipoeder (MELK), rijsmiddel: E450/E500, emulgator: E471/E481, rijstzetmeel, TARWEGLUTEN, conserveermiddel: E282/E202, zout, natuurlijk aroma, verdikkingsmiddel: E466/E415.\n\nDit product kan sporen van SOJA en NOTEN bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1790.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "428.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "12.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "4.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "54.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "31.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "15.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.805",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.322",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "24.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:03:14"
+}

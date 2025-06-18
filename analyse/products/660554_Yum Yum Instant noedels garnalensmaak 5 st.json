@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Yum Yum Instant noedels garnalensmaak 5 st",
+  "brand": "Yum Yum",
+  "price": "2.99",
+  "base_unit_price": "9.97",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/660554_M/9650bdba71ae2a4c5c002acb194e5397/660554.png",
+  "ingredients": "Ingrediënten: TARWEmeel (GLUTEN), palmolie (palmolie, antioxidant: E306), zout, suiker, tapiocazetmeel, gemodificeerd tapiocazetmeel, knoflook, chili 0,9%, smaakversterkers: E621, E635, voedingszuur: E330, maltodextrine, SOJAsauspoeder (SOJAbonen, glucosesiroop, maltodextrine, kleurstof: E150c), maiszetmeel, VISsaus (ANSJOVISextract, zout, suiker), smaakverfijner (aroma, maltodextrine, emulgator: E322 [SOJA], stabilisator: E414), ui, lente-ui 0,1%, laos 0,1%, GARNALEN (SCHAALDIEREN) 0,1%, citroengras 0,1%, antiklontermiddel: E551 (nano), verdikkingsmiddel: E466, gistextract, kleurstof: E160c. Dit product kan sporen van melk, selderij en sesamzaad bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Schaaldieren, Vis, Soja, Garnaal en producten op basis van garnaal, Ansjovis en producten op basis van ansjovis",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "325.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "78.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.84",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:15:23"
+}

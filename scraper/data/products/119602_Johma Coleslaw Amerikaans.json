@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Coleslaw Amerikaans",
+  "brand": "Johma",
+  "price": "2.49",
+  "base_unit_price": "5.53",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119602_M/6a17ab2459a3a82b5fffd2599eebf0d6/119602.png",
+  "ingredients": "Ingrediënten: 50% witte kool, koolzaadolie, water, 6% wortel, ui, suiker, natuurazijn, bieslook, gepasteuriseerd EIGEEL, zout, gemodificeerd zetmeel, verdikkingsmiddelen (guarpitmeel, xanthaangom), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), specerijen (MOSTERD), antioxidanten (ascorbinezuur, citroenzuur), gistpoeder, voedingszuur (azijnzuur). Kan sporen bevatten van gluten, melk, noten, pinda's, sesamzaad, schaaldieren, selderij, soja en vis.",
+  "allergens": "Ei, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "812.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "196.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:34"
+}

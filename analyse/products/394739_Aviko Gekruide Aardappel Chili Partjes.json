@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Aviko Gekruide Aardappel Chili Partjes",
+  "brand": "Aviko",
+  "price": "3.25",
+  "base_unit_price": "7.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/394739_M/2a8c061c53afa45b2130b10a0e212166/394739.png",
+  "ingredients": "aardappelen (eu origin), zonnebloemolie, gemodificeerd zetmeel, rijstebloem, specerijen, zout, dextrine, maltodextrine, gistextract, aroma, rijsmiddel (e450, e500), verdikkingsmiddel (e415).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "550.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "130.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.65",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:37:28"
+}

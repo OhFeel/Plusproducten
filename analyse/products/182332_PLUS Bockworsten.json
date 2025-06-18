@@ -1,0 +1,97 @@
+{
+  "sku": "",
+  "name": "PLUS Bockworsten",
+  "brand": "PLUS",
+  "price": "2.25",
+  "base_unit_price": "9.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/182332_M/cc656f2cc2a6b7ac1cdcfc5c075eefb4/182332.png",
+  "ingredients": "Ingrediënten :80% varkensvlees*, water, gejodeerd zout (zout, kaliumjodaat), suiker, specerij (knoflook), specerijenextracten (peper, nootmuskaat, kardemom, korianderzaad, gember, ui, chilipeper, foelie), stabilisator: E450, antioxidant: E300, conserveermiddel: E250, schapendarm, beukenrook.\n\n* = Beter Leven keurmerk 1 ster\n\nKan MELK, SELDERIJ en MOSTERD bevatten.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1044.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "252.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.76",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:10:56"
+}

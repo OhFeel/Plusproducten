@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Go-Tan Woksaus ketjap sesam",
+  "brand": "Go-Tan",
+  "price": "2.59",
+  "base_unit_price": "10.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/732859_M/e2a7d10b3fac792331dc964ec84b57b9/732859.png",
+  "ingredients": "Ingrediënten: water, melado, suiker, maiszetmeel, zout, 2,5% SESAMOLIE, rijstazijn, rode pepers, 1,2% sojasaus (water, SOJABONEN, TARWE, zout), kleurstof (karamel), ui, natuurlijk aroma, specerijen, knoflook, oesterextract (MOSSELEXTRACT, zout, OESTEREXTRACT, water, tapiocazetmeel), voedingszuren (citroenzuur, azijnzuur), verdikkingsmiddel (xanthaangom).",
+  "allergens": "Weekdieren, Tarwe, Glutenbevattende granen, Soja, Sesamzaad, Mosselen en producten op basis van mosselen, Oesters en producten op basis van oesters",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "441.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "105.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.39",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "15.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:33:00"
+}

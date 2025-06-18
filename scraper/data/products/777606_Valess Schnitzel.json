@@ -1,0 +1,85 @@
+{
+  "sku": "",
+  "name": "Valess Schnitzel",
+  "brand": "Valess",
+  "price": "3.79",
+  "base_unit_price": "21.06",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/777606_M/6dec78c84dedc7aeeb808e15e4a47926/777606.png",
+  "ingredients": "Ingrediënten: 64% magere MELK, paneermeel (TARWEbloem, gist, zout, kleurstof (curcumine, paprika-extract)), zonnebloemolie, getextureerd TARWE-eiwit, TARWEmeel, verdikkingsmiddel (calciumalginaat, methylcellulose), gemodificeerd TARWEzetmeel, HAVERvezel, kippenEI-eiwit, voedingszuur (kaliumlactaat), stabilisator (polyfosfaten), natuurlijk aroma (MELK), uienpoeder, zout, ijzer.",
+  "allergens": "Tarwe, Haver en haverproducten (gluten, Glutenbevattende granen, Ei, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "762.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "182.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "534.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "2.8",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:42:13"
+}

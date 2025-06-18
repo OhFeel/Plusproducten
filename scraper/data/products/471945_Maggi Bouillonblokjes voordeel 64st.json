@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Bouillonblokjes voordeel 64st",
+  "brand": "Maggi",
+  "price": "3.19",
+  "base_unit_price": "12.46",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/471945_M/7905ed880c27dfb94b11b071877f3155/471945.png",
+  "ingredients": "Ingrediënten: gejodeerd zout. aroma's. aardappelzetmeel. suiker. palmvet. gehydrolyseerde plantaardge eiwitten (TARWEGLUTEN. zout. zonnebloemolie). uien. knoflook. kleurstof (karamel). kruidnagel. Bevat mogelijk: MELK. EIEREN. SOJA. SELDERIJ. VIS.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "9.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "2.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.74",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:06:56"
+}

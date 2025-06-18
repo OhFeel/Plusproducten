@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Mora Oven & Airfryer Empanada Spicy Beef",
+  "brand": "Mora",
+  "price": "2.39",
+  "base_unit_price": "17.07",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581161_M/d21bb0781c91c8e31f7a7cccea2c8239/581161.png",
+  "ingredients": "Ingrediënten: water, bloem (bevat TARWE), groenten 12% (paprika 7%, ui, tomaat, jalapeñopeper <lt/>1%), palmvet, rundvlees 6%*, sweet chili saus 3% (tomatenpasta, water, suiker, sambal oelek <lt/>1% (rode peper <lt/>1%, zout, zuurteregelaar: azijnzuur, conserveermiddel: E211), dextrose, azijn, natuurlijke aroma's, gemodificeerd zetmeel, zonnebloemolie, ui, zout, rode peper <lt/>1%, paprika, kruiden, peper <lt/>1%), plantaardige oliën (palm, raapzaad, zonnebloem), gemodificeerd zetmeel, suiker, TARWEgluten, zout, jackfruit, ketjap manis (water, suiker, suikerstroop, melasse, zout, SOJAbonen, TARWE, bloem (bevat TARWE), gistextract, conserveermiddel: E202, natuurlijke aroma's), zetmeel (bevat TARWE), plantaardige vezels (bevat TARWE), stabilisator: E450, rijsmiddel: E500, natuurlijke aroma's (bevat SOJA, TARWE), specerijen (o.a. cayennepeper <lt/>1%, chilipeper <lt/>1%, peper <lt/>1%), enzym (bevat TARWE), SOJA-eiwitisolaat, maltodextrine, gist, melasse, inuline, SOJA-eiwithydrolysaat, voedingszuur: citroenzuur, emulgator: E471, champignonpoeder, gistextract, kruiden. Kan sporen van EI en MELK bevatten. *Beter Leven keurmerk 1 ster.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1015.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "243.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "25.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:01"
+}

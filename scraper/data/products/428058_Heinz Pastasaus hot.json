@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Heinz Pastasaus hot",
+  "brand": "Heinz",
+  "price": "2.59",
+  "base_unit_price": "8.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/428058_M/7cd1118e24ab727d5020ebb206f0db10/428058.png",
+  "ingredients": "Ingrediënten: Tomaten 61%, tomatenpuree 30%, raapzaadolie, suiker, wortel, zout, specerijen, chillipeper-puree 0,2% (chillipeper-puree, paprika, tomaten, zout, water, azijn), geconcentreerd citroensap, aroma's (bevatten SELDERIJ), knoflook, kruiden, kruidextract (bevat SELDERIJ).",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "296.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "71.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.84",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:49:54"
+}

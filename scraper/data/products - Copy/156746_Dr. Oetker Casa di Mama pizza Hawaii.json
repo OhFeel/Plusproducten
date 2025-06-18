@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Casa di Mama pizza Hawaii",
+  "brand": "Dr. Oetker",
+  "price": "4.29",
+  "base_unit_price": "10.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/156746_M/2cfa8847ebf470ceaaee8a50fbae32e5/156746.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, water, 12% ingemaakte ananasstukjes (ananas, water, suiker, voedingszuur (citroenzuur)), 9,4% KAAS (MOZZARELLA, EDAMMER), 8,7% gezeefde tomaten, 5,8% gekookte achterham (varkensvlees, water, zout, dextrose, stabilisatoren (difosfaten, trifosfaten, natriumnitriet), antioxidant (natriumascorbaat), specerijenextract, rookaroma), 5,1% tomatenconcentraat, gist, suiker, zout, palmvet, zuurteregelaars (calciumfosfaten, calciumcitraten), raapzaadolie, peterselie, rijsmiddel (natriumwaterstofcarbonaat), emulgator (mono- en diglyceriden van vetzuren veresterd met mono- en diacetylwijnsteenzuur), paprika, oregano. Kan bevatten: SOJA, MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "789.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "187.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "7.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:59:31"
+}

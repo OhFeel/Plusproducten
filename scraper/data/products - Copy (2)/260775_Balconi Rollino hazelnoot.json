@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Balconi Rollino hazelnoot",
+  "brand": "Balconi",
+  "price": "2.29",
+  "base_unit_price": "10.32",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/260775_M/74f5aaf5842bec2ba5a20ae3602fcfc7/260775.png",
+  "ingredients": "Sugar; Vegetable fats (palm, palm kernel, coconut in varying proportions); Glucose-fructose syrup;\nEGGS; WHEAT flour; Reconstituted skimmed MILK (10.3%); MILK powder; HAZELNUT\npaste (2.8%); Fat-reduced cocoa powder (1.8%); Skimmed MILK powder; MILK proteins;\nFlavourings; Emulsifiers: Mono- and diglycerides of fatty acids, SOYA lecithins; Raising agents:\nAmmonium carbonates, Sodium carbonates, Diphosphates; Salt.\nMay contain traces of other NUTS.",
+  "allergens": "Glutenbevattende granen, Ei, Soja, Melk, Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "663.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "158.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "5.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "19.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:44:49"
+}

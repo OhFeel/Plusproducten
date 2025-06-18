@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Mihoen Goreng",
+  "brand": "PLUS",
+  "price": "3.05",
+  "base_unit_price": "11.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/754297_M/c12649bce48cbed3e90ee50ca881ae74/754297.png",
+  "ingredients": "Ingrediënten :56% gekookte mihoen (water, rijstvermicelli (rijstebloem, maïszetmeel)), 15% prei, 6% VRIJE UITLOOPKIPPENEI**, plantaardige oliën (volledig geraffineerde sojaolie, SESAMOLIE), 3% gekookte ham (60% varkensvlees*, water, aardappelzetmeel, zout, stabilisator: E407/E450/E451, varkenseiwit, antioxidant: E301, aroma, conserveermiddel: E250), 6% gemarineerd gegaard varkensvlees (water, 36% varkensvlees, zout, suiker, gember, kruiden (anijszaad, venkel, zwarte peper, kaneel, gember, witte peper), 5% wortel, 4% taugé, 1,2% ui, zout, suiker, gistextract (gistextract, zout, zonnebloemolie).\n\n* = Beter Leven keurmerk 1 ster\n** = Beter Leven keurmerk 2 sterren\n\nDit product kan sporen van TARWE en PINDA'S bevatten.",
+  "allergens": "Ei, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "607.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "144.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.03",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.81",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "1.04",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "1.87",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.83",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.36",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "21.47",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "1.22",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.54",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.88",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.352",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:38:15"
+}

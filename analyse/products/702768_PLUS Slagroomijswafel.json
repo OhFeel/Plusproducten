@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Slagroomijswafel",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "0.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/702768_M/62e5be4d956f61974a2f8f018dd1e708/702768.png",
+  "ingredients": "Ingrediënten:Slagroomijs 82% (Volle MELK, water, ROOM 20%, suiker, glucosestroop, magere MELKpoeder, natuurlijk aroma, vanillepunten (geëxtraheerd), emulgator (mono- en diglyceriden van vetzuren, natriumalginaat), verdikkingsmiddel (johannesbroodpitmeel, guargum, carrageen)), wafel 18% (TARWEbloem, suiker, kokosolie, aardappelzetmeel, emulgator (SOJAlecithine), scharrel-EIgeelpoeder, zout, rijsmiddel (natriumbicarbonaat)).",
+  "allergens": "Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "903.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "216.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "30.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "20.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:25:22"
+}

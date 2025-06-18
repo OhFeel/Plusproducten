@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Lu Mini crackers tomaat & basilicum",
+  "brand": "Lu",
+  "price": "2.29",
+  "base_unit_price": "9.16",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/832006_M/4d27b6c6160016efa7005f5b2065f6ce/832006.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM 92 %, palmolie, tomatenpoeder 1,5 %, zout, zuurteregelaar (natriumcarbonaten), zout, gedroogde tomatenstukjes 0,8 %, GERSTEMOUTMEEL, gedroogde basilicum 0,4 %, gist, ui, zonnebloemolie, suiker.KAN BEVATTEN: EI, MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1796.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "427.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "65.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:53:59"
+}

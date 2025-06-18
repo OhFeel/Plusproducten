@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Absolut Vodka Passionfruit 38%",
+  "brand": "Absolut",
+  "price": "20.99",
+  "base_unit_price": "29.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/931039_M/c9d79935db8a17bbb0cff208556b4874/931039.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "870.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "210.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "38",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:10:31"
+}

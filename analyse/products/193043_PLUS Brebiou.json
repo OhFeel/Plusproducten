@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "PLUS Brebiou",
+  "brand": "PLUS",
+  "price": "3.65",
+  "base_unit_price": "24.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/193043_M/1eb8bc6c1a3268291945a1483a7c89af/193043.png",
+  "ingredients": "Ingrediënten: gepasteuriseerde schapenMELK (oorsprong Frankrijk), zout, fermenten. Geproduceerd in een bedrijf waar ook koe- en schapenmelk worden verwerkt.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1140.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "275.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:15:55"
+}

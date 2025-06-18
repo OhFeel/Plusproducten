@@ -1,0 +1,91 @@
+{
+  "sku": "",
+  "name": "Alpro Barista Flavoured Caramel",
+  "brand": "Alpro",
+  "price": "2.59",
+  "base_unit_price": "3.45",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/936501_M/49528693eadeea77e9ae1d2f954a21c4/936501.png",
+  "ingredients": "Ingrediënten: HAVERBASIS (63%) (water, HAVER [4,7%]), SOJABASIS (32%) (water, gepelde SOJABONEN (2,1%)), zonnebloemolie, suiker, calcium (calciumcarbonaat), zuurteregelaar (kaliumfosfaten), zeezout, aroma's, vitaminen B2, D2. Vrij van zuivel. Van nature lactosevrij.",
+  "allergens": "Haver en haverproducten (gluten, Soja",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "207.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "50.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "4.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.11",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "120.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Ergocalciferol/vitamine D2",
+      "value": "0.75",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.21",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:12:00"
+}

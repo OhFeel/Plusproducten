@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Taksi Sinaasappel 10-pack",
+  "brand": "Taksi",
+  "price": "2.99",
+  "base_unit_price": "1.50",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/691759_M/d412846df8f79447b06ed5ce31b4e62b/691759.png",
+  "ingredients": "Ingrediënten: Water, vloeibare MELKbestanddelen (MELKpermeaat) 10%, suiker, vruchtensap uit concentraat 6% (sinaasappel 3,3%, appel), room (met een vetgehalte van 35%) <lt/>0,1%, stabilisator (pectine), voedingszuur (citroenzuur), aroma, kleurstof (β-caroteen), vitamine C",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "136.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "32.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "7.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.04",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.012",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "15.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:23:35"
+}

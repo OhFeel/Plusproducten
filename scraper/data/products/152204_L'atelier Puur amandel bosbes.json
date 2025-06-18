@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "L'atelier Puur amandel bosbes",
+  "brand": "L'atelier",
+  "price": "3.99",
+  "base_unit_price": "26.60",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/152204_M/9efa02044b82184d6c71dd419cb9437e/152204.png",
+  "ingredients": "Ingrediënten: suiker, cacaomassa¹, AMANDELEN (10%), cacaoboter¹, gekonfijte blauwe bosbessen (5%), (blauwe bosbessen, appelsapconcentraat), watervrij MELKvet, emulgator (lecithinen), natuurlijk vanille aroma., Cacaobestanddelen: ten minste 43%, Bevat mogelijk: EIEREN, GLUTEN, andere NOTEN, ¹Rainforest Alliance gecertificeerd. www.ra.org",
+  "allergens": "Melk, Noten, Lactose, amandelen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2237.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "537.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "32.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "48.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:57:38"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Vifon noedels rode bieten",
+  "brand": "Vifon",
+  "price": "0.99",
+  "base_unit_price": "14.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/552834_M/4b95a59dc6576db7249a169e2b5ed46a/552834.png",
+  "ingredients": "Ingrediënten: noedels (81,3%): TARWE bloem, palmvet, tapioca, zout, gemodificeerd zetmeel, suiker, stabilisatoren (E451, E412), rijsmiddelen (E501, E500), kurkuma, soep basis (18,7%): rode bieten poeder (45,6%), suiker, zout, zuurteregelaar (E330), gedroogde groenten in verschillende hoeveelheden (1,88%) (majoraan, laurierblad, peterselie), knoflookpoeder, smaakversterkers (E621, E627, E631), tomatenpoeder, peper, antiklontermiddel (E551), maltodextrine, aroma, geraffineerde palmolie, chilli extract.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "263.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "63.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "9.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:36:54"
+}

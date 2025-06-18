@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Kipsaté salade",
+  "brand": "Johma",
+  "price": "3.29",
+  "base_unit_price": "18.80",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/419707_M/d45937bfa41eab31277da29db21f33b8/419707.png",
+  "ingredients": "Ingrediënten: 29% gekookt gekruid kippenvlees (77% kippenvlees, water, zetmeel, suiker, Spaanse peper, stabilisator [polyfosfaten], SOJABONENPOEDER, specerijen, kruiden, melasse, TARWEMEEL, zout, kleurstof [karamel], voedingszuur [melkzuur], glucosestroop, conserveermiddel [kaliumsorbaat]), 26% satésaus (45% gemalen PINDA'S, suiker, glucose-fructosestroop, azijn, melasse, water, zout, SOJABONENPOEDER, TARWEZETMEEL, verdikkingsmiddel [guarpitmeel], voedingszuren [azijnzuur, citroenzuur], tomatenpuree, gemodificeerd zetmeel, specerijen [SELDERIJ], conserveermiddel [kaliumsorbaat]), witte kool, koolzaadolie, water, 2% PINDASTUKJES, citroengras, natuurazijn, suiker, kleurstoffen (karamel, paprika-extract), specerijen (MOSTERD), gepasteuriseerd EIGEEL, zout, melasse, gemodificeerd zetmeel, verdikkingsmiddelen (guarpitmeel, xanthaangom), conserveermiddelen (kaliumsorbaat, natriumbenzoaat), voedingszuur (melkzuur), SOJABONENPOEDER, natuurlijke aroma's. Kan sporen bevatten van melk, noten, sesamzaad, schaaldieren en vis.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Aardnoten (pinda's), Soja, Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1270.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "306.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "16.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:45:17"
+}

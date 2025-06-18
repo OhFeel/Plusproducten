@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Johma Frisse tonijn MSC salade",
+  "brand": "Johma",
+  "price": "2.99",
+  "base_unit_price": "17.09",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/290845_M/75c5e5e67831f30882ffa43347ec5e6d/290845.png",
+  "ingredients": "Ingrediënten: 41% gekookte tonijn [VIS] MSC*, koolzaadolie, water, 7% augurk, suiker, tomatenpuree, natuurazijn, gemodificeerd zetmeel, gepasteuriseerd EIGEEL, zout, doperwtenextract, wortelextract, conserveermiddelen (kaliumsorbaat, natriumbenzoaat), specerijen (MOSTERD), voedingszuren (citroenzuur, melkzuur), verdikkingsmiddelen (guarpitmeel, xanthaangom), zuurteregelaar (natriumacetaten), natuurlijke aroma’s, kleurstof (paprika-extract). Kan sporen bevatten van gluten, melk, noten, pinda’s, sesamzaad, schaaldieren, selderij en soja.\n*Vangst conform de internationale MSC-standaard voor duurzame visserij. MSC-C-52646 www.msc.org/nl",
+  "allergens": "Ei, Vis, Mosterd, Tonijn en producten op basis van tonijn",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1169.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "282.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "23.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "6.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "11.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:59:26"
+}

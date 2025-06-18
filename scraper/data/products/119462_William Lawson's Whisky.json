@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "William Lawson's Whisky",
+  "brand": "William Lawson's",
+  "price": "23.99",
+  "base_unit_price": "23.99",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/119462_M/c7ea3def89ef041f285d49168904d045/119462.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 12:48:27"
+}

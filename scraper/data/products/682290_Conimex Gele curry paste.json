@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Conimex Gele curry paste",
+  "brand": "Conimex",
+  "price": "2.79",
+  "base_unit_price": "31.00",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/682290_M/8c9ac968300974b03f85b6874348e1f3/682290.png",
+  "ingredients": "Ingrediënten: Citroengras 17,3%, knoflook, ui, laoswortel 11,5%, gemberpuree, raapzaadolie, zout, citroensap, palmsuiker, kerrie 3,3% (MOSTERDPOEDER, kurkuma, fenegriek, peper, karwij, gember, koriander, komijn, laos, chilipeper, kaneel, SELDERIJ, citroengras, marjolein, laurier), rode chilipeper puree, speceijen (kurkuma, koriander, komijn), gemodificeerd zetmeel, Kaffir limoenblad, natuurlijk aroma.",
+  "allergens": "Selderij, Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "624.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "149.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "8.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:21:21"
+}

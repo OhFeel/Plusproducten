@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "PLUS Thaise mix",
+  "brand": "PLUS",
+  "price": "2.59",
+  "base_unit_price": "11.51",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/221911_M/468f0dd3c358776d95a81565aca7f56a/221911.png",
+  "ingredients": "Ingrediënten :41% rijst, 14% PINDA, TARWEBLOEM, suiker, zonnebloemolie, gemodificeerd maïszetmeel, tapiocazetmeel, zout, maltodextrine, smaakmix (suiker, maltodextrine, zout, aroma, gistextract, basilicum, specerijen, zuurteregelaar: E260/E262/E296/E330/E270, smaakversterker: E635, zonnebloemolie), kaaspoeder (MELK, zout, dierlijk stremsel, zuursel, weipoeder (MELK), MELKPOEDER, MELKVET, gehydrolyseerd maïseiwit, zuurteregelaar: E270), volle MELKPOEDER, SOJASAUS (water, SOJABONEN, TARWE, zout), knoflookpoeder, uipoeder, chilipoeder, gistextract, tomatenpoeder, rijstbloem, aroma, capsicumextract, kleurstof: E150a/E150c/E160c), zuurteregelaar: citroenzuur, antioxidant: E306. \n\nKan AMANDEL, HAZELNOOT, WALNOOT, CASHEWNOOT, PECANNOOT, PARANOOT, PISTACHENOOT, MACADAMIANOOT en SESAM bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Aardnoten (pinda's), Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1956.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "466.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "17.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "11.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "68.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "11.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "57.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.07",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.828",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:27:00"
+}

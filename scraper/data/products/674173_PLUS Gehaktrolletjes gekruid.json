@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "PLUS Gehaktrolletjes gekruid",
+  "brand": "PLUS",
+  "price": "4.99",
+  "base_unit_price": "12.48",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/674173_M/305f72881afe2272662ebdc229a5a828/674173.png",
+  "ingredients": "59% varkensvlees, 25% rundvlees, water, paneermeel (TARWEBLOEM, ROGGE, gist, zout), specerijen (paprikapoeder, nootmuskaat, witte peper, foelie, gemberpoeder, karwijzaad, kurkuma, kardemom), zout, gehydrolyseerd koolzaadeiwit, groentepoeder (ui, tomaat), voedingszuur: E326/E330, antioxidant: E300/E301), aroma, natuurlijk aroma, gedroogde peterselie, 1% topping (gedroogde groenten (tomaat, wortel, knoflook, paprika, ui), paneermeel (TARWEBLOEM, ROGGE, zout, gist, raapzaadolie, paprikapoeder), 8% kruiden (oregano, basilicum, peterselie, salie), extra vierge olijfolie, tomatenpoeder, zout, zwarte peper, extract van paprika, natuurlijke aroma's, basilicumextract). Kan sporen van EI, MELK, SOJA, SELDERIJ en MOSTERD bevatten. E = door de EU goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1044.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "252.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "19.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "8.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "14.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.408",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:19:16"
+}

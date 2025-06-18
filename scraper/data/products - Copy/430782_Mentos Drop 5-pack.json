@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mentos Drop 5-pack",
+  "brand": "Mentos",
+  "price": "2.69",
+  "base_unit_price": "14.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/430782_M/c0e08623e351de2933bd97df6a295311/430782.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, kokosolie, zoethoutwortelextract, salmiakzout, zetmeel, cacaoboter, maltodextrine, natuurlijke mint aroma's en natuurlijk aroma, verdikkingsmiddelen (gellangom, cellulosegom, arabische gom), emulgator (sucrose-esters van vetzuren), glansmiddel (carnaubawas).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1643.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "387.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "93.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:50:42"
+}

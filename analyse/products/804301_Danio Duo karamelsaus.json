@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Danio Duo karamelsaus",
+  "brand": "Danio",
+  "price": "0.99",
+  "base_unit_price": "8.39",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/804301_M/266f19706eca1af930c6b2fcb9e0f143/804301.png",
+  "ingredients": "Ingrediënten:  Yoghurt: magere MELK, room (MELK), suiker, magere MELKpoeder, melkfermenten., Karamelsaus 23%: water, suiker, toffee 15% (glucosestroop, suiker, gezoete gecondenseerde MELK, water), karamel 4% (suiker, water), gemodificeerd zetmeel, boter (MELK), zout, aroma, emulgator (mono- en diglyceriden van vetzuren), gebrande suikerstroop, verdikkingsmiddel (carrageen), zuurteregelaar (citroenzuur) Kan bevatten: andere gluten bevattende granen, ei, noten en pinda.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "548.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "131.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "17.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.28",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:48:01"
+}

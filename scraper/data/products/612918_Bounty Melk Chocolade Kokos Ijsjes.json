@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Bounty Melk Chocolade Kokos Ijsjes",
+  "brand": "Bounty",
+  "price": "4.69",
+  "base_unit_price": "0.78",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/612918_M/a606687464057a7637c8ced163321332/612918.png",
+  "ingredients": "Ingrediënten: magere MELK (20%), suiker, room (MELK) (16%), glucosestroop, palmvet, water, kokos (5.0%), kokosvet, cacaomassa (3.4%), magere MELKPOEDER, gecondenseerde magere MELK met suiker, kokosbiscuits (1.8%) (suiker, kokosvlokken (0.4%), TARWEZETMEEL, TARWEMEEL, MELKEIWIT, rijsmiddel (natriumcarbonaten)), botervet (MELK), weipermeaat (MELK), lactose (MELK), kokosmelkpoeder, emulgatoren (E471, SOJALECITHINE), natuurlijk kokosaroma, stabilisatoren (E412, E401), natriumcaseïnaat (MELK). (Kan bevatten: PINDA'S, AMANDELEN, HAZELNOTEN).",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1122.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "269.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "26.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.12",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:04:05"
+}

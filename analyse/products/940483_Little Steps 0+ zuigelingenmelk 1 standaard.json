@@ -1,0 +1,265 @@
+{
+  "sku": "",
+  "name": "Little Steps 0+ zuigelingenmelk 1 standaard",
+  "brand": "Little Steps",
+  "price": "13.49",
+  "base_unit_price": "16.86",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/940483_M/9245ea635982cce1cdf213a26271732c/940483.png",
+  "ingredients": "Gedemineraliseerde wei (MELK). magere MELK. LACTOSE. plantaardige oliën (zonnebloem (hoog oliezuurgehalte). koolzaad (laag erucazuurgehalte). zonnebloem). mineralen (calciumcitraat. kaliumcitraat. kaliumhydroxide. natriumchloride. magnesiumchoride. natriumfosfaat. ijzersulfaat. zinksulfaat. kopersulfaat. mangaansulfaat. kaliumjodide. natriumselenaat). olie van Mortierella alpina. olie van de microalg Schizochytrium sp. emulgator: SOJAlecithine. cholinebitartraat. L-fenylalanine. vitamines (C. E. niacine. pantotheenzuur. B1. A. B2. B6. foliumzuur. K. D. biotine. B12). L. reuteri cultuur*. taurine. L-histidine. inositol. zuurteregelaar: citroenzuur. L-tryptofaan. L-carnitine. wei-eiwitisolaat (MELK). *Limosilactobacillus reuteri cultuur (DSM 17938 onder licentie van BioGaia AB)",
+  "allergens": "Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "281.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "67.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "1.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine A",
+      "value": "61.0",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "12.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Calcium",
+      "value": "41.9",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "IJzer",
+      "value": "0.31",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine D",
+      "value": "1.5",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine E",
+      "value": "1.7",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine K",
+      "value": "4.7",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Thiamine/vitamine B1",
+      "value": "0.076",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Riboflavine/vitamine B2",
+      "value": "0.18",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Niacine/vitamine B3",
+      "value": "0.52",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B6",
+      "value": "0.043",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine B12",
+      "value": "0.2",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Biotine/vitamine H",
+      "value": "1.8",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Pantotheenzuur/vitamine B5",
+      "value": "0.54",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Kalium/Potassium",
+      "value": "77.7",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Chloride",
+      "value": "48.4",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fosfor",
+      "value": "25.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zink",
+      "value": "0.54",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Koper",
+      "value": "0.054",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Mangaan",
+      "value": "0.016",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Fluoride",
+      "value": "8.1",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Seleen",
+      "value": "3.4",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Jodium",
+      "value": "14.2",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Magnesium",
+      "value": "4.61",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "23.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Lactose",
+      "value": "8.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Choline",
+      "value": "21.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Linolzuur",
+      "value": "488.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Alfa-linoleenzuur",
+      "value": "44.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Docosahexaeenzuur",
+      "value": "17.0",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Folaat",
+      "value": "21.7",
+      "unit": "microgram",
+      "parent_code": ""
+    },
+    {
+      "name": "Inositol/vitamine B7",
+      "value": "10.2",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Carnitine",
+      "value": "1.3",
+      "unit": "milligram",
+      "parent_code": ""
+    },
+    {
+      "name": "Taurine",
+      "value": "4.3",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:13:04"
+}

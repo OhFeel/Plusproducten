@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Damhert Biofood Notenmix biologisch",
+  "brand": "Damhert Biofood",
+  "price": "6.19",
+  "base_unit_price": "24.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581361_M/20cc842eef08d55590f4e41c45dfea58/581361.png",
+  "ingredients": "HAZELNOTEN*, AMANDELNOTEN*, cashewNOTEN*. Kan sporen van NOTEN, GLUTEN, SESAM en PINDA bevatten. *Van gecontroleerde biologische teelt. ",
+  "allergens": "Noten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2474.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "593.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "53.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "9.3",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "11.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "8.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "17.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:41"
+}

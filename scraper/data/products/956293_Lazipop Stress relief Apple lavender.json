@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Lazipop Stress relief Apple lavender",
+  "brand": "Lazipop",
+  "price": "1.69",
+  "base_unit_price": "6.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/956293_M/ab904e09595763d7fd137f33b310fd9a/956293.png",
+  "ingredients": "licht bruisend water, agavesiroop, lazipop-mix (cichoreiwortelinuline, magnesiumbisglycinaat, groene thee-extract (40% l-theanine), vitamine b1/2/5/6/7/12), natuurlijke appelsmaak (0,35%), natuurlijke lavendelsmaak (0,26%), appelzuur, citroenzuur, appelzuur, citroenzuur.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "32.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "7.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:21:17"
+}

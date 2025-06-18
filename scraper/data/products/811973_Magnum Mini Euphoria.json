@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Magnum Mini Euphoria",
+  "brand": "Magnum",
+  "price": "6.59",
+  "base_unit_price": "1.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/811973_M/32c6332f9d6f565224d9b1b72166bf1e/811973.png",
+  "ingredients": "Ingrediënten: Gerehydrateerde magere MELK, suiker, cacaoboter¹, water, glucosestroop, magere MELKPOEDER, frambozenpuree (5%), citroensap op basis van geconcentreerd sap (4%), kokosolie, BOTERCONCENTRAAT, frambozensap op basis van geconcentreerd sap (3%), volle MELKPOEDER, fructose, LACTOSE en MELKEIWITTEN, glucose-fructosestroop, emulgatoren (E471, lecithines), geconcentreerd rode bietensap, stabilisatoren (guargom, johannesbroodpitmeel, taragom, carrageen), aroma's, kleurstof (anthocyaninen), zuurteregelaar (citroenzuur), erwteneiwit, LACTOSE, koolstofdioxide (E290). Kan amandel, pistachenoot en tarwe bevatten. ¹Rainforest Alliance gecertificeerd. ra.org.",
+  "allergens": "Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1343.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "321.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "29.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:49:37"
+}

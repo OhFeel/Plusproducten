@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Bistro Baguette pizzabroodje salami",
+  "brand": "Dr. Oetker",
+  "price": "2.19",
+  "base_unit_price": "8.76",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/834253_M/d7bfe92dfa3e3254a89cf40a2be68d25/834253.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 15% tomatenpuree, water, 9,6% EDAMMER KAAS, 6,9% salami (varkensvlees, spek, zout, dextrose, specerijen, knoflookpoeder, specerijenextracten, stabilisator (natriumnitriet), antioxidanten (extract van rozemarijn, natriumascorbaat), rook), 4,8% paprika, 4,0% tomatenstukjes, raapzaadolie, 1,6% broccoli, zout, bakkersgist, gemodificeerd zetmeel, suiker, emulgator (mono- en diglyceriden van vetzuren), knoflook, oregano, peper, dextrose, basilicum. Kan bevatten: SOJA, MOSTERD.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "972.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "232.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "9.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "28.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:04"
+}

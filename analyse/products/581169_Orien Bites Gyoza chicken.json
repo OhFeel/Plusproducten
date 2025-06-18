@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Orien Bites Gyoza chicken",
+  "brand": "Orien Bites",
+  "price": "3.19",
+  "base_unit_price": "12.04",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/581169_M/56f9ab3c243b67ed2ae9cf893f366e04/581169.png",
+  "ingredients": "Ingrediënten: Gyoza: Kip 25 %, TARWEbloem (GLUTEN), kool 22 %, water, ui 6 %, Chinese bieslook 3 %, plantaardige oliën (zonnebloem, SESAM), lente-ui 2 %, suiker, gemodificeerd tapiocazetmeel, zout, knoflook, gember, wit peper. Sojasaus: water, SOJABOON, TARWE (GLUTEN), zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "707.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "168.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:49:06"
+}

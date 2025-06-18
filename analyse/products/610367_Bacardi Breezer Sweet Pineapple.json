@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Bacardi Breezer Sweet Pineapple",
+  "brand": "Bacardi",
+  "price": "2.39",
+  "base_unit_price": "8.69",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/610367_M/7546a504c23eaa99759e903807664202/610367.png",
+  "ingredients": "",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "225.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "54.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "4",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:03:14"
+}

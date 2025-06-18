@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Juliennesoep",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "49.75",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/267253_M/4818c4cb86b4f37bdcd6fccef634fd7b/267253.png",
+  "ingredients": "Ingrediënten: Vermicelli 27% (TARWEBLOEM, TARWEGRIESMEEL, KIPPENEI-eiwit), zetmeel, groenten 16% (ui, wortel, tomaat, prei), gehydrolyseerd SOJA-eiwit, zout, natuurlijk fenegriek aroma, palmvet, smaakversterkers (E621, E635), natuurlijk aroma (bevat SELDERIJ), glucosestroop, peterselie, specerijen (SELDERIJZAAD, kurkuma, nootmuskaat, peper), zonnebloemolie, antiklontermiddel (E551), knoflook. Kan MELK en MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1336.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "317.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "52.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "12.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "19.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:46:45"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Bouillon tuinkruiden 8 blokjes",
+  "brand": "Maggi",
+  "price": "1.49",
+  "base_unit_price": "18.63",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/976762_M/ec94923a415c40aec9069880a9e78388/976762.png",
+  "ingredients": "Ingrediënten: Gejodeerd zout. smaakversterker (Mononatriumglumaat). palmvet. suiker. aroma's. glucosestroop. mineraalzout (kalium). gedroogde groenten (ui. prei. wortel). kruiden 1.1% (SELDERIJ. bieslook). antioxidant (rozemarijnextract). Bevat mogelijk:.GLUTEN. MELK. EIEREN. SOJA. VIS.",
+  "allergens": "Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "11.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "3.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:53"
+}

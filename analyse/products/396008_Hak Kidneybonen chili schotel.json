@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Hak Kidneybonen chili schotel",
+  "brand": "Hak",
+  "price": "3.15",
+  "base_unit_price": "5.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/396008_M/37f4e2de3a08c0769625662032ccda07/396008.png",
+  "ingredients": "groenten in wisselende verhouding 57% (ui, tomaat, rode paprika, doperwt, tomatenpuree), rode kidneybonen 36%, water, knoflook, kruiden en specerijen (komijnzaad, oregano 0.2%, cayennepeper, gerookt paprikapoeder, witte peper, tijm, lavaswortel), zeezout, rode chilipepers 0,5%, maiszetmeel, natuurazijn.",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "317.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "75.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "10.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "5.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.44",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:38:23"
+}

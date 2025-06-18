@@ -1,0 +1,37 @@
+{
+  "sku": "",
+  "name": "Glenhood Whisky",
+  "brand": "Glenhood",
+  "price": "6.49",
+  "base_unit_price": "18.54",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/977410_M/c9e16a3695e1b7b19b750c788da17ad2/977410.png",
+  "ingredients": "Ingrediënten :Blended scotch whisky",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "397.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "224.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "40",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:24:59"
+}

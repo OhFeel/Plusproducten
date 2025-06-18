@@ -1,0 +1,115 @@
+{
+  "sku": "",
+  "name": "Sou Sou Nutty caramel 4x 100 ml",
+  "brand": "Sou Sou",
+  "price": "3.49",
+  "base_unit_price": "0.87",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/362654_M/aaa61e5607a85d7da97a3076d7fc6386/362654.png",
+  "ingredients": "Ingrediënten :NL: 31% MELKCHOCOLADE (suiker, cacaoboter*, cacaomassa*, weipoeder (MELK), watervrij MELKVET, magere MELKPOEDER, emulgator: lecithinen/polyglycerolpolyricinoleaat, vanille-extract), magere MELK, suiker, wei-eiwitconcentraat (MELK), kokosvet, water, glucosestroop, PECANNOTEN, magere gecondenseerde MELK, magere MELKPOEDER, roomboter (MELK), emulgator: mono- en diglyceriden van vetzuren, gezouten roomboter (MELK), stabilisator: johannesbroodpitmeel/guarpitmeel/pectines, zout, wortelconcentraat, natuurlijk bourbon-vanillearoma, geëxtraheerde en gemalen vanillebonen, natuurlijk boteraroma (bevat MELK).\n*Rainforest Alliance gecertificeerd. Lees meer op www.ra.org.\n\nKan AMANDEL, HAZELNOOT, WALNOOT, PISTACHENOOT en MACADAMIANOOT bevatten. \n\n\nEN: 31% MILK CHOCOLATE (sugar, cocoa butter*, cocoa mass*, whey powder (MILK), anhydrous MILK fat, skimmed MILK powder, emulsifier: lecithins/polyglycerol polyricinoleate, vanilla extract), skimmed MILK, sugar, whey protein concentrate (MILK), coconut fat, water, glucose syrup, PECAN NUTS, skimmed condensed MILK, skimmed MILK powder, butter (MILK), emulsifier: mono- and diglycerides of fatty acids, salted butter (MILK), stabilizer: locust bean gum/guar gum/pectins, salt, carrot concentrate, natural vanilla flavour, extracted and ground vanilla beans, natural butter flavour (contains MILK).\n*Rainforest Alliance certified. Learn more at www.ra.org.\n\nMay contain ALMOND, HAZELNUT, WALNUT, PISTACHIO NUT and MACADAMIA NUT.\n\n\nFR: 31% CHOCOLAT AU LAIT (sucre, beurre de cacao*, pâte de cacao*, lactoseserum en poudre (LAIT), matière grasse de LAIT anhydre, poudre de LAIT écrémé, émulsifiants: lécithines/polyricinoléate de polyglycérol, extrait de vanille), LAIT écrémé, sucre, concentré de protéine de lactoseserum (LAIT), graisse de coco, eau, sirop de glucose, NOIX DE PECAN, LAIT condensé écrémé, LAIT écrémé en poudre, beurre (LAIT), émulsifiant: mono- et diglycérides d'acides gras, BEURRE salé, stabilisant: farine de graines de caroube/gomme guar/pectines, sel, concentré de carotte, arôme naturel de vanille, gousses de vanille épuisées et broyées, arôme naturel de beurre (LAIT).\n*Certifié Rainforest Alliance. En savoir plus sur www.ra.org.\n\nPeut contenir de l'AMANDE, de la NOISETTE, de la NOIX, de la PISTACHE et de la NOIX DE MACADAMIA.",
+  "allergens": "Melk, Noten, Lactose, pecannoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1461.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "350.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "21.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "13.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan enkelvoudig onverzadigd vet",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Waarvan meervoudig onverzadigd vet",
+      "value": "0.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "36.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "34.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zetmeel",
+      "value": "2.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.31",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.124",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Trans",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Toegevoegde suikers",
+      "value": "25.6",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:23:45"
+}

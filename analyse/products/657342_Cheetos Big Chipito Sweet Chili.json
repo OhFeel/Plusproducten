@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Cheetos Big Chipito Sweet Chili",
+  "brand": "Cheetos",
+  "price": "2.29",
+  "base_unit_price": "22.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/657342_M/30be7c804f66e30f6265c004b0465f8e/657342.png",
+  "ingredients": "Ingrediënten: maïsmeel, koolzaadolie, zoete chilismaak [maltodextrine, suiker, aroma's (bevat SOJA, TARWE, cayennepeper), smaakversterkers (mononatriumglutamaat, dinatrium-5-ribonucleotide), fructose, zuurteregelaars (natriumacetaat, appelzuur), uienpoeder, gehydroliseerd SOJA proteïne, knoflookpoeder, SOJA en TARWE bestanddelen, kleurstof (paprika extract)], zout.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2221.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "532.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "2.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "58.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:14:34"
+}

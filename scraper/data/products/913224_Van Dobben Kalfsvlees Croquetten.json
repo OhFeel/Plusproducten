@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Van Dobben Kalfsvlees Croquetten",
+  "brand": "Van Dobben",
+  "price": "4.85",
+  "base_unit_price": "10.10",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/913224_M/7ae27cf8e5bb41176f0e4972caf99276/913224.png",
+  "ingredients": "Ingrediënten: Water, bloem (bevat TARWE), gekookt kalfsvlees 12%, patisseriebloem 10% (bevat TARWE), plantaardige oliën (palm, raapzaad, olijf), MELKpoeder, zout, ui, zetmeel (bevat TARWE), rundergelatine, dextrose, smaakversterkers: E621, E627 en E631, witte basterdsuiker (suiker, invertsuikerstroop), glucosestroop, kruiden (o.a. peterselie <lt/>1%), specerijen (o.a. nootmuskaat <lt/>1%, bevat SELDERIJ), kleurstoffen: annatto bixine, annatto norbixine, caroteen en E150c, gist, rundvleesextract, MELKeiwit, stabilisatoren: E466 en E450, suiker, plantaardig eiwit (bevat TARWE), gehydrolyseerd plantaardig eiwit (bevat TARWE), conserveermiddelen: E250 en E202, azijn, gistextract, geconcentreerde vleesbouillon <lt/>1% (kalf <lt/>1%, rund), natuurlijk aroma, aroma, antiklontermiddel: E551, verdikkingsmiddel: xanthaangom, rode wijn, glucose, tomatenpuree, maltodextrine, groenteconcentraat, emulgator: E472c, kurkuma-extract. Kan sporen van PINDA bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Selderij",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "898.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "215.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "11.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "22.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.4",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:06:10"
+}

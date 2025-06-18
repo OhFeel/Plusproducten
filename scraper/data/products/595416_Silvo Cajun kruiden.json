@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Silvo Cajun kruiden",
+  "brand": "Silvo",
+  "price": "2.99",
+  "base_unit_price": "67.95",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/595416_M/52a1e8a46fe45ab85ec90f2ebcf5b2e5/595416.png",
+  "ingredients": "Ingrediënten: Specerijen 49.2% (chilipeper 15.9%, knoflookpoeder, piment, zwarte peper, korianderzaad 4%, gember, witte peper, komijn, venkel, kardemom, MOSTERDmeel), zout 19.8%, maltodextrine, gedroogde rode paprika's, kruiden 1.6% (tijm, oregano), zonnebloemolie, gistextract, aroma, antiklontermiddel: siliciumdioxide, Totale gehalte aan kruiden en specerijen: 5.8%.",
+  "allergens": "Mosterd",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1158.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "276.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "38.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "19.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:56:27"
+}

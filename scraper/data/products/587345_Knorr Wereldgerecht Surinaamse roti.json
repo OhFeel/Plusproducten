@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Knorr Wereldgerecht Surinaamse roti",
+  "brand": "Knorr",
+  "price": "4.35",
+  "base_unit_price": "18.91",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/587345_M/2a40beb3f035f2588519d341cc43f036/587345.png",
+  "ingredients": "Ingrediënten rotipannenkoeken: TARWEBLOEM, water, raapzaadolie, stabilisator (E422, E466, E412), rijsmiddel (E450i, E500ii), emulgator E471, voedingszuur E296, dextrose, conserveermiddel (E282, E202), zout, meelverbeteraar E920.\nIngrediënten sausmix: Tomatenpoeder¹ 36%, zetmeel, kerrie, aroma, ui¹ 5,1%, knoflookpoeder¹ 3,6%, zout, gistextract, komijnzaad, maïsolie, suiker, prei¹ 0,8%, cayennepeper, peper. Kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten.\nIngrediënten specerijenmix: Maltodextrine, kerrie, zout, knoflookpoeder¹ 8,1%, aroma, uipoeder¹ 5,3%, cayennepeper, peper, palmvet, komijn. Kan glutenbevattende granen, ei, soja, melk, selderij, mosterd bevatten.\n¹ op duurzame wijze geteeld.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2182.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "519.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "16.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "63.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "9.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "7.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "30.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:53:16"
+}

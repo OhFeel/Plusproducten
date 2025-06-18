@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "Damhert Tagatesse petit beurre puur",
+  "brand": "Damhert",
+  "price": "4.99",
+  "base_unit_price": "33.27",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/292167_M/fbac7d4ec9fe076b9536e29663045321/292167.png",
+  "ingredients": "pure chocolade met zoetstof (48%) (cacaomassa, zoetstof (maltitolen), cacaoboter, emulgator (SOJAlecithinen), natuurlijk vanillearoma), TARWEbloem, zoetstof (maltitolen), geconcentreerde BOTER(6%), magere MELKpoeder, rijsmiddelen (ammoniumcarbonaten, natriumcarbonaten, difosfaten), EIgeel in poedervorm, rijstzetmeel, zout, natuurlijk vanillearoma. Kan NOTEN, MOSTERD en SESAM bevatten.",
+  "allergens": "Tarwe, Cacao, Glutenbevattende granen, Ei, Soja, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1849.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "444.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "24.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "14.5",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "60.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Polyolen",
+      "value": "31.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vezels",
+      "value": "5.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.56",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:00:08"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Gomballen",
+  "brand": "Redband",
+  "price": "2.59",
+  "base_unit_price": "11.26",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/316395_M/3144798c4a533b24e45b4dabd5977f8a/316395.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, water, gelatine, voedingszuur (melkzuur), natuurlijke aroma's, concentraat van (wortel, zwarte bessen, spirulina, saffloer), kleurstoffen (paprika-extract, curcumine).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1391.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "327.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "77.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "61.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:09:37"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Kleinste Soepfabriek Champignonsoep",
+  "brand": "Kleinste Soepfabriek",
+  "price": "4.29",
+  "base_unit_price": "10.73",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/163703_M/1bd9e7e528d11b433e819dbc3722af5a/163703.png",
+  "ingredients": "Ingrediënten: water, 34% champignons* (Agaricus Bisporus), TARWEBLOEM*, (GLUTEN*), BOTER* (MELK), waxy-maïszetmeel, zonnebloemolie*, zout, tapiocazetmeel*, gistextract, zwarte peper*, nootmuskaat*. * = biologisch. Allergenen : bevat gluten, tarwe, melk en lactose.",
+  "allergens": "Tarwe, Glutenbevattende granen, Melk, Lactose",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "113.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "28.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.47",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.69",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.71",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:03:16"
+}

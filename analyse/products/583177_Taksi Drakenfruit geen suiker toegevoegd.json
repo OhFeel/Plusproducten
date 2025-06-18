@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Taksi Drakenfruit geen suiker toegevoegd",
+  "brand": "Taksi",
+  "price": "1.99",
+  "base_unit_price": "1.33",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/583177_M/42ee6a459498deff4817a214e9e19e77/583177.png",
+  "ingredients": "Ingrediënten: Water, vloeibare MELKbestanddelen (MELKpermeaat) 40%, vruchtensap uit concentraat 5% (appel, aroniabes, framboos 0,3%), drakenfruit-puree 0,6%, lycheepuree 0.4%, ROOM <lt/>0,1%, stabilisator (pectine), voedingszuur (citroenzuur), aroma's, kleurend plantenextract (zwarte bes, wortel), zoetstof (sucralose), vitamine C",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "47.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "11.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.02",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.01",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "2.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "2.3",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.043",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Vitamine C",
+      "value": "12.0",
+      "unit": "milligram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:50:51"
+}

@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Bouillonsoep",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "42.34",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/266915_M/f1f5c3024f93fd5e39ce17c496c18d51/266915.png",
+  "ingredients": "Ingrediënten: (Na bereiding met water):, bouillon (SOJA), groenten (tomaat, wortel, prei), glucosestroop, zetmeel, zout, palmvet, smaakversterkers (E508, E621, E627, E631), aroma (bevat SELDERIJ), kruiden (peterselie, SELDERIJZAAD), rundvleesextract, kleurstof (E150c), kurkuma\n\nKan sporen bevatten van tarwe en melk.",
+  "allergens": "Soja, Selderij",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "49.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "12.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.8",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:46:32"
+}

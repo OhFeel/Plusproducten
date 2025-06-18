@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Mentos Strong Mint 5-pack",
+  "brand": "Mentos",
+  "price": "2.79",
+  "base_unit_price": "14.92",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/541238_M/945617c0ab0d64bd93d4dd4f86036bcb/541238.png",
+  "ingredients": "Ingrediënten: suiker, glucosestroop, kokosolie, aroma, zetmeel, maltodextrine, cacaoboter, verdikkingsmiddelen (gellangom, cellulosegom, arabische gom), emulgator (sucrose-esters van vetzuren), glansmiddel (carnaubawas), kleurstof (anthocyanen). ",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1650.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "389.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "93.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "69.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.1",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 15:32:10"
+}

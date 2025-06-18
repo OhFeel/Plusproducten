@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Redband Dropfruit duo's zoet zuur",
+  "brand": "Redband",
+  "price": "2.55",
+  "base_unit_price": "10.85",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/316397_M/1e8751da221b44dd5197686bfcab5cb1/316397.png",
+  "ingredients": "Ingrediënten: glucosestroop, suiker, zetmeel, gelatine, zoethoutwortelextract, voedingszuren (melkzuur, appelzuur), salmiakzout, gekaramelliseerde suiker, zuurteregelaar (natriummalaten), natuurlijke aroma's, concentraat van (wortel, zwarte bessen), kleurstoffen (paprika-extract, curcumine).",
+  "allergens": "",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1452.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "342.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "81.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "59.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.15",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:09:39"
+}

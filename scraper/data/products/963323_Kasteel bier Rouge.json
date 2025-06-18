@@ -1,0 +1,18 @@
+{
+  "sku": "",
+  "name": "Kasteel bier Rouge",
+  "brand": "Kasteel bier",
+  "price": "2.15",
+  "base_unit_price": "6.52",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/963323_M/ab21b08afcfece1cb6e4234302d23c89/963323.png",
+  "ingredients": "Ingrediënten: water, GERSTEMOUT, kriekaroma, TARWE, suiker, krieken, hop , kruiden, zoetstof: steviolglycosiden.",
+  "allergens": "Tarwe, Gerst en gerstproducten (gluten bevattend graan), Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "",
+    "value": 0
+  },
+  "nutrients": [],
+  "percentage_alcohol": "8",
+  "composition": "",
+  "extracted_at": "2025-04-25 17:22:57"
+}

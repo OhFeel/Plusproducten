@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Honig Basis voor Chinese tomatensoep",
+  "brand": "Honig",
+  "price": "1.99",
+  "base_unit_price": "17.77",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/268187_M/8f821fe4f351b74d493bbcfd5e8479e1/268187.png",
+  "ingredients": "Ingrediënten: Zetmeel, suiker, groenten (tomaat 9,4%, ui, paprika, prei), mie-reepjes 8,3% (TARWEGRIESMEEL), zout, gehydrolyseerd SOJA-eiwit, glucosestroop, smaakversterkers (E621, E635), omeletreepjes 1,2% (TARWEGRIESMEEL, KIPPENEI, magere MELKPOEDER, zout, zetmeel, specerijen, gistextract), aroma, specerijen (gember, korianderzaad, paprikapoeder, peper, laos, piment, kruidnagel, chilipoeder), zonnebloemolie, voedingszuur (citroenzuur), palmvet, kleurstof (paprika-extract), peterselie, knoflook, antiklontermiddel (E551). Kan SELDERIJ en MOSTERD bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Ei, Soja, Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1440.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "340.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "0.4",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "74.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "32.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "6.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "10.3",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 13:47:19"
+}

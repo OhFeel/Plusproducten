@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Dr. Oetker Ristorante pizza al salami vegan",
+  "brand": "Dr. Oetker",
+  "price": "4.49",
+  "base_unit_price": "15.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/650095_M/53784a1b2a96d8433275131a3f0d4d94/650095.png",
+  "ingredients": "Ingrediënten: TARWEBLOEM, 15% gezeefde tomaten, 13% geraspte pizza-topping op basis van kokosolie (water, gemodificeerd aardappelzetmeel, kokosolie, zeezout, kleurstof (carotenen), antioxidant (ascorbinezuur)), 11% vegan salami alternatief op basis van peulvruchteneiwitten (water, raapzaadolie, erwtenproteïne, veldbonenproteïne, suiker, dextrose, brandewijnazijn, citroensappoeder, verdikkingsmiddelen (carrageen, conjac, methylcellulose, calciumsulfaat), zetmeel, lijnzaadmeel, zout, kleurende levensmiddelen (bietensap concentraat, fenegriekextract, paprikasap concentraat), specerijen, aroma), water, 7,7% tomatenconcentraat, raapzaadolie, bakkersgist, zout, suiker, olijfolie extra vierge, oregano, basilicum, paprika, peper, peterselie. Kan bevatten: SOJA, MOSTERD, MELK.",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1006.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "240.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "10.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "3.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "31.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "4.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:12:40"
+}

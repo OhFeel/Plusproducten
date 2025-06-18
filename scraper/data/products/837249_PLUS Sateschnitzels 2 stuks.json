@@ -1,0 +1,79 @@
+{
+  "sku": "",
+  "name": "PLUS Sateschnitzels 2 stuks",
+  "brand": "PLUS",
+  "price": "2.99",
+  "base_unit_price": "11.96",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/837249_M/ffaaba4c651a84ba86647cdd4fd6009a/837249.png",
+  "ingredients": "46% varkensvlees*, 23% satésaus (water, 22% PINDA'S, suiker, gemodificeerd maïszetmeel, SOJASAUS (water, SOJABONEN, TARWE, zout), azijn, zonnebloemolie, aroma's, zout, specerijen (paprikapoeder, knoflook, komijn), verdikkingsmiddel: E412/E415, sambal (rode peper, zout), conserveermiddel: E202/E211, zuurteregelaar: E575), paneermeel (TARWEBLOEM, zout, ROGGE, gist, kurkuma, kleurstof: E160b(ii), water, raapzaadolie, zetmeel (TARWE, maïs)), bloem (TARWE, maïs), varkensvet*, zeezout, zout, specerijen (korianderzaad, gemberpoeder), gistextract, natuurlijk aroma, zuurteregelaar: E262, voedingszuur: E330.* = Beter Leven keurmerk 1 ster. Dit product kan sporen van EI, MELK, MOSTERD en SELDERIJ bevatten. E = door de eu goedgekeurde hulpstof.",
+  "allergens": "Tarwe, Rogge, Glutenbevattende granen, Aardnoten (pinda's), Soja",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1327.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "319.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "22.7",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.8",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "18.8",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "6.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "0.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "9.4",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "1.878",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Natrium",
+      "value": "0.751",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:54:20"
+}

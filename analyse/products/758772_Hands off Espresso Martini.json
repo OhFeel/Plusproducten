@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Hands off Espresso Martini",
+  "brand": "Hands off",
+  "price": "3.39",
+  "base_unit_price": "33.90",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/758772_M/390bafbbd0ca2665b6cceefb9fe83d5d/758772.png",
+  "ingredients": "Ingrediënten: suiker, cacaoboter*, cacaomassa*, hazelnootpraliné (HAZELNOOT, suiker, emulgator: lecithinen (SOJA)), zonnebloempitpoeder, gezouten karamelstukjes (suiker, glucosestroop, 5% zout), koffie, natuurlijk aroma (AMANDEL), zout, emulgator: lecithinen, natuurlijk vanille aroma. Ten minste 51% cacaobestanddelen. *Rainforest Alliance Certified. Find out more at ra.org. Kan melk, eieren, gluten en andere noten bevatten",
+  "allergens": "Soja, Noten, amandelen, hazelnoten",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "2239.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "537.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "35.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "18.0",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "45.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "41.0",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.42",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:39:12"
+}

@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Stegeman Vegetarische plakjes kerrie",
+  "brand": "Stegeman",
+  "price": "2.34",
+  "base_unit_price": "23.40",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/705862_M/d52924c00aeb8379b5caaa64b90c650b/705862.png",
+  "ingredients": "Ingrediënten: 44% gerehydrateerd vrije uitloop kippen-EI-eiwit, water, zonnebloemolie, zout, 0.6% curry, plantaardige vezels, kruiden, specerijenextract, aroma's, suiker, dextrose, Verdikkingsmiddelen: E407, E407a, E410, E415; zuurteregelaars: E262, E270, E326, E508; Kleurend concentraat van radijs, appel en zwarte bes.",
+  "allergens": "Ei",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "632.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "153.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "1.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "0.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "5.2",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "2.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:25:52"
+}

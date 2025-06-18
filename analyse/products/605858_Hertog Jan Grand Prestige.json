@@ -1,0 +1,31 @@
+{
+  "sku": "",
+  "name": "Hertog Jan Grand Prestige",
+  "brand": "Hertog Jan",
+  "price": "6.59",
+  "base_unit_price": "8.79",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/605858_M/bb238a4d2b034d7fa64ee5abe0d4ab0e/605858.png",
+  "ingredients": "Ingrediënten: Water, GERSTEMOUT, TARWEZETMEEL, suiker, hop, kleurstof: karamel",
+  "allergens": "Tarwe, Glutenbevattende granen",
+  "nutrients_base": {
+    "unit": "milliliter",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "904.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "216.0",
+      "unit": "KC",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "10",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:02:15"
+}

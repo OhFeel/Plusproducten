@@ -1,0 +1,73 @@
+{
+  "sku": "",
+  "name": "Maggi Jus tuinkruiden",
+  "brand": "Maggi",
+  "price": "0.85",
+  "base_unit_price": "47.22",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/364615_M/d8fe5cf18b186cdc741432386cbae404/364615.png",
+  "ingredients": "Ingrediënten: Aardappelzetmeel, zout, gistextract, gekarameliseerde suiker, palmolie, groenten (tomaat, rode paprika, uien, spinazie), aroma's (bevat TARWE), smaakversterker (E621), LACTOSE, kruiden 1,5% (peterselie, SELDERIJ, dragon), gehydroliseerde plantaardige eiwitten (bevat TARWE), tijmextract, oregano-extract. Bevat mogelijk EI, MOSTERD, SOJA.",
+  "allergens": "Tarwe, Glutenbevattende granen, Selderij, Lactose",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1407.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "333.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "6.9",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "4.1",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "53.3",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "5.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Vezels",
+      "value": "1.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Eiwitten",
+      "value": "13.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "18.7",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:24:46"
+}

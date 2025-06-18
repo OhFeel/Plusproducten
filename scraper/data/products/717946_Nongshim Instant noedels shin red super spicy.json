@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Nongshim Instant noedels shin red super spicy",
+  "brand": "Nongshim",
+  "price": "1.59",
+  "base_unit_price": "13.25",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/717946_M/2073e5fbebc2c15448c0f34da28d0dbc/717946.png",
+  "ingredients": "Ingrediënten: Noedels 89%: TARWEbloem, aardappelzetmeel, palmolie, zout, zuurteregelaar: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat SOJA), smaakmaker (gistextract, SOJAbonen, knoflook, TARWEzetmeel), groene thee-extract, kleurstof: E101. Kruiden poeder 9%: Smaakmaker (gehydrolyseerd plantaardig eiwit (SOJA), maltodextrine, gistextract, zout, TARWEbloem), smaakmaker (maltodextrine, zwarte peper, rode chilipeper, glucose, Chili extract, knoflook, maïsmeel), zout, smaakversterkers: E621, E627, E631, suiker, glucose, Shiitake, kleurstof: E150c, antiklontermiddel: E551. Plantaardige paddestoel vlokken 2%: Paksoi, Shiitake, getextureerde plantaardige eiwitten (SOJA, TARWEGLUTEN), wortel, rode chilipeper, ui. Mag gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, mosterd, sesamzaad en weekdieren bevatten.",
+  "allergens": "Tarwe, Glutenbevattende granen, Soja, Sesamzaad",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "1795.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "426.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "14.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "6.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "67.0",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "3.7",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "8.1",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "3.2",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 16:29:39"
+}

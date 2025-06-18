@@ -1,0 +1,67 @@
+{
+  "sku": "",
+  "name": "Almhof Hoekje kers",
+  "brand": "Almhof",
+  "price": "1.49",
+  "base_unit_price": "9.93",
+  "image_url": "https://images.ctfassets.net/s0lodsnpsezb/305891_M/8edee0c18786fb1f6ace4abaff04e5ed/305891.png",
+  "ingredients": "Ingredienten:\nYOGHURT, 23,3% kersenbereiding (50% kersen, glucose-fructosestroop, suiker, 5% kersensap uit concentraat, verdikkingsmiddel (johannesbroodpitmeel, guarpitmeel, pectinen), voedingszuur (citroenzuur), zuurteregelaar (calciumcitraten), aroma), suiker, 2% MELKEIWITTEN, KARNEMELKPOEDER, druivensuikersiroop, natuurlijk aroma.",
+  "allergens": "Melk",
+  "nutrients_base": {
+    "unit": "gram",
+    "value": 100
+  },
+  "nutrients": [
+    {
+      "name": "Energie KJ",
+      "value": "419.0",
+      "unit": "kilojoule",
+      "parent_code": ""
+    },
+    {
+      "name": "Energie KC",
+      "value": "99.0",
+      "unit": "KC",
+      "parent_code": ""
+    },
+    {
+      "name": "Vet",
+      "value": "2.5",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan verzadigd vet",
+      "value": "1.7",
+      "unit": "gram",
+      "parent_code": "FAT"
+    },
+    {
+      "name": "Koolhydraten",
+      "value": "14.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Waarvan suikers",
+      "value": "14.1",
+      "unit": "gram",
+      "parent_code": "CHOAVL"
+    },
+    {
+      "name": "Eiwitten",
+      "value": "3.6",
+      "unit": "gram",
+      "parent_code": ""
+    },
+    {
+      "name": "Zout",
+      "value": "0.13",
+      "unit": "gram",
+      "parent_code": ""
+    }
+  ],
+  "percentage_alcohol": "",
+  "composition": "",
+  "extracted_at": "2025-04-25 14:07:05"
+}
