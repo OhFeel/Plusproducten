@@ -1,6 +1,6 @@
 """
 analyze_data.py - PLUS Product Data Analyzer
-Generates static visualizations and analysis reports from scraped data
+Generates beautiful static visualizations and analysis reports from scraped data
 """
 
 import json
@@ -12,6 +12,7 @@ from typing import Dict, List, Any, Optional
 import numpy as np
 from collections import Counter
 import logging
+import argparse
 
 # Optional imports with graceful fallback
 try:
@@ -21,9 +22,12 @@ except ImportError:
     WORDCLOUD_AVAILABLE = False
     print("⚠️  WordCloud not available. Install with: pip install wordcloud")
 
-# Configure matplotlib to use non-interactive backend
+# Configure matplotlib for high-quality output
 import matplotlib
 matplotlib.use('Agg')
+plt.rcParams['figure.dpi'] = 300
+plt.rcParams['savefig.dpi'] = 300
+plt.rcParams['savefig.bbox'] = 'tight'
 
 # Configure logging
 logging.basicConfig(
@@ -35,13 +39,13 @@ logger = logging.getLogger(__name__)
 
 class PLUSDataAnalyzer:
     """
-    Analyzes scraped PLUS product data and generates visualizations
+    Analyzes scraped PLUS product data and generates beautiful visualizations
     """
     
-    def __init__(self, data_dir: str = "data"):
+    def __init__(self, data_dir: str = "scraper/data"):
         self.data_dir = Path(data_dir)
         self.products_dir = self.data_dir / "products"
-        self.output_dir = self.data_dir / "analysis"
+        self.output_dir = Path("data/analysis")
         self.images_dir = self.output_dir / "images"
         
         # Create output directories
@@ -52,24 +56,31 @@ class PLUSDataAnalyzer:
         self.products_df = None
         self.nutrients_df = None
         
-        # Style configuration
-        plt.style.use('seaborn-v0_8')
-        sns.set_palette("husl")
+        # Modern color palette
+        self.colors = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#96CEB4', '#FECA57', '#FF9FF3', '#54A0FF']
+        sns.set_palette(self.colors)
         
-        logger.info(f"Analyzer initialized - Output directory: {self.output_dir}")
+        # Set modern style
+        plt.style.use('default')
+        sns.set_style("whitegrid")
+        
+        logger.info(f"🔍 Analyzer initialized - Output: {self.output_dir}")
+    
     
     def load_data(self) -> bool:
         """Load product data from JSON files"""
+        logger.info(f"📂 Loading data from {self.products_dir}")
+        
         if not self.products_dir.exists():
-            logger.error(f"Products directory not found: {self.products_dir}")
+            logger.error(f"❌ Products directory not found: {self.products_dir}")
             return False
         
         product_files = list(self.products_dir.glob("*.json"))
         if not product_files:
-            logger.error(f"No product JSON files found in {self.products_dir}")
+            logger.error(f"❌ No product JSON files found in {self.products_dir}")
             return False
         
-        logger.info(f"Loading {len(product_files)} product files...")
+        logger.info(f"📊 Processing {len(product_files)} product files...")
         
         products_data = []
         nutrients_data = []
@@ -88,7 +99,8 @@ class PLUSDataAnalyzer:
                         'category': product.get('category', ''),
                         'ingredients': product.get('ingredients', ''),
                         'allergens': product.get('allergens', ''),
-                        'alcohol_percentage': self._parse_float(product.get('alcohol_percentage', '0'))
+                        'alcohol_percentage': self._parse_float(product.get('alcohol_percentage', '0')),
+                        'weight': self._parse_float(product.get('weight', '0'))
                     }
                     products_data.append(product_info)
                     
@@ -97,6 +109,7 @@ class PLUSDataAnalyzer:
                     for nutrient in nutrients:
                         nutrient_info = {
                             'sku': product.get('sku', ''),
+                            'product_name': product.get('name', ''),
                             'name': nutrient.get('name', ''),
                             'value': self._parse_float(nutrient.get('value', '0')),
                             'unit': nutrient.get('unit', ''),
@@ -105,14 +118,18 @@ class PLUSDataAnalyzer:
                         nutrients_data.append(nutrient_info)
                         
             except Exception as e:
-                logger.warning(f"Error processing {file_path}: {e}")
+                logger.warning(f"⚠️  Error processing {file_path.name}: {e}")
                 continue
         
         # Create DataFrames
         self.products_df = pd.DataFrame(products_data)
         self.nutrients_df = pd.DataFrame(nutrients_data)
         
-        logger.info(f"Loaded {len(self.products_df)} products and {len(self.nutrients_df)} nutrient entries")
+        # Clean data
+        self.products_df = self.products_df[self.products_df['name'] != '']
+        self.products_df = self.products_df[self.products_df['price'] > 0]
+        
+        logger.info(f"✅ Loaded {len(self.products_df)} products with {len(self.nutrients_df)} nutrient entries")
         return True
     
     def _parse_price(self, price_str: str) -> float:

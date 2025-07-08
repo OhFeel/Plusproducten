@@ -1,24 +1,22 @@
-[Read this in English](README_EN.md)
-
 # 🛒 PLUS Product Analyzer
 
-![PLUS Product Analyzer Banner](scraper/data/analysis/alcohol_efficiency.png)
+![PLUS Product Analyzer Banner](../scraper/data/analysis/alcohol_efficiency.png)
 
 Een uitgebreide scraper en analyse-tool voor productinformatie van PLUS.nl, inclusief voedingswaarden, prijzen en ingrediënten.
 
 > **⚠️ Belangrijk:** Dit project is bedoeld voor educatieve doeleinden. Zorg ervoor dat je de gebruiksvoorwaarden van PLUS.nl respecteert en gebruik de scraper verantwoordelijk.
 
-> **🔒 Configuratie Vereist:** Dit is een openbare repository. Alle API-sleutels en cookies zijn verwijderd. Zie `scraper/COOKIES.md` voor configuratie-instructies.
+> **🔒 Configuratie Vereist:** Dit is een openbare repository. Alle API-sleutels en cookies zijn verwijderd. Zie `COOKIES.md` voor configuratie-instructies.
 
 ## Gallerij
 
 | Prijsverdeling | Merkanalyse | Eiwitanalyse |
 | :---: | :---: | :---: |
-| ![Prijsverdeling](scraper/data/analysis/price_distribution.png) | ![Merkanalyse](scraper/data/analysis/brand_comparison.png) | ![Eiwitanalyse](scraper/data/analysis/protein_value.png) |
+| ![Prijsverdeling](../scraper/data/analysis/price_distribution.png) | ![Merkanalyse](../scraper/data/analysis/brand_comparison.png) | ![Eiwitanalyse](../scraper/data/analysis/protein_value.png) |
 
 | Ingrediënten Wordcloud | Alcohol Efficiëntie | Categorieprijzen |
 | :---: | :---: | :---: |
-| ![Ingrediënten Wordcloud](scraper/data/analysis/ingredients_wordcloud.png) | ![Alcohol Efficiëntie](scraper/data/analysis/alcohol_efficiency.png) | ![Categorieprijzen](scraper/data/analysis/category_prices.png) |
+| ![Ingrediënten Wordcloud](../scraper/data/analysis/ingredients_wordcloud.png) | ![Alcohol Efficiëntie](../scraper/data/analysis/alcohol_efficiency.png) | ![Categorieprijzen](../scraper/data/analysis/category_prices.png) |
 
 ## 📋 Inhoudsopgave
 
@@ -41,7 +39,7 @@ Een uitgebreide scraper en analyse-tool voor productinformatie van PLUS.nl, incl
 - CSRF token van PLUS.nl (via browser dev tools)
 - Geldige cookies voor API toegang
 
-📖 **Lees eerst:** `scraper/COOKIES.md` voor volledige setup-instructies.
+📖 **Lees eerst:** `COOKIES.md` voor volledige setup-instructies.
 
 ## 📁 Projectstructuur
 
@@ -98,7 +96,7 @@ nano scraper/.env  # of je favoriete editor
 
 ### 2. Verkrijg CSRF Token & Cookies
 
-Zie `scraper/COOKIES.md` voor gedetailleerde instructies.
+Zie `COOKIES.md` voor gedetailleerde instructies.
 
 ## 🚀 Gebruik
 
