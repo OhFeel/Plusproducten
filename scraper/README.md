@@ -38,12 +38,12 @@ Pas het `.env` bestand aan met de juiste instellingen:
 # Proxy configuratie
 USE_PROXY=false
 PROXY_TYPE=free  # free, scraperapi, smartproxy, aws
-PROXY_API_KEY=je_api_key_hier
+PROXY_API_KEY=your_proxy_api_key_here
 
-# Cookie configuratie
-COOKIE_COUNT=4              # Aantal cookies
-COOKIE_SSLB=1               # Voorbeeld cookie
-COOKIE_VISID_INCAP_1876175=waarde_hier  # Voorbeeld cookie
+# Cookie configuratie (see COOKIES.md for setup instructions)
+COOKIE_COUNT=0              # Number of cookies
+# Add cookies in format: COOKIE_NAME=value
+# Example: COOKIE_SSLB=1
 
 # Request configuratie
 REQUEST_TIMEOUT=30
@@ -55,7 +55,7 @@ MAX_CONCURRENT_REQUESTS=5
 REQUEST_DELAY=1
 
 # PLUS specifieke instellingen
-PLUS_CSRF_TOKEN=T6C+9iB49TLra4jEsMeSckDMNhQ=  # Update indien nodig
+PLUS_CSRF_TOKEN=your_csrf_token_here  # Get this from browser dev tools
 ```
 
 ## Gebruik

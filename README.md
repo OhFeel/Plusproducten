@@ -2,21 +2,100 @@
 
 Een uitgebreide scraper en analyse-tool voor productinformatie van PLUS.nl, inclusief voedingswaarden, prijzen en ingrediënten.
 
-![Project Banner](scraper/data/analysis/protein_value.png)
+> **⚠️ Belangrijk:** Dit project is bedoeld voor educatieve doeleinden. Zorg ervoor dat je de gebruiksvoorwaarden van PLUS.nl respecteert en gebruik de scraper verantwoordelijk.
 
-## 📋 Inhoudsopgave
+> **🔒 Configuratie Vereist:** Dit is een openbare repository. Alle API-sleutels en cookies zijn verwijderd. Zie `SECURITY.md` en `scraper/COOKIES.md` voor configuratie-instructies.
 
-- [Overzicht](#overzicht)
-- [Functies](#functies)
+## � Quick Start
+
+```bash
+# 1. Clone de repository
+git clone https://github.com/your-username/plusproducten.git
+cd plusproducten
+
+# 2. Run automatische setup
+python setup.py
+
+# 3. Configureer je credentials (zie SECURITY.md)
+# Edit scraper/.env met je CSRF token en cookies
+
+# 4. Start scraping
+cd scraper
+python main.py --all --limit 50
+
+# 5. Genereer analyses en visualisaties
+cd ..
+python analyze_data.py
+```
+
+## �📋 Inhoudsopgave
+
+- [Vereisten voor Gebruik](#vereisten-voor-gebruik)
+- [Project Structuur](#project-structuur)
 - [Installatie](#installatie)
 - [Configuratie](#configuratie)
 - [Gebruik](#gebruik)
-- [Analyses & Visualisaties](#analyses--visualisaties)
-- [Web Dashboard](#web-dashboard)
-- [Projectstructuur](#projectstructuur)
-- [Technische Details](#technische-details)
+- [Data Analyse](#data-analyse)
+- [Voorbeelden](#voorbeelden)
 
-## 🎯 Overzicht
+## 🔑 Vereisten voor Gebruik
+
+**Voordat je begint, heb je nodig:**
+- Python 3.8+ en pip
+- CSRF token van PLUS.nl (via browser dev tools)
+- Geldige cookies voor API toegang
+
+📖 **Lees eerst:** `SECURITY.md` voor volledige setup-instructies
+
+## 📁 Project Structuur
+
+```
+plusproducten/
+├── scraper/                    # 🕷️ Web scraper
+│   ├── main.py                # Hoofd scraper script
+│   ├── product_scraper.py     # Product detail scraper
+│   ├── sitemap_parser.py      # Sitemap parser
+│   ├── cookie_manager.py      # Cookie beheer
+│   ├── proxy_manager.py       # Proxy rotatie
+│   ├── database.py            # Database beheer
+│   ├── utils.py               # Hulpfuncties
+│   ├── requirements.txt       # Scraper dependencies
+│   ├── .env.example          # Configuratie template
+│   ├── COOKIES.md            # Cookie setup gids
+│   └── data/                 # Gescrapte data
+│       ├── products/         # Product JSON bestanden
+│       └── analysis/         # Analyse cache
+├── analyze_data.py            # � Data analysescript
+├── setup.py                  # 🔧 Automatische setup
+├── requirements_analysis.txt  # Analyse dependencies
+├── SECURITY.md               # Veiligheid & setup gids
+└── README.md                 # Deze documentatie
+```
+
+## 🛠️ Installatie
+
+### Optie 1: Automatische Setup (Aanbevolen)
+
+```bash
+python setup.py
+```
+
+Dit script installeert automatisch alle vereisten en configureert de mappen.
+
+### Optie 2: Handmatige Setup
+
+```bash
+# Installeer scraper dependencies
+cd scraper
+pip install -r requirements.txt
+
+# Installeer analyse dependencies
+cd ..
+pip install -r requirements_analysis.txt
+
+# Maak configuratie bestand
+cp scraper/.env.example scraper/.env
+```
 
 Dit project bestaat uit twee hoofdcomponenten:
 
@@ -75,342 +154,218 @@ De tool kan duizenden producten scrapen en biedt inzicht in:
    pip install -r requirements_analysis.txt
    ```
 
+4. **Configureer omgevingsvariabelen**
+   ```powershell
 ## ⚙️ Configuratie
 
-Maak een `.env` bestand in de `scraper/` map:
+> **🔑 Vereist:** Voor het gebruik van deze scraper heb je een CSRF token en cookies nodig van PLUS.nl.
 
-```env
-# .env configuratie voor PLUS Scraper
+### 1. Environment Setup
 
-# Proxy configuratie (optioneel)
-USE_PROXY=false
-PROXY_TYPE=free
-PROXY_API_KEY=
+```bash
+# Kopieer de template
+cp scraper/.env.example scraper/.env
 
-# Cookie configuratie (automatisch gegenereerd)
-COOKIE_COUNT=4
-COOKIE_SSLB=1
-
-# Request configuratie
-REQUEST_TIMEOUT=30
-MAX_RETRIES=3
-BACKOFF_FACTOR=2
-REQUEST_DELAY=1
-
-# PLUS API token
-PLUS_CSRF_TOKEN=T6C+9iB49TLra4jEsMeSckDMNhQ=
+# Bewerk met je credentials
+nano scraper/.env  # of je favoriete editor
 ```
 
-### Cookie Setup
+### 2. Verkrijg CSRF Token
 
-Voor toegang tot de PLUS API zijn cookies vereist. Gebruik een van deze methoden:
+1. Open PLUS.nl in je browser
+2. Open Developer Tools (F12)
+3. Ga naar Network tab
+4. Navigeer naar een product pagina
+5. Zoek naar API calls naar `screenservices`
+6. Kopieer de `X-CSRFToken` header waarde
+7. Plak in je `.env` bestand
 
-**Optie 1: Automatische detectie**
-```powershell
-python test_cookies.py
-```
+### 3. Cookie Setup
 
-**Optie 2: Handmatige setup**
-```powershell
-python run_scraper.py setup-cookies
-```
+Zie `scraper/COOKIES.md` voor gedetailleerde instructies over het instellen van cookies.
 
-Zie `COOKIES.md` voor gedetailleerde instructies.
+## 🚀 Gebruik
 
-## 🎮 Gebruik
+### Stap 1: Data Scrapen
 
-### Product Scraping
+```bash
+cd scraper
 
-**Volledige pipeline uitvoeren:**
-```powershell
+# Scrape eerste 50 producten (voor testen)
+python main.py --all --limit 50
+
+# Scrape alle producten (kan lang duren!)
 python main.py --all
-```
 
-**Alleen sitemap parseren:**
-```powershell
-python main.py --sitemap
-```
-
-**Alleen producten scrapen:**
-```powershell
-python main.py --scrape
-```
-
-**Specifiek product scrapen:**
-```powershell
+# Scrape specifiek product
 python main.py --sku 553975
 ```
 
-**Met limitering:**
-```powershell
-python main.py --all --limit 100
+### Stap 2: Data Analyseren
+
+```bash
+cd ..  # Terug naar root directory
+
+# Genereer alle analyses en visualisaties
+python analyze_data.py
+
+# Gebruik custom data directory
+python analyze_data.py --data-dir scraper/data
 ```
 
-### Data Analyse Starten
+## 📊 Data Analyse
 
-**Eenvoudige start (aanbevolen):**
-```powershell
-python start_analysis.py
+Het analyse script genereert:
+
+### 📈 Visualisaties
+- **Prijsverdeling** - Histogram van productprijzen
+- **Merkanalyse** - Top merken per aantal producten  
+- **Eiwitanalyse** - Hoogste eiwit content en beste waarde
+- **Ingrediënten Wordcloud** - Meest voorkomende ingrediënten
+- **Alcohol Analyse** - Goedkoopste alcoholische producten
+
+### 📋 Rapporten
+- **JSON Rapport** - Volledige analyse data
+- **README** - Overzicht van resultaten met afbeeldingen
+- **Statistieken** - Samenvattende statistieken
+
+### Output Structuur
+```
+data/analysis/
+├── README.md              # Analyse overzicht
+├── analysis_report.json   # Volledige data
+└── images/                # Gegenereerde grafieken
+    ├── price_distribution.png
+    ├── brand_analysis.png
+    ├── protein_analysis.png
+    ├── ingredients_wordcloud.png
+    └── alcohol_analysis.png
 ```
 
-**Handmatige start:**
-```powershell
-python run_analysis.py
+## 🎯 Voorbeelden
+
+### Basis Scraping Workflow
+
+```bash
+# 1. Setup (eenmalig)
+python setup.py
+
+# 2. Configureer credentials
+# Edit scraper/.env
+
+# 3. Test met klein aantal
+cd scraper
+python main.py --all --limit 10
+
 ```
 
-Dit opent automatisch een webbrowser naar `http://localhost:5000`
+## 🔧 Geavanceerde Opties
 
-## 📈 Analyses & Visualisaties
+### Scraper Opties
 
-### Voedingswaarde Analyses
+```bash
+cd scraper
 
-![Protein Value Analysis](scraper/data/analysis/protein_value.png)
-*Protein-per-euro analyse toont welke producten de beste waarde bieden voor eiwitinname*
+# Alle opties tonen
+python main.py --help
 
-![Calories Value Analysis](scraper/data/analysis/calories_value.png)
-*Calorieën-per-euro voor producten met hoge energiedichtheid*
+# Met proxy ondersteuning
+USE_PROXY=true python main.py --all
 
-### Merkanalyses
+# Specifieke batch grootte
+python main.py --all --batch-size 20
 
-![Brand Comparison](scraper/data/analysis/brand_comparison.png)
-*Vergelijking van verschillende merken op basis van voedingswaarden en prijzen*
+# Met custom timeout
+REQUEST_TIMEOUT=60 python main.py --all
+```
 
-### Prijsanalyses
+### Analyse Opties
 
-![Price Distribution](scraper/data/analysis/price_distribution.png)
-*Prijsverdeling van alle gescrapete producten*
+```bash
+# Custom output directory
+python analyze_data.py --output-dir /path/to/output
 
-![Price Trends](scraper/data/analysis/price_trends.png)
-*Prijstrends per productcategorie*
+# Alleen specifieke analyse
+python analyze_data.py --data-dir scraper/data
+```
 
-### Ingrediënten & Allergenen
-
-![Ingredients Wordcloud](scraper/data/analysis/ingredients_wordcloud.png)
-*Wordcloud van de meest voorkomende ingrediënten*
-
-![Allergen Distribution](scraper/data/analysis/allergen_distribution.png)
-*Verdeling van allergenen over alle producten*
-
-### Alcohol Analyses
-
-![Alcohol Efficiency](scraper/data/analysis/alcohol_efficiency.png)
-*Alcohol-per-euro analyse voor alcoholische producten*
-
-![Alcohol Price Correlation](scraper/data/analysis/alcohol_price_correlation.png)
-*Correlatie tussen alcoholpercentage en prijs*
-
-### Voedingscorrelaties
-
-![Nutrient Correlations](scraper/data/analysis/nutrient_correlations.png)
-*Heatmap van correlaties tussen verschillende voedingswaarden*
-
-![Fat vs Carbs Value](scraper/data/analysis/fat_value.png)
-*Vet-per-euro analyse voor producten met hoge vetinhoudt*
-
-## 🌐 Web Dashboard
-
-Het web dashboard biedt een interactieve interface voor data-exploratie:
-
-### Features
-- **Real-time filtering** - Filter producten op basis van criteria
-- **Interactive charts** - Hover voor details, zoom en pan functionaliteit
-- **Responsive design** - Werkt op desktop en mobiele apparaten
-- **Export functies** - Download data en visualisaties
-
-### Dashboard Secties
-
-1. **Overzicht** - Algemene statistieken en KPI's
-2. **Prijsanalyse** - Interactieve prijsverdelingen
-3. **Voedingswaarden** - Protein, calorieën, en andere nutriënten
-4. **Merkvergelijking** - Side-by-side brand analysis
-5. **Ingrediënten** - Wordcloud en allergeninformatie
-
-### API Endpoints
-
-Het dashboard ondersteunt de volgende API endpoints:
-
-- `/api/insights` - Algemene statistieken
-- `/api/price_distribution` - Prijsverdelingsdata
-- `/api/brand_distribution` - Merkstatistieken  
-- `/api/protein_comparison` - Eiwitanalyse
-- `/api/wordcloud` - Ingrediënten wordcloud
-
-## 📁 Projectstructuur
+## 📋 Project Structuur
 
 ```
 plusproducten/
-├── README.md                 # Dit bestand
-├── scraper/                  # Hoofdmap voor scraper
-│   ├── main.py              # Hoofdprogramma
-│   ├── product_scraper.py   # Product scraping logica
-│   ├── sitemap_parser.py    # Sitemap parsing
-│   ├── database.py          # TinyDB database beheer
-│   ├── cookie_manager.py    # Cookie beheer
-│   ├── proxy_manager.py     # Proxy rotatie
-│   ├── utils.py             # Hulpfuncties
-│   ├── requirements.txt     # Python dependencies
-│   ├── requirements_analysis.txt # Analyse dependencies
-│   ├── .env                 # Configuratie (niet in git)
-│   │
-│   ├── analysis/            # Analyse module
-│   │   ├── app.py          # Flask web applicatie
-│   │   ├── data_processor.py # Data preprocessing
-│   │   ├── static/         # CSS, JS en afbeeldingen
-│   │   └── templates/      # HTML templates
-│   │
-│   └── data/               # Data opslag
-│       ├── db.json         # TinyDB database
-│       ├── products/       # Individuele product JSON
-│       ├── analysis/       # Gegenereerde analyses
-│       └── logs/           # Log bestanden
-│
-└── docs/                   # Documentatie
-    └── screenshots/        # Project screenshots
+├── scraper/                    # 🕷️ Web scraper
+│   ├── main.py                # Hoofd scraper script  
+│   ├── product_scraper.py     # Product detail scraper
+│   ├── sitemap_parser.py      # Sitemap parser
+│   ├── cookie_manager.py      # Cookie beheer
+│   ├── proxy_manager.py       # Proxy rotatie
+│   ├── database.py            # Database beheer
+│   ├── utils.py               # Hulpfuncties
+│   ├── requirements.txt       # Scraper dependencies
+│   ├── .env.example          # Configuratie template
+│   ├── COOKIES.md            # Cookie setup gids
+│   └── data/                 # Gescrapte data
+├── analyze_data.py            # 📊 Data analyse tool
+├── setup.py                  # 🔧 Automatische setup
+├── requirements_analysis.txt  # Analyse dependencies
+├── SECURITY.md               # Veiligheid & setup
+└── README.md                 # Deze documentatie
 ```
-
-## ⚡ Technische Details
-
-### Scraper Architectuur
-
-- **Modulair Design** - Gescheiden concerns voor parsing, scraping en opslag
-- **Asynchrone Processing** - Efficiënte verwerking van grote datasets
-- **Rate Limiting** - Respecteert server-beperkingen
-- **Caching** - Intelligent caching van sitemaps en responses
-
-### Database Schema
-
-**Products Table:**
-```json
-{
-  "sku": "553975",
-  "name": "Plus Boerentrots BBQ Worst",
-  "brand": "Plus",
-  "price": "3.59",
-  "base_unit_price": "12.82",
-  "image_url": "https://...",
-  "ingredients": "Varkensvlees, zout, ...",
-  "allergens": "Kan sporen bevatten van...",
-  "nutrients": [...],
-  "percentage_alcohol": "",
-  "extracted_at": "2025-01-20 14:30:15"
-}
-```
-
-**Nutrients Table:**
-```json
-{
-  "sku": "553975",
-  "name": "Eiwitten",
-  "value": "15.2",
-  "unit": "gram",
-  "parent_code": ""
-}
-```
-
-### API Integratie
-
-De scraper gebruikt de officiële PLUS API endpoint:
-```
-https://www.plus.nl/screenservices/ECP_Product_CW/ProductDetails/PDPContent/DataActionGetProductDetailsAndAgeInfo
-```
-
-Met JSON payload voor product details.
-
-### Performance Optimizations
-
-- **Batch Processing** - Verwerkt producten in batches
-- **Connection Pooling** - Hergebruik van HTTP verbindingen
-- **Memory Management** - Efficiënt geheugengebruik voor grote datasets
-- **Incremental Updates** - Alleen nieuwe/gewijzigde producten scrapen
 
 ## 🛠️ Troubleshooting
 
 ### Veelvoorkomende Problemen
 
-**1. Cookie Errors**
-```
-Error: Authentication failed
-```
-**Oplossing:** Vernieuw cookies met `python test_cookies.py`
+**Cookie/Authentication Errors:**
+- Vernieuw je cookies (zie `scraper/COOKIES.md`)
+- Controleer je CSRF token
 
-**2. Database Errors**
-```
-Error: Database not found
-```
-**Oplossing:** Run `python migrate_db.py` om database aan te maken
+**Database Errors:**
+- Run `cd scraper && python migrate_db.py`
 
-**3. Analysis Errors**
-```
-Error: No data available
-```
-**Oplossing:** Scrape eerst producten met `python main.py --all --limit 50`
-
-**4. Port Already in Use**
-```
-Error: Port 5000 is already in use
-```
-**Oplossing:** Gebruik een andere poort: `python run_analysis.py --port 5001`
+**Analysis Errors:**
+- Zorg dat je eerst data hebt gescraped
+- Installeer analyse dependencies: `pip install -r requirements_analysis.txt`
 
 ### Debug Mode
 
-Voor uitgebreide logging:
-```powershell
+```bash
+cd scraper
 python main.py --debug --all --limit 10
 ```
 
-### Health Check
+## 📊 Output Voorbeelden
 
-Test de volledige pipeline:
-```powershell
-python test_product.py --sku 553975 --debug
-```
+Na het draaien van `python analyze_data.py` krijg je:
 
-## 📊 Data Export
-
-### Ondersteunde Formaten
-
-- **JSON** - Ruwe data export
-- **CSV** - Voor spreadsheet analyse  
-- **PNG** - Visualisatie export
-- **HTML** - Dashboard export
-
-### Export Commands
-
-```powershell
-# Export naar CSV
-python -c "from analysis.data_processor import ProductDataProcessor; ProductDataProcessor().export_analysis_to_json()"
-
-# Export specifieke analyse
-python data/test_fixed.py
-```
+- 📈 **Grafieken** in `data/analysis/images/`
+- 📋 **JSON rapport** met alle data  
+- 📖 **README** met overzicht en afbeeldingen
+- 📊 **Statistieken** van je dataset
 
 ## 🔒 Privacy & Ethiek
 
-- **Respectvolle scraping** - Rate limiting en request delays
-- **Publieke data** - Alleen publiek beschikbare productinformatie
-- **No personal data** - Geen persoonlijke klantgegevens
-- **Terms compliance** - Respecteert website terms of service
+- **Respectvolle scraping** - Ingebouwde delays en rate limiting
+- **Publieke data** - Alleen publiek beschikbare productinfo
+- **Educational purpose** - Bedoeld voor leren en onderzoek
+- **Terms compliance** - Respecteer PLUS.nl's voorwaarden
 
 ## 🤝 Bijdragen
 
-Bijdragen zijn welkom! Zie onze contribution guidelines:
-
 1. Fork het project
-2. Maak een feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit je wijzigingen (`git commit -m 'Add some AmazingFeature'`)
-4. Push naar de branch (`git push origin feature/AmazingFeature`)
-5. Open een Pull Request
+2. Maak een feature branch
+3. Commit je wijzigingen  
+4. Open een Pull Request
 
 ## 📄 Licentie
 
-Dit project is gelicenseerd onder de MIT License - zie het [LICENSE](LICENSE) bestand voor details.
+MIT License - zie LICENSE bestand voor details.
 
 ## ⚠️ Disclaimer
 
-Dit project is alleen bedoeld voor educatieve en onderzoeksdoeleinden. Zorg ervoor dat je gebruik in overeenstemming is met de terms of service van PLUS.nl. De auteurs zijn niet verantwoordelijk voor misbruik van deze tool.
+**Dit project is alleen voor educatieve doeleinden.** 
+Respecteer de terms of service van PLUS.nl en gebruik verantwoordelijk.
 
 ---
 
-**Gemaakt met ❤️ voor data analysis en web scraping**
-
-Voor vragen of ondersteuning, open een issue in de GitHub repository.
+**Voor vragen of problemen:** Open een issue op GitHub

@@ -1,0 +1,6 @@
+# Data Analysis Requirements
+pandas>=1.5.3
+matplotlib>=3.7.1
+seaborn>=0.12.2
+numpy>=1.24.2
+wordcloud>=1.9.2

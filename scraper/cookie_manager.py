@@ -56,13 +56,13 @@ class CookieManager:
             except json.JSONDecodeError:
                 logger.warning("Cookie cache file is corrupted")
         
-        # Use hardcoded defaults if no cookies found
+        # Use minimal defaults if no cookies found
         if not cookies:
-            logger.info("Using default cookies")
+            logger.warning("No cookies found! Please configure cookies in .env file or run cookie setup.")
+            logger.info("See COOKIES.md for setup instructions")
+            # Use minimal required cookies - these need to be updated with real values
             cookies = {
                 "SSLB": "1",
-                "visid_incap_1876175": "qn0ZOkWCTlCG/qxh87cHFbohd2cAAAAAQUIPAAAAAABa9ZSfCFpHJer1afeQ/izG",
-                "osVisitor": "74d18b43-2fe7-4272-bd20-d8dc5014470b",
                 "plus_cookie_level": "3"
             }
         

@@ -1,0 +1,91 @@
+# Environment variables and sensitive data
+.env
+.env.local
+.env.production
+.env.development
+
+# Data files - these contain scraped data and should not be public
+data/
+logs/
+*.json
+!requirements.txt
+!package.json
+!tsconfig.json
+!package-lock.json
+
+# Exclude specific sensitive data files
+scraper/data/cookies.json
+scraper/data/retry.json
+scraper/data/products/*.json
+scraper/data/analysis/*.json
+
+# Analysis output (can be large)
+data/analysis/images/*.png
+data/analysis/images/*.jpg
+data/analysis/images/*.svg
+data/analysis/*.json
+data/analysis/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Cookies and session data
+cookies.json
+session.json
+
+# Analysis output (these can be large)
+*.png
+*.html
+*.svg

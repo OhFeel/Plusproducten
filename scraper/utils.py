@@ -64,7 +64,10 @@ def get_plus_headers(referrer: str = "https://www.plus.nl") -> Dict[str, str]:
     """
     Generate headers for PLUS API requests
     """
-    csrf_token = os.getenv("PLUS_CSRF_TOKEN", "T6C+9iB49TLra4jEsMeSckDMNhQ=")
+    csrf_token = os.getenv("PLUS_CSRF_TOKEN", "")
+    
+    if not csrf_token:
+        raise ValueError("PLUS_CSRF_TOKEN environment variable is required")
     
     return {
         "accept": "application/json",

@@ -27,7 +27,11 @@ class ProductScraper:
         self.backoff_factor = float(os.getenv("BACKOFF_FACTOR", "2"))
         self.request_delay = float(os.getenv("REQUEST_DELAY", ".25"))
         self.last_request_time = 0
-        self.csrf_token = os.getenv("PLUS_CSRF_TOKEN", "T6C+9iB49TLra4jEsMeSckDMNhQ=")
+        self.csrf_token = os.getenv("PLUS_CSRF_TOKEN", "")
+        
+        if not self.csrf_token:
+            raise ValueError("PLUS_CSRF_TOKEN environment variable is required")
+    
     def _build_payload(self, sku: str, product_name: str = "") -> Dict[str, Any]:
         """
         Build the API request payload (exact match from the JavaScript fetch example)
